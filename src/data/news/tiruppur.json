@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-may23-001",
+    "id": "tir-may20-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjhfV2xQZkdNem5kbGZqX0F5Y3RfTzltOWZ3cU02bGxEYVBTQnhudk9YaWNHNXFpNHJYN2ZBMFhMTlZRN05BTHNsWDVfSjdVVF9MNnBTRzIzc2FpM3F6MDhRWDhKWUp0OXJyb0JRRklRYjlMVzg5NFA1OHd3U2g3a0RnQXRlSTFJMkFFSnpBSFNWUTNSRkM0MGd4dEIzVHpUV2tlb3BKaC1tOXAtUzFZ?oc=5",
+    "title": "Boyanayak community boycotts Tamil Nadu assembly elections in Tiruppur",
+    "title_ta": "",
+    "summary": "Boyanayak community boycotts Tamil Nadu assembly elections in Tiruppur",
+    "summary_ta": "",
+    "date": "May 20, 2026"
+  },
+  {
+    "id": "tir-may23-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1NSWDYwTlhZLTVCRUlBUFh1WU5GZ2YyZm81amdwRFg4NVlwUkVGR1BCRWtkTG5jelE4UmoybXpQaV8wbFFleUxJRzEtUFdRRGEtb2RTTzUybVNEeE1QOTRiMWROWk1CUF9tUXAxYVdPdGpVbEVnTnlXSmh0YkhtWHVqSlhWSERnYU9aVC1xeFlYOGNMV3pzX3FlMHNHSjZxUkZFUC1qZjQ?oc=5",
     "title": "Tiruppur court sentences 25 Bangladeshi labourers to two years for illegal stay",
