@@ -123,6 +123,32 @@ async function fetchRSS(query) {
 
 // ─── HTTP / Image ───────────────────────────────────────────────────────────
 
+// Google News RSS links look like:
+//   https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3...?oc=5
+// The CBMi… part is a base64-encoded protobuf that contains the real article URL.
+// Decoding it lets us bypass Google's tracking redirect and fetch og:image directly.
+function decodeGoogleNewsURL(url) {
+  if (!url) return null;
+  const match = url.match(/articles\/([\w-]+)/);
+  if (!match) return null;
+  try {
+    // Convert URL-safe base64 → standard base64 and decode
+    const b64 = match[1].replace(/-/g, '+').replace(/_/g, '/') + '==';
+    const buf = Buffer.from(b64, 'base64');
+    const str = buf.toString('binary');
+    // The protobuf payload contains the real URL as a plain string field starting with "http"
+    const httpIdx = str.indexOf('http');
+    if (httpIdx === -1) return null;
+    const raw = str.slice(httpIdx);
+    // Terminate on any non-printable byte (protobuf field boundary)
+    const end = raw.search(/[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]/);
+    const articleUrl = (end === -1 ? raw : raw.slice(0, end)).trim();
+    return articleUrl.startsWith('http') ? articleUrl : null;
+  } catch {
+    return null;
+  }
+}
+
 // Fetches the og:image (or twitter:image) from the article's own page.
 // Returns null on any error, timeout, or if Google didn't redirect us to the real article.
 async function fetchArticleImage(url, timeoutMs = 5000) {
@@ -190,7 +216,7 @@ async function callOpenAI(prompt, apiKey) {
       model: 'gpt-4o-mini',
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.7,
-      max_tokens: 512,
+      max_tokens: 800,
       response_format: { type: 'json_object' },
     }),
   });
@@ -211,7 +237,7 @@ async function callGemini(prompt, apiKey) {
       contents: [{ parts: [{ text: prompt }] }],
       generationConfig: {
         responseMimeType: 'application/json',
-        maxOutputTokens: 512,
+        maxOutputTokens: 800,
         temperature: 0.7,
       },
     }),
@@ -231,9 +257,9 @@ function buildFallbackArticle(item) {
 }
 
 const REWRITE_PROMPT = (title) =>
-  `You are a news editor for The Kongu Times, a Tamil Nadu regional news portal.
+  `You are a senior news writer for The Kongu Times, a Tamil Nadu regional news portal covering the Kongu belt districts (Coimbatore, Erode, Tiruppur, Salem, Namakkal, Nilgiris, Karur, Dharmapuri).
 
-A news article titled below has been published. Write an original news piece based on what you know about this topic.
+A news article titled below has been published. Write a thorough, publication-ready news piece based on what you know about this topic.
 
 Title: ${title}
 
@@ -241,8 +267,8 @@ Return ONLY a JSON object with exactly these fields:
 {
   "title": "Rewritten English headline (under 100 characters, factual, no source name)",
   "title_ta": "Tamil translation of the headline in Tamil script",
-  "summary": "2-3 sentence English summary based on the topic, informative and neutral",
-  "summary_ta": "Tamil translation of the summary in Tamil script",
+  "summary": "A detailed 5-6 sentence English article body. Cover: (1) what happened and where, (2) key people or organisations involved, (3) background context or cause, (4) impact on the local community, (5) what happens next or official response. Write in a neutral, journalistic tone — no marketing language.",
+  "summary_ta": "Tamil translation of the full summary in Tamil script",
   "category": "One of: Education, Business, Politics, Governance, Weather, Crime, Health, Sports, Infrastructure, Development, Accident, Wildlife, Policy, Agriculture, News"
 }`;
 
@@ -398,10 +424,13 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
 
     console.log(`  [new]  ${item.title.slice(0, 70)}`);
 
-    // RSS image + AI rewrite run in parallel (only for genuinely new articles)
+    // RSS image + AI rewrite run in parallel (only for genuinely new articles).
+    // Decode the Google News tracking URL to get the real publisher URL so we can
+    // fetch its og:image — the redirect stays on google.com and never reaches the article.
+    const realUrl = decodeGoogleNewsURL(item.link) || item.link;
     const [rewritten, rssImage] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
-      item.image ? Promise.resolve(item.image) : fetchArticleImage(item.link),
+      item.image ? Promise.resolve(item.image) : fetchArticleImage(realUrl),
     ]);
 
     const category = rewritten.category || 'News';
@@ -474,9 +503,10 @@ async function processMainJSON(providerInfo) {
 
     console.log(`  [new]  ${item.title.slice(0, 70)}`);
 
+    const realUrl = decodeGoogleNewsURL(item.link) || item.link;
     const [rewritten, rssImage] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
-      item.image ? Promise.resolve(item.image) : fetchArticleImage(item.link),
+      item.image ? Promise.resolve(item.image) : fetchArticleImage(realUrl),
     ]);
     const cat = rewritten.category || 'News';
 
@@ -537,6 +567,7 @@ module.exports = {
   extractRSSImage,
   cleanTitle,
   articleKey,
+  decodeGoogleNewsURL,
   fetchRSS,
   fetchArticleImage,
   detectProvider,

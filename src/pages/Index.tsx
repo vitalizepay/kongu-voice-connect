@@ -27,10 +27,13 @@ interface RawNews {
   date: string;
   featured?: boolean;
   image?: string;
+  link?: string;       // original source URL saved by fetch-news script
 }
 
 interface DisplayArticle {
   id: string;
+  districtSlug: string;   // e.g. "coimbatore" — used in route /:district/article/:id
+  originalId: string;     // the raw item.id from JSON — used in the route
   title_en: string;
   title_ta: string;
   summary_en: string;
@@ -67,6 +70,8 @@ const DISTRICT_LABEL: Record<string, string> = {
 function toDisplay(item: RawNews, district: string, idx: number): DisplayArticle {
   return {
     id: `${district}-${item.id}`,
+    districtSlug: district,
+    originalId:   item.id,
     title_en:   item.title,
     title_ta:   item.title_ta  || item.title,   // use AI-generated Tamil if present
     summary_en: item.summary,
@@ -185,11 +190,21 @@ export default function HomePage() {
             {/* Side stories — compact list */}
             <div className="lg:col-span-4 flex flex-col gap-2">
               {sideNews.map((article, i) => (
-                <div key={article.id} className="news-card-v2 group cursor-pointer animate-fade-up" style={{ animationDelay: `${(i + 1) * 0.06}s` }}>
+                <Link
+                  key={article.id}
+                  to={`/${article.districtSlug}/article/${article.originalId}`}
+                  className="news-card-v2 group animate-fade-up block"
+                  style={{ animationDelay: `${(i + 1) * 0.06}s` }}
+                >
                   <div className="flex gap-2.5 p-2.5">
                     {article.image && (
                       <div className="w-20 h-14 rounded-lg overflow-hidden flex-shrink-0">
-                        <img src={article.image} alt="" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                        <img
+                          src={article.image}
+                          alt=""
+                          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                          onError={e => { (e.target as HTMLImageElement).src = DEFAULT_IMAGES[i % DEFAULT_IMAGES.length]; }}
+                        />
                       </div>
                     )}
                     <div className="flex flex-col justify-center min-w-0">
@@ -202,7 +217,7 @@ export default function HomePage() {
                       </span>
                     </div>
                   </div>
-                </div>
+                </Link>
               ))}
             </div>
           </div>
@@ -216,13 +231,18 @@ export default function HomePage() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             {trendingNews.map((article, i) => (
-              <div key={`trending-${article.id}`} className="flex items-start gap-2.5 p-2.5 rounded-xl hover:bg-muted/60 transition-colors animate-fade-up cursor-pointer group" style={{ animationDelay: `${i * 0.06}s` }}>
+              <Link
+                key={`trending-${article.id}`}
+                to={`/${article.districtSlug}/article/${article.originalId}`}
+                className="flex items-start gap-2.5 p-2.5 rounded-xl hover:bg-muted/60 transition-colors animate-fade-up group"
+                style={{ animationDelay: `${i * 0.06}s` }}
+              >
                 <span className="font-display text-2xl font-black text-primary/20 leading-none mt-0.5">{String(i + 1).padStart(2, '0')}</span>
                 <div>
                   <h3 className="font-display text-xs font-bold leading-snug line-clamp-2 group-hover:text-primary transition-colors">{t(article.title_en, article.title_ta)}</h3>
                   <span className="text-[10px] text-muted-foreground mt-0.5 flex items-center gap-1"><Clock size={9} /> {article.date}</span>
                 </div>
-              </div>
+              </Link>
             ))}
           </div>
         </section>
@@ -254,10 +274,20 @@ export default function HomePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {latestNews.map((article, i) => (
-              <div key={article.id} className="news-card-v2 animate-fade-up group cursor-pointer" style={{ animationDelay: `${i * 0.06}s` }}>
+              <Link
+                key={article.id}
+                to={`/${article.districtSlug}/article/${article.originalId}`}
+                className="news-card-v2 animate-fade-up group block"
+                style={{ animationDelay: `${i * 0.06}s` }}
+              >
                 {article.image && (
                   <div className="aspect-[16/9] overflow-hidden relative">
-                    <img src={article.image} alt={t(article.title_en, article.title_ta)} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                    <img
+                      src={article.image}
+                      alt={t(article.title_en, article.title_ta)}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                      onError={e => { (e.target as HTMLImageElement).src = DEFAULT_IMAGES[i % DEFAULT_IMAGES.length]; }}
+                    />
                     <div className="absolute top-2 left-2 flex gap-1">
                       <span className="district-tag bg-white/90 backdrop-blur-sm text-[8px]">{article.district}</span>
                       <span className="category-tag bg-white/90 backdrop-blur-sm text-[8px]">{article.category}</span>
@@ -272,7 +302,7 @@ export default function HomePage() {
                     <span className="text-[10px] text-primary font-semibold opacity-0 group-hover:opacity-100 transition-opacity">{t("Read more →", "மேலும் →")}</span>
                   </div>
                 </div>
-              </div>
+              </Link>
             ))}
           </div>
         </section>
