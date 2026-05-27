@@ -1,8 +1,19 @@
 [
   {
-    "id": "ero-may22-003",
+    "id": "ero-may20-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Erode district registers 97.03 pass percentage in Class 10 examinations",
+    "title_ta": "",
+    "summary": "Erode district registers 97.03 pass percentage in Class 10 examinations",
+    "summary_ta": "",
+    "date": "May 20, 2026"
+  },
+  {
+    "id": "ero-may22-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
     "title_ta": "",
