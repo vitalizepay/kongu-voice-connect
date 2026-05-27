@@ -1,8 +1,19 @@
 [
   {
-    "id": "coi-may24-006",
+    "id": "coi-may27-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
+    "title_ta": "",
+    "summary": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
+    "summary_ta": "",
+    "date": "May 27, 2026"
+  },
+  {
+    "id": "coi-may24-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Minister Keerthana reacts to criticism of her response on Coimbatore child assault-murder",
     "title_ta": "",

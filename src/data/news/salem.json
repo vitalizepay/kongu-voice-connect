@@ -1,8 +1,30 @@
 [
   {
-    "id": "sal-may21-003",
+    "id": "sal-may20-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Salem district registers pass percentage of 94.21 in Class 10 examination",
+    "title_ta": "",
+    "summary": "Salem district registers pass percentage of 94.21 in Class 10 examination",
+    "summary_ta": "",
+    "date": "May 20, 2026"
+  },
+  {
+    "id": "sal-may25-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Elderly couple drown after car sinks in flooded railway underpass in Salem",
+    "title_ta": "",
+    "summary": "Elderly couple drown after car sinks in flooded railway underpass in Salem",
+    "summary_ta": "",
+    "date": "May 25, 2026"
+  },
+  {
+    "id": "sal-may21-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Three women arrested for illegal abortion near Salem",
     "title_ta": "",
