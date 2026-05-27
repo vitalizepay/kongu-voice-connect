@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 */4 * * *'   # Every 4 hours (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
   workflow_dispatch:          # Allow manual runs from the Actions tab
+    inputs:
+      force_refresh:
+        description: 'Force rewrite ALL articles from scratch (clears stale/bad data)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 # Prevent two deploy runs from colliding on GitHub Pages
 concurrency:
@@ -39,6 +48,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_REFRESH: ${{ github.event.inputs.force_refresh || 'false' }}
         run: node scripts/fetch-news.cjs
 
       # Commit the refreshed JSON files so future runs can deduplicate properly.

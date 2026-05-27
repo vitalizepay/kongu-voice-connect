@@ -6,6 +6,13 @@ if (process.env.LOCAL_DEV === '1') {
   process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 }
 
+// FORCE_REFRESH=1 → ignore all existing stored articles and rewrite everything
+// from scratch. Use this once to clear out old bad data (e.g. HTML in summaries).
+// After the first clean run, leave it unset so the normal skip-existing logic
+// saves API quota on every subsequent 4-hour run.
+const FORCE_REFRESH = process.env.FORCE_REFRESH === '1';
+if (FORCE_REFRESH) console.log('⚡ FORCE_REFRESH mode — all articles will be rewritten from scratch');
+
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
@@ -350,7 +357,9 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
 
   // ── Fix 3: Load existing JSON once; skip AI for articles already stored.
   //    Only truly NEW articles (not yet in JSON) get an AI rewrite call.
-  const existing     = readNewsFile(district.slug);
+  //    When FORCE_REFRESH=1, treat the existing file as empty so every article
+  //    gets a fresh AI rewrite (use this once to clear out stale/bad data).
+  const existing     = FORCE_REFRESH ? [] : readNewsFile(district.slug);
   const existingKeys = new Set(existing.map(a => normalizeTitle(a.title)));
 
   const newArticles = [];
@@ -360,7 +369,7 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
     const item = uniqueItems[i];
     const key  = normalizeTitle(item.title);
 
-    if (existingKeys.has(key)) {
+    if (!FORCE_REFRESH && existingKeys.has(key)) {
       console.log(`  [skip] already stored: ${item.title.slice(0, 70)}`);
       continue; // no AI call, no image fetch — already in JSON
     }
@@ -416,11 +425,12 @@ async function processMainJSON(providerInfo) {
   const recentItems = rssItems.filter(item => isWithinDays(item.pubDate, KEEP_DAYS));
   const topItems    = recentItems.slice(0, MAX_TRENDING);
 
-  // Fix 2: Load existing trending to skip already-stored items
+  // Fix 2: Load existing trending to skip already-stored items.
+  //    FORCE_REFRESH=1 clears existing trending so everything is rewritten fresh.
   const mainPath = path.join(NEWS_DIR, 'main.json');
   let mainData = {};
   try { mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8')); } catch {}
-  const existingTrending  = mainData.trending || [];
+  const existingTrending  = FORCE_REFRESH ? [] : (mainData.trending || []);
   const existingTrendKeys = new Set(existingTrending.map(a => normalizeTitle(a.title_en)));
 
   const trending = [...existingTrending.filter(a => isWithinDays(a.date, KEEP_DAYS))];
@@ -429,7 +439,7 @@ async function processMainJSON(providerInfo) {
     const item = topItems[i];
     const key  = normalizeTitle(item.title);
 
-    if (existingTrendKeys.has(key)) {
+    if (!FORCE_REFRESH && existingTrendKeys.has(key)) {
       console.log(`  [skip] already stored: ${item.title.slice(0, 70)}`);
       continue;
     }
