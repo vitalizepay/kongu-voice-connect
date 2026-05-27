@@ -1,14 +1,58 @@
 [
   {
-    "id": "coi-may27-002",
+    "id": "coi-may26-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "President, Vice President and PM express grief over Coimbatore road accident in Tamil Nadu",
+    "title_ta": "",
+    "summary": "President, Vice President and PM express grief over Coimbatore road accident in Tamil Nadu",
+    "summary_ta": "",
+    "date": "May 26, 2026"
+  },
+  {
+    "id": "coi-may27-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
     "title_ta": "",
     "summary": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
     "summary_ta": "",
     "date": "May 27, 2026"
+  },
+  {
+    "id": "coi-may25-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage",
+    "title_ta": "",
+    "summary": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage",
+    "summary_ta": "",
+    "date": "May 25, 2026"
+  },
+  {
+    "id": "coi-may24-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
+    "title_ta": "",
+    "summary": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
+    "summary_ta": "",
+    "date": "May 24, 2026"
+  },
+  {
+    "id": "coi-may25-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
+    "title_ta": "",
+    "summary": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
+    "summary_ta": "",
+    "date": "May 25, 2026"
   },
   {
     "id": "coi-may24-006",
@@ -20,66 +64,5 @@
     "summary": "Minister Keerthana reacts to criticism of her response on Coimbatore child assault-murder",
     "summary_ta": "",
     "date": "May 24, 2026"
-  },
-  {
-    "id": "coi-may27-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "President, Vice President and PM express grief over Coimbatore road accident in Tamil Nadu",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX25RQkJXSEtyeXlOSDd4MEk1bEtpYUktWk9MUWJzRy1lcjY1RUJ1YzZ1NjRoUjRZZExHNWxFemFSdXpqU2MzZTNUVHNJaWd0WExxLUZTTWxKMEtMQ1dpbWdSMG5YeHdVYTdKbmNjYkxmYU0wNGp6b1pEamVUZ0...",
-    "summary_ta": "",
-    "date": "May 26, 2026"
-  },
-  {
-    "id": "coi-may27-002",
-    "category": "News",
-    "featured": false,
-    "title": "Murder of siblings and a police encounter that rocked Coimbatore 16 years ago - The Hindu",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNW1ybkRXQ3lzQk1sVWFTUGk5MGdwblZtVHlKQy1KWlJJUWg5SVFmMnpOQThzRHVkeUM5SXhXZUlCbGpxVWZrN1pUalVqempwUl9MRzV1MXViT01fMVdvclBnU2pFb1JXalBhY1hFTW5rUmxLSFdXMW9fV3pvZU...",
-    "summary_ta": "",
-    "date": "May 27, 2026"
-  },
-  {
-    "id": "coi-may24-003",
-    "category": "News",
-    "featured": false,
-    "title": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore - NDT",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnJPTjNaWVJ5RGEzWmRYZk5pYzRlcVdLb1B3dlBFNFdrbExiRHBLTFVCejU5bHU4Rkh5SXNYYlpwQ0lIbGZUaXl5am0wcmZaTWFxUEdPUlFFdnNtUzBRczF4TXNEckZBNVJLZHNlX0RoN2M1SkgxQ2FEbzZaYm...",
-    "summary_ta": "",
-    "date": "May 24, 2026"
-  },
-  {
-    "id": "coi-may25-004",
-    "category": "News",
-    "featured": false,
-    "title": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage - India Today",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYU1LbExwbkR5R21HX09iQWVIcWRuVm9wdWJYdllKcXN2eXhNcWo4Sk9xdlFmaTlKMmVFMVVsV3JXeGR4OEtIRlJkVGxMTjZHR19QcEFJLVp0ZHg4bGZSUzdTY3BjTktPZWZITE9lQ01yMkJjdDN4OV85b1FUMH...",
-    "summary_ta": "",
-    "date": "May 25, 2026"
-  },
-  {
-    "id": "coi-may25-005",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTW1wLTh3NlYxc0JnZlowTDFWVU4xa1diSTBHRW5fUlZJZjNBeFp3N2VDMVh2WlgxbktFM0lETGtiMTdaSGY5RTRFZ09BUXgzMnRBanJJTHVEeTZRT05YUXF2UE05QkVuTzQ0SlJzLWc5UWlsT3preVA1SV90SF...",
-    "summary_ta": "",
-    "date": "May 25, 2026"
-  },
-  {
-    "id": "coi-may26-006",
-    "category": "News",
-    "featured": false,
-    "title": "Old Video Shared As CM Vijay Avoiding Questions On Women’s Safety In Tamil Nadu - Newschecker",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR05LQ3BZWUdpMkh1OWtEOHdnNG5Ndm5wYmdvTnh4U0JRejBmMVJXM3lhUDRrWkVjUk42dTJfZHV3X2tHTkU0OEloTFd1QmZGZlRUMGtjWFc2NWxBQVBvUUs3bVlKQWdmbzZqMzJvUm1pMTAyWXRCZ1lNQTRIXz...",
-    "summary_ta": "",
-    "date": "May 26, 2026"
   }
 ]

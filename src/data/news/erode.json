@@ -1,30 +1,8 @@
 [
   {
-    "id": "ero-may20-005",
-    "category": "News",
-    "featured": true,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Erode district registers 97.03 pass percentage in Class 10 examinations",
-    "title_ta": "",
-    "summary": "Erode district registers 97.03 pass percentage in Class 10 examinations",
-    "summary_ta": "",
-    "date": "May 20, 2026"
-  },
-  {
-    "id": "ero-may22-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
-    "summary_ta": "",
-    "date": "May 22, 2026"
-  },
-  {
     "id": "ero-may26-001",
     "category": "News",
-    "featured": false,
+    "featured": true,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Tasmac bottle buy-back scheme implemented in all outlets in Erode district",
     "title_ta": "",
@@ -33,7 +11,18 @@
     "date": "May 26, 2026"
   },
   {
-    "id": "ero-may26-004",
+    "id": "ero-may25-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Boy swept away by floodwaters near Erode",
+    "title_ta": "",
+    "summary": "Boy swept away by floodwaters near Erode",
+    "summary_ta": "",
+    "date": "May 25, 2026"
+  },
+  {
+    "id": "ero-may26-003",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
@@ -44,55 +33,14 @@
     "date": "May 26, 2026"
   },
   {
-    "id": "ero-may25-001",
+    "id": "ero-may20-004",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Boy swept away by floodwaters near Erode",
+    "title": "Erode district registers 97.03 pass percentage in Class 10 examinations",
     "title_ta": "",
-    "summary": "Boy swept away by floodwaters near Erode The Times of India",
+    "summary": "Erode district registers 97.03 pass percentage in Class 10 examinations",
     "summary_ta": "",
-    "date": "May 25, 2026"
-  },
-  {
-    "id": "ero-may25-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "TASMAC | Erode | டாஸ்மாக் மதுக் கடைகளை மூடி போராட்டம்! | Tamil Nadu | People Protest",
-    "title_ta": "",
-    "summary": "TASMAC | Erode | டாஸ்மாக் மதுக் கடைகளை மூடி போராட்டம்! | Tamil Nadu | People Protest News18 Tamil",
-    "summary_ta": "",
-    "date": "May 25, 2026"
-  },
-  {
-    "id": "ero-may25-001",
-    "category": "News",
-    "featured": false,
-    "title": "Boy swept away by floodwaters near Erode - The Times of India",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVpTZmZuYXRFT09hRkRyd3pWUEg5OS1YeEVreU5aaGstU1p2UWU3ellmSjNGVTU4bl9RdFhTbnN5MllqVThzUHJqYV9MdzlhdW1pV09UTEIzMUlvZGJjbVItZzlFQjF5UlRVRGc3YTNDWWk3WkRlakJkZy1DT1...",
-    "summary_ta": "",
-    "date": "May 25, 2026"
-  },
-  {
-    "id": "ero-may23-002",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu weather update: Heavy rainfall likely to occur over Nilgiris, Coimbatore, Erode, Tiruppur",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNQVFFbW13Q3pFMWpic0JHRXJSRkFuV2QxclZiXzFNTHgyNU1NSTJwYkFRMmxYTUNEVDBJZl9xMGJmazlvV2hEaXNhTDBNR0VmSnlRREpXUTRxRkFUN1E5ZFJ3aFpNSkNiUUNVRFFQMmZCRlEtQzZtNnNNbC1WWl...",
-    "summary_ta": "",
-    "date": "May 23, 2026"
-  },
-  {
-    "id": "ero-may25-003",
-    "category": "News",
-    "featured": false,
-    "title": "TASMAC | Erode | டாஸ்மாக் மதுக் கடைகளை மூடி போராட்டம்! | Tamil Nadu | People Protest - News18 Tamil",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1U1WVhwUFcyaUp3UlZqaUczVVFvT0JmTFZodEh2ZV9ydnQ2Q0ZFOUhBb2dtWlE2TDROSFJkNXpuT01lbTlldmkyWjNvdjE5ejJ0R2NfQ01wTnVfVHB5Z0RWWmhqRDgxVUZhZVl6WmxWSllqRWs0N1BSVzBpeW...",
-    "summary_ta": "",
-    "date": "May 25, 2026"
+    "date": "May 20, 2026"
   }
 ]
