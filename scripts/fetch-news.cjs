@@ -10,7 +10,8 @@ if (process.env.LOCAL_DEV === '1') {
 // from scratch. Use this once to clear out old bad data (e.g. HTML in summaries).
 // After the first clean run, leave it unset so the normal skip-existing logic
 // saves API quota on every subsequent 4-hour run.
-const FORCE_REFRESH = process.env.FORCE_REFRESH === '1';
+// Accept '1' (curl/env style) or 'true' (GitHub Actions choice input)
+const FORCE_REFRESH = process.env.FORCE_REFRESH === '1' || process.env.FORCE_REFRESH === 'true';
 if (FORCE_REFRESH) console.log('⚡ FORCE_REFRESH mode — all articles will be rewritten from scratch');
 
 const fs = require('fs');
@@ -295,21 +296,41 @@ function normalizeTitle(title) {
   return (title || '').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 50);
 }
 
+// Normalized key that strips source suffix BEFORE comparing.
+// This prevents "Title - The Hindu" and "Title" from being treated as different articles.
+function articleKey(title) {
+  return normalizeTitle(cleanTitle(title || ''));
+}
+
 function mergeArticles(existing, incoming, maxCount) {
-  const existingKeys = new Set(existing.map(a => normalizeTitle(a.title)));
-  const fresh  = incoming.filter(a => !existingKeys.has(normalizeTitle(a.title)));
-  const kept   = existing.filter(a => isWithinDays(a.date, KEEP_DAYS));
-  let merged   = [...fresh, ...kept].slice(0, maxCount);
+  // Use cleanTitle-aware keys so old articles with "- Source" suffixes are
+  // correctly deduplicated against new clean titles.
+  const existingKeys = new Set(existing.map(a => articleKey(a.title)));
+  const fresh  = incoming.filter(a => !existingKeys.has(articleKey(a.title)));
+
+  // Only keep existing articles that are recent AND have clean data
+  // (valid remote image, no HTML in summary).
+  const kept = existing.filter(a =>
+    isWithinDays(a.date, KEEP_DAYS) &&
+    a.image && a.image.startsWith('http') &&
+    !/<[a-z]/i.test(a.summary || '')
+  );
+
+  let merged = [...fresh, ...kept].slice(0, maxCount);
 
   // Safety net: never leave a district empty.
-  // If pruning removed everything and there are no fresh replacements (e.g. a quiet
-  // district where the RSS only returns the same old articles), fall back to the
-  // incoming articles so the page always has content.
   if (merged.length === 0 && incoming.length > 0) {
     merged = incoming.slice(0, maxCount);
   }
 
-  return merged.map((a, i) => ({ ...a, featured: i === 0 }));
+  return merged.map((a, i) => ({
+    ...a,
+    featured: i === 0,
+    // Guarantee every article has a valid remote image
+    image: (a.image && a.image.startsWith('http'))
+      ? a.image
+      : CATEGORY_IMAGES[a.category] || CATEGORY_IMAGES.News,
+  }));
 }
 
 function readNewsFile(slug) {
@@ -360,14 +381,15 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
   //    When FORCE_REFRESH=1, treat the existing file as empty so every article
   //    gets a fresh AI rewrite (use this once to clear out stale/bad data).
   const existing     = FORCE_REFRESH ? [] : readNewsFile(district.slug);
-  const existingKeys = new Set(existing.map(a => normalizeTitle(a.title)));
+  // Use cleanTitle-aware keys: "Title - The Hindu" and "Title" map to the same key
+  const existingKeys = new Set(existing.map(a => articleKey(a.title)));
 
   const newArticles = [];
   let   aiCallCount = 0;
 
   for (let i = 0; i < uniqueItems.length; i++) {
     const item = uniqueItems[i];
-    const key  = normalizeTitle(item.title);
+    const key  = articleKey(item.title); // item.title already cleaned by fetchRSS
 
     if (!FORCE_REFRESH && existingKeys.has(key)) {
       console.log(`  [skip] already stored: ${item.title.slice(0, 70)}`);
@@ -431,13 +453,18 @@ async function processMainJSON(providerInfo) {
   let mainData = {};
   try { mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8')); } catch {}
   const existingTrending  = FORCE_REFRESH ? [] : (mainData.trending || []);
-  const existingTrendKeys = new Set(existingTrending.map(a => normalizeTitle(a.title_en)));
+  const existingTrendKeys = new Set(existingTrending.map(a => articleKey(a.title_en)));
 
-  const trending = [...existingTrending.filter(a => isWithinDays(a.date, KEEP_DAYS))];
+  // Keep existing trending that is recent, has a valid image, and no HTML
+  const trending = [...existingTrending.filter(a =>
+    isWithinDays(a.date, KEEP_DAYS) &&
+    a.image && a.image.startsWith('http') &&
+    !/<[a-z]/i.test(a.summary_en || '')
+  )];
 
   for (let i = 0; i < topItems.length; i++) {
     const item = topItems[i];
-    const key  = normalizeTitle(item.title);
+    const key  = articleKey(item.title);
 
     if (!FORCE_REFRESH && existingTrendKeys.has(key)) {
       console.log(`  [skip] already stored: ${item.title.slice(0, 70)}`);
@@ -508,6 +535,7 @@ async function main() {
 module.exports = {
   extractRSSImage,
   cleanTitle,
+  articleKey,
   fetchRSS,
   fetchArticleImage,
   detectProvider,

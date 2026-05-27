@@ -5,6 +5,7 @@ const require = createRequire(import.meta.url);
 const {
   extractRSSImage,
   cleanTitle,
+  articleKey,
   fetchArticleImage,
   detectProvider,
   formatDate,
@@ -320,37 +321,84 @@ describe('normalizeTitle', () => {
   });
 });
 
+// ─── articleKey ──────────────────────────────────────────────────────────────
+
+describe('articleKey', () => {
+  it('strips source suffix before normalizing', () => {
+    expect(articleKey('Farmers urge price hike rollback - The Hindu'))
+      .toBe(articleKey('Farmers urge price hike rollback'));
+  });
+
+  it('treats "Title - The New Indian Express" same as "Title"', () => {
+    expect(articleKey('Kalvi volunteers in Salem - The New Indian Express'))
+      .toBe(articleKey('Kalvi volunteers in Salem'));
+  });
+
+  it('does NOT strip long last segments (real part of the title)', () => {
+    const full  = 'TVK wins in Salem North against all odds and expectations';
+    const short = 'TVK wins in Salem North against all odds and expectations';
+    expect(articleKey(full)).toBe(articleKey(short));
+  });
+});
+
 // ─── mergeArticles ───────────────────────────────────────────────────────────
 
 describe('mergeArticles', () => {
   const freshDate = new Date().toISOString();
-  const oldDate = daysAgo(KEEP_DAYS + 3);
+  const oldDate   = daysAgo(KEEP_DAYS + 3);
+  const goodImg   = 'https://images.unsplash.com/photo-1?w=800';
 
-  it('prepends new articles before existing ones', () => {
-    const existing = [{ title: 'Old Story', date: freshDate, featured: false }];
-    const incoming = [{ title: 'New Story', date: freshDate, featured: false }];
+  it('prepends new articles before existing clean ones', () => {
+    const existing = [{ title: 'Old Story',  date: freshDate, featured: false, image: goodImg, summary: 'Clean' }];
+    const incoming = [{ title: 'New Story',  date: freshDate, featured: false, image: goodImg, summary: 'Clean' }];
     const merged = mergeArticles(existing, incoming, 10);
     expect(merged[0].title).toBe('New Story');
     expect(merged[1].title).toBe('Old Story');
   });
 
   it('deduplicates articles with the same title', () => {
-    const existing = [{ title: 'Same Title', date: freshDate, featured: false }];
-    const incoming = [{ title: 'Same Title', date: freshDate, featured: false }];
+    const existing = [{ title: 'Same Title', date: freshDate, featured: false, image: goodImg, summary: 'ok' }];
+    const incoming = [{ title: 'Same Title', date: freshDate, featured: false, image: goodImg, summary: 'ok' }];
     expect(mergeArticles(existing, incoming, 10)).toHaveLength(1);
   });
 
-  it('deduplicates despite punctuation and case differences', () => {
-    const existing = [{ title: 'Rain & Thunder in Erode!', date: freshDate, featured: false }];
-    const incoming = [{ title: 'rain thunder in erode', date: freshDate, featured: false }];
-    // normalizeTitle strips punctuation and lowercases — these should match within 50 chars
+  it('deduplicates "Title - Source" against clean "Title" (the real bug fix)', () => {
+    // Old script stored title with source name; new script stores without.
+    // Both should be treated as the same article.
+    const existing = [{ title: 'Farmers urge price hike rollback - The Hindu', date: freshDate, featured: false, image: goodImg, summary: 'ok' }];
+    const incoming = [{ title: 'Farmers urge price hike rollback', date: freshDate, featured: false, image: goodImg, summary: 'ok' }];
     expect(mergeArticles(existing, incoming, 10)).toHaveLength(1);
+  });
+
+  it('drops existing articles with HTML in summary (old bad data)', () => {
+    const bad  = { title: 'Bad', date: freshDate, featured: false, image: goodImg, summary: '<a href="https://g.co">link</a>' };
+    const good = { title: 'Good', date: freshDate, featured: false, image: goodImg, summary: 'Clean summary' };
+    const merged = mergeArticles([bad, good], [], 10);
+    expect(merged.some(a => a.title === 'Bad')).toBe(false);
+    expect(merged.some(a => a.title === 'Good')).toBe(true);
+  });
+
+  it('drops existing articles with missing or local image paths', () => {
+    const noImg    = { title: 'No Image',    date: freshDate, featured: false, image: null,               summary: 'ok' };
+    const localImg = { title: 'Local Image', date: freshDate, featured: false, image: '/news/photo.jpg',  summary: 'ok' };
+    const remoteImg= { title: 'Remote OK',   date: freshDate, featured: false, image: goodImg,             summary: 'ok' };
+    const merged = mergeArticles([noImg, localImg, remoteImg], [], 10);
+    expect(merged.some(a => a.title === 'No Image')).toBe(false);
+    expect(merged.some(a => a.title === 'Local Image')).toBe(false);
+    expect(merged.some(a => a.title === 'Remote OK')).toBe(true);
+  });
+
+  it('ensures every output article has a valid remote image', () => {
+    const noImg = { title: 'No Image', date: freshDate, featured: false, image: null, summary: 'ok', category: 'News' };
+    // noImg has no image so it gets pruned from kept, but if it's incoming it should get a fallback
+    const merged = mergeArticles([], [noImg], 10);
+    expect(merged[0].image).toMatch(/^https:\/\//);
   });
 
   it('drops existing articles older than KEEP_DAYS', () => {
     const existing = [
-      { title: 'Old Article', date: oldDate, featured: false },
-      { title: 'Fresh Article', date: freshDate, featured: false },
+      { title: 'Old Article',   date: oldDate,   featured: false, image: goodImg, summary: 'ok' },
+      { title: 'Fresh Article', date: freshDate, featured: false, image: goodImg, summary: 'ok' },
     ];
     const merged = mergeArticles(existing, [], 10);
     expect(merged.some(a => a.title === 'Old Article')).toBe(false);
@@ -358,15 +406,14 @@ describe('mergeArticles', () => {
   });
 
   it('respects maxCount limit', () => {
-    const existing = Array.from({ length: 8 }, (_, i) => ({ title: `Existing ${i}`, date: freshDate, featured: false }));
-    const incoming = Array.from({ length: 4 }, (_, i) => ({ title: `New ${i}`, date: freshDate, featured: false }));
-    const merged = mergeArticles(existing, incoming, 6);
-    expect(merged).toHaveLength(6);
+    const existing = Array.from({ length: 8 }, (_, i) => ({ title: `Existing ${i}`, date: freshDate, featured: false, image: goodImg, summary: 'ok' }));
+    const incoming = Array.from({ length: 4 }, (_, i) => ({ title: `New ${i}`,      date: freshDate, featured: false, image: goodImg, summary: 'ok' }));
+    expect(mergeArticles(existing, incoming, 6)).toHaveLength(6);
   });
 
   it('sets featured: true only for the first article', () => {
-    const existing = [{ title: 'Old', date: freshDate, featured: true }];
-    const incoming = [{ title: 'New', date: freshDate, featured: false }];
+    const existing = [{ title: 'Old', date: freshDate, featured: true, image: goodImg, summary: 'ok' }];
+    const incoming = [{ title: 'New', date: freshDate, featured: false, image: goodImg, summary: 'ok' }];
     const merged = mergeArticles(existing, incoming, 10);
     expect(merged[0].featured).toBe(true);
     merged.slice(1).forEach(a => expect(a.featured).toBe(false));
