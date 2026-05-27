@@ -329,8 +329,14 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
     return;
   }
 
-  // Cross-district deduplication
-  const uniqueItems = rssItems.filter(item => {
+  // ── Fix 1: Discard RSS articles older than KEEP_DAYS right away.
+  //    No point rewriting or storing news that will be pruned immediately.
+  const recentItems = rssItems.filter(item => isWithinDays(item.pubDate, KEEP_DAYS));
+  const skippedOld  = rssItems.length - recentItems.length;
+  if (skippedOld > 0) console.log(`  Skipped ${skippedOld} articles older than ${KEEP_DAYS} days`);
+
+  // ── Fix 2: Cross-district deduplication (unchanged)
+  const uniqueItems = recentItems.filter(item => {
     const key = normalizeTitle(item.title);
     if (globalSeenTitles.has(key)) return false;
     globalSeenTitles.add(key);
@@ -338,16 +344,30 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
   }).slice(0, MAX_ARTICLES_PER_DISTRICT);
 
   if (!uniqueItems.length) {
-    console.log('  No unique items — skipping');
+    console.log('  No unique recent items — skipping');
     return;
   }
 
+  // ── Fix 3: Load existing JSON once; skip AI for articles already stored.
+  //    Only truly NEW articles (not yet in JSON) get an AI rewrite call.
+  const existing     = readNewsFile(district.slug);
+  const existingKeys = new Set(existing.map(a => normalizeTitle(a.title)));
+
   const newArticles = [];
+  let   aiCallCount = 0;
+
   for (let i = 0; i < uniqueItems.length; i++) {
     const item = uniqueItems[i];
-    console.log(`  [${i + 1}/${uniqueItems.length}] ${item.title.slice(0, 70)}`);
+    const key  = normalizeTitle(item.title);
 
-    // RSS image + AI rewrite run in parallel
+    if (existingKeys.has(key)) {
+      console.log(`  [skip] already stored: ${item.title.slice(0, 70)}`);
+      continue; // no AI call, no image fetch — already in JSON
+    }
+
+    console.log(`  [new]  ${item.title.slice(0, 70)}`);
+
+    // RSS image + AI rewrite run in parallel (only for genuinely new articles)
     const [rewritten, rssImage] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
       item.image ? Promise.resolve(item.image) : fetchArticleImage(item.link),
@@ -357,7 +377,7 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
     newArticles.push({
       id:         generateId(district.slug, i, item.pubDate),
       category,
-      featured:   i === 0,
+      featured:   false, // mergeArticles sets featured on the first item
       image:      rssImage || CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News,
       title:      rewritten.title,
       title_ta:   rewritten.title_ta || '',
@@ -366,11 +386,18 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
       date:       formatDate(item.pubDate),
     });
 
-    // Only rate-limit when AI is active (avoid pointless waits in fallback mode)
+    aiCallCount++;
+    // Only rate-limit when AI is active
     if (providerInfo.provider && i < uniqueItems.length - 1) await sleep(AI_CALL_DELAY_MS);
   }
 
-  const merged = mergeArticles(readNewsFile(district.slug), newArticles, MAX_ARTICLES_PER_DISTRICT * 2);
+  if (newArticles.length === 0) {
+    console.log(`  All items already stored — no changes written`);
+    return;
+  }
+
+  console.log(`  Rewrote ${aiCallCount} new article(s), skipped ${uniqueItems.length - aiCallCount} existing`);
+  const merged = mergeArticles(existing, newArticles, MAX_ARTICLES_PER_DISTRICT * 2);
   writeNewsFile(district.slug, merged);
   console.log(`  Saved ${merged.length} articles → ${district.slug}.json`);
 }
@@ -385,12 +412,29 @@ async function processMainJSON(providerInfo) {
     return;
   }
 
-  const topItems = rssItems.slice(0, MAX_TRENDING);
-  const trending = [];
+  // Fix 1: Only process recent articles
+  const recentItems = rssItems.filter(item => isWithinDays(item.pubDate, KEEP_DAYS));
+  const topItems    = recentItems.slice(0, MAX_TRENDING);
+
+  // Fix 2: Load existing trending to skip already-stored items
+  const mainPath = path.join(NEWS_DIR, 'main.json');
+  let mainData = {};
+  try { mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8')); } catch {}
+  const existingTrending  = mainData.trending || [];
+  const existingTrendKeys = new Set(existingTrending.map(a => normalizeTitle(a.title_en)));
+
+  const trending = [...existingTrending.filter(a => isWithinDays(a.date, KEEP_DAYS))];
 
   for (let i = 0; i < topItems.length; i++) {
     const item = topItems[i];
-    console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
+    const key  = normalizeTitle(item.title);
+
+    if (existingTrendKeys.has(key)) {
+      console.log(`  [skip] already stored: ${item.title.slice(0, 70)}`);
+      continue;
+    }
+
+    console.log(`  [new]  ${item.title.slice(0, 70)}`);
 
     const [rewritten, rssImage] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
@@ -398,7 +442,7 @@ async function processMainJSON(providerInfo) {
     ]);
     const cat = rewritten.category || 'News';
 
-    trending.push({
+    trending.unshift({                          // newest at the front
       id:         `main-trd-${String(i + 1).padStart(3, '0')}`,
       title_en:   rewritten.title,
       title_ta:   rewritten.title_ta || '',
@@ -413,10 +457,6 @@ async function processMainJSON(providerInfo) {
     // Only rate-limit when AI is active
     if (providerInfo.provider && i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
   }
-
-  const mainPath = path.join(NEWS_DIR, 'main.json');
-  let mainData = {};
-  try { mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8')); } catch {}
 
   // Always keep hero fresh — promote top trending article to hero slot.
   // This ensures the hero image is always a valid remote URL, never a broken local path.
@@ -434,10 +474,10 @@ async function processMainJSON(providerInfo) {
     };
   }
 
-  mainData.trending = trending;
+  mainData.trending = trending.slice(0, MAX_TRENDING); // cap at max
   mainData.updated  = new Date().toISOString().split('T')[0];
   fs.writeFileSync(mainPath, JSON.stringify(mainData, null, 2) + '\n', 'utf8');
-  console.log(`  Saved ${trending.length} trending items → main.json`);
+  console.log(`  Saved ${mainData.trending.length} trending items → main.json`);
 }
 
 async function main() {

@@ -1,45 +1,24 @@
 [
   {
-    "id": "dha-apr23-002",
+    "id": "dha-may23-002",
     "category": "News",
     "featured": true,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "TN Assembly Elections 2026: Dharmapuri heats up as Sowmiya Anbumani runs",
+    "title": "Tamil Nadu Heavy Rainfall Alert: Check Latest Forecast As Salem, Vellore, Dharmapuri May See Thunder",
     "title_ta": "",
-    "summary": "TN Assembly Elections 2026: Dharmapuri heats up as Sowmiya Anbumani runs",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "dha-apr23-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "89.46 Per Cent Voter Turnout At Dharmapuri Assembly Constituency Till 7:00PM",
-    "title_ta": "",
-    "summary": "89.46 Per Cent Voter Turnout At Dharmapuri Assembly Constituency Till 7:00PM",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "dha-mar28-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "AIADMK to contest in three Dharmapuri seats, five Krishnagiri seats",
-    "title_ta": "",
-    "summary": "AIADMK to contest in three Dharmapuri seats, five Krishnagiri seats",
-    "summary_ta": "",
-    "date": "March 28, 2026"
-  },
-  {
-    "id": "dha-may23-001",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu weather update: Heavy rainfall likely to occur over Nilgiris, Coimbatore, Erode, Tiruppur",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNQVFFbW13Q3pFMWpic0JHRXJSRkFuV2QxclZiXzFNTHgyNU1NSTJwYkFRMmxYTUNEVDBJZl9xMGJmazlvV2hEaXNhTDBNR0VmSnlRREpXUTRxRkFUN1E5ZFJ3aFpNSkNiUUNVRFFQMmZCRlEtQzZtNnNNbC1WWl...",
+    "summary": "Tamil Nadu Heavy Rainfall Alert: Check Latest Forecast As Salem, Vellore, Dharmapuri May See Thunder",
     "summary_ta": "",
     "date": "May 23, 2026"
+  },
+  {
+    "id": "dha-may25-001",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Bus operations restored in Dharmapuri municipality",
+    "title_ta": "",
+    "summary": "Bus operations restored in Dharmapuri municipality",
+    "summary_ta": "",
+    "date": "May 25, 2026"
   }
 ]
