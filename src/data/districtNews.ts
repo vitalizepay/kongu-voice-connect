@@ -12,11 +12,14 @@ import tiruppur from "@/data/news/tiruppur.json";
 export interface DistrictNewsItem {
   id: string;
   title: string;
+  title_ta?: string;
   summary: string;
+  summary_ta?: string;
   category: "Election" | "Campaign" | "Awareness" | "Enforcement" | string;
   date: string;
   featured?: boolean;
   image?: string;
+  link?: string;   // original article URL — set by fetch-news script
 }
 
 export const districtNews: Record<string, DistrictNewsItem[]> = {

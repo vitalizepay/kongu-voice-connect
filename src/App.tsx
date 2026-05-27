@@ -15,6 +15,7 @@ import Nilgiris from "./pages/districts/Nilgiris";
 import Karur from "./pages/districts/Karur";
 import Dharmapuri from "./pages/districts/Dharmapuri";
 import ManageContent from "./pages/ManageContent";
+import ArticlePage from "./pages/ArticlePage";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -38,6 +39,8 @@ const App = () => (
             <Route path="/karur" element={<Karur />} />
             <Route path="/dharmapuri" element={<Dharmapuri />} />
             <Route path="/manage-content" element={<ManageContent />} />
+            {/* Article detail pages: /:district/article/:id */}
+            <Route path="/:district/article/:id" element={<ArticlePage />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>

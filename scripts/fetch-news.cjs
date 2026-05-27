@@ -410,6 +410,7 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
       category,
       featured:   false, // mergeArticles sets featured on the first item
       image:      rssImage || CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News,
+      link:       item.link || '',   // original article URL for "Read article" button
       title:      rewritten.title,
       title_ta:   rewritten.title_ta || '',
       summary:    rewritten.summary,
