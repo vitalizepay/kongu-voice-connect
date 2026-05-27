@@ -4,6 +4,7 @@
     "category": "News",
     "featured": true,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSlJYNElEVGlfck5abFZic19rSVA3bm9wTWFCblNvVFpNWGRRWTJYS2w0dlBCcFN1WUVzdmk5UktoQXoxWGE1TEZNUU45V1g4SVRaQ25Dc245SnpsYUlIcWpfMExMT2hEOS1SdGZtckdHRTVyV09rdE9pVncyTkp1dml4RllVVWZtZ2M1WnlOMjU0ZVpUNVJYdk51YWluUEtsNmxmc2c5bnRJQ2cwQk1MOGttc2NFaGZuUjU5STkzc1p4a0JvLWdiWV9WZXZZNGptbloyclJ1MFk2Z9IB4AFBVV95cUxQamJvNW9SZzB0eWZTVDVJblJkWmtQc0dzYng2VFhjVTJrZUZ0YkdZZUpFTVNESl9fQjJ0M0tXMTZyaTNQSUVTZE05aTRVY1JTT2hXOXc1MkxTX3kzaGJaWHFIOVFXQWNad3ZRQlRLZDVBcHdIbmdON09udkh3d25nMi14MHdrTW9iZGVadzNObTlmWGNqS2FNYXV6YXhDejg4dF9tN3E1S0lJM0NENHI5alVGT2NGNFJuX1dxU05QTG1CV05RblZ0cFI0Vk9TR1dRdlM2SldZeU4weFVrNE5NSw?oc=5",
     "title": "Tasmac bottle buy-back scheme implemented in all outlets in Erode district",
     "title_ta": "",
     "summary": "Tasmac bottle buy-back scheme implemented in all outlets in Erode district",
@@ -15,6 +16,7 @@
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVpTZmZuYXRFT09hRkRyd3pWUEg5OS1YeEVreU5aaGstU1p2UWU3ellmSjNGVTU4bl9RdFhTbnN5MllqVThzUHJqYV9MdzlhdW1pV09UTEIzMUlvZGJjbVItZzlFQjF5UlRVRGc3YTNDWWk3WkRlakJkZy1DT1RITjJlTWNTOXhmeTRqUHpIM3hUOUlURDRGNVNiUnRyc01aN1B1M1FZMWVJLU81SEoxdWFRbzlNcjBpVXfSAb8BQVVfeXFMUFhVTXlkVFFrWjNFV2E0enNrLUJZLWZWeC02VGMzaEhpaXRNUzkwbmdDVkFualZKX0phb1diUU9JUGt6THRocTV1U05Zb0syWXpPc3hOcGJ2YVNCazRuYUo2QmdwbDNzS1RPdXk0akJlZ2tHTWgzR2taZHdLYUY4dTBueDZ2d29pUnF0WUsxUFdWWlZ3b1hKNTItVDZjMTJoZzU1VzA4N0RSVm5FWGlYaS1NMkVmZ2VtWGRsRm1OY2s?oc=5",
     "title": "Boy swept away by floodwaters near Erode",
     "title_ta": "",
     "summary": "Boy swept away by floodwaters near Erode",
@@ -22,10 +24,23 @@
     "date": "May 25, 2026"
   },
   {
-    "id": "ero-may26-003",
+    "id": "ero-may22-003",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbU5STnk2Wm1NS09ubk9Mc2ZHX1FVVTNzLUg2WGR1Y1pxVEJhWm1JbjhnbEZwaENoMm1JZHFiYnhydVpjaWVQRzluNWt3NXlYVHV5VUh4dU1JOUtzX21wdlFFbnoyUDB5NzhNdTRuLTNxQnlfZkE2WTdqcjR0R1RkQnRMSHM0V3h4TnBFazUxMmk2YmU1QVBzdGFrbU1QSTlSdHFiV1hWZGN0ODdxOW0xRkRJb0dKYTZ0aWkycEVmaXItOWlTV3EtaFNVTHNsQQ?oc=5",
+    "title": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
+    "summary_ta": "",
+    "date": "May 22, 2026"
+  },
+  {
+    "id": "ero-may26-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0w5SVRyTUVqa0N0Rm1CUnY1ei1zdVo1amx2NlZWUkZzN291bjFKVmREallPS1dQMUpQWkxHWGxydDBTaVpZOThScWhWbnI1YzNRdk9JUnFOUk5ybzJuNGNxb2dndzM3RTdYNnhOTGVRYW1kb3BJSDBiMmZ0cjdiUzdUYjdNcVFzZHBGeEgtbk9SRVI3SFpDSnlwaGh5eTFRTl9qbGhYWTVmLTR5WGZsQ2NHeVQ1WDRNbXFMdlFSeVNhbDBhT3MtNnZfYUpkRzBQ0gHeAUFVX3lxTE5zSEJrdUtSd1JmenUwdm5FSk9XVWdwZE1Dd0hoU2hvbVNRelZpV0k5bnVEUVgwdkd0aWpNdWRYVlFsYkVWdFV3UG1MRlg1d1ByRHFzaU9feU1iYzIzc3B4cFdfQ08tNk4xck04VWdZZ0ZqSkV6Z2t5RWhITXF1Q29SS2twVksxZi1GUHpWYVNSZzFFbURrS1BMQ1hlYXg1bzBUSjJWLTE4S3drVEZxZ3ZEakpfbU5GVEQ2SVdaY0MyWVdnS3VjQjlFU2NGMVpfazU0Y0tFd19HWEtqd1RYUQ?oc=5",
     "title": "Heavy rain claims four more lives across western districts in Tamil Nadu",
     "title_ta": "",
     "summary": "Heavy rain claims four more lives across western districts in Tamil Nadu",
@@ -33,10 +48,11 @@
     "date": "May 26, 2026"
   },
   {
-    "id": "ero-may20-004",
+    "id": "ero-may20-005",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2pld1NrbldFTXc2RnR5SklXSm1haHNJbFVUT2Noa2lZVUJZaVZ3Q29NSXJyb0JEREpTQkJrcE5TYnVZVmVWdjlHOWFTZkRYVGxYT0hTT0hzN1pqMVlNOWktOHBZd2diV2R1ZkxKSVhnZXlZcWtnNUEzZDhSaXNrcVlyU01Hby1vYkEwbVpuSnJtMk1YRWxpNXVtaDRaSlZYUGUyVWExemVmOXQwMVh2MjV6LTlDZEFsS21uVExaX0VlSHYzeWkxanpGcnA3UU90ZWVMU9IB2wFBVV95cUxPc2lGMWUtRnN5SFZKMVFVYVd6SG15TlVyTjZtbmh3dTBhTlpLWE0wSVJlaDhpd1NxcWdLTk9TdEoyamxlZ2Z1RXVHUGo2MWRUZnh4LUxuREJqbU9vZzFfVURMWV9NVVRVUXh6ZjkyYUFfQjA1N0IxNVZuRmNpWHJWOXJteG9XRkNFUTZDZENJdzY1T1NaRTgwMTFPdFd6NVVtdWM2SnRKaG9TWnJnUTlGRE5FdXVDWkN5dDQ1SVFsS01hVmlZQ2x4b1FMTlY3WHFSMWhsQ1dXS2pNSkE?oc=5",
     "title": "Erode district registers 97.03 pass percentage in Class 10 examinations",
     "title_ta": "",
     "summary": "Erode district registers 97.03 pass percentage in Class 10 examinations",
