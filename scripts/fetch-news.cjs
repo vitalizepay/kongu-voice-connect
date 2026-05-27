@@ -1,5 +1,11 @@
 'use strict';
 
+// Allow self-signed / corporate proxy certs when LOCAL_DEV=1 is set.
+// Never set in production (GitHub Actions has valid certs).
+if (process.env.LOCAL_DEV === '1') {
+  process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+}
+
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
@@ -286,7 +292,16 @@ function mergeArticles(existing, incoming, maxCount) {
   const existingKeys = new Set(existing.map(a => normalizeTitle(a.title)));
   const fresh  = incoming.filter(a => !existingKeys.has(normalizeTitle(a.title)));
   const kept   = existing.filter(a => isWithinDays(a.date, KEEP_DAYS));
-  const merged = [...fresh, ...kept].slice(0, maxCount);
+  let merged   = [...fresh, ...kept].slice(0, maxCount);
+
+  // Safety net: never leave a district empty.
+  // If pruning removed everything and there are no fresh replacements (e.g. a quiet
+  // district where the RSS only returns the same old articles), fall back to the
+  // incoming articles so the page always has content.
+  if (merged.length === 0 && incoming.length > 0) {
+    merged = incoming.slice(0, maxCount);
+  }
+
   return merged.map((a, i) => ({ ...a, featured: i === 0 }));
 }
 
@@ -351,7 +366,8 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
       date:       formatDate(item.pubDate),
     });
 
-    if (i < uniqueItems.length - 1) await sleep(AI_CALL_DELAY_MS);
+    // Only rate-limit when AI is active (avoid pointless waits in fallback mode)
+    if (providerInfo.provider && i < uniqueItems.length - 1) await sleep(AI_CALL_DELAY_MS);
   }
 
   const merged = mergeArticles(readNewsFile(district.slug), newArticles, MAX_ARTICLES_PER_DISTRICT * 2);
@@ -394,12 +410,30 @@ async function processMainJSON(providerInfo) {
       image:      rssImage || CATEGORY_IMAGES[cat] || CATEGORY_IMAGES.News,
     });
 
-    if (i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
+    // Only rate-limit when AI is active
+    if (providerInfo.provider && i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
   }
 
   const mainPath = path.join(NEWS_DIR, 'main.json');
   let mainData = {};
   try { mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8')); } catch {}
+
+  // Always keep hero fresh — promote top trending article to hero slot.
+  // This ensures the hero image is always a valid remote URL, never a broken local path.
+  if (trending.length > 0) {
+    const top = trending[0];
+    mainData.hero = {
+      id:         'main-hero-auto',
+      title_en:   top.title_en,
+      title_ta:   top.title_ta,
+      summary_en: top.summary_en,
+      summary_ta: top.summary_ta,
+      category:   top.category,
+      date:       top.date,
+      image:      top.image,
+    };
+  }
+
   mainData.trending = trending;
   mainData.updated  = new Date().toISOString().split('T')[0];
   fs.writeFileSync(mainPath, JSON.stringify(mainData, null, 2) + '\n', 'utf8');
@@ -424,6 +458,7 @@ async function main() {
 module.exports = {
   extractRSSImage,
   cleanTitle,
+  fetchRSS,
   fetchArticleImage,
   detectProvider,
   formatDate,
