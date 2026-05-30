@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-may26-006",
+    "id": "coi-may30-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUk5TzJ1VWdhVVVSVy01LVRueGJwMkQtWDdaaXdwY3J2MXp0ODNlUG5wQ28xdXZhTHdZYkNIdDBUUXdWM1lpbC1BbDVoclJaNVRzYTZQeGMwaDNYemlQaldZNmF0ZFJsVTF1b0d5cDRRTUpmeVlxdmVBM3NJcTN6Um5maEU4LUY4ckhBRWJGQ044cUhPZFVDMEZjTTYyaFBsTDBHazY2V2V1MkJqalAwNnEwb25TWHdyVV9jM1ZaRXhhai1VTFpRR0o5Nkl3Z3Q5LWVZOExCekx0dThjVEE?oc=5",
+    "title": "Tamil Nadu farmers protest outside Coimbatore Collectorate over crop loan waiver slab",
+    "title_ta": "",
+    "summary": "Tamil Nadu farmers protest outside Coimbatore Collectorate over crop loan waiver slab",
+    "summary_ta": "",
+    "date": "May 30, 2026"
+  },
+  {
+    "id": "coi-may26-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZl96MVFIcXg2MGZvdHFSRTY4TVhYaTNncGlhZVpJQ05OeWF5Y1VhVUs1U0RrejdOanFWQThaR3Z6TmlmR1JJVTNtNTNFZDBSWlN2OFRLSHdKSVBxSGpjVllSXzlXQ2pjYkdPOTR6T21YcWxDZnRZLVhuUGpFcmIwbk00Q3JnaDJiLXg4TW9LSi1HNFJELWdPNE4xcnI2WGNWc1ZZR2VwSlFidzZhdEVnZ1g0emo2NHV2dTRsdzh2Zy1LeG1XekM1UThMMHo0MDl4bWVIMGxxdFlZS0pZTGZZUUlWLUJTQnZxQ0ZXS3pn0gHzAUFVX3lxTFB5RDV5ZGhDaVZLdXliVlp2c2gtc3QzUEFMNno2cW13bUJzWmluaFlabzduVVlZQ09VTFpDQTY2M2FXRjJUT0cycUdZV1h2ZGJkUGZFNV93MFVORkUyOERuVVpnc2hIREdLeUhsV0p6RTJTblJNSG1LM19XYjBWLTV4WXJ5c3A3ZGVlSWt6OFRkM2VRaUZfMFVyTEtlRHk1UW1BZVo2OTRKMk1Zc0pPT2RrZTB2eWYwM1ZpN0R1VDhBTUduVi02cS03RGtJaHF5bnBDQndyUklfNW1OZ29zZmZFc3RPM1lGaWItSkE5NXNkN0tXZw?oc=5",
     "title": "Get out of celebration mode: Annamalai attacks Vijay as twin murder rocks Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
     "summary_ta": "",
     "date": "May 24, 2026"
-  },
-  {
-    "id": "coi-may25-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYU1LbExwbkR5R21HX09iQWVIcWRuVm9wdWJYdllKcXN2eXhNcWo4Sk9xdlFmaTlKMmVFMVVsV3JXeGR4OEtIRlJkVGxMTjZHR19QcEFJLVp0ZHg4bGZSUzdTY3BjTktPZWZITE9lQ01yMkJjdDN4OV85b1FUMHVLYTRhYjZiZmhXU1B0VGtYbHFBTGozQ1VsOTRuRW9KRXhYZUZObktjeENnZUE4UUd3WEFlZGlOdUtvRXhKc2tpUjNBd29oMUNHTlFjZHRITUxTa21uc1k1bjRyZ9IB3wFBVV95cUxQbjV2RndrWXMtMWVheDRNMG5BZ0pXWFpGRDlOZDR0bmxfOW5fMmtMeE9SdEFjazdJS2wtN0pMMXRUSk5menA2eV9GVTNlLU5yTlFTNXhTR3Ixa3ZDSk5LNVR6SkIyOXlwLXVNTDJVUmpFMkhNZTRFMFFWdjRrcmhqSXU2cWE0SmZJYlVQbUM2OTFOQ2llbnhiTzlUQnd1MUpRMTVpWnptcXIwMVN4TUZoQTZOWlk4dm9Vb3pUYzJmSVQwT0ZrMTJ0ZE5uclFTaElVVHdUdUFDbUFuN19TMl9B?oc=5",
-    "title": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage",
-    "title_ta": "",
-    "summary": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage",
-    "summary_ta": "",
-    "date": "May 25, 2026"
   }
 ]
