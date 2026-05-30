@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-may27-001",
+    "id": "ero-may27-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOalJMcFc4NmJvRHVLeHhISHhRdWhnM3gtdnNqcnA2V05qOEZqaUZsd2JvMjFJVHpTb0hlZEJoVjRzNDRzb0k5aXoxMlM2aFhoUlZndGM2M0xaUmtaNjlMSzNwczJLOXFIdGtzTmhnSUdZbDdvS2twbkhpbmVvMFlxbEQ0TnhoQzZCMWhpeUMyUHBkTFRuN3VCZFk1WnVzQ1lVVlczU2gzQVl6T0lOZHNDalZqbURQSGhVTXRGOWgtYjBaYTktYWhqNXFNSnFQOU1jNXlqLXoyZ3RrWERXMFZ6Nl93cUduUi1vUjdLSXJ1R0TSAfABQVVfeXFMTmpSTHBXODZib0R1S3h4SEh4UXVoZzN4LXZzanJwNldOajhGamlGbHdibzIxSVR6U29IZWRCaFY0czQ0c29JOWl6MTJTNmhYaFJWZ3RjNjNMWlJrWjY5TEszcHMySzlxSHRrc05oZ0lHWWw3b0trcG5IaW5lbzBZcWxENE54aEM2QjFoaXlDMlBwZExUbjd1QmRZNVp1c0NZVVZXM1NoM0FZek9JTmRzQ2pWam1EUEhoVU10RjloLWIwWmE5LWFoajVxTUpxUDlNYzV5ai16Mmd0a1hEVzBWejZfd3FHblItb1I3S0lydUdE?oc=5",
+    "title": "AITUC seeks implementation of contract norms for outsourced workers in Erode hospitals",
+    "title_ta": "",
+    "summary": "AITUC seeks implementation of contract norms for outsourced workers in Erode hospitals",
+    "summary_ta": "",
+    "date": "May 27, 2026"
+  },
+  {
+    "id": "ero-may27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNalNEQ3R2RHlXVVYwT2g2Rk1jN3JMN09HaEkzT2ZxNEVTMVo0b0hiZll4cGRIbjI0bUltbWNhU3lCbWtJOEgzcHhERzl4QkhXaFVGVmxBOExKR3lsOS1zcWcyaFdqS1hCNWpIY2F3WFJseFh4MWF3QUhUOF90NHNYVHpseTh4dTZoRkwzb3haX2k0djNPWFdUa1VjNlNxd0pTaXRWNkxWNDNXTDZia09jMDlwek1lWHFsZVE5dExfaHRhVWw4VjhzVEhMY1pZYkFLTkFNdmVBbnV4YWNtU0FkdjlWbEVjU01nVjR30gHyAUFVX3lxTE1SZ2VwbEQ1TEEwQU42QjAyQXctLWFuR1pHbU1SeFl2UXBoUFkwdUVtcXRLV1ptblJoYmlOWktYd3ZJSmdIMmFQakZ1YkZuSENZekNHQzdiMkVHcE54WEE1WFBfR1p3M0p5ZGpTQTYyc2tBMkl4cWlqS0x6VVFNMXBkR09ZNThBaUJETUZ1SWdIUkxsNUhyNDJrV2dod09YWFBBeEdHNDhzWGtjY0NDdEkwbF9oRWFPVV8zbHNxNDEwcWZKQ1FERTFISEhHZkRHWXF6TlUtNmZBOTYyZmJnckwyZ01LRTVzazVWcGZBZ2loUGdB?oc=5",
     "title": "TASMAC staff in Erode continue strike for third day over empty bottle collection scheme",
@@ -22,18 +34,6 @@
     "summary": "Differently-abled persons removed while attempting road blockade in Erode",
     "summary_ta": "",
     "date": "May 27, 2026"
-  },
-  {
-    "id": "ero-may22-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbU5STnk2Wm1NS09ubk9Mc2ZHX1FVVTNzLUg2WGR1Y1pxVEJhWm1JbjhnbEZwaENoMm1JZHFiYnhydVpjaWVQRzluNWt3NXlYVHV5VUh4dU1JOUtzX21wdlFFbnoyUDB5NzhNdTRuLTNxQnlfZkE2WTdqcjR0R1RkQnRMSHM0V3h4TnBFazUxMmk2YmU1QVBzdGFrbU1QSTlSdHFiV1hWZGN0ODdxOW0xRkRJb0dKYTZ0aWkycEVmaXItOWlTV3EtaFNVTHNsQQ?oc=5",
-    "title": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Erode sugarcane farmers encouraged to adopt balanced fertiliser use for sustainable prod",
-    "summary_ta": "",
-    "date": "May 22, 2026"
   },
   {
     "id": "ero-may27-006",
