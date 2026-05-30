@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-may30-001",
+    "id": "coi-may30-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMk9rdU0zR0hLTFZKaTJzTy1VQ1J5N2I2eDU1UGxNUmwzTlZvRV9kOW56cklmbUxnSGVXVXFwZTNhdmJka2lqN1FPQThOSlp5R0JraWd2OURwVVpFOUYwSHQ2MDB0WFNBWnMzVkE0QU9tWTZvU3ZsaktyRXNMM0NCbkw5QXJkaWt4UTRxbjhqRllYS1FSQlVnSG05d29GUTNIYkdmVFBEMEZWNVZuZDJnTWRkNnotcVJwaXlpZG9Bb9IBxAFBVV95cUxQbkw4YThnc1ZYdllZY0FuZm5fWjZzbXpFLWxCOTBlSEtnSlkyRlVoVzhPUVFKS3lHUEJ0ZV9ZWkFoRnRReFpOQ1VzeC1oR3hjeld5ajJoNGVaakxSX2ZhZWFZNmE4T1RRLUNOS2NIckJtb09TYUNuQzF5Q2xrV2V0R2ZVbmdDOXVLNnhRc0tCa1F6N3Jud29HWUlvcFpCb3R6cjdFU2NqZ2t1T2JYa1hwX0huYS1NRnNDVHNYYklWOGJWdVlK?oc=5",
+    "title": "Coimbatore corporation gets new commissioner",
+    "title_ta": "",
+    "summary": "Coimbatore corporation gets new commissioner",
+    "summary_ta": "",
+    "date": "May 30, 2026"
+  },
+  {
+    "id": "coi-may30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUk5TzJ1VWdhVVVSVy01LVRueGJwMkQtWDdaaXdwY3J2MXp0ODNlUG5wQ28xdXZhTHdZYkNIdDBUUXdWM1lpbC1BbDVoclJaNVRzYTZQeGMwaDNYemlQaldZNmF0ZFJsVTF1b0d5cDRRTUpmeVlxdmVBM3NJcTN6Um5maEU4LUY4ckhBRWJGQ044cUhPZFVDMEZjTTYyaFBsTDBHazY2V2V1MkJqalAwNnEwb25TWHdyVV9jM1ZaRXhhai1VTFpRR0o5Nkl3Z3Q5LWVZOExCekx0dThjVEE?oc=5",
     "title": "Tamil Nadu farmers protest outside Coimbatore Collectorate over crop loan waiver slab",
@@ -130,17 +142,5 @@
     "summary": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
     "summary_ta": "",
     "date": "May 27, 2026"
-  },
-  {
-    "id": "coi-may24-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnJPTjNaWVJ5RGEzWmRYZk5pYzRlcVdLb1B3dlBFNFdrbExiRHBLTFVCejU5bHU4Rkh5SXNYYlpwQ0lIbGZUaXl5am0wcmZaTWFxUEdPUlFFdnNtUzBRczF4TXNEckZBNVJLZHNlX0RoN2M1SkgxQ2FEbzZaYmZiNi12R2RRNlBma1NrSmQ5SVBPM0pfUVdOMlRaOG5FTm44eWhnbmxxN2xhLUZWV0NhOTFjSkhxMUM3?oc=5",
-    "title": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
-    "title_ta": "",
-    "summary": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
-    "summary_ta": "",
-    "date": "May 24, 2026"
   }
 ]
