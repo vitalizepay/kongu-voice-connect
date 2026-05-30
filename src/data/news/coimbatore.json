@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-may30-002",
+    "id": "coi-may24-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnJPTjNaWVJ5RGEzWmRYZk5pYzRlcVdLb1B3dlBFNFdrbExiRHBLTFVCejU5bHU4Rkh5SXNYYlpwQ0lIbGZUaXl5am0wcmZaTWFxUEdPUlFFdnNtUzBRczF4TXNEckZBNVJLZHNlX0RoN2M1SkgxQ2FEbzZaYmZiNi12R2RRNlBma1NrSmQ5SVBPM0pfUVdOMlRaOG5FTm44eWhnbmxxN2xhLUZWV0NhOTFjSkhxMUM3?oc=5",
+    "title": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
+    "title_ta": "",
+    "summary": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
+    "summary_ta": "",
+    "date": "May 24, 2026"
+  },
+  {
+    "id": "coi-may30-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMk9rdU0zR0hLTFZKaTJzTy1VQ1J5N2I2eDU1UGxNUmwzTlZvRV9kOW56cklmbUxnSGVXVXFwZTNhdmJka2lqN1FPQThOSlp5R0JraWd2OURwVVpFOUYwSHQ2MDB0WFNBWnMzVkE0QU9tWTZvU3ZsaktyRXNMM0NCbkw5QXJkaWt4UTRxbjhqRllYS1FSQlVnSG05d29GUTNIYkdmVFBEMEZWNVZuZDJnTWRkNnotcVJwaXlpZG9Bb9IBxAFBVV95cUxQbkw4YThnc1ZYdllZY0FuZm5fWjZzbXpFLWxCOTBlSEtnSlkyRlVoVzhPUVFKS3lHUEJ0ZV9ZWkFoRnRReFpOQ1VzeC1oR3hjeld5ajJoNGVaakxSX2ZhZWFZNmE4T1RRLUNOS2NIckJtb09TYUNuQzF5Q2xrV2V0R2ZVbmdDOXVLNnhRc0tCa1F6N3Jud29HWUlvcFpCb3R6cjdFU2NqZ2t1T2JYa1hwX0huYS1NRnNDVHNYYklWOGJWdVlK?oc=5",
     "title": "Coimbatore corporation gets new commissioner",
@@ -130,17 +142,5 @@
     "summary": "President, Vice President and PM express grief over Coimbatore road accident in Tamil Nadu",
     "summary_ta": "",
     "date": "May 26, 2026"
-  },
-  {
-    "id": "coi-may27-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVFnT01WTF93dl9YNW96MUo2bkVKU2RoUl9DSEtSbnNjSGpUSnZLRXJiUm0yU184ZExrVktFMEpzMEFEd2VoS0FEY3N6UFNkVkxURW15V01lWFpvSUdKemFaQ3JhSVVOYWFzb0ZsaEE2SWhPR0x1dWRqVmx6Tk1sTnRDTU9XN05neWlqN3ZjTTZsV2JvLTR1aGhQcnVBOWc4eDBobmFSdnNvM2ZXYjVYTUZtWUlPbWE4OVFLcUVoUUNES1h1dzllT0h2OUdVUVdCNUVOc245N3NVeE1LaXI3b0prbEdZd9IB7AFBVV95cUxOUVJLck9Gb0lXNTdTQzhRN1VsR1QzRjBfSlg3WW44dHN6RFlYNUdRdGlhREZFLTh0VE9CcHZzSTlPTEVRNk1SM3o3ZGUzdDRNa1F0VzU2S0dtUVlEYm5MRVJ0NlJqRmh0MmhvdWRIdDlwV3FqLWRyX0p2U2lLQW14RVloSHU4RDFzbXZtRjRPSS12enNpR0NuNmoyTHQzUWdMYUI0M1F5em1Fa3hSLU92MnJvYXpMOFJtZFloYUpYcVVqZVRVd3ZxTHVmaXRGOGFXZkxaNkptS1JLbXg3blh5c3RQRG1XNDdETk1Caw?oc=5",
-    "title": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
-    "title_ta": "",
-    "summary": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
-    "summary_ta": "",
-    "date": "May 27, 2026"
   }
 ]
