@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-may30-001",
+    "id": "sal-jun2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemNiWmw3WmpkeF8tVVdQRE5sV0pmTDI2eWxuTkRjbFlfWHduWUFPUEZpd3NVWDBSQVBiUF9KOFJ4d2xVNEljZFR2NmxaSmlNTERoTHBTakE4YkxNeTYtb3ZMY3M2RUtYbmdvTkFsRzdESFZKQUVGT2xkcFBHdEZYNzZacnpNdw?oc=5",
+    "title": "Okra farmers in TN’s Salem face heavy losses as prices crash",
+    "title_ta": "",
+    "summary": "Okra farmers in TN’s Salem face heavy losses as prices crash",
+    "summary_ta": "",
+    "date": "June 2, 2026"
+  },
+  {
+    "id": "sal-may30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDRDTWdoZ1YzaGJqcVFwR3BUdmlQdWNfMEFPdDR1VUtSMEJPYW40Y0VGSHd0MkZRdmF3RUtqY1M1emJxN29rVTFBZ0pyeVJGY3BCdXVRU19oR3ZuNkFxY3FGUWI1T0NkQWp4RjZqak12ek5FS0U4LUhyTFhyd1dBSUd1NnpURVgxejhweXZ0Y2xvcVVja0RtYXB2TnBNUnh3SmfSAacBQVVfeXFMT09Fd0ltYWxFdHNJNWhyT0ZRT3d4bDlrRWRTT3VBT3BNMjJtbW5YYTF0LWJDakxNeHFrMEp6bkhJSENyTWtCRkVuXzdQVU9hVkw4M2laTlFYdjQ0c0JmOHY0dmFzb0xObVAxVmFfN3FaYWFIQjh4elpvejc1QzVOS24taEsxcTN1VFhnNGtiem8yaUVhaEc0VXlJekNJeHFjblN5UmU2OUU?oc=5",
     "title": "AIADMK Celebrates Stronghold in Salem District",
@@ -10,17 +22,5 @@
     "summary": "AIADMK Celebrates Stronghold in Salem District",
     "summary_ta": "",
     "date": "May 30, 2026"
-  },
-  {
-    "id": "sal-may25-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbTFubHhLeURDRVJGeV91d3JpWmRtUzA3YUc3Q2g4bjZvUEhxcVhhVS1DZVFoblpaMF9CLW5QZmR3OGFuVUl3M21OdWg4eFJlZk1HN1VOSWJ5cVE4WnJLR2p6QzdqaGVpQlpUQWVfRXJiU051azl3TlZoWmdia0pzMXd1RDYwMzZzemlwSUZwaUxpNlZrTjk1bFBodVZSXzZTWEhlVTNDS1JzbE5nMkpYaG5mVGNIM3lOMmRZVHo1TFlRc3IzZno5SHBqQ0dqRmpWajZSdlU4MWhqc2M1cDJ1SEJXWjgxRU3SAewBQVVfeXFMUEpUb0VoOHRYa2NsOUdBMFNWQVMzcGNnRUtzdWw2M1BQeS1Pb1l1WFR6LXFRMTF4N1VYSFFTNHNDNmQzVWRZOUl5VEs4Zl9kQkJmU1Jsa25yRWhWWG1YWHgtd2NySGlsSjY3NGM3RkJBcDhDNnNISUlaUU9sb3VwdkFNb3FyM1pHeVRNdFVzZ2pvSENSaDhqRERTZWhQTkxnWTFjb1RjS21tUDhTQkFZTUdFNGZqeHozWWYwcUt6Yi1lQnBPMzhhWUtla2tmTy03OEFTb0JwYnhLM0VvNV9WLWhlT0tBZmFGSVlERjI?oc=5",
-    "title": "Elderly couple drown after car sinks in flooded railway underpass in Salem",
-    "title_ta": "",
-    "summary": "Elderly couple drown after car sinks in flooded railway underpass in Salem",
-    "summary_ta": "",
-    "date": "May 25, 2026"
   }
 ]

@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-may30-004",
+    "id": "coi-jun3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNG5sNnNCT3c0SHoyWko5YWs2dFZsN2tlaldSOTU0bkJ2QUJNNGZhMDJPVzl1UnFqdzlEV1FYUmkzRmc3N0lVSnBlNEM0SlBxY2tlOVlEMVFiTG4yeHBnYWY4bmR5bWN0ODNDNEV6d1lYS045VU1vTHRYMUhRZ1JSSkd2YlNSSnZYRnJHWjRrZUx5bWl2RW1iV19Bd3FJWlFtWi1CTU0yVzd1VnpMYzJWZzdTeWQ1ek9ZZWxUV2FxWFA1TkdDd1pvcEp4dG3SAdoBQVVfeXFMT0NTdVdNc1hvRkJtRC15bUZ3X0xJZG1HX0w0cEdtRlRiRkZITjlkV0pkRDdmR2Fkb3dhNUJ4U0VUbHVzQUhwR1ZadVlIUk40b2s0SF9ydDJNQmRFTjhaSkZteWlabGl2cUdsZ3JJUWpnbjV6OW5RQ3dBcmNHZjBrOGlGWWpNRW9TZXJGNG40NGp2M3JKMDhFWmtCX0dtR2RxX202X0Y1U2U5SWhBa3dqYThzZmo5Z2hUVzNLWE9LMWotV280LWEydlRJa2l3cUhYeVF1TUktT0N4U2c?oc=5",
+    "title": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
+    "title_ta": "",
+    "summary": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
+    "summary_ta": "",
+    "date": "June 3, 2026"
+  },
+  {
+    "id": "coi-jun3-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3pUX2NnTnZQekR5R2RHcS1NclZQUDZNQVcwc0Q2djFIRi1QT0owbDNRUVpCMmFDZW4wSVVFRHFVN0lQWmJTVktnczBHYUFKZjdZcGpKSXR5YnRacFJfcXdJMExhc3E3YXJld3BUQlNDdG15WUtUaEhUazV3eGRpOWpwZTFKelc5eGVhZkl6RWhRU044aGZiWURJclBjQWJPQnlUZw?oc=5",
+    "title": "Monsoon preparedness measures intensified across Coimbatore District",
+    "title_ta": "",
+    "summary": "Monsoon preparedness measures intensified across Coimbatore District",
+    "summary_ta": "",
+    "date": "June 3, 2026"
+  },
+  {
+    "id": "coi-may30-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMk9rdU0zR0hLTFZKaTJzTy1VQ1J5N2I2eDU1UGxNUmwzTlZvRV9kOW56cklmbUxnSGVXVXFwZTNhdmJka2lqN1FPQThOSlp5R0JraWd2OURwVVpFOUYwSHQ2MDB0WFNBWnMzVkE0QU9tWTZvU3ZsaktyRXNMM0NCbkw5QXJkaWt4UTRxbjhqRllYS1FSQlVnSG05d29GUTNIYkdmVFBEMEZWNVZuZDJnTWRkNnotcVJwaXlpZG9Bb9IBxAFBVV95cUxQbkw4YThnc1ZYdllZY0FuZm5fWjZzbXpFLWxCOTBlSEtnSlkyRlVoVzhPUVFKS3lHUEJ0ZV9ZWkFoRnRReFpOQ1VzeC1oR3hjeld5ajJoNGVaakxSX2ZhZWFZNmE4T1RRLUNOS2NIckJtb09TYUNuQzF5Q2xrV2V0R2ZVbmdDOXVLNnhRc0tCa1F6N3Jud29HWUlvcFpCb3R6cjdFU2NqZ2t1T2JYa1hwX0huYS1NRnNDVHNYYklWOGJWdVlK?oc=5",
     "title": "Coimbatore corporation gets new commissioner",
@@ -118,29 +142,5 @@
     "summary": "TN: Sports Minister Arjuna reviews facilities at Coimbatore's Nehru stadium, assures support to athl",
     "summary_ta": "",
     "date": "June 1, 2026"
-  },
-  {
-    "id": "coi-may31-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2N1MHJ5QmJWc0lpenF6MldNUHBiUzE3LXZzSzQ4bVNrTmlaeEdhU1k5OU92U05oTnlDSUNMODRJbWxSbXRXUU1XQkdkdHgtUmtMRUNVdmdEQXB5dmlFcjJ5RWhSdTBCZXlSLWlkQVpxS2ZmXy1aX1prc0RLRDdDZ3FHN3NmYVVsdEU2MExSUkhhTEU2RElDdWRic1c1UjNtWlcxNUgta1E1QjNaZXhUbGpn?oc=5",
-    "title": "Tamil Nadu Sports Minister Arjuna inspects Coimbatore’s Nehru stadium facilities",
-    "title_ta": "",
-    "summary": "Tamil Nadu Sports Minister Arjuna inspects Coimbatore’s Nehru stadium facilities",
-    "summary_ta": "",
-    "date": "May 31, 2026"
-  },
-  {
-    "id": "coi-may31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOHBMOUZDR3JULVdETldhTklTaTFRT1duQzdJZ1RvRWJ2anBaQl9VYVYxSWxrazlRYV9kQzhmNzZMTTdWUGpUUHhPZzNudlhfZXY5U1N5U25RdHNNZWFqbGhNUWlsWGktaEVjZ2t3R2tTemhXQUw2Q0Q1TjBqNmcwaHVsOUNwdW5hMDR0SWQ3d0p1TG9kZ2xMNy1GVUlndkNoN1NVdUdxZlQ0Zkc5bmdsaVZrZ1FLdnh0X1UwM2xBNXZ3Tko0MjBwRFR0Q1VPSnkxUEtkVGI5NzRWRjBTSGNYMW82Z2hXWmgw0gHvAUFVX3lxTE1ZYjhZUXdnbEJJWFJqVzVLTVIyWDdlNVV5QzNWOVBPLUFReHNObUl4OXRyRktPX0ZnbU9rTVFGSTc4d0xFYlNWeWx1amlZb0hBRV96Y3lZQUxSQmNmRGJ2UDR3cFNtdXlnemp5Y1NzSnVnbUU4RXZ5a21kb1FRRWZRaWdoRHRSVUc5clVFOHhpaWp6bkZaVk9PWk1iUnlBZS1aMDZwdloyalFjTGR3ajFzakZCRVUtM2ZWMUgtaHp0N3dCY0tMUS1kdDZQMkJGUC1jdVpoQTE0VnN2VEYwTFhsTjlmWHpsZ0hKdTBnOTBr?oc=5",
-    "title": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
-    "title_ta": "",
-    "summary": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
-    "summary_ta": "",
-    "date": "May 31, 2026"
   }
 ]
