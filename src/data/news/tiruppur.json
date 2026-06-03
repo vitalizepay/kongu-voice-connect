@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-may31-001",
+    "id": "tir-jun3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcFl1UmRla2ZsQUxNT2djM2pKa2VYcUk3emF5WDE1QjUyUEc5bmNVTmxGczRLbkM0NU9ZRlM3b1prOGg4YWRHNkFuRzBLRkhRYkxlRWQ1OTZJMzB4b1NRaU5HTUU5TmJmaHA4RHlSMXN0eFhldTVkeThNemd1QWFQUDEwR0Z5SHlzWjRNQkVfUWZZNnRaTWx3NjZIeVZEdmliR1R2SEF3SnV6YUdHbjQ3d1F6emJGT25GUDNUSFVvSjYxV2xMU2hCcGRpR2pYaS1mZGN30gHgAUFVX3lxTE5mQmV2cjdybTFxaGI3WWtjY1ZGTUZ0NzZRdEd6QXk5cG9vOHlFWGlEYW1ZNllzMHRUbTFMOWxmeUhkNlZpTHpibUd6ZlRtU3p4YS1UaEdEQnhFWTFVWDlTb2FLS1o2NEhkRlE0M21DYk9FZXMtZnBWU0VfLTczWHZTXzM3Z05XTzRqRWt3MVNfN2dva2pqWXdSZ0UxWHlPNzRqNkpmRTFQU1luajZRVWlDZnZwZzAzbXVaR0liVmtYVGdzVXBVMEpoWjNCSWdvLWw5azVkSGpWSlhwZ3NoRTNp?oc=5",
+    "title": "Yarn prices decline after months of surge bringing relief to TN's Tiruppur knitwear manufacturers",
+    "title_ta": "",
+    "summary": "Yarn prices decline after months of surge bringing relief to TN's Tiruppur knitwear manufacturers",
+    "summary_ta": "",
+    "date": "June 3, 2026"
+  },
+  {
+    "id": "tir-may31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ2VHTkRrcTliMWZrV1U3T3dvSW1SalpDV3VjeGdmUWFScEJkNE9meWk5SVhDUVpZUXgxbXU5ellTV2ZqOUw5WU5SbVBxVDczRGlubkhFN0pwMnJ5Z21BRS1yR0Rudm5Fd3cwQm4yYnhFamcxTGgyd2dfbWMtWUV1aEgxci0yMVRGRjBzYkFOZENqVmUwZzVHMURmbUw4eVNHUUdMcDhpWWYyQkdGWTlhNy1DOWdpYUM1djJvdk1ha3VqeGphc1hHOURGTWM0ZUE2Z3VXMWlB0gHjAUFVX3lxTFB4VE9ObUM0aFYzalpjWkY4TmUtWW4tSV9UNUZZUVZsZURhY2pkN2xIN1lkdmZwTW93dERpelR1ZjR6Undhd1NCbExiQVRNYVlpa2x6VVFmbTFFbUd0UVhGNkROekppblhpZ2I3RlJuY3RJWl9CN1hHOWFHUnVwYkwxeW1zSmRabU1LSnpPMjhPd0NoMjZpUGxEeVZIN3dtSmYwU1ZUUmttTFZnTGtoejFqY1NEVUg1RElHNURtTVQ1MG1jOEtmUHhRZU92azJtYmhvRjQxeExvUTc4MDFqTGZqTW00?oc=5",
     "title": "Bar on construction at Tiruppur temple without heritage panel’s nod: Madras HC",
@@ -10,29 +22,5 @@
     "summary": "Bar on construction at Tiruppur temple without heritage panel’s nod: Madras HC",
     "summary_ta": "",
     "date": "May 31, 2026"
-  },
-  {
-    "id": "tir-may27-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZ3pvNVRndGpjRFdtaVlpZjJhQXVCYWlybDMzbHFPbVBfVnhuYWlwcm16NWYzMlp5dGdyWVpJak9BWTFqalRScWt2bVp6cFBfYWZyNmtSYzF2M3A3NlV2Ymo1Q2hzQmhacGlFQ0lUMFRyUFNzNEtVMXFLTQ?oc=5",
-    "title": "Tiruppur, Tamil Nadu",
-    "title_ta": "",
-    "summary": "Tiruppur, Tamil Nadu",
-    "summary_ta": "",
-    "date": "May 27, 2026"
-  },
-  {
-    "id": "tir-may26-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEprNWhreXRMUlVINVdkeFdjYmhRbmtyNWJDdDNnV2xXbS1XN2g0ZUZnU2pvV2dzUEtMWDBGdXgxc1A1WHVvMkZlalF1THo1TzNxTVFIVGlFTXFYTW5fRHlKV3RYX1RCbndPRVdzOEFoNlpkemNrc05DVEFLNElnOURQZXVCU2MtQUo2NTBqSWFFX01SekRjZW8xTzLSAaIBQVVfeXFMT0E0c2tNYTdjQnVQYkJsY1NIWFg0ZzBXUUo0SEdCaW04U0NfS2MxMTlETnIwWlhCblhPOTBURktmRmRLa29tOFIzNXlZTWx2NVEtY1k5MEhBZmFiMVJRM0lCS2c3Z3V5a0xNZDI0dHRrUmE0TWpOSERDcXhsc1dmclVDZ3d5ZnI1bWl2YVdDUzQ1ZU5hcXZ4d0pkNk9LTWpNZ2VB?oc=5",
-    "title": "Just Now | சேலம், திருப்பூரில் டாஸ்மாக் ஊழியர்கள் போராட்டம் | Tiruppur | Tasmac Workers Protest",
-    "title_ta": "",
-    "summary": "Just Now | சேலம், திருப்பூரில் டாஸ்மாக் ஊழியர்கள் போராட்டம் | Tiruppur | Tasmac Workers Protest",
-    "summary_ta": "",
-    "date": "May 26, 2026"
   }
 ]
