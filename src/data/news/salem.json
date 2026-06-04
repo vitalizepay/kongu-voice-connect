@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jun2-001",
+    "id": "sal-jun1-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalN5OU8wSEMtUERKLUppTXBxX0M1MzM0aTVnZ2tCN0V3Ymo3OGZiUk5pTzNXZkZQTUtCcXpIaTRGdzdERkV0MzNhVmNBb25Jcjg3dzJFMXJQcGY2Mk1NbjMzXy12T056WURXTXdzLVRtYzlBbUd3MkVXN0lkUUFSemdnU0ljeHFkbzdzQXBhMTk?oc=5",
+    "title": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
+    "title_ta": "",
+    "summary": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
+    "summary_ta": "",
+    "date": "June 1, 2026"
+  },
+  {
+    "id": "sal-jun2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemNiWmw3WmpkeF8tVVdQRE5sV0pmTDI2eWxuTkRjbFlfWHduWUFPUEZpd3NVWDBSQVBiUF9KOFJ4d2xVNEljZFR2NmxaSmlNTERoTHBTakE4YkxNeTYtb3ZMY3M2RUtYbmdvTkFsRzdESFZKQUVGT2xkcFBHdEZYNzZacnpNdw?oc=5",
     "title": "Okra farmers in TN’s Salem face heavy losses as prices crash",
