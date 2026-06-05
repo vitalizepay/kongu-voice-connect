@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jun1-003",
+    "id": "sal-jun1-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qTTJ1YmZSR21HNlhaeXowRDJCM1p3ekFIVDRXVnkyNlJtUHR6eXA1eW1ONkRjWl9IMV9GQi05Yk4wTWhNLXV1d0E3cFRlZmgtVkVVVlJkeGwybTc0ejRkV1UzanU?oc=5",
+    "title": "Mettur Dam, Location, River, Capacity, Latest News",
+    "title_ta": "",
+    "summary": "Mettur Dam, Location, River, Capacity, Latest News",
+    "summary_ta": "",
+    "date": "June 1, 2026"
+  },
+  {
+    "id": "sal-jun1-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalN5OU8wSEMtUERKLUppTXBxX0M1MzM0aTVnZ2tCN0V3Ymo3OGZiUk5pTzNXZkZQTUtCcXpIaTRGdzdERkV0MzNhVmNBb25Jcjg3dzJFMXJQcGY2Mk1NbjMzXy12T056WURXTXdzLVRtYzlBbUd3MkVXN0lkUUFSemdnU0ljeHFkbzdzQXBhMTk?oc=5",
     "title": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
