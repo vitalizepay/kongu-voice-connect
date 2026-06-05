@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun4-002",
+    "id": "coi-jun5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZURaMnVZN0RNN1hsOW9YckhXM3pRR2pDZzRIbjh0MnZWNGpCY1pKbGVQWXd0TkNfU0VsTWtjcHFibUJwUno2UTh4MFVzN05Ra0hmd1pnNXgxVnpoblZ1RFByQi0zNE5xUWI5ajVfT2htdHpJSkNhU1FrMERMT08xU3N5bjhJRENoYmo1UlI4ZDllallFNDdncXYzaGVWTHoyREhIVS1peGVoc25aRU9Wb1BSM0twUWNMRmZhWmhqWUhuMWNFMEJZS196US0waTZhU1MwWUlUUXgxbkJPaXJ1ZVo2NFZqUdIB6wFBVV95cUxPVGtuVWV3M1hyMUczLVpURmhZZUNFNjZLUlBKRzJlVjNvZVRjYkZ4Zm9KUl9UWDFoVmNFalp5dk40U1pVU3dtaTUyVG9RbFpPWEY1NkUzSUE4aDRIdFlBVzk0WlZSR00wc0F1SGE3TkFKcXJRV3FUbHo0MV9DTU1hWGFfMnVicjJSOHZzaFpodUFzR2ZNc1FMQUZYMGJIaDlfTllvVnZ2ODRQb2xvVFRjLUNTUTZLdUN4dW9IVG9hZWs4V0NQb2xCLVYwbjY4YXBFTENldjNrX0I2cFhnOEc3TG9aTTRSV1ZDTkhZ?oc=5",
+    "title": "Cauvery Calling launches drive to plant 1.2 crore trees across Tamil Nadu",
+    "title_ta": "",
+    "summary": "Cauvery Calling launches drive to plant 1.2 crore trees across Tamil Nadu",
+    "summary_ta": "",
+    "date": "June 5, 2026"
+  },
+  {
+    "id": "coi-jun4-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
     "title_ta": "",
     "summary": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
-    "summary_ta": "",
-    "date": "June 3, 2026"
-  },
-  {
-    "id": "coi-jun3-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3pUX2NnTnZQekR5R2RHcS1NclZQUDZNQVcwc0Q2djFIRi1QT0owbDNRUVpCMmFDZW4wSVVFRHFVN0lQWmJTVktnczBHYUFKZjdZcGpKSXR5YnRacFJfcXdJMExhc3E3YXJld3BUQlNDdG15WUtUaEhUazV3eGRpOWpwZTFKelc5eGVhZkl6RWhRU044aGZiWURJclBjQWJPQnlUZw?oc=5",
-    "title": "Monsoon preparedness measures intensified across Coimbatore District",
-    "title_ta": "",
-    "summary": "Monsoon preparedness measures intensified across Coimbatore District",
     "summary_ta": "",
     "date": "June 3, 2026"
   }
