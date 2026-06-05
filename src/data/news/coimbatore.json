@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun4-001",
+    "id": "coi-jun2-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzRkMmVUdWtWMTVzeExSa0hOUUFFV3ZMMXVwUHdWMTlxUUdWOUlDMm00ZlFhWFk0dW44dnJQNXg2S1l6X3ZhV3ZRS0pmSE42VnpkVlhVWkxlSl81YUxIOGJrYXlKS01NQXRSVGx1alhDZTFZcDFnN2FUc0FkTmdCeGNTRXduUHpvdGI3RGNaUENmLTNuZFVtTEdfdFNjVW9SdWxoT3JBT3QwSFlRRm9neEF6bzM5cG0tdWFzSDd3cnd6YjhCVHdLalRhQXV3WS1Ea3pEOdIB2wFBVV95cUxNb3NTVjBic2U0WGVpMkw2NmhrQk5HcXQyN3pUeHBNQWx1Q19ndi1wTWVkcFRUa05XMDlocFJoZHVWaUFfT0xoWFlJVEpLenJpX05VRGwxdjNpVXFSb0pvcnFXdmlqRUlFdm5BclR0TVI0a1doX05fSVE2NEctaXpuS29ZX1gwQVRyZ21ueGxHMGZtRkRzVHowUjU2dkRYanFRcmxKTkZCaGthajVnRzJHSTViUUdZUTBqaVV2WWcyQ2Z0eWdkZ21felFoTGFiUS1QQndrU2RUb3hIZGc?oc=5",
+    "title": "Sulur sexual assault-cum-murder case: witnesses identify main accused",
+    "title_ta": "",
+    "summary": "Sulur sexual assault-cum-murder case: witnesses identify main accused",
+    "summary_ta": "",
+    "date": "June 2, 2026"
+  },
+  {
+    "id": "coi-jun4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkptQVBmRDkxOHlFQjdZdlNJdUxyVXdvVE1EV3Q2ZExLanVyTjVlWlpYaVJQWEw3OW5qdU5yWHhKU2tFazB4WDg3cjZvQ01NWkQ0bHhPejNDbmQ2cHF1OGs3UW5tdW5RUG1SSGJLb3QxOWhOMFJiT0tTd1V3Y3FIZXB0WGY4Rmo5SUpFQUJ6YlFWTlFIb1huRlp3akpFckJGMHJqZ2JURG9HeFFuQ2hNMjRUdGM?oc=5",
     "title": "India's L&T to invest nearly $2 billion in Tamil Nadu, state government says",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu farmers protest outside Coimbatore Collectorate over crop loan waiver slab",
     "summary_ta": "",
     "date": "May 30, 2026"
-  },
-  {
-    "id": "coi-jun2-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmhrWEUwY3N3ZmdvVWpUYzZfZ3o1djRPaEw0Y0p3RTlGS2xfRWpnam5Wbk9IaWdZSHA1TzNsbDlxNUpzN1p2RDVBNURZbzdxbV8tUGxyYzRYblJaN2Q4YkhVS3Z6Sm8zZ2NUb1c1V0tjbWFwOTd2ZkxIZlJlOXRfcDZpU2xlMlYzczV4bExNTnY0OTZnZjdmRlVVMzRWZ0VLU3RLanBQZnFCNXNiM1ExVGwwZFRLMm5fSXQxYkNEbTE5NTd3YlRXQzJnamg3Yi1DMVRYU0h30gHjAUFVX3lxTE1fSzA3bk9DYnN5QnlDM0dBMHlFaDZoalRCa0N5aGhHY0g1MFB3a2w0ZlZMT3BTTHBqd1FOTFRvMDBYWWNTTG5hc3dEMkZWR0FfTjBDNndRamZmbVZKNnhwZHNKcm56YXhZYjc1ckM2Z3BTUXZfZncta2ZWWXhHN0Z6WXhMY0RtRXN0SU1zaGFZa3Q0SmFTV3pzaDVQSVJuM3YteUw2THNkeDVWSGw1aDFta25OSnZDWlRndlA0TVJkTGQ1WkE3QzJfdk5OZEwtUTd2ck9WRXY2MzNwUHJhMXpfZ0t3?oc=5",
-    "title": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
-    "title_ta": "",
-    "summary": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
-    "summary_ta": "",
-    "date": "June 2, 2026"
   }
 ]
