@@ -1,7 +1,7 @@
 {
   "section": "Region",
   "section_ta": "கொங்கு மண்டலம்",
-  "updated": "2026-06-05",
+  "updated": "2026-06-06",
   "hero": {
     "id": "main-hero-auto",
     "title_en": "Gobichettipalayam election results 2026: TVK's Sengottaiyan KA beats DMK's Nallasivam by 16,620 vote",
@@ -12,19 +12,7 @@
     "date": "May 30, 2026",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80"
   },
-  "trending": [
-    {
-      "id": "main-trd-002",
-      "title_en": "Gobichettipalayam election results 2026: TVK's Sengottaiyan KA beats DMK's Nallasivam by 16,620 vote",
-      "title_ta": "",
-      "summary_en": "Gobichettipalayam election results 2026: TVK's Sengottaiyan KA beats DMK's Nallasivam by 16,620 vote",
-      "summary_ta": "",
-      "district": "Region",
-      "category": "News",
-      "date": "May 30, 2026",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80"
-    }
-  ],
+  "trending": [],
   "districts": [
     {
       "slug": "coimbatore",
