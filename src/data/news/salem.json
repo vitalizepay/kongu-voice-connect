@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jun1-001",
+    "id": "sal-jun6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVTFtQUVvR1pGcjF6NlJiSDBqeFo5WlJVVHdaOEQxSXBkMVd2WG5iTVo1Z18xOWxIZWM1THpPTVdUVDl2RWk1ZGhNZy10MkkyM01BdUk2MTVwVGRWZlZWMUlEbjJuS0NKUmR6ekVGRFNYQTdPdnJHVngxdjRRZ3BLb3dxNzFlbHJOVEZXcG9DUEVnVGFnRENiaWIwU2pLY091WGtsUFlXRHgxRXlQejZYT3o0LW5zQ0Zzb0Ryd1RtNWhIM1piLS1odFBmQjctX2PSAdQBQVVfeXFMUGR6Q2tfU0lRNmI1QWxNamV4ZTJneUl2d2diYUtHQ1lFVFg5UjUzQnloWUs4QVh0bEdEUEtKZVgtcXJCVVVXbkEtWDN2R1ozRnlldkpRd1RhSXNSdjdydEo2OVdjU0pEZWlxOHd3X1RNYUk0M3FOZEZVbEQ5c1FXTE84djk3NmxvZTB2dXJpdC1jelBNY0poTEFDZ2pIaXRIa2gtUmxjZ2FsNlJIeFR6VkNsYVBiSy1YSnU2b0ZTME91bXFSNzNmQmZKbzhVSkFRRU9uazk?oc=5",
+    "title": "20 injured as bus falls into agricultural field near Namakkal",
+    "title_ta": "",
+    "summary": "20 injured as bus falls into agricultural field near Namakkal",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "sal-jun1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qTTJ1YmZSR21HNlhaeXowRDJCM1p3ekFIVDRXVnkyNlJtUHR6eXA1eW1ONkRjWl9IMV9GQi05Yk4wTWhNLXV1d0E3cFRlZmgtVkVVVlJkeGwybTc0ejRkV1UzanU?oc=5",
     "title": "Mettur Dam, Location, River, Capacity, Latest News",
@@ -34,17 +46,5 @@
     "summary": "Okra farmers in TN’s Salem face heavy losses as prices crash",
     "summary_ta": "",
     "date": "June 2, 2026"
-  },
-  {
-    "id": "sal-may30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDRDTWdoZ1YzaGJqcVFwR3BUdmlQdWNfMEFPdDR1VUtSMEJPYW40Y0VGSHd0MkZRdmF3RUtqY1M1emJxN29rVTFBZ0pyeVJGY3BCdXVRU19oR3ZuNkFxY3FGUWI1T0NkQWp4RjZqak12ek5FS0U4LUhyTFhyd1dBSUd1NnpURVgxejhweXZ0Y2xvcVVja0RtYXB2TnBNUnh3SmfSAacBQVVfeXFMT09Fd0ltYWxFdHNJNWhyT0ZRT3d4bDlrRWRTT3VBT3BNMjJtbW5YYTF0LWJDakxNeHFrMEp6bkhJSENyTWtCRkVuXzdQVU9hVkw4M2laTlFYdjQ0c0JmOHY0dmFzb0xObVAxVmFfN3FaYWFIQjh4elpvejc1QzVOS24taEsxcTN1VFhnNGtiem8yaUVhaEc0VXlJekNJeHFjblN5UmU2OUU?oc=5",
-    "title": "AIADMK Celebrates Stronghold in Salem District",
-    "title_ta": "",
-    "summary": "AIADMK Celebrates Stronghold in Salem District",
-    "summary_ta": "",
-    "date": "May 30, 2026"
   }
 ]
