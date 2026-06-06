@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jun5-004",
+    "id": "coi-may31-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOHBMOUZDR3JULVdETldhTklTaTFRT1duQzdJZ1RvRWJ2anBaQl9VYVYxSWxrazlRYV9kQzhmNzZMTTdWUGpUUHhPZzNudlhfZXY5U1N5U25RdHNNZWFqbGhNUWlsWGktaEVjZ2t3R2tTemhXQUw2Q0Q1TjBqNmcwaHVsOUNwdW5hMDR0SWQ3d0p1TG9kZ2xMNy1GVUlndkNoN1NVdUdxZlQ0Zkc5bmdsaVZrZ1FLdnh0X1UwM2xBNXZ3Tko0MjBwRFR0Q1VPSnkxUEtkVGI5NzRWRjBTSGNYMW82Z2hXWmgw0gHvAUFVX3lxTE1ZYjhZUXdnbEJJWFJqVzVLTVIyWDdlNVV5QzNWOVBPLUFReHNObUl4OXRyRktPX0ZnbU9rTVFGSTc4d0xFYlNWeWx1amlZb0hBRV96Y3lZQUxSQmNmRGJ2UDR3cFNtdXlnemp5Y1NzSnVnbUU4RXZ5a21kb1FRRWZRaWdoRHRSVUc5clVFOHhpaWp6bkZaVk9PWk1iUnlBZS1aMDZwdloyalFjTGR3ajFzakZCRVUtM2ZWMUgtaHp0N3dCY0tMUS1kdDZQMkJGUC1jdVpoQTE0VnN2VEYwTFhsTjlmWHpsZ0hKdTBnOTBr?oc=5",
+    "title": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
+    "title_ta": "",
+    "summary": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
+    "summary_ta": "",
+    "date": "May 31, 2026"
+  },
+  {
+    "id": "coi-jun3-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3pUX2NnTnZQekR5R2RHcS1NclZQUDZNQVcwc0Q2djFIRi1QT0owbDNRUVpCMmFDZW4wSVVFRHFVN0lQWmJTVktnczBHYUFKZjdZcGpKSXR5YnRacFJfcXdJMExhc3E3YXJld3BUQlNDdG15WUtUaEhUazV3eGRpOWpwZTFKelc5eGVhZkl6RWhRU044aGZiWURJclBjQWJPQnlUZw?oc=5",
+    "title": "Monsoon preparedness measures intensified across Coimbatore District",
+    "title_ta": "",
+    "summary": "Monsoon preparedness measures intensified across Coimbatore District",
+    "summary_ta": "",
+    "date": "June 3, 2026"
+  },
+  {
+    "id": "coi-jun5-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTdYVGg1cEpWMlUtQjU1c0QtZ1pmVkt3TGc0OVVMQ180cm4yRVRtbGtwbk1iLVp6V2xsM0dpZk5TWmJZVFVaTzlaMnN0T0ZZX1YyNmV5QUQ3aFM5RkZpYTFiVml0a29mbG4tYmtXdHl3Mmw4clJQNXJ0ZmNLY281b0MxUUxIMWZBQXhZbHpCXzdUR0dzajFod3VYZDBpeUJBOGlVbTAxSGFXZE5xYVNNR0Y4STFKRDlRSmfSAcABQVVfeXFMTXJ6c0Z3Q0lKU3UzR2I2eWptQ0RvNEZrRHFEMzZTZUd0NzZtWXdKVGlsM1p1djNtZ3hhdC1XaVhzaURaMk5uVXV0dHJUVFE3OWlsaVVsLWFJa3R3czlRUHRCQ1pvLWp1djU1NjlwRWZPYWJyNmYtZldUVjFlRzFWQV9qbndtVV9kOUxScGFBVFUtQWZQRm5WWEoxczZacEVLMDFfUkkwb3RlbVF3NDhjTFRIZHBWcWxmTGt3MnBNLU1P?oc=5",
     "title": "717 Tasmac liquor shops closed across Tamil Nadu",
@@ -118,29 +142,5 @@
     "summary": "Is BJP's Annamalai launching new party in TN? Posters across Coimbatore spark buzz",
     "summary_ta": "",
     "date": "June 1, 2026"
-  },
-  {
-    "id": "coi-jun4-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
-    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "title_ta": "",
-    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "summary_ta": "",
-    "date": "June 4, 2026"
-  },
-  {
-    "id": "coi-jun4-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb0VGbWJoWXZLSVF5Q3VaaUp6VzJWbGtFckdCTVJSTFplQ0FlRXdpNXoyYm16SHc2bHFYOHF5MmVWdy1Jb1FXOWNiSGl5LU9fSG54c3ZYSEUyWDFqWFB5cGtQaVRJLVB4MUllakZfdHZOeXhuQ2xvbjRCeGVEMnRrYW1TR1FyM214d3huWHpvQm9ZaUg5Y1NNb3RBajVwVzF2Smh1eDNKdHkzamR4cTVQRW4wck53b2FMNmpXUkFCN2g5NmdCclJjaHhlR0ZUdTEzWm92Rg?oc=5",
-    "title": "Coimbatore MSMEs Urge Tamil Nadu Govt To Restrict SGST Section 74 Notices To Only Fraud Cases",
-    "title_ta": "",
-    "summary": "Coimbatore MSMEs Urge Tamil Nadu Govt To Restrict SGST Section 74 Notices To Only Fraud Cases",
-    "summary_ta": "",
-    "date": "June 4, 2026"
   }
 ]

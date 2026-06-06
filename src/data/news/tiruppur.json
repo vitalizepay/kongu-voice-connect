@@ -1,8 +1,44 @@
 [
   {
-    "id": "tir-jun1-003",
+    "id": "tir-jun6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaVlkM1ltcGV0anA0MHFGQUV5Y3lTbWhrTThZZENsbzR1RU4wM3hodlpUeGgzdUk0ck1QQm9sLVhQMHJmOWdxcnUyWE14eDhVSVRla2l4UmxtbUl1SVkweGV0VWNtRE9qU1Fta0NiRTNzTlludjFkLUNqRW01VUxmeVNRRXd0bFRFS0dzaG14YVFrd1hzM2tyVWFFbTh6SGVDU1g5U1NKM2kzNVJaS1NpTzA5MjFtVlV5N3dQeXVyelpnUGk4VU1fajE1NkYtOWkwNVNsSFVLSVEzdGd4cUFxblFLZ3IwZlp3N3BISWZEMnduSFBy0gH0AUFVX3lxTFBpWWQzWW1wZXRqcDQwcUZBRXljeVNtaGtNOFlkQ2xvNHVFTjAzeGh2WlR4aDN1STRyTVBCb2wtWFAwcmY5Z3FydTJYTXh4OFVJVGVraXhSbG1tSXVJWTB4ZXRVY21ET2pTUW1rQ2JFM3NOWW52MWQtQ2pFbTVVTGZ5U1FFd3RsVEVLR3NobXhhUWt3WHMza3JVYUVtOHpIZUNTWDlTU0ozaTM1UlpLU2lPMDkyMW1WVXk3d1B5dXJ6WmdQaThVTV9qMTU2Ri05aTA1U2xIVUtJUTN0Z3hxQXFuUUtncjBmWnc3cEhJZkQyd25IUHI?oc=5",
+    "title": "Poultry farmers in Tiruppur urge State govt. to emulate Karnataka in revising rearing rate",
+    "title_ta": "",
+    "summary": "Poultry farmers in Tiruppur urge State govt. to emulate Karnataka in revising rearing rate",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "tir-jun6-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzVyaWZYNWgyMVVndnV0V3pheXpMWGh0bjBqU0ZTZzlDUG1wVmxvUVN2c212SXdwODJnZHg1Z0FRZGxkSnBjRFRjcEdIczVPYW9VSm9TdE0xdkhuY2FhN2FoaUNtNmlrODFqQ0hUY2FQT25SYjk1M1dSSmU5S3FKbQ?oc=5",
+    "title": "IDream Tiruppur Tamizhans Cricket Team matches, scorecards, news and statistics",
+    "title_ta": "",
+    "summary": "IDream Tiruppur Tamizhans Cricket Team matches, scorecards, news and statistics",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "tir-jun6-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDBFLXZUcnJiSzN1VFIxeHFSY25vS2VMMGdKUTdSNVh5REdqTDZJME5acU1hdHFBNjRBZDNBUVNiVlNuUjBDZE9kM1F4QVE4X1MxbGU2MEo4cVUtaF9SckZ1N2l6YWUtdlA5T2JxQW1VMVJValQxU09SWUJFbXNRVUZkZFdoYU1YTmU5dnE3M1U5RUdoRlg0aGdoQ3k0aTNrYXN1Yjg1dS0wQklPa21TRjVlQU5LWWhsS2FyU250UFJ5MzU5NGdJSVdUVi1FaTJlOGVVQTN0ZEdnQWU0QVl5NGY0azhUSjNRLXpldE4xamRhZHUzYXNMOXFPdDVEVXfSAf8BQVVfeXFMT1AwRS12VHJyYkszdVRSMXhxUmNub0tlTDBnSlE3UjVYeURHakw2STBOWnFNYXRxQTY0QWQzQVFTYlZTblIwQ2RPZDNReEFROF9TMWxlNjBKOHFVLWhfUnJGdTdpemFlLXZQOU9icUFtVTFSVWpUMVNPUllCRW1zUVVGZGRXaGFNWE5lOXZxNzNVOUVHaEZYNGhnaEN5NGkza2FzdWI4NXUtMEJJT2ttU0Y1ZUFOS1lobEthclNudFBSeTM1OTRnSUlXVFYtRWkyZThlVUEzdGRHZ0FlNEFZeTRmNGs4VEozUS16ZXROMWpkYWR1M2FzTDlxT3Q1RFV3?oc=5",
+    "title": "T.N. SC/ST Commission seeks detailed report on conservancy worker clearing human waste in Tiruppur",
+    "title_ta": "",
+    "summary": "T.N. SC/ST Commission seeks detailed report on conservancy worker clearing human waste in Tiruppur",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "tir-jun1-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNQ0VqZ3YydXR5c2JNY2xzTEowWEdtUHlmNHBaMTV2eEhTSENaMDVLT0FPSV9kVmRiWHhuWEQ0VGVaQnFnb05aeUplVmNneEZmOElKYjUxLTI0U2JSMFVfcmRZNjZDTDBIcUFidE15cFRZMTl4NmVENjJCdGdrRlpzOHFqWnBVSFRVUGM1bWx3Rmx5WWFVcEF6MmtlRE04Z2ZLbzQ2MTVoZWU5OWhURUdsUUw1c2xKMGRvSlF0LXZXWDFGcjdOVUdySnZRdURCelZSOEhnbjVFUWVhTVEwa1QxWnUwSWVnOGVlMzZjVHNCSGUzTldZZEtUX29FUnVPOTNDSEFMR3NMMnFkZ3FEZkxNTEtxVWNsMjBhT1EwczZUdWJQYnp5UlVtSzFoSGZyQTE5WDZzYzlzZldQX05UYzFMdDdNSEdMYzhORE1PYzUwdnRfNHljeWRtYm1zdDdIVC1sYjgydlpTV1M1NHFkUU43eFpXUGM2WWlXajR6bWdTODloeGdMa1Z3UTF5bmNWVUsyMG1PcQ?oc=5",
     "title": "Tiruppur (North) constituency election result 2026 live: Check live updates in Tamil Nadu's Tiruppur",
