@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun3-001",
+    "id": "kar-jun6-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVk1VE9FenNYRkVYa2U1TF9vbTdwLWtjaGU3LW14Z2JCSDVlbE5XdjBXeUJWWEFpWkcwZU5LbVltbFZLV3l0SW9NYUlDUjcxMnp3bE5ua3k0Qm9pTDRKN1dTT0FfZGRmUGdHenQ3UGswN0dHeTNGREdVU0JKdHdKZXJZVzJRcEJETVJlS1NHLS1RcGZwbjhfMTFiX2hSeG5yZnEwUkI5ZW9YNGRMeHB1OTI1ckVBX2xJRUNzNjk1Z1FWYXZU?oc=5",
+    "title": "Trichy–Karur highway widening moves forward as NHAI begins detailed survey",
+    "title_ta": "",
+    "summary": "Trichy–Karur highway widening moves forward as NHAI begins detailed survey",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "kar-jun3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWVoU09FUFhoOEY3MldMZ1dYU3B2T3Q2MTFWQWMwYzM3QzMyUUlqVmhEbEo5NDZMMkprSkV1a2lWNW9uTHAxb0ZlNzhoUjFWSXFvUGE2bk1qVEp4M2h1VHRab1ZScjdsaHdXYmpHZDVQa2VYYmFndUp5UU4zUmNfOW9NOGxSZ2praUIwTWsyYUUzODJEcFE?oc=5",
     "title": "5 killed in tragic accident on Karur-Trichy highway in Tamil Nadu",
