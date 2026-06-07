@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jun6-001",
+    "id": "tir-jun7-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbWRENFIwVExxeUZpSm1fSDJTZGNGeW9OeWIzSHBqUDFfSGlNVVJPUGdnUnJPejIzOGxzWGlYRDB1RHY3VmRiU3NKb1N1VWFVNWp0NnZqTlhuWWlOQzQxY29TczVha2V6eUFEQTRfNm5tazgtbF9uX1ctb2dpRW5SSkcyLXkxempFZ1Z0VDkyc2Jta0Q0UndyS3kwckJPd3poUEJNQ1JnUTdNQUpHTzZFWGlqT2JyRTU5eGJ4ckp5b1VLeDBKbndfclAxN21sblRUaEM2VGlrb1NtcUp2aWYzVi1SMjE5NDU4NjVoYXJvR3HSAfYBQVVfeXFMTlJlM2tScjRrTnZZSWV1dXBCNloyUE1ZVm5PaGFTU20wamlfWlRZZEp6MDdjVU9Tb3lYTEppWjJHNDFqSnI1RzZ4WEprOXJsZ1llYVJJU2dWQ3c2WDdFcDVtUzhrVjJ4c1hEdXh5SUtWUDVkRXpSNmJpbVExb2ZWUzZuSEIzRkNyckhxSHFZcXVBOGNMLWxJTGoxY0ltcjcwT0RjM1k1eWtzdExuVDgxS2RqbTBiODdQUVJVSEh5ZGF5Zk1TX3pnbzVCY001dmkxbmk1eWxjMlZsRjJBQ3JnUXpleWRyNEwzc3U0WGo0NVFyQ0pMLXVB?oc=5",
+    "title": "DMK's Stalin says Vijay's TVK government may not last even three months | India News",
+    "title_ta": "",
+    "summary": "DMK's Stalin says Vijay's TVK government may not last even three months | India News",
+    "summary_ta": "",
+    "date": "June 7, 2026"
+  },
+  {
+    "id": "tir-jun6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaVlkM1ltcGV0anA0MHFGQUV5Y3lTbWhrTThZZENsbzR1RU4wM3hodlpUeGgzdUk0ck1QQm9sLVhQMHJmOWdxcnUyWE14eDhVSVRla2l4UmxtbUl1SVkweGV0VWNtRE9qU1Fta0NiRTNzTlludjFkLUNqRW01VUxmeVNRRXd0bFRFS0dzaG14YVFrd1hzM2tyVWFFbTh6SGVDU1g5U1NKM2kzNVJaS1NpTzA5MjFtVlV5N3dQeXVyelpnUGk4VU1fajE1NkYtOWkwNVNsSFVLSVEzdGd4cUFxblFLZ3IwZlp3N3BISWZEMnduSFBy0gH0AUFVX3lxTFBpWWQzWW1wZXRqcDQwcUZBRXljeVNtaGtNOFlkQ2xvNHVFTjAzeGh2WlR4aDN1STRyTVBCb2wtWFAwcmY5Z3FydTJYTXh4OFVJVGVraXhSbG1tSXVJWTB4ZXRVY21ET2pTUW1rQ2JFM3NOWW52MWQtQ2pFbTVVTGZ5U1FFd3RsVEVLR3NobXhhUWt3WHMza3JVYUVtOHpIZUNTWDlTU0ozaTM1UlpLU2lPMDkyMW1WVXk3d1B5dXJ6WmdQaThVTV9qMTU2Ri05aTA1U2xIVUtJUTN0Z3hxQXFuUUtncjBmWnc3cEhJZkQyd25IUHI?oc=5",
     "title": "Poultry farmers in Tiruppur urge State govt. to emulate Karnataka in revising rearing rate",
@@ -82,17 +94,5 @@
     "summary": "Yarn prices decline after months of surge bringing relief to TN's Tiruppur knitwear manufacturers",
     "summary_ta": "",
     "date": "June 3, 2026"
-  },
-  {
-    "id": "tir-may31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ2VHTkRrcTliMWZrV1U3T3dvSW1SalpDV3VjeGdmUWFScEJkNE9meWk5SVhDUVpZUXgxbXU5ellTV2ZqOUw5WU5SbVBxVDczRGlubkhFN0pwMnJ5Z21BRS1yR0Rudm5Fd3cwQm4yYnhFamcxTGgyd2dfbWMtWUV1aEgxci0yMVRGRjBzYkFOZENqVmUwZzVHMURmbUw4eVNHUUdMcDhpWWYyQkdGWTlhNy1DOWdpYUM1djJvdk1ha3VqeGphc1hHOURGTWM0ZUE2Z3VXMWlB0gHjAUFVX3lxTFB4VE9ObUM0aFYzalpjWkY4TmUtWW4tSV9UNUZZUVZsZURhY2pkN2xIN1lkdmZwTW93dERpelR1ZjR6Undhd1NCbExiQVRNYVlpa2x6VVFmbTFFbUd0UVhGNkROekppblhpZ2I3RlJuY3RJWl9CN1hHOWFHUnVwYkwxeW1zSmRabU1LSnpPMjhPd0NoMjZpUGxEeVZIN3dtSmYwU1ZUUmttTFZnTGtoejFqY1NEVUg1RElHNURtTVQ1MG1jOEtmUHhRZU92azJtYmhvRjQxeExvUTc4MDFqTGZqTW00?oc=5",
-    "title": "Bar on construction at Tiruppur temple without heritage panel’s nod: Madras HC",
-    "title_ta": "",
-    "summary": "Bar on construction at Tiruppur temple without heritage panel’s nod: Madras HC",
-    "summary_ta": "",
-    "date": "May 31, 2026"
   }
 ]
