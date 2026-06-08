@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun6-005",
+    "id": "coi-jun8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmFrSENkd0JjTGdoX01qaEhvMG1NY1ZXdS1MNGhyZDdWdUNTcnd1SG9HRHgzN2xHaWlNX2R0SHdjbzhDQlpsdnF6UFBkelRfYk1OeElwRlgwT2IwZGtRVFQ5SnFxSXJGVFR4MlRacDNXbkxQUTNkb25zLUdhUzVsd19zcXF0dkNsRjZMSkFSdzJvT1Y4OTVPbXpR?oc=5",
+    "title": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
+    "title_ta": "",
+    "summary": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "coi-jun6-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM0hUMzlQZWJwNjI2OE03elc2eXRWVTFmbmVmenAyaDZxbE5Xc1B1YTI2Nk9WamxHdlMwUFFFRFU5bkdBZFNnaHcyWHF5ZGVtS05oN2JndktHODQ4MlU2UUNlQ1A4OUhHbDJ2aERDaWd3SklXS2NvbVJiR2d4UGFKZDJJMi1HRk84V1lDdXEtQlJ4Ym1kTU9MUlN6eFA3UFZfSGFxcnAwZWhmek1RVXVRdW9FWVEtSTdXRm5Bb1BxTVpRek5INmltSEZoUDVfMHVSRWxfYWo4T05nZ0phT3dPSzhHSjlVYmZoV1ZFckh4ZDFIZ1dYbnZpVmF5TzJsWHlta2FJcEtn0gGLAkFVX3lxTE4yaFlUaUt3SWttOGdjeGl4bUh2OXltbVNyRUowVnJxVGtVR2ZYNXN3RmwxT0VJTGF5Z21QcWZWQ3RFelFqRE1CaFZ0MU5vZE5US1F4T0NEbFd5SDdYQTltS3N4d3V0QWplMHkwVUFLeHB4czZ0NmVPd25SUE9DQ2k0Q21WemVpcjB2a19vOG5lbGY0VXFoM1l5dnVJWFQtemJKN29nZVMtNGs2VGVHZEFMTE5VemRaQ2xzT1MybFlGWFpJVGlPbVdWT3lCbXNaVzhjd2NZQlI3VVBOeHhLUjdQbllmaDJobWtySnZpTEE5OExYUkt1aDhmbmpJVGNyU3VBa3hRWWx2WVRhcw?oc=5",
     "title": "Bus services restored to dalits populated Anna Nagar in Coimbatore after ‘long-standing’ caste issue",
@@ -130,17 +142,5 @@
     "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "summary_ta": "",
     "date": "June 4, 2026"
-  },
-  {
-    "id": "coi-jun2-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmhrWEUwY3N3ZmdvVWpUYzZfZ3o1djRPaEw0Y0p3RTlGS2xfRWpnam5Wbk9IaWdZSHA1TzNsbDlxNUpzN1p2RDVBNURZbzdxbV8tUGxyYzRYblJaN2Q4YkhVS3Z6Sm8zZ2NUb1c1V0tjbWFwOTd2ZkxIZlJlOXRfcDZpU2xlMlYzczV4bExNTnY0OTZnZjdmRlVVMzRWZ0VLU3RLanBQZnFCNXNiM1ExVGwwZFRLMm5fSXQxYkNEbTE5NTd3YlRXQzJnamg3Yi1DMVRYU0h30gHjAUFVX3lxTE1fSzA3bk9DYnN5QnlDM0dBMHlFaDZoalRCa0N5aGhHY0g1MFB3a2w0ZlZMT3BTTHBqd1FOTFRvMDBYWWNTTG5hc3dEMkZWR0FfTjBDNndRamZmbVZKNnhwZHNKcm56YXhZYjc1ckM2Z3BTUXZfZncta2ZWWXhHN0Z6WXhMY0RtRXN0SU1zaGFZa3Q0SmFTV3pzaDVQSVJuM3YteUw2THNkeDVWSGw1aDFta25OSnZDWlRndlA0TVJkTGQ1WkE3QzJfdk5OZEwtUTd2ck9WRXY2MzNwUHJhMXpfZ0t3?oc=5",
-    "title": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
-    "title_ta": "",
-    "summary": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
-    "summary_ta": "",
-    "date": "June 2, 2026"
   }
 ]
