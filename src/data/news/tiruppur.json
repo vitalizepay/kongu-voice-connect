@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jun7-001",
+    "id": "tir-jun7-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXFXaW9wa2s0WFFOci12aGdyZTlXcWI0Wnhqa0FMQUxJZGFfUUpYWGtvQTB6cVJVaWd2SVVIUTJEdnlGbWd3Tnp3cUp1ZUtFa3FVTTNwWWpQNTdTYjBySTJUczRRRklyQnhrcml5dzZheE53d05WZmhxWEtUVzRJb1NZc0c5VUtDMTJ1UnZCLU54eFdiVmZyaEFYU0trUTZpWXlkSmdaT3Y1eldYdDF2MEVCTGk0SWhQUG1OUUE4cUxiZ9IBxwFBVV95cUxQRWRKeFYyUnRGd1duM1dkTHh3LWM0aFU5dGE4d01vR1o2MXVjUHRUM3B1dU8xNDF2STdyY3dFeGs4ZGd0YXJqMmx4SHlrZ2dTTVMwbnVTR0k3NWhyZ3BsaDU1OEFFTTlnNmkwNDFtN3JSTmlBdkRRSHFJTHN6SEotQm1pdG5KZzA2WnZWd3lTWlZ1Q2Q2NjQ1U19hR0hPdXgzMllMQ3hvNGxkWHlGZFl3YzNLQWwtRU9tVUFxeEJWZV9WQnlDRmJR?oc=5",
+    "title": "TN ministers identify key projects in Tiruppur, focus on pollution",
+    "title_ta": "",
+    "summary": "TN ministers identify key projects in Tiruppur, focus on pollution",
+    "summary_ta": "",
+    "date": "June 7, 2026"
+  },
+  {
+    "id": "tir-jun7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQak9IMFB6Uk9CMGpVWlpHMXlhTmh0UUk1eU45QnpveFJ1dF9jNmFycGRuVk05c1A1ajJEODY4bzRMbDIweGw0QnZYWFBvTGVCOXNvanROS3pFaV80b2owQU1GdldyYm9zZktZdUs0dV9MS255VFRVeHl3cDJDbUNabmFRRV9qMmViYjEtZ1Bsc1ZhbnlNYVRsTGFWTzgxRFFpb2otVXJXM0l2dWRBZDFQblN4Z1hWMnRPTG1SMzZNd19lYm1vS3RFX1NoTW9BNHlYNE9nc1NnMnVVOG5iSndn?oc=5",
     "title": "Tamil Nadu Ministers review development works, assure action on long-pending issues",
@@ -58,18 +70,6 @@
     "summary": "T.N. SC/ST Commission seeks detailed report on conservancy worker clearing human waste in Tiruppur",
     "summary_ta": "",
     "date": "June 6, 2026"
-  },
-  {
-    "id": "tir-jun1-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNQ0VqZ3YydXR5c2JNY2xzTEowWEdtUHlmNHBaMTV2eEhTSENaMDVLT0FPSV9kVmRiWHhuWEQ0VGVaQnFnb05aeUplVmNneEZmOElKYjUxLTI0U2JSMFVfcmRZNjZDTDBIcUFidE15cFRZMTl4NmVENjJCdGdrRlpzOHFqWnBVSFRVUGM1bWx3Rmx5WWFVcEF6MmtlRE04Z2ZLbzQ2MTVoZWU5OWhURUdsUUw1c2xKMGRvSlF0LXZXWDFGcjdOVUdySnZRdURCelZSOEhnbjVFUWVhTVEwa1QxWnUwSWVnOGVlMzZjVHNCSGUzTldZZEtUX29FUnVPOTNDSEFMR3NMMnFkZ3FEZkxNTEtxVWNsMjBhT1EwczZUdWJQYnp5UlVtSzFoSGZyQTE5WDZzYzlzZldQX05UYzFMdDdNSEdMYzhORE1PYzUwdnRfNHljeWRtYm1zdDdIVC1sYjgydlpTV1M1NHFkUU43eFpXUGM2WWlXajR6bWdTODloeGdMa1Z3UTF5bmNWVUsyMG1PcQ?oc=5",
-    "title": "Tiruppur (North) constituency election result 2026 live: Check live updates in Tamil Nadu's Tiruppur",
-    "title_ta": "",
-    "summary": "Tiruppur (North) constituency election result 2026 live: Check live updates in Tamil Nadu's Tiruppur",
-    "summary_ta": "",
-    "date": "June 1, 2026"
   },
   {
     "id": "tir-jun3-001",

@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun8-002",
+    "id": "coi-jun8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "coi-jun8-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMlVjVmJ3Z2NGZ1BIa1V6VW56aDJkOGhua2tOaXVheW9KTnU1T2dpZ0JvTW9rMTJGTElTUDlxdUFsYktCeVhVc01LX25Da0JIRmVfLWdHMzV4MzFrcHpsVXJ6Wkh0dVFPRjh0N2tVRWtLTElIc1RmalVMWHNDcVV5TjYzN1pVZUtHWlVQS1Jyd3o1OUxqWUVUbm9HU0NCc2plUlpxcWxkdng2aWdYbWpHT0NmQ3EyR3l2eVRaaFJQZng1bFlGUHNGWmpNU0pYOEZ5X2s3TUtraEFjMHRPVkdPalFMLTFRNjdtb3MwQW4tMUNsY3FI0gH6AUFVX3lxTE04OHVDczZHZlVLSV9GNUR0cHQ1azJVZWo3SFNTYXRwVDdPOU5PTEpSdkR5dzlBYW9wWkdwWjJJbVZxUlZ1Z1ZlQTlaRXpEWW45ZmtJQTBhd2xEZ3pQVkRta19CanpjSFdMTWFfWkVIaVk1akdBTDU5U2o2NHc4a0ZuWVZ5UzI3alJzc252UlJtMjFQcU10NXl3bXJhYUNFN1NOT1FLaEg4aWw0bTZzVmhRQk03bHY5Q2pZUFNEOFUwSHo0NWloTVpqRy1neVNJeXFqem1IYzU0ejJlMXpyUFNrMWdYSXBXdDVUXzgxMnN2XzdUY1dtNmFsMHc?oc=5",
     "title": "Tamil Nadu Farmers Association protests imposition of taxes on agricultural tractors",
@@ -130,17 +142,5 @@
     "summary": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
     "summary_ta": "",
     "date": "June 3, 2026"
-  },
-  {
-    "id": "coi-jun6-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUm5GSFFDYjdackZzVEVRX0NrSXpSc2NZdWJmS3JwbnNUakZjYkREVExkeWRhMzdoSERSRlNvOU5DVDYta1AtVWlrM2wxOTJKamcxWWtwU2phRUhEQ0RNX2k1T2theUxVdHh0LWdVVXlyeEdwbmZIVThPOU41M1NDRFRmOVMyZHBWNTZYbU5VTjhjMkprbTNOdFdiMFlmNm1Kd1RIMEEwNE1iZkw0YmlxMWRsaGJiWnROVzdOajRVNkxuUnVrNWtXTjV0ZGRUUW9idWRlTkxaUktaRVAwUHFJTEJSWl9mWkIwSGhJS3hiZFdPc2Nva2hWMUhjeDBLUl9VajZUSURUQS1sbG52Tm5Kc3YzUk9LQV9aRGFpS0xoQzBtUW5FdWFkR3BtZmRmX2dVTUh2Zm1XamNmNzQ2dnFVMHB1ekNPVDY1aklUbWtieWN5OXpzUFHSAdsCQVVfeXFMTzVlcGJmT3FwbHNpMGd2eWtWaUFjSi1ONEV1MHFfMlFUX25BUHBpdXktVzkxM1ZvQUZxRWdXdVpnaTQ2TmdNNk5uSERKUzhGcEF1OTkxY0ZTYWFDX0o4Rjdzd0k1UGs3ekNTZXN4bWtPMnUyN3ZEb0lMODJjcU5tMjJteVd5al9lVzFtRjlYZUx1ZlhhVTFybUlXRTRia19CUEt5dm0ydFZiSDZZck1WMGhscWZfcDU1QkI2b1NMLTl5UFVhWmhPN2kwXzMzLWxNSTBPbVB1ODRwYlZtSmpxWTJEc21EdHhNWDhTbFZqRjZzRTRCOFFqRUp3ZWdyUmthaGxMOW9JVDVPekZTd2NZMklLaU1INmhTY29ocTduYWVaNFhvdVhhb3NrVkFRTVZNYzBBbVpWTUZuNUNzb0JZSkI3RldGWXlpNFZWUDRDemFvb0Z3MUNsTWlhOHc?oc=5",
-    "title": "Tamil Nadu Weather Today: Heavy rain, thunderstorm alert likely over Theni, Dindigul, Nilgiris, Kany",
-    "title_ta": "",
-    "summary": "Tamil Nadu Weather Today: Heavy rain, thunderstorm alert likely over Theni, Dindigul, Nilgiris, Kany",
-    "summary_ta": "",
-    "date": "June 6, 2026"
   }
 ]
