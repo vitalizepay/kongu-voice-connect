@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jun7-001",
+    "id": "sal-jun8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFVwM1V4ZzFhcnp5SFhJRlNBeHZfRFpvUTJIeTYxTFNaYTQzZ0pGTWlpdXY2UXBFN3NGWU5tYUk0NHpZQVVTYzFWc2twYXQ2dDdOVm03M2FjbGNwRFNTY0pQdWJaZl82VS1KMHlaSlVTZEJMTFZBMDZhQl9sNnFGVGNSeVNtMGdFUDA2MU5Bb0FZOXI0ZVZJdWZhTGxOYmNFNzBPRjNWWVBKWXlGWFMwbnlWRjNaUTZQVThZNjgtWWFWSC1CdXUtY3VySHUycTF0NWhwZ1lkSm1LQVU3TnkyMGdRa9IB6gFBVV95cUxOR0ljcnB0VU1DNG1XdWFpcFhsUWtaX1Q4UU4tNExZd0ZVTjY0bkpZa0puaXdlMW45Y3NjZkJLbEQ1azVRcWFmNTNEd0pIdndueGhxRnZRbmcwbFRfaWd6bXhNRWtxalJabXozYUV3aHlpRmVEc3BOc1VjOFcxSXVEVThCbGlZb3VFeHZlbkYwdmJhQTdRbWdKSm9UclR3VGF1a0FneXJMM29laW5hRUNHbjZXeEtNOEhyXzEteVVGUzhVTEljNVJsMGlKTEVhM21tTVB0bzNOZUhEUHJCQXBMZkRFdWhxUVdMbXc?oc=5",
+    "title": "Schoolchildren participate in TVK function in Salem district; Education department launches inquiry",
+    "title_ta": "",
+    "summary": "Schoolchildren participate in TVK function in Salem district; Education department launches inquiry",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "sal-jun7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbVZXMDJXUTZBQjR3LVdkallockdDRkZTMXhqVDJ1akRIVTk3UWdnNFY1cnY0bXA0Vm9qVWstdnVKcVYxRTV0TmVKQ2VFcTZVd21HU2hISk8yMDZTNUdhOEVQZHJVaFdUWkRNU1V5S2tmcC1XcHNpT0hNcFRRaEtfYVE2dGxxY181S21CSTZodC1sU01JWjFma2lSVkxocnd2ZXBFOTRyS1dyY1BPLWtLSTR2Tm9FYnhjYjEtbUozZFc1ZU5XS1FpVnl3cy1KbVhfNmNnTWU0M3LSAd8BQVVfeXFMTkVsRnVIS3BpZkJQbExOenl2bGxYaldVbkNiU3JUWl9WWEt3d2xVMGtEQ2lSYThRMm9WR0I0UFFOQ2Y5TlBuT3U2SUpMTjJLY1ZqdkxBajZScVdoUXcyQ0NTZTU1YnpKN2k0Mlo4WkE2ZHpMTlpaQkFRM0RISzhxZWlHVDJCVS10bThBLUNsdkROR3JlazU0NWtkVG9VeFFwLW55V3lWVjJ0NDZJekhuTHNHYUJ1ZUJaYWtvS3lqZzl0MmVmNkdwNnVwZGVmcTZhbXRaSEZ6bTRIbE50QzNDWQ?oc=5",
     "title": "₹1,715 crore to be given as loans to women SHGs in Salem district: Collector",
@@ -22,41 +34,5 @@
     "summary": "20 injured as bus falls into agricultural field near Namakkal",
     "summary_ta": "",
     "date": "June 6, 2026"
-  },
-  {
-    "id": "sal-jun1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qTTJ1YmZSR21HNlhaeXowRDJCM1p3ekFIVDRXVnkyNlJtUHR6eXA1eW1ONkRjWl9IMV9GQi05Yk4wTWhNLXV1d0E3cFRlZmgtVkVVVlJkeGwybTc0ejRkV1UzanU?oc=5",
-    "title": "Mettur Dam, Location, River, Capacity, Latest News",
-    "title_ta": "",
-    "summary": "Mettur Dam, Location, River, Capacity, Latest News",
-    "summary_ta": "",
-    "date": "June 1, 2026"
-  },
-  {
-    "id": "sal-jun1-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalN5OU8wSEMtUERKLUppTXBxX0M1MzM0aTVnZ2tCN0V3Ymo3OGZiUk5pTzNXZkZQTUtCcXpIaTRGdzdERkV0MzNhVmNBb25Jcjg3dzJFMXJQcGY2Mk1NbjMzXy12T056WURXTXdzLVRtYzlBbUd3MkVXN0lkUUFSemdnU0ljeHFkbzdzQXBhMTk?oc=5",
-    "title": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "title_ta": "",
-    "summary": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "summary_ta": "",
-    "date": "June 1, 2026"
-  },
-  {
-    "id": "sal-jun2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemNiWmw3WmpkeF8tVVdQRE5sV0pmTDI2eWxuTkRjbFlfWHduWUFPUEZpd3NVWDBSQVBiUF9KOFJ4d2xVNEljZFR2NmxaSmlNTERoTHBTakE4YkxNeTYtb3ZMY3M2RUtYbmdvTkFsRzdESFZKQUVGT2xkcFBHdEZYNzZacnpNdw?oc=5",
-    "title": "Okra farmers in TN’s Salem face heavy losses as prices crash",
-    "title_ta": "",
-    "summary": "Okra farmers in TN’s Salem face heavy losses as prices crash",
-    "summary_ta": "",
-    "date": "June 2, 2026"
   }
 ]
