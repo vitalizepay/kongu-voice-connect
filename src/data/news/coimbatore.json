@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun6-005",
+    "id": "coi-jun8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeHpQcmlxaWkxZDNQT21XSFZvU3JDUUU4S0lKYmQyRGpIcEVWT3F3b05YMUFrSlFwWjFzUF9JeDRTZWJwZ3ZFMEhGWnlNVWMzMWk0ZHdBTHlQeWg5cXJLRFFjaEkwQ0MtN00wS0I5Zlo3VmFhbGUzbUhWeW5MT2xva2ZPbnJaeGhlUG1RTzlMYjdJbVpVbWphblNrZFktSkpYZ3lPOE4wd2dJdWNtQlBWRThJVTVQeVlUOWZyLXdZNnd1TzRWRklsQWt2VlJDdEFXMDk0Y09hdnpnbURtU1lkbWlPd0FfVnRBOHd1R3QwVDdmdzdFczBr0gH-AUFVX3lxTE1uR0lRbTItTFh6bTFFak1ldm1YQ05xLWxTSURCeGJQU0JhcFJOZEFHaE9JdnF3eTdlTXVSUURtRlh2M0ZIQ2o5VWM0bFVRbThGYjVpcXlmVGZDdnBIdjMxRHdTTEVSWDNfZlFzNk1UMW1Mb0h5UGZ3VnBrLW5nVEdGeWpEc2w5OThxMDRrMzNTeUlZVHZOTGVMdlBfZmtmTUdWR28tM2RTY1hPV0pldi1hZ2xSMFBvLUs5ZkNkNlhPcDctczFIeHlXb2RzWk4xUEtGeC1aQ2NJYi1JanAwODJ1dmY5aXQzandLd01KOXoxZkY5SnJUVHVqNTRMdmVR?oc=5",
+    "title": "Coimbatore Corporation yet to submit lake-wise restoration and maintenance details sought by NGT",
+    "title_ta": "",
+    "summary": "Coimbatore Corporation yet to submit lake-wise restoration and maintenance details sought by NGT",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "coi-jun6-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUm5GSFFDYjdackZzVEVRX0NrSXpSc2NZdWJmS3JwbnNUakZjYkREVExkeWRhMzdoSERSRlNvOU5DVDYta1AtVWlrM2wxOTJKamcxWWtwU2phRUhEQ0RNX2k1T2theUxVdHh0LWdVVXlyeEdwbmZIVThPOU41M1NDRFRmOVMyZHBWNTZYbU5VTjhjMkprbTNOdFdiMFlmNm1Kd1RIMEEwNE1iZkw0YmlxMWRsaGJiWnROVzdOajRVNkxuUnVrNWtXTjV0ZGRUUW9idWRlTkxaUktaRVAwUHFJTEJSWl9mWkIwSGhJS3hiZFdPc2Nva2hWMUhjeDBLUl9VajZUSURUQS1sbG52Tm5Kc3YzUk9LQV9aRGFpS0xoQzBtUW5FdWFkR3BtZmRmX2dVTUh2Zm1XamNmNzQ2dnFVMHB1ekNPVDY1aklUbWtieWN5OXpzUFHSAdsCQVVfeXFMTzVlcGJmT3FwbHNpMGd2eWtWaUFjSi1ONEV1MHFfMlFUX25BUHBpdXktVzkxM1ZvQUZxRWdXdVpnaTQ2TmdNNk5uSERKUzhGcEF1OTkxY0ZTYWFDX0o4Rjdzd0k1UGs3ekNTZXN4bWtPMnUyN3ZEb0lMODJjcU5tMjJteVd5al9lVzFtRjlYZUx1ZlhhVTFybUlXRTRia19CUEt5dm0ydFZiSDZZck1WMGhscWZfcDU1QkI2b1NMLTl5UFVhWmhPN2kwXzMzLWxNSTBPbVB1ODRwYlZtSmpxWTJEc21EdHhNWDhTbFZqRjZzRTRCOFFqRUp3ZWdyUmthaGxMOW9JVDVPekZTd2NZMklLaU1INmhTY29ocTduYWVaNFhvdVhhb3NrVkFRTVZNYzBBbVpWTUZuNUNzb0JZSkI3RldGWXlpNFZWUDRDemFvb0Z3MUNsTWlhOHc?oc=5",
     "title": "Tamil Nadu Weather Today: Heavy rain, thunderstorm alert likely over Theni, Dindigul, Nilgiris, Kany",
@@ -130,17 +142,5 @@
     "summary": "Monsoon preparedness measures intensified across Coimbatore District",
     "summary_ta": "",
     "date": "June 3, 2026"
-  },
-  {
-    "id": "coi-jun5-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTdYVGg1cEpWMlUtQjU1c0QtZ1pmVkt3TGc0OVVMQ180cm4yRVRtbGtwbk1iLVp6V2xsM0dpZk5TWmJZVFVaTzlaMnN0T0ZZX1YyNmV5QUQ3aFM5RkZpYTFiVml0a29mbG4tYmtXdHl3Mmw4clJQNXJ0ZmNLY281b0MxUUxIMWZBQXhZbHpCXzdUR0dzajFod3VYZDBpeUJBOGlVbTAxSGFXZE5xYVNNR0Y4STFKRDlRSmfSAcABQVVfeXFMTXJ6c0Z3Q0lKU3UzR2I2eWptQ0RvNEZrRHFEMzZTZUd0NzZtWXdKVGlsM1p1djNtZ3hhdC1XaVhzaURaMk5uVXV0dHJUVFE3OWlsaVVsLWFJa3R3czlRUHRCQ1pvLWp1djU1NjlwRWZPYWJyNmYtZldUVjFlRzFWQV9qbndtVV9kOUxScGFBVFUtQWZQRm5WWEoxczZacEVLMDFfUkkwb3RlbVF3NDhjTFRIZHBWcWxmTGt3MnBNLU1P?oc=5",
-    "title": "717 Tasmac liquor shops closed across Tamil Nadu",
-    "title_ta": "",
-    "summary": "717 Tasmac liquor shops closed across Tamil Nadu",
-    "summary_ta": "",
-    "date": "June 5, 2026"
   }
 ]
