@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun6-002",
+    "id": "kar-jun9-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjdaVndKTkRNOHVIVkhMUVhqTzRNalJIMXkyaDRXbUdiTzJKRjV5OTAyQjcxODd4UkI1ZTRveEdCWkp1NE9iTWtIYzkzZmVYLXpGVnNEYkEwWUQ3X0EwclR5VnlGalR0TExwV185WVdXMjBFSURTdUczSHVYTVFpaXhNWjV5Q2V20gGOAUFVX3lxTFBTTU5FWm91OXdVQjJHdU1kazAtLWp6N3lJNmt6V245eUZNdnVMS3lkNkhIUm9aQ1h1LVlyeUVtdVVVX2k5OUR6cTNLd2ptLXBCal9qNHlnVnJKNmw3eE5EV2QtbzIxZWM2OTJkcVJDa2ZDSWNvT3NZR0xIQUZQb2pLRnJVa1VxdklpWWhfdVE?oc=5",
+    "title": "Just Now | Karur Accident | கரூர்: லாரி மீது கார் மோதி விபத்து - 3 பேர் உயிரிழப்பு",
+    "title_ta": "",
+    "summary": "Just Now | Karur Accident | கரூர்: லாரி மீது கார் மோதி விபத்து - 3 பேர் உயிரிழப்பு",
+    "summary_ta": "",
+    "date": "June 9, 2026"
+  },
+  {
+    "id": "kar-jun6-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVk1VE9FenNYRkVYa2U1TF9vbTdwLWtjaGU3LW14Z2JCSDVlbE5XdjBXeUJWWEFpWkcwZU5LbVltbFZLV3l0SW9NYUlDUjcxMnp3bE5ua3k0Qm9pTDRKN1dTT0FfZGRmUGdHenQ3UGswN0dHeTNGREdVU0JKdHdKZXJZVzJRcEJETVJlS1NHLS1RcGZwbjhfMTFiX2hSeG5yZnEwUkI5ZW9YNGRMeHB1OTI1ckVBX2xJRUNzNjk1Z1FWYXZU?oc=5",
     "title": "Trichy–Karur highway widening moves forward as NHAI begins detailed survey",
@@ -46,17 +58,5 @@
     "summary": "Indian Jeweller (IJ) – VBJ to Hold Jewellery Exhibition in Karur",
     "summary_ta": "",
     "date": "June 4, 2026"
-  },
-  {
-    "id": "kar-jun2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUVZ1MzZPQm9MRTd5c2pDRTVpRFFqdjhMSFAwYjY0MlVNdERRVVlBWjZvTVRpRHdsSGwtd3VuaTBieWduV2EwNWwxaTZZMk5TTWRPdkpRRlNYUjFubU83aEhid3cwSXdEZXltNTcwSGVVTV9qU01seVlwblFKTGF0LUFXZDM1MXRJbk1vLTNzWlR0aFRJaVZRa2I4Tjhob2NxZE8tU1l0X1BTZFZjQ09pVVlYOC1VakczTnBQR0FTNWF4UE5jaHZubjFxUnBKNDYyRkHSAd8BQVVfeXFMUFVGR1hFVmxpdDNSd25vWWdUV0lqUkgtZ2FoMkhBZlZ0UWMzalFyOFZwa0dFVXB4MXdueXdvOHktMl9fbS1wYUZLMWF0a1dFSUp1a3BHdUU3QnhFNDVzVW5yeGloeHQyUWNRZ2FrYzF6UWU0eFlVdWVpblJSR0czMlQ0eXFCOHVvVzdFXzdDVjBYdlRrTTQzZ0N4am91Mi1YT3dqcmhYOFNaeHl5OFc2M2hjYmdhX3lXdm82YzMzVUd3TEd1Q3QtQ3NqdDlRd3BkbUVPb1hoRy1UXzVvVnZxRQ?oc=5",
-    "title": "Karur court awards double life term to three accused for killing activist",
-    "title_ta": "",
-    "summary": "Karur court awards double life term to three accused for killing activist",
-    "summary_ta": "",
-    "date": "June 2, 2026"
   }
 ]

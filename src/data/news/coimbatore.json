@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun5-006",
+    "id": "coi-jun6-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNUm5GSFFDYjdackZzVEVRX0NrSXpSc2NZdWJmS3JwbnNUakZjYkREVExkeWRhMzdoSERSRlNvOU5DVDYta1AtVWlrM2wxOTJKamcxWWtwU2phRUhEQ0RNX2k1T2theUxVdHh0LWdVVXlyeEdwbmZIVThPOU41M1NDRFRmOVMyZHBWNTZYbU5VTjhjMkprbTNOdFdiMFlmNm1Kd1RIMEEwNE1iZkw0YmlxMWRsaGJiWnROVzdOajRVNkxuUnVrNWtXTjV0ZGRUUW9idWRlTkxaUktaRVAwUHFJTEJSWl9mWkIwSGhJS3hiZFdPc2Nva2hWMUhjeDBLUl9VajZUSURUQS1sbG52Tm5Kc3YzUk9LQV9aRGFpS0xoQzBtUW5FdWFkR3BtZmRmX2dVTUh2Zm1XamNmNzQ2dnFVMHB1ekNPVDY1aklUbWtieWN5OXpzUFHSAdsCQVVfeXFMTzVlcGJmT3FwbHNpMGd2eWtWaUFjSi1ONEV1MHFfMlFUX25BUHBpdXktVzkxM1ZvQUZxRWdXdVpnaTQ2TmdNNk5uSERKUzhGcEF1OTkxY0ZTYWFDX0o4Rjdzd0k1UGs3ekNTZXN4bWtPMnUyN3ZEb0lMODJjcU5tMjJteVd5al9lVzFtRjlYZUx1ZlhhVTFybUlXRTRia19CUEt5dm0ydFZiSDZZck1WMGhscWZfcDU1QkI2b1NMLTl5UFVhWmhPN2kwXzMzLWxNSTBPbVB1ODRwYlZtSmpxWTJEc21EdHhNWDhTbFZqRjZzRTRCOFFqRUp3ZWdyUmthaGxMOW9JVDVPekZTd2NZMklLaU1INmhTY29ocTduYWVaNFhvdVhhb3NrVkFRTVZNYzBBbVpWTUZuNUNzb0JZSkI3RldGWXlpNFZWUDRDemFvb0Z3MUNsTWlhOHc?oc=5",
+    "title": "Tamil Nadu Weather Today: Heavy rain, thunderstorm alert likely over Theni, Dindigul, Nilgiris, Kany",
+    "title_ta": "",
+    "summary": "Tamil Nadu Weather Today: Heavy rain, thunderstorm alert likely over Theni, Dindigul, Nilgiris, Kany",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "coi-jun5-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZURaMnVZN0RNN1hsOW9YckhXM3pRR2pDZzRIbjh0MnZWNGpCY1pKbGVQWXd0TkNfU0VsTWtjcHFibUJwUno2UTh4MFVzN05Ra0hmd1pnNXgxVnpoblZ1RFByQi0zNE5xUWI5ajVfT2htdHpJSkNhU1FrMERMT08xU3N5bjhJRENoYmo1UlI4ZDllallFNDdncXYzaGVWTHoyREhIVS1peGVoc25aRU9Wb1BSM0twUWNMRmZhWmhqWUhuMWNFMEJZS196US0waTZhU1MwWUlUUXgxbkJPaXJ1ZVo2NFZqUdIB6wFBVV95cUxPVGtuVWV3M1hyMUczLVpURmhZZUNFNjZLUlBKRzJlVjNvZVRjYkZ4Zm9KUl9UWDFoVmNFalp5dk40U1pVU3dtaTUyVG9RbFpPWEY1NkUzSUE4aDRIdFlBVzk0WlZSR00wc0F1SGE3TkFKcXJRV3FUbHo0MV9DTU1hWGFfMnVicjJSOHZzaFpodUFzR2ZNc1FMQUZYMGJIaDlfTllvVnZ2ODRQb2xvVFRjLUNTUTZLdUN4dW9IVG9hZWs4V0NQb2xCLVYwbjY4YXBFTENldjNrX0I2cFhnOEc3TG9aTTRSV1ZDTkhZ?oc=5",
     "title": "Cauvery Calling launches drive to plant 1.2 crore trees across Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "717 Tasmac liquor shops closed across Tamil Nadu",
     "summary_ta": "",
     "date": "June 5, 2026"
-  },
-  {
-    "id": "coi-jun3-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNG5sNnNCT3c0SHoyWko5YWs2dFZsN2tlaldSOTU0bkJ2QUJNNGZhMDJPVzl1UnFqdzlEV1FYUmkzRmc3N0lVSnBlNEM0SlBxY2tlOVlEMVFiTG4yeHBnYWY4bmR5bWN0ODNDNEV6d1lYS045VU1vTHRYMUhRZ1JSSkd2YlNSSnZYRnJHWjRrZUx5bWl2RW1iV19Bd3FJWlFtWi1CTU0yVzd1VnpMYzJWZzdTeWQ1ek9ZZWxUV2FxWFA1TkdDd1pvcEp4dG3SAdoBQVVfeXFMT0NTdVdNc1hvRkJtRC15bUZ3X0xJZG1HX0w0cEdtRlRiRkZITjlkV0pkRDdmR2Fkb3dhNUJ4U0VUbHVzQUhwR1ZadVlIUk40b2s0SF9ydDJNQmRFTjhaSkZteWlabGl2cUdsZ3JJUWpnbjV6OW5RQ3dBcmNHZjBrOGlGWWpNRW9TZXJGNG40NGp2M3JKMDhFWmtCX0dtR2RxX202X0Y1U2U5SWhBa3dqYThzZmo5Z2hUVzNLWE9LMWotV280LWEydlRJa2l3cUhYeVF1TUktT0N4U2c?oc=5",
-    "title": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
-    "title_ta": "",
-    "summary": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
-    "summary_ta": "",
-    "date": "June 3, 2026"
   }
 ]
