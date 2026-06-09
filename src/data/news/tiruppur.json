@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jun7-005",
+    "id": "tir-jun7-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOenh1d29MTndsX3YxazBZV0Jod2tFZmctYktOWTZ0VUNxQi1Ld2t4OUZ6cmtUTkYybmt2dkI1OFRqQ09sMWVGU21nM3BBLVUyVWFlcEtVTGgxU1I5djE0Z1hCQWtfSVU1OTVzYkdnX3NFNWM5dGNHaGgyNE1aWVZpY0xONUN2dGV0RFhrU1JyMUV1ME5Jd1pfMGJpMDlrbHIwVUE4TlFKSjJtSFpYcUdmTXBaWGwzNVBwM2JoY3dra0FFdW5leW4wbkRSNjRRdVQzZ3JwSXRYaHU4YVnSAeABQVVfeXFMT0F4eGNNdnZ5Y2E0Yy1NUjYzOTE3Y0JfNFZ2TElSVEM4dWZrV2JFYVRIaTNZN2dEN2dUbXZaVU54TUVkN19PS1RTUXYybnJrcWpVWXFsSURnaFUxNnlvYUo0b2JQZm9MZ1hGNzQ0QlJERUtZNmhVeGVaMVVPRzhFNnhoQXdEcUtEY2hFbnZYdF9HN2lJMVJFQjRYYURFQjVvYWV0WWV0ZUp1eUpDZ1Qxd1RjNGJqQU5ERUR2QURjQzZXbExNUmdfTzljSnRTZU16UktvZ05Pczl2VGpuRjNiRHo?oc=5",
+    "title": "India News | Tamil Nadu Ministers Review Development Works, Assure Action on Long-pending Issues",
+    "title_ta": "",
+    "summary": "India News | Tamil Nadu Ministers Review Development Works, Assure Action on Long-pending Issues",
+    "summary_ta": "",
+    "date": "June 7, 2026"
+  },
+  {
+    "id": "tir-jun7-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXFXaW9wa2s0WFFOci12aGdyZTlXcWI0Wnhqa0FMQUxJZGFfUUpYWGtvQTB6cVJVaWd2SVVIUTJEdnlGbWd3Tnp3cUp1ZUtFa3FVTTNwWWpQNTdTYjBySTJUczRRRklyQnhrcml5dzZheE53d05WZmhxWEtUVzRJb1NZc0c5VUtDMTJ1UnZCLU54eFdiVmZyaEFYU0trUTZpWXlkSmdaT3Y1eldYdDF2MEVCTGk0SWhQUG1OUUE4cUxiZ9IBxwFBVV95cUxQRWRKeFYyUnRGd1duM1dkTHh3LWM0aFU5dGE4d01vR1o2MXVjUHRUM3B1dU8xNDF2STdyY3dFeGs4ZGd0YXJqMmx4SHlrZ2dTTVMwbnVTR0k3NWhyZ3BsaDU1OEFFTTlnNmkwNDFtN3JSTmlBdkRRSHFJTHN6SEotQm1pdG5KZzA2WnZWd3lTWlZ1Q2Q2NjQ1U19hR0hPdXgzMllMQ3hvNGxkWHlGZFl3YzNLQWwtRU9tVUFxeEJWZV9WQnlDRmJR?oc=5",
     "title": "TN ministers identify key projects in Tiruppur, focus on pollution",
@@ -82,18 +94,6 @@
     "summary": "Tiruppur Athletes shine at state meet",
     "summary_ta": "",
     "date": "June 3, 2026"
-  },
-  {
-    "id": "tir-jun2-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdFdYR2pDVXdjQVd6WENabTRJRjNadVFXLTdnZUZGQTJieUcxcEJ0RWpHcjhzWHJTY1c5dnJrRkFuNHg5bFZ2TWxQTlBsakY0dEJfSVRmVUsydmRlZWJfaXpPLU9oLVpjUG50V2luc20wbHpLMVZvSFljcHFrMHFGbXNLZmlkWmo1NHR5bmxKWVFHS2JLUTR5b1RXdmktLS1tb0pOd252T0tVMDdyRy1yelhIMkhoNHB4QlhPbkl6eHVJNUI2QmZhTFdVYWhHUnBjbEt0RjVPMjlad25QdkRrWkRMOGU2WXRJSVBITlB6WEZPSVFR0gH7AUFVX3lxTE9ZTHc4SWJKOTl1V3JhWWhtUWtMSE0tOEJoSWlHNWF4cUFuYWJhcER5aDRVdGFoNER1WmxmS3R5RVgwaHNvTFRNSzgyZWxUVGY4Y2ZaazM4bUpGbzJsZXU0VUJVekZTc3FJeG9xQ1kxdXZqUzdkaWdodVVLN3dsM0J5WWE3OHJ6em5qb1AxYzh0dnhJam11VGs3SXAtRXhwQ0cyV21pT3Y3S1o4X1VZT0VaSHFzTjFjR096bGZld2Q3VDhQbGd2M25iZEh6ZDBPdmJqN3lrQjdldzFjb0IwSlB3YUR6T0FQMV8xWFRWVGU5anJqZk1oNnJvaW5n?oc=5",
-    "title": "220 MLAs in Tamil Nadu secured less than 50% of votes in their constituencies: ADR report",
-    "title_ta": "",
-    "summary": "220 MLAs in Tamil Nadu secured less than 50% of votes in their constituencies: ADR report",
-    "summary_ta": "",
-    "date": "June 2, 2026"
   },
   {
     "id": "tir-jun3-001",
