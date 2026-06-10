@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun9-001",
+    "id": "kar-jun9-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZDhXOVlOc0VpcTBIXzNBR0NHdTVvaEduUzB1UHhxVnkxTUtGNTJfMG93c1hzVjBoaVZJVEdCRVZEU3FVZnZwYmNjRFFFT251bWlsX2xQaVVxUy1BbDd3aU9GcTluMUs3c01rLWZtZ1J2NVVzODlTRkkzZjFhbVVCb3dqdmFWTlFfT2JpUDlfZW9VR3pLdWRiV1dCelh2NkV5R2FIT2FPbEdRN2ZTcWkydXE0ZmNCbDhUNHBYdWxtczB6dmZpU20wNXV6VVRZLW1z0gHeAUFVX3lxTE1CU3lnZkdjazdIWFQ4WmMxX2E0N3R1aWVETThZTk5sczJzdEo5cV9Ma29MWGs4dENZeVdlWEhlUE9lVV9DaUhva1JoeVVKMVBWc1psMDZ2X3pWZHQxZWYwN0hTN0Jtb0FfUGg2NW9NT1VhWm9hOTZDMVJ0TDhWaTdwYXU1b05BdExoTE54ekZPSzczWG5LUXVKYm9wWWM0S25lNjRMQkRJdk5MZjQxQWI3ekUxRTg3R296ZnpNNEY5U1RNd2NMdGVxVlVXWE9PdzR3OG9TMlJsbmRZRFZRUQ?oc=5",
+    "title": "Pregnant woman among three killed in road accident near TN's Aravakurichi",
+    "title_ta": "",
+    "summary": "Pregnant woman among three killed in road accident near TN's Aravakurichi",
+    "summary_ta": "",
+    "date": "June 9, 2026"
+  },
+  {
+    "id": "kar-jun9-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTlRRQWJaME9yc2NNRTlHRDBDSFNMVnVGNjRJMjhPUGdvMHJ2cVpxNWhVQ0xVUW5JbVR4cFE5SW1ZZkNtRS1PT0RJei1DVF9ZeHJFWlU0b0VoMmlNeFNLUzVlZmw3M1ZaNXBnSWVuYVNaSURFaVozU3JFeVBnaHU4dHF0N0ZaS2dxM1FmNTQ1SE1aUXlqQjJNSGFHZDdjbW56N214WGtHLTF3aTZtRkVlS0VFZWVnc3Z5NWM3WWpPaHBDY1NodkpkbC1iSGQ3YjJEN044Z3RaUjRlYzlXUHczYjZSbk4waHE4NnfSAe8BQVVfeXFMTmUwS0JETEZOUjkzeUNGMGdZcUVQYy03c2NuRnJMcGdMNXhqTmhUSGdkRzZxQjJVelJIOUtDVWZzOVVZQ2RxU0tmc2dreFZxV1pvZVlvc1hKXzJpckVrcERzTjVSQmEzSkRrMXZ6U000bzVpbjZlQTgxN2FFYkVqM0ZIWEJTcGxGMlk4anNxcEMzYTN3eExsN3Z1QnU1QmxjaDZBczNoOEhBQ3pkSlE3LUg0SWs4Q3BlN2tlTXhwMzNjXzh6TzlBVk9vS1RBdkU5eFhFRHpHZ0hIZ2pVYkt2V05OSlJlOHNMM2Q5ek9KelE?oc=5",
     "title": "3 including pregnant woman killed in road accident in Tamil Nadu",
@@ -58,18 +70,6 @@
     "summary": "Trichy–Karur highway widening moves forward as NHAI begins detailed survey",
     "summary_ta": "",
     "date": "June 6, 2026"
-  },
-  {
-    "id": "kar-jun3-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWVoU09FUFhoOEY3MldMZ1dYU3B2T3Q2MTFWQWMwYzM3QzMyUUlqVmhEbEo5NDZMMkprSkV1a2lWNW9uTHAxb0ZlNzhoUjFWSXFvUGE2bk1qVEp4M2h1VHRab1ZScjdsaHdXYmpHZDVQa2VYYmFndUp5UU4zUmNfOW9NOGxSZ2praUIwTWsyYUUzODJEcFE?oc=5",
-    "title": "5 killed in tragic accident on Karur-Trichy highway in Tamil Nadu",
-    "title_ta": "",
-    "summary": "5 killed in tragic accident on Karur-Trichy highway in Tamil Nadu",
-    "summary_ta": "",
-    "date": "June 3, 2026"
   },
   {
     "id": "kar-jun4-001",
