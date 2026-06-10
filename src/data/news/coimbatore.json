@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun10-001",
+    "id": "coi-jun6-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcVZoNF9TaDlCWVFRbU16STl0QV9qUEx2Ml84QzJ3c2tPT21MWDNFWFNuRnFlSFBIUjFiUUI5QzdpY09JbmhGRWljQVR1V1pOVHdnTHl6bDFvOGtWQXM0cTF2NWZqczlILXM5Zjh5Y0swUWhSckFybTUxelNqUVAzU1daZkFibFRZNGtVMWIzU1E?oc=5",
+    "title": "Ondipudur, Coimbatore South, Tamil Nadu, India",
+    "title_ta": "",
+    "summary": "Ondipudur, Coimbatore South, Tamil Nadu, India",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "coi-jun10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
     "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
@@ -130,17 +142,5 @@
     "summary": "Bus services restored to dalits populated Anna Nagar in Coimbatore after ‘long-standing’ caste issue",
     "summary_ta": "",
     "date": "June 6, 2026"
-  },
-  {
-    "id": "coi-jun4-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWdsQXA0U0FMajJZQTcySUJTcGMxcDBtU1FjTGFiVTFISU9vNVl4XzlNQkpQcWpVOHlFVFVSeWVUcVFfLWY2em5xd3A5S0R2SWJ5ZGU2dG0zRHF5MFdkbGJxcXdjVVE1NlBBYlJoUU5JR2lETXAtbHNRd0cwc2xsZkFoZklTYWx6T2stejU3ZTRDdEhxXzkxT2tVWTk5b3BVeld5b3VGbFVIWnVMMGV6cVJyRWlsRnprVFVqMXEyZERQaEo1WEdpckpBelZ2d9IB0wFBVV95cUxNR0s3LUdXOEJYcDZ2WFcxQm1oV05UQ0JXQzh6TWpyQk1fd0Z4QVNWdXRHOFl3RmZkcXhQcGFPb21FNVNXTlJyRnBaNDlEVlYtX2IyY1RWSWFnTVBtQjl6MkFQM2tlT290SGlDYTBtX1lvdDdYMGlBdUpKelFvYkNnVWd1R2FWYVpGdHNNeTdsSlIxd2diQU91ckFGRE1TTmswTWw2ZjVrZ1NRbGp3cjRSbE5rMlF2X2NhS2ZSdlIxWEdvRDRySlJHSjVKa1d2S3pnZGFn?oc=5",
-    "title": "These areas of Coimbatore to face power cut on Saturday",
-    "title_ta": "",
-    "summary": "These areas of Coimbatore to face power cut on Saturday",
-    "summary_ta": "",
-    "date": "June 4, 2026"
   }
 ]
