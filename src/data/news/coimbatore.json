@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun6-006",
+    "id": "coi-jun10-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
+    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "title_ta": "",
+    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "summary_ta": "",
+    "date": "June 10, 2026"
+  },
+  {
+    "id": "coi-jun6-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcVZoNF9TaDlCWVFRbU16STl0QV9qUEx2Ml84QzJ3c2tPT21MWDNFWFNuRnFlSFBIUjFiUUI5QzdpY09JbmhGRWljQVR1V1pOVHdnTHl6bDFvOGtWQXM0cTF2NWZqczlILXM5Zjh5Y0swUWhSckFybTUxelNqUVAzU1daZkFibFRZNGtVMWIzU1E?oc=5",
     "title": "Ondipudur, Coimbatore South, Tamil Nadu, India",
@@ -130,17 +142,5 @@
     "summary": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
     "summary_ta": "",
     "date": "June 8, 2026"
-  },
-  {
-    "id": "coi-jun6-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM0hUMzlQZWJwNjI2OE03elc2eXRWVTFmbmVmenAyaDZxbE5Xc1B1YTI2Nk9WamxHdlMwUFFFRFU5bkdBZFNnaHcyWHF5ZGVtS05oN2JndktHODQ4MlU2UUNlQ1A4OUhHbDJ2aERDaWd3SklXS2NvbVJiR2d4UGFKZDJJMi1HRk84V1lDdXEtQlJ4Ym1kTU9MUlN6eFA3UFZfSGFxcnAwZWhmek1RVXVRdW9FWVEtSTdXRm5Bb1BxTVpRek5INmltSEZoUDVfMHVSRWxfYWo4T05nZ0phT3dPSzhHSjlVYmZoV1ZFckh4ZDFIZ1dYbnZpVmF5TzJsWHlta2FJcEtn0gGLAkFVX3lxTE4yaFlUaUt3SWttOGdjeGl4bUh2OXltbVNyRUowVnJxVGtVR2ZYNXN3RmwxT0VJTGF5Z21QcWZWQ3RFelFqRE1CaFZ0MU5vZE5US1F4T0NEbFd5SDdYQTltS3N4d3V0QWplMHkwVUFLeHB4czZ0NmVPd25SUE9DQ2k0Q21WemVpcjB2a19vOG5lbGY0VXFoM1l5dnVJWFQtemJKN29nZVMtNGs2VGVHZEFMTE5VemRaQ2xzT1MybFlGWFpJVGlPbVdWT3lCbXNaVzhjd2NZQlI3VVBOeHhLUjdQbllmaDJobWtySnZpTEE5OExYUkt1aDhmbmpJVGNyU3VBa3hRWWx2WVRhcw?oc=5",
-    "title": "Bus services restored to dalits populated Anna Nagar in Coimbatore after ‘long-standing’ caste issue",
-    "title_ta": "",
-    "summary": "Bus services restored to dalits populated Anna Nagar in Coimbatore after ‘long-standing’ caste issue",
-    "summary_ta": "",
-    "date": "June 6, 2026"
   }
 ]
