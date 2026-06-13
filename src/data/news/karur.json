@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun11-002",
+    "id": "kar-jun13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFiZXFjT2lBcU1wbHdTWGcwOGxzdkZ3dzBYS1c2NThlVzk2VGVyYUtfOVF1TFRHS3U4eTVLbWtZV0lhVXJUTm5FT2drWmFZaTJSRXZQbWhPckV1NDBMc1o4RUIycE9YbE5FQXVxc1g1VmkwZ0QyR1BMNXl5UVhiNGEwWVhxdlpiVDNULTBvNkc2MHhiNzhDRGFfM2lEQXdEU3c4TllhOUhIeUZkWlBUZVU2V3Vlc0c10gG-AUFVX3lxTE15LTBIR09GYm50SDF5ajFQaXRMYzR6WERMRmJ5UWxtREMwbWdHSnhFQnMtYlk0WTBzekpCZUFPbk5RcWZGUWpfVjVGeDNXeHBHQzhsd2NjVHFXSGRkZXFHVjB1Rm1fRUw2U2tTRXhNTnNLZmJnekNYeGNfMHE4MlVwUHZRYUdDaDVQM3IwRTVvaVlvX05VQUFPNDVqZWFodkh6aE5iM1k3dmtTb3ViY3UtRVJZa0V5bVZvaE1QeUE?oc=5",
+    "title": "Stalin Asks Vijay Whether He went To Delhi To Escape 'Karur CBI Case'",
+    "title_ta": "",
+    "summary": "Stalin Asks Vijay Whether He went To Delhi To Escape 'Karur CBI Case'",
+    "summary_ta": "",
+    "date": "June 13, 2026"
+  },
+  {
+    "id": "kar-jun11-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOVVuX1h3Nl9sNjRDX0M1WjBxZTNBQlpiSU5uVGpVR21DellmbU1KRU9YbnlxZjQ1dXhDeFhjQWQ4X0pEdEs5ZkhabDczRWZVTy1objVnanp2dzUxX1dNVGdCUjFKeGczYlF4bFJHSUdjeHYzelJ5aXFvTVY2RnljbDZoNElybXBHU29QclhHVU4zcWVGeUNCVDhfYzVPZHBFUzhCMmFR?oc=5",
     "title": "The Indian workers training AI robots to take their jobs",
@@ -94,17 +106,5 @@
     "summary": "Just Now | Karur Accident | கரூர்: லாரி மீது கார் மோதி விபத்து - 3 பேர் உயிரிழப்பு",
     "summary_ta": "",
     "date": "June 9, 2026"
-  },
-  {
-    "id": "kar-jun6-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVk1VE9FenNYRkVYa2U1TF9vbTdwLWtjaGU3LW14Z2JCSDVlbE5XdjBXeUJWWEFpWkcwZU5LbVltbFZLV3l0SW9NYUlDUjcxMnp3bE5ua3k0Qm9pTDRKN1dTT0FfZGRmUGdHenQ3UGswN0dHeTNGREdVU0JKdHdKZXJZVzJRcEJETVJlS1NHLS1RcGZwbjhfMTFiX2hSeG5yZnEwUkI5ZW9YNGRMeHB1OTI1ckVBX2xJRUNzNjk1Z1FWYXZU?oc=5",
-    "title": "Trichy–Karur highway widening moves forward as NHAI begins detailed survey",
-    "title_ta": "",
-    "summary": "Trichy–Karur highway widening moves forward as NHAI begins detailed survey",
-    "summary_ta": "",
-    "date": "June 6, 2026"
   }
 ]
