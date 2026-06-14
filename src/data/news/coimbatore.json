@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun13-003",
+    "id": "coi-jun14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWY2c3VVUS1IcHJqOEpwb2Q3VmRNLWJ2ZmRSazdmWm12bTBRQlkyazBaeWlTUFFrU3VRTWl2akY3OE1pOUpuUERUWmNpdGZDdXh3Qld1X1B0ektIZkZMT2xDUjZTZm1ZazhxU2VlTVE0UFdvc3V0M2lER0puQVlLWUxnTnF3SHN2aDhUNU1ESFBuV2xqQzFMdEZfQkNyUWlua0JlaFNxT2dTMjMyckFLdXF2dWsxRW9a0gHGAUFVX3lxTE54VGhvQkhOd0RzVmdRdHBXbGRrcGw1dlAyaVozZXFZcGFzUTVhWEYwV2RWWnBBVG41cGpSS2RsSjhtd3Rld2N6TkpTQnVQVFB1NFZXMU9veXlUVXRBRDF3MkI4SXRYRjVMbUhNbWZOWXJUZGFvalVaN01xN3pIandGOGFZRTc4dWRUV25BUVd2SXJOV1ZFMGwzRnZMMm13aVMwYVZwVHpEbGlmMS1WOFJqc05nYnViRmVULVNieTNsNHpCajllUQ?oc=5",
+    "title": "Prisoner jumps from Coimbatore hospital: 1 cop held, 3 suspended for aiding escape",
+    "title_ta": "",
+    "summary": "Prisoner jumps from Coimbatore hospital: 1 cop held, 3 suspended for aiding escape",
+    "summary_ta": "",
+    "date": "June 14, 2026"
+  },
+  {
+    "id": "coi-jun13-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVFJIUkJRQUhwblJvb2J2R3Z4ZEZwUHFuYmdqb2NId01Ubk54YlBxX3VHRVY5NjBmbDVDZVZweS1LVmc0VDlHaWVlXzAyM2p4WlZEUVo2dDJYZVpVZzROaC1meXhfUkpDS3FhQnFsMXNEbjF6ZXJ2TUszQk04WWxEbWxCZ2NfOEl0a2xLZ003a0xUTWdkbWZZd014aDc4NjllR0lYV2F6Q0tiTzdnOWd6dlZ2SF8ybE04VUp3bVpfLUdoODh2djg5NE01cmlpU0R0bGFKUjlGZWNXRjI30gHqAUFVX3lxTE9FT1E3UXNlX0hTVzJtV3BLWlVNS242Yjg3WWRFZXYwTGFFMFNUN0VKWG5SM2ctWDhqN005OEJxbDFpVXk4bDg2UzVaejN6d2dDa3dBaHJSVFU4X2p2UkkwUjhkdlFsclA3NTZqanUtUlRiNE5TWWFPaUtrblY2Z0Y1eEZZMVRISTVFZVBEZnpHcldNWi16RmI5M21hcUIyZi1YSUl2eGJSdms2MlQ1Q2x6a2dFQWtLVFdNZjI2Z1FJSXJSUmlRZ2tLajF1clI3OHhWVF9oRXh3VXRyS3ctaG1rekxGbjlwMW1IZw?oc=5",
     "title": "Coimbatore airport's Rs 2,200-cr expansion plan: New terminal, cargo handling centre, access road fr",
@@ -130,17 +142,5 @@
     "summary": "Government Exhibition opens in Coimbatore; Welfare Assistance Worth Rs 3.92 Crore Distributed",
     "summary_ta": "",
     "date": "June 12, 2026"
-  },
-  {
-    "id": "coi-jun11-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "June 11, 2026"
   }
 ]
