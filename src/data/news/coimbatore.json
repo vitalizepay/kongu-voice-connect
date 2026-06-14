@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jun13-003",
+    "id": "coi-jun13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
+    "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
+    "title_ta": "",
+    "summary": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
+    "summary_ta": "",
+    "date": "June 13, 2026"
+  },
+  {
+    "id": "coi-jun13-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ21vZXNYT3dUbGEyRlpHVFUzd19zalh3d1NYM0g2QWhtak1JTkdod2xVZlE1TGw1N0U0NFRsdWtvTnRoSlhEZWN0OVNoQ3djcElMTVNXYm1OV0ZqR0JlUk1ZSjE3S01GY085M1hKUjcyLS1OcE5icUJickhiRDNkTDV0VWZFa3pqUTFoZWNCOUxocWxySDlwVDdqMnZGMXRkVU02MTBmNXpIbjhkTkpiWHVRMWxJMVFkbTBB0gHIAUFVX3lxTFBHSmRnaTlLSUs1Z0x4Q3hPbV9IRWNIaXVCd0hkWUlQdEhpRDZ6OUhjX19seTdLeklrVFNHZUVPWlRXOVNObjdVVzNQUEgycmNfVkhJN0NhdGplc2tZOXlqZjhvOW1XZ2d1dC05ZmkwVzFJeXFYSjJHOTNzRXUxaU5HZUUwUUhkZHJRQzNhMTMxNFFDdVR3RXpBOFM0eWN5WkhZUzNiZm9NT09RQWxmMTdmY2JLR1FNOWJrZFFfNmNqQV9vRGJFNm5j?oc=5",
+    "title": "With Rs 2,200 cr expansion, Coimbatore airport likely to handle 1.16 cr users by 2037",
+    "title_ta": "",
+    "summary": "With Rs 2,200 cr expansion, Coimbatore airport likely to handle 1.16 cr users by 2037",
+    "summary_ta": "",
+    "date": "June 13, 2026"
+  },
+  {
+    "id": "coi-jun13-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRG1jVmtuSVVYQUVXbWtlTEEta2N1djlsQ3I5b3NKX3VCM2p5eTUyTGk5bWh4aWxoY0Q3dldVNEE5Ujh5QTQ2QkFocm1tc2FKWS0zazlzTktocWdkWHZ1ZC11N1dyOWNDZ2hyMWxqOVhwNWJEakFxc0RIdmV5dlhjZXZuNkkwOGdYM3VQN1dMd1ZIY2oyOFRoYy1aaGl6akh5c3RmREdNOFM4V29wVWp1WV9GOTZSb3h5d3pZeE1zdVpUVjUxSUtvbmtFOFJRVGkzN2Z1U3ctZDRfOVpkaTFCeGN3M3gyR2PSAewBQVVfeXFMTWFVeFVuS2lYaHQ4U2xJMnBBeGZuOW1NcXhqVjZMLU5kNUx3Rk1DR2szSkJ0Q1RyeGhoTkRONVBqNXQyTERmVkc4dWVnN0J1dTlTdXA0Q2lTWHFmSUh2d0dzakRFWVNta3pVWmhPdmJ4bU9kVzJFakNPX2hhT0swWlhTLXdNSlFsc2Jwb3dfVlZVZzFsX1BsekQ0bTlmUVhGV0E1Unhfa0NuQ2pwNE4wcGVRT0V6UTVJazYxb1FOd0h5VWdJeFdGbVJ5NEo1Tk9vU0lBYVA4Z3JQSFlMR1RyRF9KaV9FdEV2c0pSdjA?oc=5",
     "title": "52 Class XI students win Tamil aptitude scholarship in Coimbatore district",
@@ -118,29 +142,5 @@
     "summary": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
     "summary_ta": "",
     "date": "June 8, 2026"
-  },
-  {
-    "id": "coi-jun11-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHNnOU5TTnJhRm1pTHU5aW9MMFNIekZTNEllcWVOMlRWU2EyRGJGZG1EV1prWlh4WUpDWlk0OXQxNTJBTWNzc1dOR2R3d09ZSzQ5ZEZXQUg0dUdoZWV1Xzd4TmNRRm9HVU0yWkdtMl93ZmZDVUhkOUpwYy12RDVVcmc2cVJjRjEwT0NVZktCZHhpQQ?oc=5",
-    "title": "Vodafone Idea Expands 5G Network to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Vodafone Idea Expands 5G Network to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
-    "summary_ta": "",
-    "date": "June 11, 2026"
-  },
-  {
-    "id": "coi-jun11-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUpFVjNscHg2UHpNdkNWZkJyM2xlZTFUUEhJUlNjMm9UMmh4QWpNcHVfbEt3R0hOT2J0Y1BCOHhvTW1sNGVtWmszY1pyRXI1S2s2b3BLdmo3elBfLUlYSmQybThaQWtVVWpLNVhZVUhmc3VlSHpSaXVMRDFwWUZUQnFyQzlpRDRjZGJKRjVIamtwVTAzZ2tGcHRTUllwVFRTMXJkOEFSRWtzRVNSMEFPRw?oc=5",
-    "title": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
-    "title_ta": "",
-    "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
-    "summary_ta": "",
-    "date": "June 11, 2026"
   }
 ]

@@ -1,8 +1,32 @@
 [
   {
-    "id": "dha-jun11-001",
+    "id": "dha-jun14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWnByd3ZVMUtlaXdiTVYyZktlVXFDYXRNX1J5OElTTjdqRHFjZXB6Wi0tSFI0eUtNUVVrZjNqMDhQZnhtNk9xRW9tUGwzUnpib1l0clg5bEdwcGJ2LUl6eHVYa3VMb1luOW91blR3cHdVZTQ2NUtiZ2NuaDFjV2hHdXJiSjU0R0xIY1ZGdnVUMWlqMjVGZG1pMF96LWtBYjBRdE1sd3JLSVZRWl9POFEzTFBLSm9OcUNCUGJtck5UTnJaUGVHTkgyRzlWaDJGQ3NLbDJjbTFRelFIbHFwaC1NNHI1aDJmUzJ00gHoAUFVX3lxTFBacHJ3dlUxS2Vpd2JNVjJmS2VVcUNhdE1fUnk4SVNON2pEcWNlcHpaLS1IUjR5S01RVWtmM2owOFBmeG02T3FFb21QbDNSemJvWXRyWDlsR3BwYnYtSXp4dVhrdUxvWW45b3VuVHdwd1VlNDY1S2JnY25oMWNXaEd1cmJKNTRHTEhjVkZ2dVQxaWoyNUZkbWkwX3ota0FiMFF0TWx3cktJVlFaX084UTNMUEtKb05xQ0JQYm1yTlROclpQZUdOSDJHOVZoMkZDc0tsMmNtMVF6UUhscXBoLU00cjVoMmZTMnQ?oc=5",
+    "title": "Farmers seek cooperative in Dharmapuri for mango pulp, other value-added products",
+    "title_ta": "",
+    "summary": "Farmers seek cooperative in Dharmapuri for mango pulp, other value-added products",
+    "summary_ta": "",
+    "date": "June 14, 2026"
+  },
+  {
+    "id": "dha-jun11-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclhSNzRNVnFTWVNYbTFaX2JTb01IX20wdXpuNUxXZDNybEl3REM0TzlKSVhLWjRyUHdqSWN3RU8yU04xdjJWVW9tOVVCdTBHRlI2bFE2bnhfVHRMakN0RHo2eFJua04tWnNyRDhFUmtKY2J2N1l5VWh4WXNBUzRudm1zc2V4bFdDZ2lIdEFQZw?oc=5",
+    "title": "Dharmapuri Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
+    "title_ta": "",
+    "summary": "Dharmapuri Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
+    "summary_ta": "",
+    "date": "June 11, 2026"
+  },
+  {
+    "id": "dha-jun11-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWkxhN1VWb1JfaTJ1akxhQzR3d2dtbUdOaUgtU2JucXVnQUpsOVhsM05QaF9mRGstS1hhRFQyNFZjS1VPaWZIZ2gwLWFFS3Q5TFlWOW53QnlSY0dOTm8ycVl0TVhUdUx5UGdDR21vcU5YQmpHRnVLRTJQMFZESVRpQWJXWU56LTl2aUJlemZpWEpzUzJ0Yl9xZ2N1QzJnVVJGR2Z5OEswTDIzaU56QzgtU0RiTEZvblBX0gG-AUFVX3lxTE1iUDVLV29oM3ROY0hvcE1YMmVmdmdKeldIYzRHNXNhcDR6YnVTNjhYeWFCNzBWN3FGZEgxd0w2SlZqRkE0M2hIekdkS0FDbTRQV191YllJaGxQN0NheTRBNGE1OW1fT0lFVjM3amljRENYVkhCeEtTN01uajd5ZG15bjhwOWRnZDdOdzhoazlVb0JXWnYzVVZtWXp3R2pwR1NKSzVFTUltOE5wQlowTlh2TjEwNjg5dWI1eHNsS3c?oc=5",
     "title": "Wild elephants enter village near Dharmapuri",
@@ -22,17 +46,5 @@
     "summary": "Dharmapuri farmer dies by suicide after rain damages betel leaf farm",
     "summary_ta": "",
     "date": "June 9, 2026"
-  },
-  {
-    "id": "dha-jun6-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS0szZ0tsc1ZDVFhkdW01b2tkWFFFS2NuaExDRVA1bjBfeGRqYmxaVTdnVnkyaTBQVXhLckdKeU1zQ01zSDhMREhPSkVXQllHYzVQeTN0dFlqcV9FUW40ZkdRc2h5S3Q4Z0ZqU2NTOTZZaWNwcWU1b1dnSHVVZ29ycVhwakNLc1JNbkJFRDFESnoxMTh4N3p5QlV0YjlCeGpLVFU1bE9PT0VUUGhJVi1iWEI1Vjg3bzJBM2tsMnUyM3BnNnIzRVo3bNIB1gFBVV95cUxPMFdkLS02Nkw1ci04TkZZRy12RGhrWnBVYmpHOVY0QjFEU0JyS3JTRFFiTVJReTZZd2k1T1JlT3hQY3hTQnVWUGtXWHZjeElGc01neWc0SHN6VjhNYjdJZ3RIaXRCSUdXZmRKeUstM0lNeHJic0ZnZ1dlaUpYX1hiNnlqTGNRel9VX2RaRlFUa1c1OUdpQXhOTHRqX3ltdlA2RjZLbG9va2RDeFdqelQzWGpnZmpkUWxwNG83Rk16dm13SFMtUHZHMkQteUtCQWpEdl83Tl93?oc=5",
-    "title": "Highway works worsen traffic woes on Dharmapuri's Thoppur ghat road",
-    "title_ta": "",
-    "summary": "Highway works worsen traffic woes on Dharmapuri's Thoppur ghat road",
-    "summary_ta": "",
-    "date": "June 6, 2026"
   }
 ]
