@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jun13-001",
+    "id": "tir-jun12-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43dDBFak5WN1BHQWpDVkN2WDR3VjEybExsU0JEUTB5UHIwcl8ySXZEcmpQN2s3YkxIQzRyT3NVOHlxM0ItRV9jU0oxMVRjNVE0TElTWHllYTI0TnU4Tk95aGlSNFJPSUhtUVl0RXdnc3FZdFNaTEJKVWVB?oc=5",
+    "title": "Vi expands 5G services to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Vi expands 5G services to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
+    "summary_ta": "",
+    "date": "June 12, 2026"
+  },
+  {
+    "id": "tir-jun13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzVyaWZYNWgyMVVndnV0V3pheXpMWGh0bjBqU0ZTZzlDUG1wVmxvUVN2c212SXdwODJnZHg1Z0FRZGxkSnBjRFRjcEdIczVPYW9VSm9TdE0xdkhuY2FhN2FoaUNtNmlrODFqQ0hUY2FQT25SYjk1M1dSSmU5S3FKbQ?oc=5",
     "title": "IDream Tiruppur Tamizhans Cricket Team matches, scorecards, news and statistics",
@@ -22,53 +34,5 @@
     "summary": "Tamil Nadu Election Highlights: Historic turnout at 85.08%; Karur leads with 92.66%; West Bengal Pha",
     "summary_ta": "",
     "date": "June 11, 2026"
-  },
-  {
-    "id": "tir-jun7-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOenh1d29MTndsX3YxazBZV0Jod2tFZmctYktOWTZ0VUNxQi1Ld2t4OUZ6cmtUTkYybmt2dkI1OFRqQ09sMWVGU21nM3BBLVUyVWFlcEtVTGgxU1I5djE0Z1hCQWtfSVU1OTVzYkdnX3NFNWM5dGNHaGgyNE1aWVZpY0xONUN2dGV0RFhrU1JyMUV1ME5Jd1pfMGJpMDlrbHIwVUE4TlFKSjJtSFpYcUdmTXBaWGwzNVBwM2JoY3dra0FFdW5leW4wbkRSNjRRdVQzZ3JwSXRYaHU4YVnSAeABQVVfeXFMT0F4eGNNdnZ5Y2E0Yy1NUjYzOTE3Y0JfNFZ2TElSVEM4dWZrV2JFYVRIaTNZN2dEN2dUbXZaVU54TUVkN19PS1RTUXYybnJrcWpVWXFsSURnaFUxNnlvYUo0b2JQZm9MZ1hGNzQ0QlJERUtZNmhVeGVaMVVPRzhFNnhoQXdEcUtEY2hFbnZYdF9HN2lJMVJFQjRYYURFQjVvYWV0WWV0ZUp1eUpDZ1Qxd1RjNGJqQU5ERUR2QURjQzZXbExNUmdfTzljSnRTZU16UktvZ05Pczl2VGpuRjNiRHo?oc=5",
-    "title": "India News | Tamil Nadu Ministers Review Development Works, Assure Action on Long-pending Issues",
-    "title_ta": "",
-    "summary": "India News | Tamil Nadu Ministers Review Development Works, Assure Action on Long-pending Issues",
-    "summary_ta": "",
-    "date": "June 7, 2026"
-  },
-  {
-    "id": "tir-jun7-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXFXaW9wa2s0WFFOci12aGdyZTlXcWI0Wnhqa0FMQUxJZGFfUUpYWGtvQTB6cVJVaWd2SVVIUTJEdnlGbWd3Tnp3cUp1ZUtFa3FVTTNwWWpQNTdTYjBySTJUczRRRklyQnhrcml5dzZheE53d05WZmhxWEtUVzRJb1NZc0c5VUtDMTJ1UnZCLU54eFdiVmZyaEFYU0trUTZpWXlkSmdaT3Y1eldYdDF2MEVCTGk0SWhQUG1OUUE4cUxiZ9IBxwFBVV95cUxQRWRKeFYyUnRGd1duM1dkTHh3LWM0aFU5dGE4d01vR1o2MXVjUHRUM3B1dU8xNDF2STdyY3dFeGs4ZGd0YXJqMmx4SHlrZ2dTTVMwbnVTR0k3NWhyZ3BsaDU1OEFFTTlnNmkwNDFtN3JSTmlBdkRRSHFJTHN6SEotQm1pdG5KZzA2WnZWd3lTWlZ1Q2Q2NjQ1U19hR0hPdXgzMllMQ3hvNGxkWHlGZFl3YzNLQWwtRU9tVUFxeEJWZV9WQnlDRmJR?oc=5",
-    "title": "TN ministers identify key projects in Tiruppur, focus on pollution",
-    "title_ta": "",
-    "summary": "TN ministers identify key projects in Tiruppur, focus on pollution",
-    "summary_ta": "",
-    "date": "June 7, 2026"
-  },
-  {
-    "id": "tir-jun7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQak9IMFB6Uk9CMGpVWlpHMXlhTmh0UUk1eU45QnpveFJ1dF9jNmFycGRuVk05c1A1ajJEODY4bzRMbDIweGw0QnZYWFBvTGVCOXNvanROS3pFaV80b2owQU1GdldyYm9zZktZdUs0dV9MS255VFRVeHl3cDJDbUNabmFRRV9qMmViYjEtZ1Bsc1ZhbnlNYVRsTGFWTzgxRFFpb2otVXJXM0l2dWRBZDFQblN4Z1hWMnRPTG1SMzZNd19lYm1vS3RFX1NoTW9BNHlYNE9nc1NnMnVVOG5iSndn?oc=5",
-    "title": "Tamil Nadu Ministers review development works, assure action on long-pending issues",
-    "title_ta": "",
-    "summary": "Tamil Nadu Ministers review development works, assure action on long-pending issues",
-    "summary_ta": "",
-    "date": "June 7, 2026"
-  },
-  {
-    "id": "tir-jun7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbWRENFIwVExxeUZpSm1fSDJTZGNGeW9OeWIzSHBqUDFfSGlNVVJPUGdnUnJPejIzOGxzWGlYRDB1RHY3VmRiU3NKb1N1VWFVNWp0NnZqTlhuWWlOQzQxY29TczVha2V6eUFEQTRfNm5tazgtbF9uX1ctb2dpRW5SSkcyLXkxempFZ1Z0VDkyc2Jta0Q0UndyS3kwckJPd3poUEJNQ1JnUTdNQUpHTzZFWGlqT2JyRTU5eGJ4ckp5b1VLeDBKbndfclAxN21sblRUaEM2VGlrb1NtcUp2aWYzVi1SMjE5NDU4NjVoYXJvR3HSAfYBQVVfeXFMTlJlM2tScjRrTnZZSWV1dXBCNloyUE1ZVm5PaGFTU20wamlfWlRZZEp6MDdjVU9Tb3lYTEppWjJHNDFqSnI1RzZ4WEprOXJsZ1llYVJJU2dWQ3c2WDdFcDVtUzhrVjJ4c1hEdXh5SUtWUDVkRXpSNmJpbVExb2ZWUzZuSEIzRkNyckhxSHFZcXVBOGNMLWxJTGoxY0ltcjcwT0RjM1k1eWtzdExuVDgxS2RqbTBiODdQUVJVSEh5ZGF5Zk1TX3pnbzVCY001dmkxbmk1eWxjMlZsRjJBQ3JnUXpleWRyNEwzc3U0WGo0NVFyQ0pMLXVB?oc=5",
-    "title": "DMK's Stalin says Vijay's TVK government may not last even three months | India News",
-    "title_ta": "",
-    "summary": "DMK's Stalin says Vijay's TVK government may not last even three months | India News",
-    "summary_ta": "",
-    "date": "June 7, 2026"
   }
 ]
