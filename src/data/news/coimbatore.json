@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun13-006",
+    "id": "coi-jun10-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
+    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "title_ta": "",
+    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "summary_ta": "",
+    "date": "June 10, 2026"
+  },
+  {
+    "id": "coi-jun13-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
     "title_ta": "",
     "summary": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
-    "summary_ta": "",
-    "date": "June 12, 2026"
-  },
-  {
-    "id": "coi-jun12-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43dDBFak5WN1BHQWpDVkN2WDR3VjEybExsU0JEUTB5UHIwcl8ySXZEcmpQN2s3YkxIQzRyT3NVOHlxM0ItRV9jU0oxMVRjNVE0TElTWHllYTI0TnU4Tk95aGlSNFJPSUhtUVl0RXdnc3FZdFNaTEJKVWVB?oc=5",
-    "title": "Vi expands 5G services to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Vi expands 5G services to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
     "summary_ta": "",
     "date": "June 12, 2026"
   }
