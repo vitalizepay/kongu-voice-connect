@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun10-006",
+    "id": "coi-jun15-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUpFVjNscHg2UHpNdkNWZkJyM2xlZTFUUEhJUlNjMm9UMmh4QWpNcHVfbEt3R0hOT2J0Y1BCOHhvTW1sNGVtWmszY1pyRXI1S2s2b3BLdmo3elBfLUlYSmQybThaQWtVVWpLNVhZVUhmc3VlSHpSaXVMRDFwWUZUQnFyQzlpRDRjZGJKRjVIamtwVTAzZ2tGcHRTUllwVFRTMXJkOEFSRWtzRVNSMEFPRw?oc=5",
+    "title": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
+    "title_ta": "",
+    "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
+    "summary_ta": "",
+    "date": "June 15, 2026"
+  },
+  {
+    "id": "coi-jun10-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
     "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
@@ -130,17 +142,5 @@
     "summary": "K Annamalai receives warm welcome in Coimbatore",
     "summary_ta": "",
     "date": "June 13, 2026"
-  },
-  {
-    "id": "coi-jun12-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdUhLTThIQVpieUd4TFIyQVJGbEVGWnhRLVZISTVfZm1kNU1pcUZrckdnZnNlaFJtUFBoS2ZabWtXOXhWTEZDM1otbVMyV2YyOVF3NjJOUURobjBvU21NYWI1NFhlbEwxNTdQZXF2YnRGMVBidW9zX2JkX3hGQ2Z1SUtOU3BPeWhYSnFjR3NaZy1CcVpYUWdGTzNPMm8tNWcxdzFvdVl1NkZ2ZUxnNTlTc1ItUmdualg3ZWZFamdSa1d5ME1SY1JHQThKVW1ra0dXNFN0eDEzVjFCWUJRMHRYaThQNjMtVVdFZVh0UVBWYWZsRUtNOFF0M9IB_wFBVV95cUxQRUhVdUtwSWMzZlF3VjFjbjN1al9YMHZET0xOdEpvQk9XTy1tdS1pbGxSZlZib2tXZHpoaUtzODJEdy11Z2pLMmZNSERlaUlyZnowRmRURkFGVmkzMU9xUFpPaXpMbGItR3ptblVVaTRzdXRtdVI0UzRrSzd2WTdJbkNMVEFqZDFHcVBXOFNjaGxzZGZIZ2NNOXhyY2UwTHFzZld4Z3k2U1VpVGJrYjVwX0hXajdKaU9MT21mUm1XOFFTUlkyZmwwUUZhZ2dNNUFDWC1TYjRGTzdMZF9jUW5Hbnd2ZUpXZEZtWWk5YlBzZGNFeEZqdHVma3I5eDl6X2M?oc=5",
-    "title": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
-    "title_ta": "",
-    "summary": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
-    "summary_ta": "",
-    "date": "June 12, 2026"
   }
 ]
