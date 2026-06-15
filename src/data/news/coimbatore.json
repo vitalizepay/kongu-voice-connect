@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun12-001",
+    "id": "coi-jun13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVRiT3gtejI4a3E0M1ZIb0ZwXzFSODV4VlVHZFRxZEQyRVpsaDlkaDc0RGVWaU9qb3ZCNTluU0k2dHptd2d1U282VGlTZDhGNF9wWGNRR1pRNUZMY0Zfd3FKUWFra0FtTEtrc1d5QVhISWlMMW13dGpWbnFId1l3T0JoS1hMQmhyY243dksyQ1c5NXNJU0YzZWRtYURNeXE3Vk9YZlpTd3lYWmFTV3c?oc=5",
+    "title": "K Annamalai receives warm welcome in Coimbatore",
+    "title_ta": "",
+    "summary": "K Annamalai receives warm welcome in Coimbatore",
+    "summary_ta": "",
+    "date": "June 13, 2026"
+  },
+  {
+    "id": "coi-jun12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdUhLTThIQVpieUd4TFIyQVJGbEVGWnhRLVZISTVfZm1kNU1pcUZrckdnZnNlaFJtUFBoS2ZabWtXOXhWTEZDM1otbVMyV2YyOVF3NjJOUURobjBvU21NYWI1NFhlbEwxNTdQZXF2YnRGMVBidW9zX2JkX3hGQ2Z1SUtOU3BPeWhYSnFjR3NaZy1CcVpYUWdGTzNPMm8tNWcxdzFvdVl1NkZ2ZUxnNTlTc1ItUmdualg3ZWZFamdSa1d5ME1SY1JHQThKVW1ra0dXNFN0eDEzVjFCWUJRMHRYaThQNjMtVVdFZVh0UVBWYWZsRUtNOFF0M9IB_wFBVV95cUxQRUhVdUtwSWMzZlF3VjFjbjN1al9YMHZET0xOdEpvQk9XTy1tdS1pbGxSZlZib2tXZHpoaUtzODJEdy11Z2pLMmZNSERlaUlyZnowRmRURkFGVmkzMU9xUFpPaXpMbGItR3ptblVVaTRzdXRtdVI0UzRrSzd2WTdJbkNMVEFqZDFHcVBXOFNjaGxzZGZIZ2NNOXhyY2UwTHFzZld4Z3k2U1VpVGJrYjVwX0hXajdKaU9MT21mUm1XOFFTUlkyZmwwUUZhZ2dNNUFDWC1TYjRGTzdMZF9jUW5Hbnd2ZUpXZEZtWWk5YlBzZGNFeEZqdHVma3I5eDl6X2M?oc=5",
     "title": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
@@ -130,17 +142,5 @@
     "summary": "Small entrepreneurs are denied subsidies due to procedural hurdles: FOCIA",
     "summary_ta": "",
     "date": "June 10, 2026"
-  },
-  {
-    "id": "coi-jun13-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWENTOVZOLVN1QUplVEtJTDRzZmcwTmtIaEdvV1BFdlJYN2o5a0lmeWYzYklNTDBab25FVnpBdFNOLVVuVEZZTG1QQlFrZ1hrMzR6WG56U3hMMkVGRUM3cGtlcnVCQ0l5cng3Sm5nREIyOEtsNHhqR3lGVmViQ0llSlpucHU0QkhjbnJPanlwY3BkWDRHLWQzNGU0RWZzYlZCaC1rS0Z5NXRNWWZOQkRGeEtWemJmZkYxdGRRMFlPbTAwcm5HMnB6a01uMzczQmM?oc=5",
-    "title": "Former BJP Tamil Nadu chief Annamalai receives grand welcome in Coimbatore",
-    "title_ta": "",
-    "summary": "Former BJP Tamil Nadu chief Annamalai receives grand welcome in Coimbatore",
-    "summary_ta": "",
-    "date": "June 13, 2026"
   }
 ]
