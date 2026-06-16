@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun13-001",
+    "id": "coi-jun16-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWm04SVhtUC1vRzhOejdUdzU4amtZQkRCOEE4YzlBcHdIZWNEbXM1Sl9kQmEyRkpnWUplblZwZExtOTFYYnhJSXpRZUVzWndGSEVEZmpubExfZnpaMUJrN29yU25IRGFDcW5DNmxKVGRZVDVuNUpaVHRoWGhmWVJCUEtWODNxdld4ZF9Wa0VkNEw0Q1BfSDRIUlZ1eHl2M21DOFY4dUlMeEJHVjjSAbgBQVVfeXFMTjIwTkw4dWhGeUNFLVVFdU5FNkg3ZEFzWHRDMEVkVFo5eWRIVWNpWjMtZWxDbGxqM1NsT0YxRG5VdGJEdFhnUFhzWmZXMnNTa3FMV1V0TmNKU0ZKZjhENnI2aGlacVo4QjVUaDhtREZ3ZUFWd2tHZVVvZENha0VfZjdfWEo1VnhWdGZybmVJRWJhYTJGWXQ1ZzBrd3NJcng3X0R0QlBmaHJCRWM0QUF4U3FrWG55dy0wbw?oc=5",
+    "title": "Efforts initiated to revive elephant rejuvenation camp near Coimbatore",
+    "title_ta": "",
+    "summary": "Efforts initiated to revive elephant rejuvenation camp near Coimbatore",
+    "summary_ta": "",
+    "date": "June 16, 2026"
+  },
+  {
+    "id": "coi-jun13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVRiT3gtejI4a3E0M1ZIb0ZwXzFSODV4VlVHZFRxZEQyRVpsaDlkaDc0RGVWaU9qb3ZCNTluU0k2dHptd2d1U282VGlTZDhGNF9wWGNRR1pRNUZMY0Zfd3FKUWFra0FtTEtrc1d5QVhISWlMMW13dGpWbnFId1l3T0JoS1hMQmhyY243dksyQ1c5NXNJU0YzZWRtYURNeXE3Vk9YZlpTd3lYWmFTV3c?oc=5",
     "title": "K Annamalai receives warm welcome in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "52 Class XI students win Tamil aptitude scholarship in Coimbatore district",
     "summary_ta": "",
     "date": "June 13, 2026"
-  },
-  {
-    "id": "coi-jun10-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGw2czR1LVpPOWlyQ3YxeWVzNDQ4QW9ZbzVwOGtRZmgzODlCcGhoRnpQZ01WMmdoRFhUcnZycWRYMlp4WWdKLTJoaFdkcFpqLVd4TWJNcVdUZ2U0cDNadTNralBnNU9uYldvcTgxRGJyeFpia0RQaEdMc2xyYmdpY2cwdjRfSkotZ0VBcGprdWIyQ0ZoaUZEZDZGZmhaNEpPNm4wMXZwNWNEQkZoWGhuLURyMU1mdkdvSmZLdFdZMWZ5RzR6VmlWb1BIR2xybEJ5Vzl0QW55c0NKTlljdk5FMXJwT2jSAeoBQVVfeXFMT1V1LS1aUXQ2aGc1Tk1fUWcxNVA4MWJJQUt0NWRFcFdUOGNkYjFIcm1oRUZYRW15R1JURnpqb2dFSHNDbGVfcC1RbUpIMFZscGJVOHlJVzItLWoxUmRxeGt2QkJkdlQ0ekVsMTlka0NnWkg0NmhQVjBYRGJSTkJ2SVBCNk9URWNrVm5oYmdmRVg0VEFZNVd4aHp5WjVPSEJSS2dmUFZiaW8weDBIcmd4RWNaLUtvdy11RDZKUncxT0c0YUt1Q0RVX3phb2pzbUNua3U2c2Q0YkVkRU5POXBSR0t4WUlrWWpNcHF3?oc=5",
-    "title": "Small entrepreneurs are denied subsidies due to procedural hurdles: FOCIA",
-    "title_ta": "",
-    "summary": "Small entrepreneurs are denied subsidies due to procedural hurdles: FOCIA",
-    "summary_ta": "",
-    "date": "June 10, 2026"
   }
 ]
