@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-jun14-001",
+    "id": "dha-jun16-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWUFGRDF6MV9neWNyV1R2V0IwT2lkR0NBY29DUnNHbXR6eGh5elE5b3huQWYtNm9GSThsUVlhYXFDU09Ia0gyWVlpRGxMaV92TEQ5eFJyR0RGZXZXVFkwOEFFbHdfS2pmWDI1TzlBUElkTDhfQmdLQU9ldmJYM01nc3c3SmpzelE1X1Y4eDZkZkc2MlpPX2hjY3FuNTl3UnBXZzdkdERXWVg0NG56LUx0OUdRaGtLS0V2N3ljRmE0c2s5bUtvRnZDREJxYVppeExkdy1Sa0NDYw?oc=5",
+    "title": "Dharmapuri Farmers Sound the Alarm: Dam Storage at Just 12% as Sowing Season Approaches",
+    "title_ta": "",
+    "summary": "Dharmapuri Farmers Sound the Alarm: Dam Storage at Just 12% as Sowing Season Approaches",
+    "summary_ta": "",
+    "date": "June 16, 2026"
+  },
+  {
+    "id": "dha-jun14-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWnByd3ZVMUtlaXdiTVYyZktlVXFDYXRNX1J5OElTTjdqRHFjZXB6Wi0tSFI0eUtNUVVrZjNqMDhQZnhtNk9xRW9tUGwzUnpib1l0clg5bEdwcGJ2LUl6eHVYa3VMb1luOW91blR3cHdVZTQ2NUtiZ2NuaDFjV2hHdXJiSjU0R0xIY1ZGdnVUMWlqMjVGZG1pMF96LWtBYjBRdE1sd3JLSVZRWl9POFEzTFBLSm9OcUNCUGJtck5UTnJaUGVHTkgyRzlWaDJGQ3NLbDJjbTFRelFIbHFwaC1NNHI1aDJmUzJ00gHoAUFVX3lxTFBacHJ3dlUxS2Vpd2JNVjJmS2VVcUNhdE1fUnk4SVNON2pEcWNlcHpaLS1IUjR5S01RVWtmM2owOFBmeG02T3FFb21QbDNSemJvWXRyWDlsR3BwYnYtSXp4dVhrdUxvWW45b3VuVHdwd1VlNDY1S2JnY25oMWNXaEd1cmJKNTRHTEhjVkZ2dVQxaWoyNUZkbWkwX3ota0FiMFF0TWx3cktJVlFaX084UTNMUEtKb05xQ0JQYm1yTlROclpQZUdOSDJHOVZoMkZDc0tsMmNtMVF6UUhscXBoLU00cjVoMmZTMnQ?oc=5",
     "title": "Farmers seek cooperative in Dharmapuri for mango pulp, other value-added products",
@@ -34,17 +46,5 @@
     "summary": "Wild elephants enter village near Dharmapuri",
     "summary_ta": "",
     "date": "June 11, 2026"
-  },
-  {
-    "id": "dha-jun9-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlhwd1JEc0tMcWlhRktONzdyTFpPQ09DUkxsdzVBMTh0bDFZU3dMR1hzV3ViUDVadXlFUW9uU1hWTFhxZUk5WU0wREJ3NzFsR28ybzE2MUNUamdFWkluQ2ZNVHJFUmZoaWRVVGRRUWpRWGZEQTdTSkNIUUExeXctMjE1R01vWGdrNnJZYzNXMzZkTFZmaW55eWdPTWgtQ2NBZF9JeFVjS1DSAbYBQVVfeXFMT3dnMVBscmtkR3IwZXFQT0YtY3B3ZDlBUXJsS2xsZjNucU5JTjk3VEozQ0syRDV2VVBwRnhNbDdHRVFQeFpmS0tOQ19OR1JsNkw5OUpvV3ZOYTgxTGEyRHhVTUlvOXFUdF9rc2RuTXJyeHhUVkY3Rm40ekdiS0JabjBwQWxpR29iaFY3OWR0YkgxUzVXTHd6ck4zYnNkYXBYbWNNdEJ5dTV6V2tFZmVlS3hPMjFJblE?oc=5",
-    "title": "Dharmapuri farmer dies by suicide after rain damages betel leaf farm",
-    "title_ta": "",
-    "summary": "Dharmapuri farmer dies by suicide after rain damages betel leaf farm",
-    "summary_ta": "",
-    "date": "June 9, 2026"
   }
 ]
