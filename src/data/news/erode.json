@@ -1,8 +1,44 @@
 [
   {
-    "id": "ero-jun13-002",
+    "id": "ero-jun16-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeWFpYnlXdGlDOVdOdWxqNFpUdGZ2Snl4WXRTQTRjb3dQWE8zTHg3VEV2NkUyTGFsOUVtakJXT2owamdYb1M0WGJ1Wm5tM0JPOHBLX3U1R3F3R1RqQ0ktdG1sYmJGclpoMzlSUm90d2o3a3RoLWJVb1FxRG5zU1hfX1RVUjlPUXdjc1lLcTZ1ZlRkUVd6MHdNUDJoRV90YVctWHBia2Y5N0hENjktQVpwdVZ0WHM1SVc0MjZwZlB3YWhIejJ2aDNxLWM2ODVaZGEtYTJIcDY4TdIB3gFBVV95cUxQenlKQUJydEstU3ZXNTBhOF85WWZGNldwbHU3bGtScXhNXzdtQmR3dE9wQ295a2FNRk1rTVNCbzJpQVh2MTcwQTdORHExSGdMV1hFeVpwcmZDMzR6UU5PLWc0a3U2RG5NY0l2UTVNZHRGMENaUllTQ3NwdDdObUtucWxwZm95SUdLWkJ5aUhFeURBa180RE0xUWd0dC1hOGRpMG1nNnBxX1dxNGtHSnZza2pDazBncEJsY1dMbER6d18tUWhrMUdoTTREVlMyckxGUFNQWTdtdVRZSF9ZUWc?oc=5",
+    "title": "Waste dumped along Kavundapadi Road in Erode poses environmental concern",
+    "title_ta": "",
+    "summary": "Waste dumped along Kavundapadi Road in Erode poses environmental concern",
+    "summary_ta": "",
+    "date": "June 16, 2026"
+  },
+  {
+    "id": "ero-jun16-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPalozTno0VktuRWduVFhHX0RiVW83UzhZZW9WMFRsQ0dVVk9MZml5VjZXZXV6UjJ3dk1VbjZCZGZDelJLMTdMRkdDRXNuSG5vSVRKU29adHU3aG9TTnM3d0lwNHEwV2t4R1JKWVV1X01OektpVUVvajNhbVBGVFY5TzNrMlJBM2RaOThWS3hzcHJlVGpJRmxWLW55MWd4MWlfWU1XWW5zbmlKUFQ4LUdObDFlcEk5YXZTa0U1eWFialZRbm56amxOdXJQbnltQ3YweGg3eE94N3PSAd8BQVVfeXFMTWc4YzNQWDBETnl5ejdTUC1MMEh1WlZrZjE4MU9JZExzNmdnOTZPSmdUcmp5RkZUY19BWjlYVXJrMWhUcl9vQTc2MTl3Rm43XzNkdG1DZHY0YVdaMWU0TEVlN3BmSkY5VjZHN0RiWkFWb3Fldy1ud0xnNTc2ZEwtY290UktzeWpwRFJvaFpvbmlaRmNsUXRER25GR01PdTE1SUw0N1JLMVZiWVR4VEZrTTJZd0NOVzRnSUZmWS15WUZVazdvajI4XzBsVFdVVmN4WTFzYTRjSkNLNEtGbFpCcw?oc=5",
+    "title": "Tribal people should be identified as ‘Adivasis’ in Census, says association",
+    "title_ta": "",
+    "summary": "Tribal people should be identified as ‘Adivasis’ in Census, says association",
+    "summary_ta": "",
+    "date": "June 16, 2026"
+  },
+  {
+    "id": "ero-jun16-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmRtQzBCaTUyazItVEJ3UUtQRUhfUEcyenlqYWlKMXRvUlhoYkoybzc2cDNNcWJNbzVWU0RlLXVwRGg1NHV0cWFwZkdGMFFfaE1oN0gzYnFNSmN5dzNSc3VwbEZUYnR4Uk4wN0wxc0o2S3BfVk8zQnNzN05hcDJYOGRkZnBtZlo3UWw5aWhCZWV1MWJCc2dhTg?oc=5",
+    "title": "Erode’s Rising Cricket Star PK Kishore Gets India Call-Up – Tamil Nadu’s Next Big Cricket Sensation ",
+    "title_ta": "",
+    "summary": "Erode’s Rising Cricket Star PK Kishore Gets India Call-Up – Tamil Nadu’s Next Big Cricket Sensation ",
+    "summary_ta": "",
+    "date": "June 16, 2026"
+  },
+  {
+    "id": "ero-jun13-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOalRIeTJ3UlRBa0hyZU1sRzVhU2drbU5ROTQzZmh1T0lIUzQzSkpORmRYeXRHSUVkVHFDVTR6VzZxY3ZUcE9sZ2JqeFRFY2VZUm1mU3JsTGlXZmtuMjEyZXN4TS1iR2tTOXN5cTVGbThLWUN0Tmk1WFlHVHhFNmJscWVEMEpOMjJPLV9PU21XUHlJWTBIcjJoNFoySkZMWXIyQktYaE1GSEZsRTBEQWlyRDN0VXZ6bEhOQk9fY1VkMmF2QUp6enFRV1duZEN5TUw4M09DUjVR0gHjAUFVX3lxTE5YNXNwRzd1SFJYMF93N0NrTjVQTzJvZDRPTDVORWJsRUdMcE5fZUxPdXZtN0JiTlpIc2ZNR0UtVzdjMGVQWEtubzNDQWp5MzdQVVpTTG1OLU1WRG80a3U5TnFhSGJjMmlkRnNLZ3o3OXhMTUN6bmlsM0dEbVhyZnEzV1JpMnlGa09heF9JZWlBb3J4dlI1RlpxZzdWUmNFUmR5WkpSNlhETzMyb3MzazdjOVZBLVBSVnpIVXRqQ25MTV9lQUFBc1hUTF9OSHB6THpUZFAzQUNpdkRFMThRY2ZfbVFV?oc=5",
     "title": "Mental health rehabilitation beneficiary reunites with family after 12 years",
@@ -22,17 +58,5 @@
     "summary": "Set up agriculture testing lab, cold storage spaces in Tiruppur, traders urge TN government",
     "summary_ta": "",
     "date": "June 11, 2026"
-  },
-  {
-    "id": "ero-jun9-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmsxRDg3YTZ3LVVUUzh2NkxDem5UcEJzQjAwNWlPZFpVOFZNRmxxNDU1QUtUVk54SjFENlRZZEJ4T1F1U2Z5ZlZKdmd3b3dqVl84OHV4WXQ4M2Q0blBJMG8tZHA0V2JXNm5UaGlBbUxuMzE2THgzamFLSzFjMmZOQW4xZTFPWU9qNUdZNFM0eGo1a1FzeUduel9jelVzZlJsLTBLRFRYUk91MmxMMUp1eXNOSWhQeE1EbVZwZ3RtLS0zd9IByAFBVV95cUxQSEVUVEQzZXBFNGF1VmJmWklZVVZRaXdVRDUwcXZYU2p3dk1FSFAzMUxVYVZ5N3VjQ0JzRzRKTnBuM2FEREJIeTFER3ljMDNHZGxneW1tVDhoVGRCVjdyQnBsQ3B0ZllETUl1azNTR3V6bEl3Ynd5Sklfam11RVE5NmlQNC1fLTZZaDBEX1ozSW9weGd2NTczVi15MklZc3FuNVdxNkJpS2tEUnBCYmlpN2hxcEREV0RLWXdYVXZBRE1VMUh2bWNmMw?oc=5",
-    "title": "Residents demand relocation of Tasmac outlet in Anthiyur",
-    "title_ta": "",
-    "summary": "Residents demand relocation of Tasmac outlet in Anthiyur",
-    "summary_ta": "",
-    "date": "June 9, 2026"
   }
 ]
