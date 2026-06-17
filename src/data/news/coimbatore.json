@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun16-002",
+    "id": "coi-jun17-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWi0yem9NdWRybGQtLTRxbTNsaEFXaHNvZkZveHh3NGl0V25lTjZmM29iUWJnX2VyWHJqVVI4Mzhmb0FTNVM0a096aU9tdTJGeGs2QXVZN2NEUHZPR0s4VGtrOVNjUlNHa0lGbWdNeWs2QVhZNVNfNUZ5cUhLTktwSVg5VXJRRGluTkNSamNNZVYyRHdF?oc=5",
+    "title": "ISRO Tour Inspires Coimbatore Government School Students",
+    "title_ta": "",
+    "summary": "ISRO Tour Inspires Coimbatore Government School Students",
+    "summary_ta": "",
+    "date": "June 17, 2026"
+  },
+  {
+    "id": "coi-jun16-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWm04SVhtUC1vRzhOejdUdzU4amtZQkRCOEE4YzlBcHdIZWNEbXM1Sl9kQmEyRkpnWUplblZwZExtOTFYYnhJSXpRZUVzWndGSEVEZmpubExfZnpaMUJrN29yU25IRGFDcW5DNmxKVGRZVDVuNUpaVHRoWGhmWVJCUEtWODNxdld4ZF9Wa0VkNEw0Q1BfSDRIUlZ1eHl2M21DOFY4dUlMeEJHVjjSAbgBQVVfeXFMTjIwTkw4dWhGeUNFLVVFdU5FNkg3ZEFzWHRDMEVkVFo5eWRIVWNpWjMtZWxDbGxqM1NsT0YxRG5VdGJEdFhnUFhzWmZXMnNTa3FMV1V0TmNKU0ZKZjhENnI2aGlacVo4QjVUaDhtREZ3ZUFWd2tHZVVvZENha0VfZjdfWEo1VnhWdGZybmVJRWJhYTJGWXQ1ZzBrd3NJcng3X0R0QlBmaHJCRWM0QUF4U3FrWG55dy0wbw?oc=5",
     "title": "Efforts initiated to revive elephant rejuvenation camp near Coimbatore",
@@ -46,18 +58,6 @@
     "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
     "summary_ta": "",
     "date": "June 15, 2026"
-  },
-  {
-    "id": "coi-jun10-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
-    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "title_ta": "",
-    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "summary_ta": "",
-    "date": "June 10, 2026"
   },
   {
     "id": "coi-jun13-006",
