@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-jun17-001",
+    "id": "nam-jun16-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wWkdNRGpFeGhwbW9UeGdyZjZnYndHN0NDU1ZCM2UtMzhpaHhZbm5EYWtoWXJteTh4OWQ1YzVIbGlrUHZ2LVEtMHgtVXJOSzMzejdqclRBQ3g1UFNSeGkwbTZseXBBZw?oc=5",
+    "title": "Tamil Nadu Weather: Rain Likely in Salem, Trichy and Namakkal as 12 Locations Cross 100°F",
+    "title_ta": "",
+    "summary": "Tamil Nadu Weather: Rain Likely in Salem, Trichy and Namakkal as 12 Locations Cross 100°F",
+    "summary_ta": "",
+    "date": "June 16, 2026"
+  },
+  {
+    "id": "nam-jun17-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHRaX0NNVnU0SU1XYWo3SEkzbThCeG96c21vd0VFbG9jbktKRnAyTGhSTnhUb0UtRWkwMzFCbG4yTFFzaUpFNHNOLS1Qdmg2cG1uZGJ5akNoSHMzSjBrN0FPZEVXV3FCTnN0enpXMTNyOUY1UGh1ZTRncTMxRVV6ZERyVUtuNlZDY0JIZ0NfVWFHTkJlTEU40gGXAUFVX3lxTE5sdFpfQ01WdTRJTVdhajdISTNtOEJ4b3pzbW93RUVsb2NuS0pGcDJMaFJOeFRvRS1FaTAzMUJsbjJMUXNpSkU0c04tLVB2aDZwbW5kYnlqQ2hIczNKMGs3QU9kRVdXcUJOc3R6elcxM3I5RjVQaHVlNGdxMzFFVXpkRHJVS242VkNjQkhnQ19VYUdOQmVMRTg?oc=5",
     "title": "Namakkal egg prices hit record high of Rs 6.45",
