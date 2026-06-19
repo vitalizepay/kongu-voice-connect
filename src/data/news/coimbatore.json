@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun18-006",
+    "id": "coi-jun18-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3M4OXIyTUNnNkVKcUZ1ZFV4aldrQ0Zla1BQRDAxdUJrLWFLb25kc0hpOGNobVgwMDYtSnRoUl9HV3BiRWZlYTkxaHI4UHdSMWpzMWxlakdsVXc4OFR3alUxNERsVllwcWdyR1hPWEVLUFJIa1VaZTFtZkRGM2IyTkI1SFJzS0RNbTZBQmpscXh4eWhNWW5tRWI0VkdpS3E1Y1FtdlRhRHhwSkt1Q1dwdzNMMTZSX3RLU2FsNdIBygFBVV95cUxOcUJ3VkFRaF8tcGE4ZGk3U1NKdXVQbG1Pd2Q5aFc1M1ZQWnRRZkFySzF2ck1MS1hHeTFjUkhaS3doZktNTXF3TFNSWkxZYUlyRjVDbGlHeWdYdUltVkNydDNfX2x2S0xKa0tuVC1rRHBxSGdZajV4eFZldnNNR0FjS2t0bFMtTEh3S0V1Z0s3SW90b0lQVHExYTRQY3d1Njh4UHBwZWZCdHVUTk9PU1Z3TEdDUUdUc2tYQUhuM2U1VW9HbUJPNkd6cnVB?oc=5",
+    "title": "19-year-old TN student under pressure to sit for NEET re-exam dies by suicide",
+    "title_ta": "",
+    "summary": "19-year-old TN student under pressure to sit for NEET re-exam dies by suicide",
+    "summary_ta": "",
+    "date": "June 18, 2026"
+  },
+  {
+    "id": "coi-jun18-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHltbTlCa3cwTEwzR2hpMlhINkJ4UG9mZW9VT1BnQzBNbWNLeVc5aTZkMTRySTE3ay1fOGJ6LW0xNWJlZXVDS3lEM191enoxajZrdTJGT3FnU2UtdzhEOFBsekJkNlRFdURwYXg4dFhmOGotUk9QSUlRV3YzTkc1Ym5VNUp2STV4T1diUExfUDkyalZOb05HejZWM3ZkeG1KdUVsNk9iVDlKbHZIWF8yTHRYWmVBQmRhZVVaeDE1bHVXbGUwb1J5V2lOSEZWTndQNFQwLTdMQUE3YmxUZmdDWEFLMWxiMzRsTkVuWlhCaVhpZmNKQ1hqNE5veHViMGM?oc=5",
     "title": "NEET aspirant’s death in Coimbatore sparks protests, political outcry",
@@ -130,17 +142,5 @@
     "summary": "19-year-old NEET aspirant dies by suicide in Coimbatore over retest pressure",
     "summary_ta": "",
     "date": "June 17, 2026"
-  },
-  {
-    "id": "coi-jun13-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWENTOVZOLVN1QUplVEtJTDRzZmcwTmtIaEdvV1BFdlJYN2o5a0lmeWYzYklNTDBab25FVnpBdFNOLVVuVEZZTG1QQlFrZ1hrMzR6WG56U3hMMkVGRUM3cGtlcnVCQ0l5cng3Sm5nREIyOEtsNHhqR3lGVmViQ0llSlpucHU0QkhjbnJPanlwY3BkWDRHLWQzNGU0RWZzYlZCaC1rS0Z5NXRNWWZOQkRGeEtWemJmZkYxdGRRMFlPbTAwcm5HMnB6a01uMzczQmM?oc=5",
-    "title": "Former BJP Tamil Nadu chief Annamalai receives grand welcome in Coimbatore",
-    "title_ta": "",
-    "summary": "Former BJP Tamil Nadu chief Annamalai receives grand welcome in Coimbatore",
-    "summary_ta": "",
-    "date": "June 13, 2026"
   }
 ]
