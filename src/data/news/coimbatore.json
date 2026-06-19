@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun18-002",
+    "id": "coi-jun18-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHltbTlCa3cwTEwzR2hpMlhINkJ4UG9mZW9VT1BnQzBNbWNLeVc5aTZkMTRySTE3ay1fOGJ6LW0xNWJlZXVDS3lEM191enoxajZrdTJGT3FnU2UtdzhEOFBsekJkNlRFdURwYXg4dFhmOGotUk9QSUlRV3YzTkc1Ym5VNUp2STV4T1diUExfUDkyalZOb05HejZWM3ZkeG1KdUVsNk9iVDlKbHZIWF8yTHRYWmVBQmRhZVVaeDE1bHVXbGUwb1J5V2lOSEZWTndQNFQwLTdMQUE3YmxUZmdDWEFLMWxiMzRsTkVuWlhCaVhpZmNKQ1hqNE5veHViMGM?oc=5",
+    "title": "NEET aspirant’s death in Coimbatore sparks protests, political outcry",
+    "title_ta": "",
+    "summary": "NEET aspirant’s death in Coimbatore sparks protests, political outcry",
+    "summary_ta": "",
+    "date": "June 18, 2026"
+  },
+  {
+    "id": "coi-jun18-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
     "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
@@ -130,17 +142,5 @@
     "summary": "Former BJP Tamil Nadu chief Annamalai receives grand welcome in Coimbatore",
     "summary_ta": "",
     "date": "June 13, 2026"
-  },
-  {
-    "id": "coi-jun17-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWi0yem9NdWRybGQtLTRxbTNsaEFXaHNvZkZveHh3NGl0V25lTjZmM29iUWJnX2VyWHJqVVI4Mzhmb0FTNVM0a096aU9tdTJGeGs2QXVZN2NEUHZPR0s4VGtrOVNjUlNHa0lGbWdNeWs2QVhZNVNfNUZ5cUhLTktwSVg5VXJRRGluTkNSamNNZVYyRHdF?oc=5",
-    "title": "ISRO Tour Inspires Coimbatore Government School Students",
-    "title_ta": "",
-    "summary": "ISRO Tour Inspires Coimbatore Government School Students",
-    "summary_ta": "",
-    "date": "June 17, 2026"
   }
 ]

@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun16-001",
+    "id": "kar-jun19-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnBiWEJ2UmJtRkNDYlZhbjZ1S1J4WnRlNVZ0R09SUXhueTFELWdjMW92MmtDZWtTNlJSRmY1cUh6dlRnY2xta2VFUnJzT3B0N1JUYUpaX21UTDZsYkhFMjlTcU1aQmpiSjJXY0NfM2ZTX29UWnNVQ0hHN3l3RUZ0YlRnWk9ndkV3SXpMcE5yanV6V0g5QkhlcFY5VzlvaTBnLWRSVFhiZ9IBtAFBVV95cUxOanRqb3RqdXg4YzJmTEdmTndyemtPNGV3MEFIbnRsbHY0X1Z1S1hsSlFKMmh3UzBYRUZUZTFjZkxWVGR3TGZiOXU0b3I4UnY0VDJkRWRvb2Q2NHl4RmJROW00Z1ZlYlg4aDVKSjZBOGhCVWFsQjdpR0phekt2bkF3aDh1dElRclVXYU5FeHcyMjVtN1ZJMXhpUUctRnRhZXdmSi05OFNuSTBRNzNIWUtESkpTYm4?oc=5",
+    "title": "Karur residents petition CM Vijay against eviction from temple land",
+    "title_ta": "",
+    "summary": "Karur residents petition CM Vijay against eviction from temple land",
+    "summary_ta": "",
+    "date": "June 19, 2026"
+  },
+  {
+    "id": "kar-jun16-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlNKbEJZOEMzSERhRDlRbjF4WHJSUUFxd1BlZkpsOEZMUnFjVVItOWxpajBLaTczWFgzYzVoSmN1WmhLUnI1UHA3WVRub0wwVVZtQndaT2c1QmZzOExXMmlrelB1LUg0YU1YYWxGUGpxZmp4bk5RSGtDb0tIV0RPcDRfTmlVaS1wVjdKbmRtekx0cV9pODFQaHhjZWRUMFBNbFlEbndqYlpDdzQxWDVwN1FWcGRLLU10Zm4zTjJTSGJuMml5eXZQaUxB?oc=5",
     "title": "Madras Court Calls Students 'Real Life Paper Tigers' In 2016 College Murder",
@@ -34,41 +46,5 @@
     "summary": "Stalin Asks Vijay Whether He went To Delhi To Escape 'Karur CBI Case'",
     "summary_ta": "",
     "date": "June 13, 2026"
-  },
-  {
-    "id": "kar-jun11-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOVVuX1h3Nl9sNjRDX0M1WjBxZTNBQlpiSU5uVGpVR21DellmbU1KRU9YbnlxZjQ1dXhDeFhjQWQ4X0pEdEs5ZkhabDczRWZVTy1objVnanp2dzUxX1dNVGdCUjFKeGczYlF4bFJHSUdjeHYzelJ5aXFvTVY2RnljbDZoNElybXBHU29QclhHVU4zcWVGeUNCVDhfYzVPZHBFUzhCMmFR?oc=5",
-    "title": "The Indian workers training AI robots to take their jobs",
-    "title_ta": "",
-    "summary": "The Indian workers training AI robots to take their jobs",
-    "summary_ta": "",
-    "date": "June 11, 2026"
-  },
-  {
-    "id": "kar-jun11-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBFN3BnSTVsQkZUcURvUWQ1MFJCMXZzcDgwczF0VmxIY05jcDhGdGhFZlZxd1A1cGFBSTdKNTQ5ZWlEampqa2JwUk1KU0lrd19RUko2UW1WTkNET1dYNHgyOXhQQzkxaXNaSmNNbmsxdGFxYkkyMmx1QTNqMi02eE0zTmhpbHgzeVVZcGp5V1hiN20zSTlTbFI5b0hZcmtnUUlJODNXWVZIUVnSAbABQVVfeXFMTk5Yd1ZOS2RuWFdHcDRLSE1yMnNZclktWndxRHNqeVJ1UU9nZ0twa3Z4Q3RzX2hFUmw5Q2xBd2poWUprWlpqVlNvZzl2Z2YybjU4VndhMi1ObVRzZjFTWDVaY1VBODhsUkI0NTRSc1V2Q0EwY3FfTklodHBQeGN1Z1VHSlZGZkNMa2FIajJYQXRDdmlZakVYMjliM3JPT1cyam4tckFlZW9UczlpSWRlZEs?oc=5",
-    "title": "India’s workers are training AI robots to take their jobs",
-    "title_ta": "",
-    "summary": "India’s workers are training AI robots to take their jobs",
-    "summary_ta": "",
-    "date": "June 11, 2026"
-  },
-  {
-    "id": "kar-jun11-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0Z0QkFDU3dwN2JjYVBhbzRMcW9DY1RZUUJvWHVHbWJLU1RSR3paV19CYXdDZzZrdVRBZnJrN3JLbEgxbjFrd3hUbnVmVFluWTBKQ1RJSWpXYW0wMmNRTDdVM3gtZ0dTaXBBTFNXM2VPZHk5SXhKYm92dmZsTFhEX2VVLTFhNk5iZzJsVVplMEtFYTdyYy1ycktn0gGfAUFVX3lxTFBIdTBMTUtuNmY1MkJZNVBfSjFyRmRXY2pnUjRtYU1HRDZEQXZMdXFleFM3VkdVdGxlMFBBc3lLRVJVR0tuQU9WNTZBaWJiQ05XN3Q3VzVNUmZwMHhrSEpDMEhtc1pBMTR6bmJ6U2hLd2VLS0l2SDBBWi1ybzFoYldCNlB5TU85YnM5a19IUXlYa3VQdWRDLWVIR1BJSGxnSQ?oc=5",
-    "title": "CBI Investigation | Just Now | கரூர் கூட்ட நெரிசல்- சிபிஐ மீண்டும் விசாரணை | Karur Issue",
-    "title_ta": "",
-    "summary": "CBI Investigation | Just Now | கரூர் கூட்ட நெரிசல்- சிபிஐ மீண்டும் விசாரணை | Karur Issue",
-    "summary_ta": "",
-    "date": "June 11, 2026"
   }
 ]
