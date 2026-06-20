@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun19-001",
+    "id": "kar-jun20-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0ZsTjNfQXN2ZVBqWDk3Z214NF9qV3RmZUljQnJQcFNrOXR1bGJHV09qWnhwTWs1RXVSUjFQMnBubmRaSC1sTlp3NnpKNmk2cVNCaFN3eTc0Z1g3bmdTQkJBd3BPQXNqNDlzUERkT1hxU05EdWxPM1huQlN1cHh3c3BPM1VMRTY4enlGTXdRVWItanhtWkdhYkpJSzBaYktYQnhwbnRaUVJzd1Z3RGfSAbsBQVVfeXFMTVhPSi1LQTBIaVA5NjlmYWNGdHBqei1KNU9OdV9KbVpBdWdIVGNkdkI2ZkNtUjkteEhsQ3ZwbXUtVkEySGVhcG1DaHNsOTVJSmpRN1BpNmh0Ui14eEJKRWk2UWxxN0N3clNabGtqQjRMdFQwS3Y5RDVQTENPWG41a05pT19qczI0STh4Vi1PX2hIdm4yUHB2OVlmZXN6b2pKZTgwaUpYWGtMX2NZTzdURVN6MGZMLUU4YzR3QQ?oc=5",
+    "title": "Karur police land at DMK leader Senthilbalaji’s Chennai home, hold inquiry",
+    "title_ta": "",
+    "summary": "Karur police land at DMK leader Senthilbalaji’s Chennai home, hold inquiry",
+    "summary_ta": "",
+    "date": "June 20, 2026"
+  },
+  {
+    "id": "kar-jun19-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnBiWEJ2UmJtRkNDYlZhbjZ1S1J4WnRlNVZ0R09SUXhueTFELWdjMW92MmtDZWtTNlJSRmY1cUh6dlRnY2xta2VFUnJzT3B0N1JUYUpaX21UTDZsYkhFMjlTcU1aQmpiSjJXY0NfM2ZTX29UWnNVQ0hHN3l3RUZ0YlRnWk9ndkV3SXpMcE5yanV6V0g5QkhlcFY5VzlvaTBnLWRSVFhiZ9IBtAFBVV95cUxOanRqb3RqdXg4YzJmTEdmTndyemtPNGV3MEFIbnRsbHY0X1Z1S1hsSlFKMmh3UzBYRUZUZTFjZkxWVGR3TGZiOXU0b3I4UnY0VDJkRWRvb2Q2NHl4RmJROW00Z1ZlYlg4aDVKSjZBOGhCVWFsQjdpR0phekt2bkF3aDh1dElRclVXYU5FeHcyMjVtN1ZJMXhpUUctRnRhZXdmSi05OFNuSTBRNzNIWUtESkpTYm4?oc=5",
     "title": "Karur residents petition CM Vijay against eviction from temple land",
@@ -22,29 +34,5 @@
     "summary": "Madras Court Calls Students 'Real Life Paper Tigers' In 2016 College Murder",
     "summary_ta": "",
     "date": "June 16, 2026"
-  },
-  {
-    "id": "kar-jun13-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzN3cUpfeUF5TF9lVjdkaHNtNVUyWFFZbVdacm9PdWgwYUwwOWJtcER1aXU2ZEVLUU9Hdl85aG1xYWd3UXNVUTFzWVJsZEVIZWlDS1dhTkRTZi1RSVFkemlpTXpTWXhEMmt3M3BtR0V1UFpCenlGYzlUaFhSbmdPUkZIY0RRQkFBSjhTSG5CWjhfMjdBWnhNMFVQMklfY0JmQ21mRzRsUXY5SFh2cW13Qk0wejJySWl4Rnk3MGJNNWtmeFZ2dXA2NUoydlU?oc=5",
-    "title": "'Did you go to Delhi to wriggle out of Karur CBI case?': Stalin's poser to CM Vijay",
-    "title_ta": "",
-    "summary": "'Did you go to Delhi to wriggle out of Karur CBI case?': Stalin's poser to CM Vijay",
-    "summary_ta": "",
-    "date": "June 13, 2026"
-  },
-  {
-    "id": "kar-jun13-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFiZXFjT2lBcU1wbHdTWGcwOGxzdkZ3dzBYS1c2NThlVzk2VGVyYUtfOVF1TFRHS3U4eTVLbWtZV0lhVXJUTm5FT2drWmFZaTJSRXZQbWhPckV1NDBMc1o4RUIycE9YbE5FQXVxc1g1VmkwZ0QyR1BMNXl5UVhiNGEwWVhxdlpiVDNULTBvNkc2MHhiNzhDRGFfM2lEQXdEU3c4TllhOUhIeUZkWlBUZVU2V3Vlc0c10gG-AUFVX3lxTE15LTBIR09GYm50SDF5ajFQaXRMYzR6WERMRmJ5UWxtREMwbWdHSnhFQnMtYlk0WTBzekpCZUFPbk5RcWZGUWpfVjVGeDNXeHBHQzhsd2NjVHFXSGRkZXFHVjB1Rm1fRUw2U2tTRXhNTnNLZmJnekNYeGNfMHE4MlVwUHZRYUdDaDVQM3IwRTVvaVlvX05VQUFPNDVqZWFodkh6aE5iM1k3dmtTb3ViY3UtRVJZa0V5bVZvaE1QeUE?oc=5",
-    "title": "Stalin Asks Vijay Whether He went To Delhi To Escape 'Karur CBI Case'",
-    "title_ta": "",
-    "summary": "Stalin Asks Vijay Whether He went To Delhi To Escape 'Karur CBI Case'",
-    "summary_ta": "",
-    "date": "June 13, 2026"
   }
 ]

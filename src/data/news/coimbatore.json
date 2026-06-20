@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun17-005",
+    "id": "coi-jun20-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVRiT3gtejI4a3E0M1ZIb0ZwXzFSODV4VlVHZFRxZEQyRVpsaDlkaDc0RGVWaU9qb3ZCNTluU0k2dHptd2d1U282VGlTZDhGNF9wWGNRR1pRNUZMY0Zfd3FKUWFra0FtTEtrc1d5QVhISWlMMW13dGpWbnFId1l3T0JoS1hMQmhyY243dksyQ1c5NXNJU0YzZWRtYURNeXE3Vk9YZlpTd3lYWmFTV3c?oc=5",
+    "title": "K Annamalai receives warm welcome in Coimbatore",
+    "title_ta": "",
+    "summary": "K Annamalai receives warm welcome in Coimbatore",
+    "summary_ta": "",
+    "date": "June 20, 2026"
+  },
+  {
+    "id": "coi-jun17-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObjByTjBYRUxMNHFFNFRKTDM2S1JqaEhhVWdMUVhlZm5IUTJqLTdmSG5UcFMzMFptVktydTRlVGkzV3VybW5INE4xanV5SEN5QVIyTTdJaXVOVGtJRzRJcDN3Ync3eGtVNncxQTZzZGdDeFRpVUE5anNkNWNyaDZjYTFGYWFLZ2czY1VqeU5Md1Fqc3hsZzBDWDV1RVNQM0Raak1tQjdGZTBQTWpmMEtxWWRLUk1nczR5YWc4Qm1WX01ONmVmajhBVHBHT1g4NUNPbU9YbVBFVVVFUnRNWklxUFYwZmM5SXZHNHh1cGtB0gHzAUFVX3lxTE1vUXlnYWh4OEZKLVprN0x3cVJwcGllTkllSHV1RWFuOEh0bmpfcUdiOHRlY0s3Y3MtSDRiUzVfOVZteV9VSWlDaklXdEFfX1dPNnVXWE0taEltdkVoTnI3ZnlaSV9UTWVPdkUzV1RKQU5kbUxRTkh2Q0VtR0o3MVFCYU5KUVFMTE9WOGxna0FoMXFWcmVqR0dLNWlsLTBUSGNSa2FiWkQ4WnlxR1ktdkh2bVliQlJYSDNHUjB2TFkxV2dFSEFUck9oRWxDdmhTUEdWbjRzNVJZcWRWQ3ZoVkJmWE1rX3ZXOWU0WVBQM0JUemxOaw?oc=5",
     "title": "19-year-old NEET aspirant dies by suicide in Coimbatore over retest pressure",
@@ -130,17 +142,5 @@
     "summary": "19-Year-Old NEET Aspirant Dies By Suicide In Tamil Nadu's Coimbatore",
     "summary_ta": "",
     "date": "June 17, 2026"
-  },
-  {
-    "id": "coi-jun18-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXA2T1JVYWY3OWpqWEQ2eThaRXFvODBSWjZLWXdUQjhOeWpBamkxNVd2Vi1JMUI3d0lpZDZNQ3FGeEh2T2dkbUptQ1l0SjRIQmlxd3V4SU9IZk9CV3dtclpqTU9OWHMxc3I4ZkVZTS1tRUEtaTlnTUJULVJVTE1xbVp1dG9MNmxqamswS0JQcnhNLVhGaWxnNGpscXJGa1o1N0o1TTNIbnh0R19vR0J0N0ZrTndJdHBFNkpVM2ZPYTNpS004cEk1dzZMcDVpa1Rm0gHQAUFVX3lxTE85cDZPUlVhZjc5ampYRDZ5OFpFcW84MFJaNktZd1RCOE55akFqaTE1V3ZWLUkxQjd3SWlkNk1DcUZ4SHZPZ2RtSm1DWXRKNEhCaXF3dXhJT0hmT0JXd21yWmpNT05YczFzcjhmRVlNLW1FQS1pOWdNQlQtUlVMTXFtWnV0b0w2bGpqazBLQlByeE0tWEZpbGc0amxxckZrWjU3SjVNM0hueHRHX29HQnQ3RmtOd0l0cEU2SlUzZk9hM2lLTThwSTV3NkxwNWlrVGY?oc=5",
-    "title": "19-Year-Old NEET Aspirant Dies By Suicide In Coimbatore, Fuels Fresh Debate Over NTA",
-    "title_ta": "",
-    "summary": "19-Year-Old NEET Aspirant Dies By Suicide In Coimbatore, Fuels Fresh Debate Over NTA",
-    "summary_ta": "",
-    "date": "June 18, 2026"
   }
 ]
