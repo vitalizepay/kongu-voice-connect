@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun18-006",
+    "id": "coi-jun18-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSy02WXNPYWNDVlFoSzVqWVI2WlBXbXcydEtmWkVuTFRYcjU0ZGw1NFluR29VUjN5WkxQcUxPZnFhUGRnS1VCZWZlSnBGTmdveC1uSUZ6NEhtYi12WmlGaFZLaFB0Z1pBVU9tU2g5eDNxR21hLW1VY0tmNHRtRnlrNTZMNzM3dk0wR1pxUzhjQ1FLeGZhVlhvUUtZUTJfUGk0Xzk4WnEzNllnQXJyYm8ydC05NU9pT295UTEyUFpyUjNza2hlZmpROTEyR3h4ZEU?oc=5",
+    "title": "Tamil Nadu: CPI(M) protests in Coimbatore after NEET aspirant dies by suicide",
+    "title_ta": "",
+    "summary": "Tamil Nadu: CPI(M) protests in Coimbatore after NEET aspirant dies by suicide",
+    "summary_ta": "",
+    "date": "June 18, 2026"
+  },
+  {
+    "id": "coi-jun18-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV25WYWhseDNIb2tENkhiaVFOMWdvd0wtVE4tUmozQUVMSURvQ3hBU1dwbzBaTXV6SFJmMGpjV0VleUJ3bjNTazgwblpJNk1sZTllOHlQdmtZUWFFZTNIODZ4S0czSjRuQjNWSDBwWlp3UjNPZkxDc09Yc3A0TzlGYzdPUlhWeUtsQmFabWNSMUQzaXZNVjFycGhuRG1qQklMWWVkMS1BYjZscUVLQ1dhUktsWW1YOVU1ZjVXN05sWi1ldFpjUDVtd3ZPY0o3MnNEeXotTy1ZbDc5RG00N1ZmS0xYenLSAeoBQVVfeXFMUGJlVXRvZGJoMXdKNmk3Tm43OEZ3T3Ytd0VoelpMczJLRVF0dXVZWmN4eXhsRUVtdVRvZFlKaGI4Y09xZ0ItMkpjWlppYkM4UXN5bGtRQnV2Um1adWlTY3kxdUtMbWNRaUFhbDBCNldMckxrVmxkbjhocUEtWExISzhCdFIzMm82bHBVQ3VCR1NTVXE5V0hkVHJXT1RRSW8zN1ZnVE5GRzdyR0RER1hiR0F5ZlhpdnJEUkQ0MHdYZ1NxVlM0S053X2NSTEQxUnBDaFM4VGJXZ3NCSkcwTGloX1pTN1ZFR3NUd1Nn?oc=5",
     "title": "Teen NEET aspirant dies by suicide in Tamil Nadu's Coimbatore; protests erupt for ‘justice’ | India ",
@@ -130,17 +142,5 @@
     "summary": "Madras HC restrains church construction near temple in Coimbatore, says can't rule out mala fide int",
     "summary_ta": "",
     "date": "June 17, 2026"
-  },
-  {
-    "id": "coi-jun18-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
-    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "title_ta": "",
-    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "summary_ta": "",
-    "date": "June 18, 2026"
   }
 ]
