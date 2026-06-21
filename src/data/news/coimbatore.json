@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun18-005",
+    "id": "coi-jun21-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjItaGNsNi1LNU5kUldKOUtCMDlkMk00akR6cjFnTFFSaVRZNnEyYng4VUlyTzJ2UmRNTjhyNWFubGpxZUJsYjJ3Q3RONS1JWjdmU3BqWk9hRlFrRDl1bGpleGNUbXVzbHpMbm5LcVQyZnZtREpxYXlEcnBzQUp4TjVQUDcwbVhvdEozc2tGWVFXLTBwR3p2LWRQUWVYbUh5dGliS3d0RTA3a0hnN3I2Q01Eb3I1VlVHZXl3UUFYN21VSnVhanVKR0dQd1NOako2OWg5b2hzSDNNX2V5LVBOQlZ1bkdpSHZfSDAxenpsRVhLYzVuMkxvbE5WQWpSMmFWVTlmatIBigJBVV95cUxOWllSZndxWFNIc3lQdDFoOTZyTXU1bXJUOEhlT0NraFdrdTg1NkZvaEQ0MTJTcms5MjVzazRkWV83VmcyUzBsdlVzd3dpUzFMNV9NcV9mNlNDZlh6akM1cERiTDMxN2pSVHFCMVlZWm1sNHFGWlNwaU9KbjdHaFRmY3ZZUXVzU1lERjdxYi1tVFNVeFB5bHNSN3JUV2l2bkJzR0xsMHJNTE5fT1FRWUlPMDFNVzRCQkIzWHdxQjFISmhUS3JySXZ2WTZiUXE1SEhPWU4tYUpUbFNITmg0cWQ4LThoTVJENWt2dDVhcmRwNjJ0NUpQdWY5Z0V6Zk1xYTVidWp4UWwxWGZDUQ?oc=5",
+    "title": "'Amma, Appa, Anna, I am sorry': Another NEET aspirant dies by suicide in Tamil Nadu due to exam stre",
+    "title_ta": "",
+    "summary": "'Amma, Appa, Anna, I am sorry': Another NEET aspirant dies by suicide in Tamil Nadu due to exam stre",
+    "summary_ta": "",
+    "date": "June 21, 2026"
+  },
+  {
+    "id": "coi-jun18-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSy02WXNPYWNDVlFoSzVqWVI2WlBXbXcydEtmWkVuTFRYcjU0ZGw1NFluR29VUjN5WkxQcUxPZnFhUGRnS1VCZWZlSnBGTmdveC1uSUZ6NEhtYi12WmlGaFZLaFB0Z1pBVU9tU2g5eDNxR21hLW1VY0tmNHRtRnlrNTZMNzM3dk0wR1pxUzhjQ1FLeGZhVlhvUUtZUTJfUGk0Xzk4WnEzNllnQXJyYm8ydC05NU9pT295UTEyUFpyUjNza2hlZmpROTEyR3h4ZEU?oc=5",
     "title": "Tamil Nadu: CPI(M) protests in Coimbatore after NEET aspirant dies by suicide",
@@ -130,17 +142,5 @@
     "summary": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
     "summary_ta": "",
     "date": "June 18, 2026"
-  },
-  {
-    "id": "coi-jun17-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPU3BWUUoxMDlyb29ybmpzWTRublZ6dTNuTDlNNktUU2VlbEdieUVCUzhZcTd2WjlzZEZvcEdWdndVQllHdE1xYUFOOWxvWmJnYTJIOXkyUXJkazNVdTFJUEtqa2ZRcjdOallJdkNqa3hkazA2TDhaa2dxTTNEbXBCZlF5MEJyWFVXcnJCM21KajM1TmFXTURJU0c5b2ZkaU9sZjNpVTlMZzhGd2s0MWFKeFAxbkN2STZzd0JlUGkyNE5hMGg0VHB4Ym9pVlctbXhNc0g1OS13UUFuNHZZcHpNZ3k5V2pSQkgyMXZMazI0NzhBOUM0SGstUDFmdHAydGc4aVlOMFdqb25pLXlDdzl30gGWAkFVX3lxTE1PX3FlbUFOTkF6VE1jbnBZRnZZcGdwNkN0UUUyLXBSbEFWSFBWX3lucEpYUkRyNXRSWDVVU2xlQ3VoamtHam9tN0FhQjYwbXhuSWxPUS0xRHZuVFlnVUdwWXFhMGNuaXM3WE1LVWJMVFM0YTh2Rm14bFM5NTBEdjVVQnAycWJLVFFGMFRaTk5YT285MDdsNFg2YjIyTWFfV2V4SEZLUDY2bGpJZ00wTHJITXJlU0FNdnI3RFJhY3o5TFFkbFdJa3d2NUhkNHVZM19vSnJtcmhzb3oyU1lPMFg4VWVWZFhzaERLWU93MmpwTTl2MUw4RDhCcmxKOUhWdWs2U2YzeE5NVUphTkhBYkJkZXlXOGdn?oc=5",
-    "title": "Madras HC restrains church construction near temple in Coimbatore, says can't rule out mala fide int",
-    "title_ta": "",
-    "summary": "Madras HC restrains church construction near temple in Coimbatore, says can't rule out mala fide int",
-    "summary_ta": "",
-    "date": "June 17, 2026"
   }
 ]
