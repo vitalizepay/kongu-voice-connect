@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jun21-005",
+    "id": "coi-jun22-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGtidHlXdlY4b25FUTZ2WFZkRXBNcllnbkZ1TGpfQWJNYVRYM0lGdUVjeVp3OGktYW9fbG9xSXlSc1UxMGhPVV9OQXN3YTBQSUVCSHVWbEFRTm5pemtFbUFaeGN1R1lfbmZ2RnRfMWZmVHdmWFdLRHJVQnZNY2twVWlfYWNjMTEwRUN5RUx6b2tEUVF1SGRJLXBQcTA1bG5aRkFMYVBLZmN3Z0tyTlVvUXNJdXA3aHFaQTRycDMyNFl3SGhWWm5zTWRBSdIB2AFBVV95cUxNTXNCQktwaEJTVHpoTlMtZ1dMZUxWTVdrUDNKb010STViSWxSWHVmWDZPNTJLWTgtY0ttNUN3elB1Ynhyd1I4Ry1ZOHJncGdtMmFqTjdpb3V3SE5JZm5RdEpncndGWWhkeVlsN1NjV2h3LWVGdjllYmpOeW12MmQtVzMwOE5WWU9yWmF0T2VCTV9kVE5xZHM2M040SEVPamVkUzhqNmNmOGFoNFBQekZVQ0pkT2xMX1NPb2VMd1djbll2OWwzTHM2MS1MRDdycmlUaU53SGM1b2Q?oc=5",
+    "title": "Over 1,700 candidates absent for NEET-UG re-examination in Coimbatore as attendance drops to 75%",
+    "title_ta": "",
+    "summary": "Over 1,700 candidates absent for NEET-UG re-examination in Coimbatore as attendance drops to 75%",
+    "summary_ta": "",
+    "date": "June 22, 2026"
+  },
+  {
+    "id": "coi-jun18-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
+    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "title_ta": "",
+    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "summary_ta": "",
+    "date": "June 18, 2026"
+  },
+  {
+    "id": "coi-jun21-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjItaGNsNi1LNU5kUldKOUtCMDlkMk00akR6cjFnTFFSaVRZNnEyYng4VUlyTzJ2UmRNTjhyNWFubGpxZUJsYjJ3Q3RONS1JWjdmU3BqWk9hRlFrRDl1bGpleGNUbXVzbHpMbm5LcVQyZnZtREpxYXlEcnBzQUp4TjVQUDcwbVhvdEozc2tGWVFXLTBwR3p2LWRQUWVYbUh5dGliS3d0RTA3a0hnN3I2Q01Eb3I1VlVHZXl3UUFYN21VSnVhanVKR0dQd1NOako2OWg5b2hzSDNNX2V5LVBOQlZ1bkdpSHZfSDAxenpsRVhLYzVuMkxvbE5WQWpSMmFWVTlmatIBigJBVV95cUxOWllSZndxWFNIc3lQdDFoOTZyTXU1bXJUOEhlT0NraFdrdTg1NkZvaEQ0MTJTcms5MjVzazRkWV83VmcyUzBsdlVzd3dpUzFMNV9NcV9mNlNDZlh6akM1cERiTDMxN2pSVHFCMVlZWm1sNHFGWlNwaU9KbjdHaFRmY3ZZUXVzU1lERjdxYi1tVFNVeFB5bHNSN3JUV2l2bkJzR0xsMHJNTE5fT1FRWUlPMDFNVzRCQkIzWHdxQjFISmhUS3JySXZ2WTZiUXE1SEhPWU4tYUpUbFNITmg0cWQ4LThoTVJENWt2dDVhcmRwNjJ0NUpQdWY5Z0V6Zk1xYTVidWp4UWwxWGZDUQ?oc=5",
     "title": "'Amma, Appa, Anna, I am sorry': Another NEET aspirant dies by suicide in Tamil Nadu due to exam stre",
@@ -116,30 +140,6 @@
     "title": "19-year-old TN student under pressure to sit for NEET re-exam dies by suicide",
     "title_ta": "",
     "summary": "19-year-old TN student under pressure to sit for NEET re-exam dies by suicide",
-    "summary_ta": "",
-    "date": "June 18, 2026"
-  },
-  {
-    "id": "coi-jun18-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHltbTlCa3cwTEwzR2hpMlhINkJ4UG9mZW9VT1BnQzBNbWNLeVc5aTZkMTRySTE3ay1fOGJ6LW0xNWJlZXVDS3lEM191enoxajZrdTJGT3FnU2UtdzhEOFBsekJkNlRFdURwYXg4dFhmOGotUk9QSUlRV3YzTkc1Ym5VNUp2STV4T1diUExfUDkyalZOb05HejZWM3ZkeG1KdUVsNk9iVDlKbHZIWF8yTHRYWmVBQmRhZVVaeDE1bHVXbGUwb1J5V2lOSEZWTndQNFQwLTdMQUE3YmxUZmdDWEFLMWxiMzRsTkVuWlhCaVhpZmNKQ1hqNE5veHViMGM?oc=5",
-    "title": "NEET aspirant’s death in Coimbatore sparks protests, political outcry",
-    "title_ta": "",
-    "summary": "NEET aspirant’s death in Coimbatore sparks protests, political outcry",
-    "summary_ta": "",
-    "date": "June 18, 2026"
-  },
-  {
-    "id": "coi-jun18-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
-    "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
-    "title_ta": "",
-    "summary": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
     "summary_ta": "",
     "date": "June 18, 2026"
   }
