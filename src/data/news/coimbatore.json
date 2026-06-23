@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun22-002",
+    "id": "coi-jun23-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkF5T05YVVVHUkdlSVdnRGgxNWhEbU1HcHNYMDBYYVVMaVVnWUVMZHYxWkZfZnFTb2FFWmR2czFGZkROYTZkV1FyQVN1cGl0VUNZbmdQdjlsSktsS1pQcFB5UndSWTdlSzhNWWlJTW42eUxxTHhYSFNBZVhyTnF2ckpyNXQ?oc=5",
+    "title": "Football Tournament Spreads Social Awareness",
+    "title_ta": "",
+    "summary": "Football Tournament Spreads Social Awareness",
+    "summary_ta": "",
+    "date": "June 23, 2026"
+  },
+  {
+    "id": "coi-jun22-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Madras High Court halts church construction near Coimbatore temple, citing public order, disputed la",
     "summary_ta": "",
     "date": "June 18, 2026"
-  },
-  {
-    "id": "coi-jun20-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVRiT3gtejI4a3E0M1ZIb0ZwXzFSODV4VlVHZFRxZEQyRVpsaDlkaDc0RGVWaU9qb3ZCNTluU0k2dHptd2d1U282VGlTZDhGNF9wWGNRR1pRNUZMY0Zfd3FKUWFra0FtTEtrc1d5QVhISWlMMW13dGpWbnFId1l3T0JoS1hMQmhyY243dksyQ1c5NXNJU0YzZWRtYURNeXE3Vk9YZlpTd3lYWmFTV3c?oc=5",
-    "title": "K Annamalai receives warm welcome in Coimbatore",
-    "title_ta": "",
-    "summary": "K Annamalai receives warm welcome in Coimbatore",
-    "summary_ta": "",
-    "date": "June 20, 2026"
   }
 ]
