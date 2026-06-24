@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun23-002",
+    "id": "coi-jun24-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGFMQzllcFh4dDVxLTFEc0lienNlcThTbDI2bHFmUmVoOGhXcmZBaTBSdEtPamVuMURXSFF1S0g5UG9XcW50VS1vQjY0SG1wSzFhMlpjVW1HU1dxQVhrVnFBMHNqcy02YmZxLV9rLW5iQmszWjNURU5nX2xPYk12bEVBUWpOSk5QMWtWM1ZnLV9MWXhYalRFdExXMDhpNXJoeXhseg?oc=5",
+    "title": "Madras High Court halts church construction on road beside Coimbatore temple",
+    "title_ta": "",
+    "summary": "Madras High Court halts church construction on road beside Coimbatore temple",
+    "summary_ta": "",
+    "date": "June 24, 2026"
+  },
+  {
+    "id": "coi-jun23-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVRiT3gtejI4a3E0M1ZIb0ZwXzFSODV4VlVHZFRxZEQyRVpsaDlkaDc0RGVWaU9qb3ZCNTluU0k2dHptd2d1U282VGlTZDhGNF9wWGNRR1pRNUZMY0Zfd3FKUWFra0FtTEtrc1d5QVhISWlMMW13dGpWbnFId1l3T0JoS1hMQmhyY243dksyQ1c5NXNJU0YzZWRtYURNeXE3Vk9YZlpTd3lYWmFTV3c?oc=5",
     "title": "K Annamalai receives warm welcome in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Day before re-test, 19-year-old NEET aspirant dies by suicide in Tamil Nadu",
     "summary_ta": "",
     "date": "June 21, 2026"
-  },
-  {
-    "id": "coi-jun17-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVZ0X0x5Z3kwcnk3VHFZNXNQbWlxUDFHMHlRYkpVRmJwbnJZdDdLb1dtbUlXZXNwTFFZYmxGZEUzWDB6RllUOWEyZDd0N1pKeEw2Rk4yWmNvZEN6MGtyeXZPeE05cWstQTlrQzhJVmh0QndnWEVZVGlrSlZEME5oQlRSNmNfczNpcUE1QXd6Qk9MVFJJSVEweS1nTExOWFNnV011RmRsMzVIc0HSAbMBQVVfeXFMTXRPVnZVVVZjWm9jaVJVNDNCMTNmZ1BYbVB5dm55T1dUU1l6MFp5NnhaMkdHQ3hQbUR3a1lmcmFaajRuTUVxZzc2WXFKd3pMY0VnNjJuaEVNZnRvTXFZVEFfc3VYUXlkenVpRVc2RXFMZHZicGN2RUs4T3RGRE1ITS1EcnVVZDNZYi1wUUEwdDV6d0dhSmRhRXNpNWtLYjY2R0YxVmJPbHhWRDRlNEp3UExOVWM?oc=5",
-    "title": "19-Year-Old NEET Aspirant Dies By Suicide In Tamil Nadu's Coimbatore",
-    "title_ta": "",
-    "summary": "19-Year-Old NEET Aspirant Dies By Suicide In Tamil Nadu's Coimbatore",
-    "summary_ta": "",
-    "date": "June 17, 2026"
   }
 ]
