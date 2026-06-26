@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-jun23-001",
+    "id": "ero-jun25-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUZwTkNxMERnVXo0TkpBUW8ybl9ZZ0JibHViTUhnaTRPeG1kcVNGRUdDQlpiUmFUY1dGajMzcTY4ejZ4ZXp3OXNWOW1WdUpib0psYjNEdHFBVnc3ZllpR1BWSXVUVURSVnhfWUZidjN0bkJoWk04S3BiQzhMSGliaDZkNGNRbEhhY3NBcWlBSk1HVUc1ay0tcFFxMGtfc044ZlZLUXFDQ3B3c1JQdE5OZUw0VWR3RVFtR01jOGx3M2FqeHlRdEZUR2xUY0RuM2s2b05lOWhqeVlqN2liZ3pB0gHfAUFVX3lxTE9RRnBOQ3EwRGdVejROSkFRbzJuX1lnQmJsdWJNSGdpNE94bWRxU0ZFR0NCWmJSYVRjV0ZqMzNxNjh6Nnhlenc5c1Y5bVZ1SmJvSmxiM0R0cUFWdzdmWWlHUFZJdVRVRFJWeF9ZRmJ2M3RuQmhaTThLcGJDOExIaWJoNmQ0Y1FsSGFjc0FxaUFKTUdVRzVrLS1wUXEwa19zTjhmVktRcUNDcHdzUlB0Tk5lTDRVZHdFUW1HTWM4bHczYWp4eVF0RlRHbFRjRG4zazZvTmU5aGp5WWo3aWJnekE?oc=5",
+    "title": "Lack of arts stream puts hill students at a disadvantage in Erode district",
+    "title_ta": "",
+    "summary": "Lack of arts stream puts hill students at a disadvantage in Erode district",
+    "summary_ta": "",
+    "date": "June 25, 2026"
+  },
+  {
+    "id": "ero-jun23-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcUVubllVdDBfb3Nha05mdzAzNTctNWk1WnA5NldKMVNfanBxbTIxckx2QkVyNkJ4RXNsc3VqRWdFVS1OcFZUZFBudkxsalBUcnVPOWRRNlhBVHh2cDMwQkwybkNpQ3pCeU4wVWtEME43Mm1yREJxZW90UnBKWVVQai1XdDZTbUpWV1l1MjdzelYzRDlZaC1Tbm50bUlPdTZGUmVJV25nMXBkYV9qTzRmTUdhN0VKZ2tPR01zSW9KcVAxb3hVOEQ5MmFCVFJXMEJ0eHV1TUhB0gHcAUFVX3lxTE5GMVJTaG5PT3FSSWZ5R09MbVZxMTk0VHIta1RnM1dJZm5UYVA0SGZYY0ZRdlFYUmhNVlVxZFF5OWtkMWZRS2lGWW9fZGJhblFfSGJRdDJOaEdtWTlrY0tsbWw4U0Nod3dMbnY3bzFwYkJzbGtwR0dhb2I5MjVndy1QVkI4bjMxdmNURjMtX3RzQzBwZ2d1NS05SjA5eGN6NDloLXd4TzBtcXIzbXd5Y09weG5lLXh6bjl0bDFCOGY5THVXUlB1dGRvMHY1NzZ6WEtfTjg2bHo1V0hFdDc?oc=5",
     "title": "Residents seek steps to curb rising stray dog population in Erode rural",
@@ -46,17 +58,5 @@
     "summary": "Private college teacher held for ‘sexually harassing’ girl in Erode",
     "summary_ta": "",
     "date": "June 21, 2026"
-  },
-  {
-    "id": "ero-jun19-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjFva2d4MlE4VHRwd3F6aGMtb2h6VzdveEpJVnpOZTRpbHl1UkRXaG5Yc0hKTFEtQVZocExlcFpjTFFUaktNXzA5V1pVOXR6VXJ1dUdpX3RsaWRkcW9zTkpSelhmVEpBZnpBTzV6VjI3c2U1Njc4LVQ1X0hxdXVISWNuaVNRaWlfRkI1Z2NfTHJPM0Z0dURpcExpRkgyQUdueU5WZWx3OV91WFFWS1JsWllGUF81cC1KUGRvZUhNYXU1ZHQ2VGU0R0NMb0hCQdIB1AFBVV95cUxNdy1wVlpxTkR4VGt1MHBrOC1tNGlTWElHU201Qjk1Z0I0a3BzTE9ITHE0elZzdW1YWkItMm0zTFFkd3lyd2xEYjctdE54aGhUX3ZqeWh6cEhkTl9IS2w1ang5a2Q4Q2gwbm1uMXlvaGtTcE5sdGVBUDc4UXV0QlBSc3R6dm10Q1U5VW94LUdKWWhlUGF5cjNaNnZEZ0U4d0FSOWtZbnJXUWFEUUdHOVltNjN3N1hMRlV4X1AzSjFnaGZrUXRVa0hRM0hPT2dsTmYtOVZCYQ?oc=5",
-    "title": "NEET (UG) re-examination to be held at 13 centres in Erode district",
-    "title_ta": "",
-    "summary": "NEET (UG) re-examination to be held at 13 centres in Erode district",
-    "summary_ta": "",
-    "date": "June 19, 2026"
   }
 ]
