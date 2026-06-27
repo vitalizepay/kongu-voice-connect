@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-jun26-001",
+    "id": "ero-jun27-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMkpxRTZ3dmpBanJOelZsSmpzOHJWTUJoc2phc1ZmQVJPeWhvaGRLaE9PLXVMRkdhNnpuYklYQjk0MzBCVHEtZVZQMzY4bWZlWF9rd01zUXhTZ1Y3N0tmdUhtMzRzYmtEVEs2VEdEVFQ3TmE4NzI1akpPQ0xNbEFDeXM4OEVuUHZjeVRQUjVLVGFubmp3bExvWGo5cW10NXBqZEhHTzN0dnhSU1ZmOVZJdm8zUHBpdlpFUDBrUWQ5YnZoZmtybWFfV255dkpNT25Sc1c2T05lcElLcmp6SWhsYTJGLTh5Vko5UEk1eERkd9IB9gFBVV95cUxQMmNmVmhwYmcwbXp6VzZicVlqU0VMNDZoeVdYV01iZVhTa1ZNU3BCTndNZVo1ckg4akNZZ25rZ25yOV94c19ReF9sR2JGVWtXRU9XVUVGTHB5bWJQS1lYbVREN2g4QzFVZUhrWWQ2Q2dIdmp1anVueWM4OG9IVk5OREFKeDJHdHF0cUxZMnhRSzVuNllMX1hDUEFVazhSRFYtTVFVVE5qTE95cHNkMFV5b3RlN3RoRWQ3OXhDWVhYYng3ZXhpQk9QQU9mZG9VZFR3RmtwWHlZaDlGdThvZmlLUDhFdF9UTmRkeUhPWnFYMXI4eFBmS2c?oc=5",
+    "title": "Student ID cards will not carry caste details, clarifies Tamil Nadu Minister Sengottaiyan",
+    "title_ta": "",
+    "summary": "Student ID cards will not carry caste details, clarifies Tamil Nadu Minister Sengottaiyan",
+    "summary_ta": "",
+    "date": "June 27, 2026"
+  },
+  {
+    "id": "ero-jun26-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTktCMTBJM1VnbjdvX0Qtd2xlYWhfQkNKSnExcm5feGFmR01VMXJNTnR0ZjhDZlU2WTM3cElwb2NIQ2VzcnVJMUVkb0RXZ3hnd2Z1MnE1bHpWTEdTWE1HY3lrZncyVDVqQlZhb0pUOUs0VkN6bENkZGxleU0yYUtiTERqbnAzM1FtYTl2RDlPQzY3Ym5wN3N0cnFURlZ1Sy1QVWtwWjRNaFZhQQ?oc=5",
     "title": "Punjab National Bank inaugurates new branch at Bhavani of Erode district",
