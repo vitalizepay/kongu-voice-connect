@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun29-001",
+    "id": "coi-jun29-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1kyV0lNQ2QyODhyVHJwb2VaY0tWeGRYMUNYYlNPNV9xbE9fZmdNQzBWRWNMRFR6V2s4N2pYTUdLekxSeEV0UUZrVll1Z041cmZlSEFuY0UwVWNpSi0xOWJjazJGOTJCbllPRmI5WVluNkRGNWswY2J3MVZEZGVIMDU3MlFuRVpiWGpHaXQxeUZLSkFwWVZtd1dQcF8zcFZuTEFmZlF6LThpWUhR0gG6AUFVX3lxTE1JalVHdjVLQUZ2N2FsajNXN2hDdUhxajdIWDJFRDdZV3pNVER5dEI3MzhNVE90RWZSamoxeWxtN0ZtWF9TQUN4Q3Fzc1dNRWJlYUJ3OUxkZHJPSVFWV29yWVFQNnhsdkx1elNqd1A1QllXeHBlNWhudGNWdm9nUzBXLXN6UGhmU3lCWmdnWVA4TkFSdzV0eXE3OF9yUUsyZ0hmT19vMHZ1MVlHNy0xOGRKZzVyNWU2ZDRidw?oc=5",
+    "title": "Aavin drops Rs 2 discount for cardholders in Coimbatore; streamlines ops",
+    "title_ta": "",
+    "summary": "Aavin drops Rs 2 discount for cardholders in Coimbatore; streamlines ops",
+    "summary_ta": "",
+    "date": "June 29, 2026"
+  },
+  {
+    "id": "coi-jun29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
     "summary_ta": "",
     "date": "June 27, 2026"
-  },
-  {
-    "id": "coi-jun24-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHZWdXpHWnBfVUMyMFAzaWZDQVhrdkI0ZkJ4MVFveFRQNFlfY09BQl9ETGVLMUJUX2pWSE1lY2ZXYmJFRWQ4ZndUM1FKeUJkeTlqSzgwNzktNksyV1I5TVRyLUw3N0hnQzk5bGp6QXRTaGVmUjR3VHZGU1NZNnExdTN0UmdvZDJyVzRCWDVPMzFXR0FBZ01XWlZYcTdESmtwQmRhSHdoRnYwYmRNM0dIVEp5TDhWUXIwSURiQmZSRTh1QnNtYUpGNHh0SWtVRk3SAdYBQVVfeXFMTjI5ZXJQczcwY2JPYzhBVGJiY3dRNFlXM1U3dU1RRldYRjlpWUJDMzJJZjJNcGliNHRRR25NSDZKbldONWJGNzdjQURRYW0xTUJxaDFxZUgzTjk1cVViVVV5MkhnckVwZEVuX3NiVmwtZG1ZLXdqRzdPS1J2Nmw3SXdvTmRyWnY0NkZyYndJNVlRZUtUWjh1c2kxeVJQOVF6UzNqWXlqb25WRHY3WU5iTHp6SE15c3dSQ2VpMjhHdDFtZkxVTWROWTllTUhnczZlN1FPWEZTZw?oc=5",
-    "title": "Tamil Nadu’s EV manufacturers seek approvals for all vehicle models",
-    "title_ta": "",
-    "summary": "Tamil Nadu’s EV manufacturers seek approvals for all vehicle models",
-    "summary_ta": "",
-    "date": "June 24, 2026"
   }
 ]
