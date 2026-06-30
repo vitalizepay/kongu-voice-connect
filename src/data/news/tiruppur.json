@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jun29-001",
+    "id": "tir-jun28-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3dYMUZ1QUcybm9QRE1nQ3B6c056X2dBa0ZfYVkzWTV2TGJiLXF3NDROQVVGeTVTNTlmMHVFYU9hS1MxeV9zcDB0ZlA2OEkwSFJMN01aQld2VURrQU5MQUl1dmI3SlJ6cU9hb1VWRlJnOWlWSnFxaDFscmZVQVN2RUtlZllkZ3RJNDVsM1Z1YzJfMmZoc2pUekQyM3FkaXhTVTF4SmpIME9GMmU4RDVSVTRLTXVQemR6WktFd3RGcjRTamdyVTlkeGlNY0ppTkphb2ZRdnNB0gHcAUFVX3lxTE16WFozWWJSTnE1a2N4eGZpSzNQcHJiRkh5SGZEdmhtYzhIdzhDcnBVaVJ0Y0FoSkU3UzROOE05cmZkNy1jd3MyZFQ1VzRNMHRzNzBYRl9yTU5BRlZWR1JoNk04MjVtRjZNS0I0MGNqQ0wydVNWRVB2ZDZTb1QxSWxzejNzeDFqYjRDX0NDaTV5LXdhNU41LTJIMEt5NEhfa1pNcmFiS1FyV1J0ZEotSE1tZHpiWERjdkM4c0ZqQmdBbGJaeTFTVDVyd1pZMTNYdmx3V2g2Z3JqdmVSbGg?oc=5",
+    "title": "Tiruppur woman dies after botched YouTube-assisted childbirth at home",
+    "title_ta": "",
+    "summary": "Tiruppur woman dies after botched YouTube-assisted childbirth at home",
+    "summary_ta": "",
+    "date": "June 28, 2026"
+  },
+  {
+    "id": "tir-jun29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUQ1SzhFRV9EcWhrdFY4dGxacy1TT3V5dUJ6RmdrNnFOQV81Vl9XM0xNSUtjbDJ4dnpDVzA5ZUNpZkE5SG5Kb01kMUhCa1p0ZXREc0F4c0NRMENoR0pxYVhIaldaSDFXN3RmbGVRSFA5OVMzaDQyNW1DVzRaQS1YMDZnbTRLWTE1TU1HMENlZlBCQUdMYXljWEtna3VKSGVZVlB2a1dQRzdmR1laUlgzZG83aGFla29zUlVNeEJ4WdIBvwFBVV95cUxQYUQ1SzhFRV9EcWhrdFY4dGxacy1TT3V5dUJ6RmdrNnFOQV81Vl9XM0xNSUtjbDJ4dnpDVzA5ZUNpZkE5SG5Kb01kMUhCa1p0ZXREc0F4c0NRMENoR0pxYVhIaldaSDFXN3RmbGVRSFA5OVMzaDQyNW1DVzRaQS1YMDZnbTRLWTE1TU1HMENlZlBCQUdMYXljWEtna3VKSGVZVlB2a1dQRzdmR1laUlgzZG83aGFla29zUlVNeEJ4WQ?oc=5",
     "title": "Tiruppur woman dies after botched home birth, case filed against husband",
@@ -46,17 +58,5 @@
     "summary": "Tiruppur textile exports should hit $11.5 billion by 2030, says union minister",
     "summary_ta": "",
     "date": "June 29, 2026"
-  },
-  {
-    "id": "tir-jun23-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nZ2JfNEdHWUFTY3ZpVTBtWXBTaEVjaDUwekJucTF1eWRfRWVkNDlvVDZibWxhaUpGVzBjQjl0d1NxNkU1T253TjVETE51cGxyUFBYYzByY3U0MlZSUFZya0NnZ3gxN3RraEVKX3lybw?oc=5",
-    "title": "Major IPS Reshuffle in Tamil Nadu: New Appointments in Chennai, Madurai, Salem and Tiruppur",
-    "title_ta": "",
-    "summary": "Major IPS Reshuffle in Tamil Nadu: New Appointments in Chennai, Madurai, Salem and Tiruppur",
-    "summary_ta": "",
-    "date": "June 23, 2026"
   }
 ]
