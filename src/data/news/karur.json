@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jun30-001",
+    "id": "kar-jun30-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1p6a0dhT1g3eFhmVFlrLS1YVm5qOUl4WF9YTEV2T3k3RV9uMENMbFMtSlgwTnVkaldsejZveW5yQ0RBODZnZWJlcktJNlo1dlNLcFp4cEF3a3JFbUpReVNJV2pTUUx5Wk9iVlViUmt6S3l0Wlk1bDBBUWl3REMyQXFKMTF6b0ZpY2tBaFVFUEE2bFo4UGhrM3l6ajM4eFpPdGZNS2k2QlpCdw?oc=5",
+    "title": "Karur Assembly Seat Declared Vacant, Tamil Nadu Bypolls Likely in 7 Constituencies After MLAs Resign",
+    "title_ta": "",
+    "summary": "Karur Assembly Seat Declared Vacant, Tamil Nadu Bypolls Likely in 7 Constituencies After MLAs Resign",
+    "summary_ta": "",
+    "date": "June 30, 2026"
+  },
+  {
+    "id": "kar-jun30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcldlSk1KWm5heGFSWnAzRVQtNkhFOFV1c1lfMkxJOHd1M05QcmQ4V1ZaRWF1SE5DMW9oWjVPMm9xZklNbGxaeDJ3X0dCYm9MWm5kQ2ZYWGhXU2xjdnRhS21RdE1veTNJenhWMkxHajJVMEpsZ3kyUWlPcDd5Qy1NR0k4QnltUFlrNXVFRVQ1dmtzbXNROG1ZZWxQVk5pMzUtNXFfaEcwTVRpQXQ3Z0o0?oc=5",
     "title": "Video | Tamil Nadu CM Vijay to Meet Families of Karur Stampede Victims on July 10–11",
@@ -128,18 +140,6 @@
     "title": "AIADMK Karur MLA MR Vijayabhaskar resigns from Tamil Nadu Assembly",
     "title_ta": "",
     "summary": "AIADMK Karur MLA MR Vijayabhaskar resigns from Tamil Nadu Assembly",
-    "summary_ta": "",
-    "date": "June 29, 2026"
-  },
-  {
-    "id": "kar-jun29-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3IyMXY1d1FudXlSckQ5ZGVhVU4zWTI2ellrUVJ3R0cyN3kyamZ2VHExbFZsQ04xODhwQWJWek9neGZBQ3I1LVY1V3dkQnh1WHZhNVFDaDhBczZMaVVCREpsOU52LXVRaEdieGM0bERfXzlKMDgtNlp2U3AwZkgzaUdkbk9ILThNT2Zid1V0VzJTcGtwYTlQY1FDUUhUUFpYVlFSMnpTc1Rkc1lMcWZVOGlYb1oxemvSAcQBQVVfeXFMTlNyNEhZNllwQTlfTGFCYXdqNktBdkJNeVVfUldlczJzSHFyeXZqc1NTNzBzTThsQ01XRzlNWGpyWXJwVHZqUHNEMlJEQjdyYmJpT0lhaFBMUDZyYmVLdmVYTnVHWGUxUnBXbFJzaWdpTG5JTGI3LUViZ0lzM2J1d2hOQ1BVVDNBd2ZRdnp2TUR5b1Y2a2lOMnYyMXZONk1vU3hiZFRtcC1GM09ETWZ4OV9USTczV0xuSmpYbm1lUFB0Y013Yg?oc=5",
-    "title": "Karur MLA M R Vijayabhaskar resigns, AIADMK strength drops to 41 in Assembly",
-    "title_ta": "",
-    "summary": "Karur MLA M R Vijayabhaskar resigns, AIADMK strength drops to 41 in Assembly",
     "summary_ta": "",
     "date": "June 29, 2026"
   }
