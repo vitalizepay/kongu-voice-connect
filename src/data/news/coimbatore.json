@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul2-002",
+    "id": "coi-jul2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlo2bGpneDM5eXFsS2d0dUFYUmZFbTI1ZW92RG9wWFgzdjJRdlVJNFJnMjlUWEZnLS1BV0RoSEZuR3ZPLXhSLUx3cVNTZTdpNV9mSENiX25rVGdHbWxoT3BMTkpXdXg4VFZybEhXSEhMZUxNcHJ1eWhvU0VYakxLRmVqcjQ4MGZ3emdsbHJJQjdBLUUtdlJDd0NpdW04N1BzMWE0cUVCZmtIdVU4TnFIbjlGSVJWVlFNNDdCNtIBwwFBVV95cUxOdE4tVVZlbjVEell1M1NYQXZ2aERJRl82c19HblRlTm9wX3gwR3pKZUxWXzJLN1lUZ0d2WHJjUi1GSklwdVRBOEpzYXdFSGtTMXRPbzdnT05KcGNkamh1Z0pzaUV5Vkp2VjR6T0xUM09jb1c2b3ItU0hJQjE4YUZOblZjOTVwOWVSbU1DRlB4WGtLTVpSSmU0R0plb0RsZVUzbXNTd3ZMNlZvaDZoQUQ0b3RDeWlEV2NrazRxQkZnYUlJU00?oc=5",
+    "title": "Coimbatore’s industries call for power sector reforms",
+    "title_ta": "",
+    "summary": "Coimbatore’s industries call for power sector reforms",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "coi-jul2-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVVxOEtESm9kaUQwQVBHOEE4VHhoTEdab01wYk9EN3RnTW1aQXZxSWI2R3cxbW8zNTlaQTI4a1gzY2gtdjNfb3VicVdjZnNjY1lOaC1mVFpaYklJYnJYNmtsTHhYWGRkT2tidUZYWXo4dkQwXzZSTExLTUxMd0Z5WVQ5dG12Z3FSYi1XR3Mwem5ENm5PZFdmU1l5cGRfR1VjOTQxVGlCN2lKNF94Z3lwRnFFSC0?oc=5",
     "title": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
@@ -130,17 +142,5 @@
     "summary": "Construction of TN's first medical devices testing lab left in limbo in TN's Coimbatore",
     "summary_ta": "",
     "date": "June 30, 2026"
-  },
-  {
-    "id": "coi-jun29-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1kyV0lNQ2QyODhyVHJwb2VaY0tWeGRYMUNYYlNPNV9xbE9fZmdNQzBWRWNMRFR6V2s4N2pYTUdLekxSeEV0UUZrVll1Z041cmZlSEFuY0UwVWNpSi0xOWJjazJGOTJCbllPRmI5WVluNkRGNWswY2J3MVZEZGVIMDU3MlFuRVpiWGpHaXQxeUZLSkFwWVZtd1dQcF8zcFZuTEFmZlF6LThpWUhR0gG6AUFVX3lxTE1JalVHdjVLQUZ2N2FsajNXN2hDdUhxajdIWDJFRDdZV3pNVER5dEI3MzhNVE90RWZSamoxeWxtN0ZtWF9TQUN4Q3Fzc1dNRWJlYUJ3OUxkZHJPSVFWV29yWVFQNnhsdkx1elNqd1A1QllXeHBlNWhudGNWdm9nUzBXLXN6UGhmU3lCWmdnWVA4TkFSdzV0eXE3OF9yUUsyZ0hmT19vMHZ1MVlHNy0xOGRKZzVyNWU2ZDRidw?oc=5",
-    "title": "Aavin drops Rs 2 discount for cardholders in Coimbatore; streamlines ops",
-    "title_ta": "",
-    "summary": "Aavin drops Rs 2 discount for cardholders in Coimbatore; streamlines ops",
-    "summary_ta": "",
-    "date": "June 29, 2026"
   }
 ]
