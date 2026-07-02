@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul2-001",
+    "id": "coi-jul2-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVVxOEtESm9kaUQwQVBHOEE4VHhoTEdab01wYk9EN3RnTW1aQXZxSWI2R3cxbW8zNTlaQTI4a1gzY2gtdjNfb3VicVdjZnNjY1lOaC1mVFpaYklJYnJYNmtsTHhYWGRkT2tidUZYWXo4dkQwXzZSTExLTUxMd0Z5WVQ5dG12Z3FSYi1XR3Mwem5ENm5PZFdmU1l5cGRfR1VjOTQxVGlCN2lKNF94Z3lwRnFFSC0?oc=5",
+    "title": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
+    "title_ta": "",
+    "summary": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "coi-jul2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLU1lMXlCOXh1N3Vkd0FOSTg1dUJsbVA1V1FPOWk4ZllzWjdxQV9KY0tRaWRQLVhqazVINElHRFAxV2hHdXozUklkd19feHJzWlN3ZDdMQW9PRE5xTERCS25wUEVLU2pNZzF6djNNcGxPaW1NWVNnUUYyZGl6MHp6NzNjQWdWVmVoMHluOVJSNVV3NFFQLW9JTmtsV1I4VTdxTEM0T19jNy1iR1lvMnNSOThkS0hFeE1DY2xnTQ?oc=5",
     "title": "Tamil Nadu weather update: IMD alerts Coimbatore and Nilgiris of heavy rain over next two days",
@@ -128,18 +140,6 @@
     "title": "Aavin drops Rs 2 discount for cardholders in Coimbatore; streamlines ops",
     "title_ta": "",
     "summary": "Aavin drops Rs 2 discount for cardholders in Coimbatore; streamlines ops",
-    "summary_ta": "",
-    "date": "June 29, 2026"
-  },
-  {
-    "id": "coi-jun29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "summary_ta": "",
     "date": "June 29, 2026"
   }

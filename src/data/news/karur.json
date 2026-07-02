@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul1-001",
+    "id": "kar-jul2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZycmRwQXo2MTA3MVZHUUVzNm1qRVowdk5YNEtxbHA3T04xWkJ6bTFXSUtpVnEwZm9yVXJxQkV3Z0FTNHVuQllMUVIyY1c0RXJhZXhYd2ZkTEV4UC13UTVCc1BTdUM1UlVPSjJxRjNmYUJ3R2pnZVVkSmJFcGh6OGFBUWZyZlNMRnROTC1CYjV2clVaaDh1aDVYV3BWMGpZUEdmdkVVcWZ2cWRGeV9DUHJVTDEwM0NNQ3E1QUpyNkV6VDQ?oc=5",
+    "title": "Tamil Nadu CM Vijay to visit Karur on July 10, meet stampede victims' kin",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay to visit Karur on July 10, meet stampede victims' kin",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "kar-jul1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnRfejZTLTVOVXRuSllOY0Npd3dCY19PUXI0cjRZUlB3MERKMEJPbVNlQmljam9TMlY5Snc1V29WcVhKLXNXblhZSWxlc185eW4xWDd6dGNDTHJxcGNKYzZPeTg5YjRWM2VkZXBPN3FvMzVQVzZ6b3dwcHVjUUV5c245cGFuSXVMSS1VT0ZwUElGOWU5NWVSXzAtNTJIMkVSNEYtRTQ4RGtzN3pZ?oc=5",
     "title": "Video | Alleged Plot To Topple TVK Govt Failed? Karur Senthil Balaji Link In Focus",
@@ -128,18 +140,6 @@
     "title": "Another setback for AIADMK as M.R. Vijayabhaskar resigns as MLA in Tamil Nadu",
     "title_ta": "",
     "summary": "Another setback for AIADMK as M.R. Vijayabhaskar resigns as MLA in Tamil Nadu",
-    "summary_ta": "",
-    "date": "June 29, 2026"
-  },
-  {
-    "id": "kar-jun29-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkFnYTU1LWdKdkZRdmt5aFgyZzVZQWwzaW9vZ2JVd1hoaExMcXBqc1pZbVgtdFlMNl83WGJULU9VeEpHMExCQ3g3TTNIUExkVWU1NjQ3M21ERmlxNGw3RGlTMVU0djVsRGlNaGZFOWVjOTJZSjl5aDh3WlJPdmV0dnZqOV95XzFHUnBmZHRaNnhBUDN4QUxyRUFCeW5RNEsyQ3Y0YXl3d0RrbDdtZnpqTUJ0UVVGZDBiU0lsbtIBxAFBVV95cUxPUGpOeVNVRGhRemhaZWhVckdqcGFicmpxNXFGUExDLXZHNWlmMFVoajFHVEk3OGs0Mkc1OGRaN0pldmptSWdvMHgtSzllUWl3YTJBV2FYdmF2RUZNSWxJOHUxNUZkUmZ1UnBaaW9hT0JwU2JRZlRLM1dWWkk0MUlEVzF2Tk9sWDBwV2hkQ051WVRBeVJSUjVxWWtIYVNMa3V0VkQwYXhEblhxSUItZ295dzJ6eFJGckpKbzJIM1lhbXcyc0Rj?oc=5",
-    "title": "Another MLA Resigns From AIADMK, 6th Resignation Since Tamil Nadu Polls",
-    "title_ta": "",
-    "summary": "Another MLA Resigns From AIADMK, 6th Resignation Since Tamil Nadu Polls",
     "summary_ta": "",
     "date": "June 29, 2026"
   }

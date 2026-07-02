@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-jun30-003",
+    "id": "dha-jun30-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXBLc2ZveUlucUFEdnljd3p0V2h0QmJuY1VWWnI5WEREMjZMcEtoMHFvY3hrSEttMGFGdFNkZi1HRjB3NUNuRjV2RnBtREVaMUY5dnR1dmEybHl3aHNjLU05ODlpT1lXc2JmVmp3b1NtQ0FidGtzUnhENlpzUVVub0puQzBmNWVNV25VWklxV2xRZndZTGhvMHVTZFAwQlU2Yzl2RzdkblVmcnI5Nkxveld2TVdPZ9IBvAFBVV95cUxOZ3BBbzVkdG5oX2ZsMUU2WXBSNUdhN1ZmdEQtRE1oX1hLSlpsS0FnemVXUk42cnpNcndOUXZLd1I3M05tbFRlOVNKQTQ2RkN1cWRwejM5eUFsNTdzbmpiNW5Hc1lfcTRkZ1E2NS1UMkNQMzRjREZkd1N2ekhteFdOQnNyUFR2aFhoTk03WHRKVGhtNzFSWDhEaE9pYWJ3VTE2U1lOZ3JZWS1CYkF5cE5aRzh0enJGUExoUDdSeA?oc=5",
+    "title": "Man kills wife, daughter; ends life in Dharmapuri",
+    "title_ta": "",
+    "summary": "Man kills wife, daughter; ends life in Dharmapuri",
+    "summary_ta": "",
+    "date": "June 30, 2026"
+  },
+  {
+    "id": "dha-jun30-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHZWOER6Y3BiQmxPa0FMeUliOWJTeHd6aG9KNlA1M21RY2NlMXY1VlRqZ0l0dlRfYWlETUtKaEZlQ01JbmJ0d0N5N1laQkZXZmpWbEd4MWU1TEtJcHJFOW9BRWh4ZHN4cDJDcmZLSTVlajhSdVA0ajBYa0ZGU0dEYXlIRVh4RmxJNG0yU0FVbkUtWTJB0gGiAUFVX3lxTE80Q2VSRGJHUkRHUlZacHJhMnFqbzV4ZjlPR0JCNnYwbk9pRklhRDRPT3ZaTnNWQ0ZOeGRSUjJWNWtGNEIyU0pBSUR5ZlRueHY4bV8yTm9iU2RiWURmVXV6WUtOd3A4a2JGQVQ4N3lqOXFrZFJwbnpXWTRfY2t4Sm9ma3pSeE1vcUJEZ0x2eXBIbFJWLVhiaTN6YlFOWnJ0M3JaQQ?oc=5",
     "title": "Debt-ridden DMK man kills wife, daughter; takes his own life",
@@ -34,17 +46,5 @@
     "summary": "TNEA 2026: Engineering counselling to begin July 13; Dharmapuri student tops rank list",
     "summary_ta": "",
     "date": "July 1, 2026"
-  },
-  {
-    "id": "dha-jun25-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclhSNzRNVnFTWVNYbTFaX2JTb01IX20wdXpuNUxXZDNybEl3REM0TzlKSVhLWjRyUHdqSWN3RU8yU04xdjJWVW9tOVVCdTBHRlI2bFE2bnhfVHRMakN0RHo2eFJua04tWnNyRDhFUmtKY2J2N1l5VWh4WXNBUzRudm1zc2V4bFdDZ2lIdEFQZw?oc=5",
-    "title": "Dharmapuri Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "title_ta": "",
-    "summary": "Dharmapuri Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "summary_ta": "",
-    "date": "June 25, 2026"
   }
 ]
