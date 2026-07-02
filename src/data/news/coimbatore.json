@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jul1-002",
+    "id": "coi-jun30-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3hTeG94YWRqdXZqZGw1a2g2bkxHcVZZR3NxQkhJQ3h3eEhzY1hDcXVUbkNZVkJSTTlKVmJNMWVPTE5fUlB4aDA5X3FMMGhFSjRHbjhjLWhWOU91RjdvUVVLMXMwRkcyNHlPdHYxUHVvNDhUTzh1Y05UbDREajhCRkRJazdOc1dpYW5XTlNkMU51d0dIdkRSSDNXNjhpYlNLNE1WSTVNUlNPc05WZXppUERVRzdKLWpzRmtyYlhSQ0MzLU5DcjRPSG52c1dXUEc5aHRjRkFQS2tzbEHSAeABQVVfeXFMTV9LOF81WlUtaUx5cXBRSzJvZ2ludG1zLXl1cFV0alF0MUhsbHlWVU1WTGY1UUVjeUJMdUgxU3p2dGs0RVNLdlFWZnR6SGNCbnlUTkJyUGdBdzVDYjZmTzdxWDdTdXYtNkw2TkNZakJCMlY1dk45UndFSnE1ajBraEMyNDk0cEtIc3A2MXNkTWRXdE1vRHRmOHVmNjk3QTJWM3pGaTc2UXJUakZkczgtSWtGcWFqeURGVjlnMzNFQU1MVkN1OU82alhfUlpwQWdmeE1rMmpQMGVhTkc0M05qUW8?oc=5",
+    "title": "Debt-ridden man murders wife and daughter, dies by suicide in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Debt-ridden man murders wife and daughter, dies by suicide in Tamil Nadu",
+    "summary_ta": "",
+    "date": "June 30, 2026"
+  },
+  {
+    "id": "coi-jul2-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUpFVjNscHg2UHpNdkNWZkJyM2xlZTFUUEhJUlNjMm9UMmh4QWpNcHVfbEt3R0hOT2J0Y1BCOHhvTW1sNGVtWmszY1pyRXI1S2s2b3BLdmo3elBfLUlYSmQybThaQWtVVWpLNVhZVUhmc3VlSHpSaXVMRDFwWUZUQnFyQzlpRDRjZGJKRjVIamtwVTAzZ2tGcHRTUllwVFRTMXJkOEFSRWtzRVNSMEFPRw?oc=5",
+    "title": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
+    "title_ta": "",
+    "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "coi-jul1-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnJWTXNRbzgweHE0TWdQSml6VUdHTWpMWGZyM3VibVNyWG93ME5DTzBWQWFQT2dYbXQ0WFdocjlVNm40WU1lektYS2MzX29pd1dHVmljNTdhamhaal83bnJFb25xTGVzRXZUd3JZVUJVSFJSTEpMeWcwSlZ5cHYtUVphS0x5UXVOOXUxVHN6THVnbWV5TjZrcmppWXRzckQzVFpuSW5R?oc=5",
     "title": "Two held in judicial custody for Coimbatore child abduction and murder",
@@ -118,29 +142,5 @@
     "summary": "Coimbatore: Elderly man killed by leopard",
     "summary_ta": "",
     "date": "June 29, 2026"
-  },
-  {
-    "id": "coi-jun28-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVVkybEJibG9pU3djcFRVajV5VjJRRERId1VIVlZLU1NqRlJEcnVjMXJLdVhyeG1MZTFDMl92MEU3dGFfZU85WDhBTHRGLWtzZ2E3dGY3RXdUbGZGOWd4OFNDanl4M05mMTRaczhWMUdFTWY0N3p1dDdHQmUwdnhJVU80RjRnejlESVU3LWNTU0pMTHQzaTlnRE5mTGU2ME1BWHY1bVlZdlhXU2ZYU2txTzc3VzhsNnh3LVk0VHBJb203Zm9CbXczejJ5OHJVRHkzZDN2WUtOY3JnT2Z4VWY4X2R3VXJhMGvSAewBQVVfeXFMTmk5R3BNREhTcmt2YnJtVmg0WmdnZVExZnJ2c29CVkdkenFxZldtSHdVSkpsYVNNY2MzRUl1RUZqUXlZMHhSLW14MFJyZFFJakhZZEtLS0tmckdrRlJ1amRWMUpWNzhCRHZNRXRFX3RGaDBYQ3o3cGZZQlRRQzcxamNLdVI5MEQ2WmFQaXJzZEE1SGxNbUd3RHlJTGY3cGktM3poZEloSjZhbXVUNDBYUzQwQ2dnZ0IwTFUzd3JDWnVGTDVRZUlHSDJkTkpyUFVvR3hlNnNmQUJiY3FodEQyOGd6REtQWllEWEVIbUY?oc=5",
-    "title": "Coimbatore administers polio drops at 1,615 centres for children under five",
-    "title_ta": "",
-    "summary": "Coimbatore administers polio drops at 1,615 centres for children under five",
-    "summary_ta": "",
-    "date": "June 28, 2026"
-  },
-  {
-    "id": "coi-jun28-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2FJUnVxMXZXVF9qSG5JYzdhdXFLZDRpQW82WG5tXzlxY0N0NEo4QXhzUk9xb3lYNmdGeEdCWHhURVJvNkpGZGZpT25jRWZSVUZTSUFRYnVfWW01N3RMbFBKTDM0VXdjbnBlWVNpZjNRTHVwTHJWVzB2UnBDSmdDVHlwNGN6Y00zTUE?oc=5",
-    "title": "Aviation Updates: Air Arabia Launches Disruption-Proof Coimbatore to London Gatwick Route via Sharja",
-    "title_ta": "",
-    "summary": "Aviation Updates: Air Arabia Launches Disruption-Proof Coimbatore to London Gatwick Route via Sharja",
-    "summary_ta": "",
-    "date": "June 28, 2026"
   }
 ]
