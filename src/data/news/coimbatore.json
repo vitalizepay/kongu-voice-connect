@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun30-002",
+    "id": "coi-jul2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLU1lMXlCOXh1N3Vkd0FOSTg1dUJsbVA1V1FPOWk4ZllzWjdxQV9KY0tRaWRQLVhqazVINElHRFAxV2hHdXozUklkd19feHJzWlN3ZDdMQW9PRE5xTERCS25wUEVLU2pNZzF6djNNcGxPaW1NWVNnUUYyZGl6MHp6NzNjQWdWVmVoMHluOVJSNVV3NFFQLW9JTmtsV1I4VTdxTEM0T19jNy1iR1lvMnNSOThkS0hFeE1DY2xnTQ?oc=5",
+    "title": "Tamil Nadu weather update: IMD alerts Coimbatore and Nilgiris of heavy rain over next two days",
+    "title_ta": "",
+    "summary": "Tamil Nadu weather update: IMD alerts Coimbatore and Nilgiris of heavy rain over next two days",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "coi-jun30-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3hTeG94YWRqdXZqZGw1a2g2bkxHcVZZR3NxQkhJQ3h3eEhzY1hDcXVUbkNZVkJSTTlKVmJNMWVPTE5fUlB4aDA5X3FMMGhFSjRHbjhjLWhWOU91RjdvUVVLMXMwRkcyNHlPdHYxUHVvNDhUTzh1Y05UbDREajhCRkRJazdOc1dpYW5XTlNkMU51d0dIdkRSSDNXNjhpYlNLNE1WSTVNUlNPc05WZXppUERVRzdKLWpzRmtyYlhSQ0MzLU5DcjRPSG52c1dXUEc5aHRjRkFQS2tzbEHSAeABQVVfeXFMTV9LOF81WlUtaUx5cXBRSzJvZ2ludG1zLXl1cFV0alF0MUhsbHlWVU1WTGY1UUVjeUJMdUgxU3p2dGs0RVNLdlFWZnR6SGNCbnlUTkJyUGdBdzVDYjZmTzdxWDdTdXYtNkw2TkNZakJCMlY1dk45UndFSnE1ajBraEMyNDk0cEtIc3A2MXNkTWRXdE1vRHRmOHVmNjk3QTJWM3pGaTc2UXJUakZkczgtSWtGcWFqeURGVjlnMzNFQU1MVkN1OU82alhfUlpwQWdmeE1rMmpQMGVhTkc0M05qUW8?oc=5",
     "title": "Debt-ridden man murders wife and daughter, dies by suicide in Tamil Nadu",
@@ -128,18 +140,6 @@
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "title_ta": "",
     "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "June 29, 2026"
-  },
-  {
-    "id": "coi-jun29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMV82LUxJX1FFcnliUXJCVm9zSmhGNGVteWNTLUdKcm9TRlI2UEpRU2RBM3JxVFZQTEJvMmdFTkxYQnVBWS1iQUp6a1JVVTE3T2hYTlpXQmk3cFVpbldyLW85dVlEMmNxU2FTMTZwQldqWkRfTHhUWEZUUUhYcTlCM2YyVdIBkAFBVV95cUxPZmVJaW5PVXFqYmM2TlBNR0pqb2oxcDlTeFQtSkpkVFItTHpHYlI2MFlxb3RJOTJ1aDQzMEUyOFI1Z1p6d2RiYUlnQmR1dnRWQ0EzNldtWnN0YVRubWhLM2pqSUs2a0lsYUtLNWJlTnBKQUZ4ODFXMUlYcXIwd05KVUtVSk9DY0pxTEFfeW1Zcjk?oc=5",
-    "title": "Coimbatore: Elderly man killed by leopard",
-    "title_ta": "",
-    "summary": "Coimbatore: Elderly man killed by leopard",
     "summary_ta": "",
     "date": "June 29, 2026"
   }
