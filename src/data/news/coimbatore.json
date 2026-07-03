@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul3-001",
+    "id": "coi-jul3-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQejRheERRNWc1MGRnY0JYem5nXzA0a2JLdkxrcDBWWHN1SWQ4VXhJYklSTVYxR3kzRmJEbzVwSE9JS0sxajZLTGwydEM5a2hsOThxRkJiUUNaUS1EWmtMVEF4WW1YRjk4OWZxSG05cE5NaUtpTE9VTk5kNUpBTG1TMGw5SXNKM182R01pUDZMaHdHQ0t6SUpuOEQyNDlwNzN5ZGQtMmxxcXQ4MUtLLUNjWTZKNVFXbWJzdWdlMTZVYnA3NGZwY3VqVTVTYXpfam1KeFFkRE4waWRiOHRMRWtwMHRyakdJZXk2VnpwaE1wV21TNWIyRWfSAYMCQVVfeXFMUEtYYTEtUEpJdVZqU2ZUbkR2alJ1TEVxVVM0TkVTWDdDQjIwTmszS2tLbXRHMWdZNWhzOFF5dzlaNHNXNU9CM1JSclBRcmYxOGRZM2FIdlZ6NEV4b21YRzZhMDhCOXQwOUFGSXNMNUpFbXNMSFMtZGx1Q3RIMWM0ZUt3VURobmh6QXlOcktEZFF5YWZOOE4yMEVwbXB0YnV5ZG9EcjFMTWFxQVRhSm5ic05KSjBjSXdKaFRZdVhGa1QzNDZSTXk2MWR1di1TclhpVWVVMWtfUDhmNkdUZE5qdjFCYU9XRmdVX1htUzlyU2xTMWNId05Gd0g1S2s2NUZNNGR6RQ?oc=5",
+    "title": "Industry chamber proposes strategies to strengthen air connectivity to Chennai, boost regional growt",
+    "title_ta": "",
+    "summary": "Industry chamber proposes strategies to strengthen air connectivity to Chennai, boost regional growt",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "coi-jul3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Coconut farmers urge Tamil Nadu govt to relax norms for ‘neera’ production",
     "summary_ta": "",
     "date": "June 30, 2026"
-  },
-  {
-    "id": "coi-jun28-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOWtfWWY4QjVDYk92endxUzhvOEMyRXIwelptWjJiYUpycmJnUVByOHVKMGpiUnMyMnBZN3d0YUgyNlQyZEgzRW5KZFZXZEZ5S3JlaFUtbUhHaFdFMTg5UGhxRDZYY3lyUW1LREJoU1FSQzh2TkdGNHhQLVpBMnBHVW5teWlfQ0lrbUdzMWpDdWJ3RDZWY3NlZVBmMXhPbDMwV05jczRfcVlEOGJwcmxmWGh6Qks3Y0dhLVRyR2FPMHhsTzR5aS01MjExUldFRmRrV0pjb1k5RGRqbXVtd05EcklVczBJT1HSAe4BQVVfeXFMTWZYaGFwMndwSVF4UXpESlRtN3JXYTAtRElYRloxNk9VLWZYTkMyaC1lcTNDSVJ3UE44Yzk4bmdHZHBHNEFJMGs1cklTZ2NYeVBfUU5tQmVlVThEMDRJYU0yc2x2YkM0OHNHOGlqUDZSdGlJR0Y5eXQzdmtTZFBKYVd2QUFmSllrU2ZENkFMeW1Dbkw3NFFHZ2VSdTI0NVVsemRZRUdJOE5SVEd2YzBMb3lWVG5DX1FVNENNYTBFQ2FYUi1HaGFscU9ySmxFazRmME85SEk0TUhPVl8zUU1CUmRnaE5XbEZHRi1LelhXUQ?oc=5",
-    "title": "Tamil Nadu textile industry urged to invest under Production Linked Incentive scheme",
-    "title_ta": "",
-    "summary": "Tamil Nadu textile industry urged to invest under Production Linked Incentive scheme",
-    "summary_ta": "",
-    "date": "June 28, 2026"
   }
 ]
