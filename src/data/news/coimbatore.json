@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul2-001",
+    "id": "coi-jul3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "coi-jul2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlo2bGpneDM5eXFsS2d0dUFYUmZFbTI1ZW92RG9wWFgzdjJRdlVJNFJnMjlUWEZnLS1BV0RoSEZuR3ZPLXhSLUx3cVNTZTdpNV9mSENiX25rVGdHbWxoT3BMTkpXdXg4VFZybEhXSEhMZUxNcHJ1eWhvU0VYakxLRmVqcjQ4MGZ3emdsbHJJQjdBLUUtdlJDd0NpdW04N1BzMWE0cUVCZmtIdVU4TnFIbjlGSVJWVlFNNDdCNtIBwwFBVV95cUxOdE4tVVZlbjVEell1M1NYQXZ2aERJRl82c19HblRlTm9wX3gwR3pKZUxWXzJLN1lUZ0d2WHJjUi1GSklwdVRBOEpzYXdFSGtTMXRPbzdnT05KcGNkamh1Z0pzaUV5Vkp2VjR6T0xUM09jb1c2b3ItU0hJQjE4YUZOblZjOTVwOWVSbU1DRlB4WGtLTVpSSmU0R0plb0RsZVUzbXNTd3ZMNlZvaDZoQUQ0b3RDeWlEV2NrazRxQkZnYUlJU00?oc=5",
     "title": "Coimbatore’s industries call for power sector reforms",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu textile industry urged to invest under Production Linked Incentive scheme",
     "summary_ta": "",
     "date": "June 28, 2026"
-  },
-  {
-    "id": "coi-jun30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbVN6MmxBMVhMSFczNDhrS1ZrUkFSa19KZkdHWGZNZDFZMjI0dnV4aERJb3NLVVpxVTlRSkFJd0NBTUItcWEwakxfYjFPLUFtbU9NSEJaTVFGUGdlQWRYTEx4eUNhb3Z0QnpWS3VUU3hwWWIxTklvekxhZEloSXl4VjVySHJOUDJXNzg4TUpULXpzVEVNcnJEYkNKZ3RNSGpTMGtSVzNJWnMydjdBOVdHS2dISGpxenhOcUF1eXJfY1ZGZ2lUSmhYa2JMZEhRMGlIdzdvSzVWYWowdG5KRzNrcl9B0gHvAUFVX3lxTE5qdm8xaUUzX2ZfbWV0SzRYU2Y1SExieWVrSEI4dHNtZVJGaTVFaGRXX0w3MDMzQ1VnNVpOR1NOaHM1RXhNTXJPVG93TFBCWXE5Y3Z2b2NldndIR1I4eHdRVlpFcnBzRFRFc3FmX3JMbTJUaTBnalAxQ01iYlM2Zm93RDFpVi11b2F5NDBGNWFoeHRPanlNeHFjNDRDWUdKTHFqRUVnQmtLR1dvUVdxZXdQTW5qbTFhVG9IN2QwNGlhMWgyM0h5NjkxNVd0Nk1IaE9xdmcyRGQ3NUoycExmeU8tRHlSSlZoSGRTQVBnVm04?oc=5",
-    "title": "Construction of TN's first medical devices testing lab left in limbo in TN's Coimbatore",
-    "title_ta": "",
-    "summary": "Construction of TN's first medical devices testing lab left in limbo in TN's Coimbatore",
-    "summary_ta": "",
-    "date": "June 30, 2026"
   }
 ]
