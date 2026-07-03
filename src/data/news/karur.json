@@ -1,8 +1,32 @@
 [
   {
-    "id": "kar-jul3-002",
+    "id": "kar-jul3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHp1aDJybmFWUklsOUlfNnJNZUJVME01THNQWEZzVEo1aVJvU2xPSUF1bThpUGdWcUpGYi0tbWxxVi04WGpkQjN5SFR1SC1ON3Ewc2dkS2E5Rk91NFo4LXdRS1JTN0VSWVU1WVRFaVhiN0NDU2ktSVU4cUN5NFhPZ3FvX1Y3SU5JWWhra2VrWXVlUmhlZC1oZQ?oc=5",
+    "title": "Video | Karur Stampede Case: TVK Says 'Score to Settle', DMK Hits Back",
+    "title_ta": "",
+    "summary": "Video | Karur Stampede Case: TVK Says 'Score to Settle', DMK Hits Back",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "kar-jul3-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWg3WkhlSmFPWmxfZTBaSHZETlVKbW9HazNqSmVyeFN3blUxM1NXb2NLUjFfa29nMExueEIzeHFEWXBGNXhjbVhyVzIzb1NBYkRPTmZwX1RkMUQzQmNlZ05kb2EyUUZIVFhyUnQ3Ymd1OHdtdkRMa2FjR25ycjNjNVJKODh4QllfdTVFT3E0d3lKS3ZleTBsT0xUT0lDYnc2TFh5VWo3R0xVbEF0TTZjaHVGb1RJWUF2eFYzbGdPVjlDUWk4OFN3?oc=5",
+    "title": "DMK moves Supreme Court seeking impleadment in Karur stampede case",
+    "title_ta": "",
+    "summary": "DMK moves Supreme Court seeking impleadment in Karur stampede case",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "kar-jul3-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMUk0TjBuRWFNZDR6MDE4OEJTVkFENTJkZ2R1enJackYyUDlnWWEtend6RkdPUnl4VV9qdGZkb08xVkIyaml6bi1Kc29KcGtrRWFIb2V4TFBUZHRSQXdTMmlhWGVfQU1IT3pVbVdwSzhMdjAxMGZfT2NXTnBJSUpTWHZsMzN3OVdpWVFuM2ZvdEI0V09pVWw2SDdRUmszVUxSSGVwT1RBUW5sSFdXY29PUWxIUXpYOG1Da1R1SkV5eTA3ZmxUN2pFWFBxRXphQzdSSHBGVlBPVXJuZzk4TG4zZjFRaFJoOHZtdkJiQTlLVThiUnI0Sm1n?oc=5",
     "title": "DMK moves Supreme Court to restrain Tamil Nadu CM Vijay, ministers from commenting on Karur stampede",
@@ -118,29 +142,5 @@
     "summary": "Tamil Nadu CM Vijay to visit Karur on July 10, meet stampede victims' kin",
     "summary_ta": "",
     "date": "July 2, 2026"
-  },
-  {
-    "id": "kar-jul1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnRfejZTLTVOVXRuSllOY0Npd3dCY19PUXI0cjRZUlB3MERKMEJPbVNlQmljam9TMlY5Snc1V29WcVhKLXNXblhZSWxlc185eW4xWDd6dGNDTHJxcGNKYzZPeTg5YjRWM2VkZXBPN3FvMzVQVzZ6b3dwcHVjUUV5c245cGFuSXVMSS1VT0ZwUElGOWU5NWVSXzAtNTJIMkVSNEYtRTQ4RGtzN3pZ?oc=5",
-    "title": "Video | Alleged Plot To Topple TVK Govt Failed? Karur Senthil Balaji Link In Focus",
-    "title_ta": "",
-    "summary": "Video | Alleged Plot To Topple TVK Govt Failed? Karur Senthil Balaji Link In Focus",
-    "summary_ta": "",
-    "date": "July 1, 2026"
-  },
-  {
-    "id": "kar-jun30-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1p6a0dhT1g3eFhmVFlrLS1YVm5qOUl4WF9YTEV2T3k3RV9uMENMbFMtSlgwTnVkaldsejZveW5yQ0RBODZnZWJlcktJNlo1dlNLcFp4cEF3a3JFbUpReVNJV2pTUUx5Wk9iVlViUmt6S3l0Wlk1bDBBUWl3REMyQXFKMTF6b0ZpY2tBaFVFUEE2bFo4UGhrM3l6ajM4eFpPdGZNS2k2QlpCdw?oc=5",
-    "title": "Karur Assembly Seat Declared Vacant, Tamil Nadu Bypolls Likely in 7 Constituencies After MLAs Resign",
-    "title_ta": "",
-    "summary": "Karur Assembly Seat Declared Vacant, Tamil Nadu Bypolls Likely in 7 Constituencies After MLAs Resign",
-    "summary_ta": "",
-    "date": "June 30, 2026"
   }
 ]
