@@ -1,8 +1,44 @@
 [
   {
-    "id": "kar-jul3-002",
+    "id": "kar-jul3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVkJZY3dBV0phRzZOUzY4QUZoMUR4YjlyY2R0Yi1OOE11NG1jUVJSVUFiYWR3X0NIWmsyZ3pUeVV5UEN1ckV4STJHU1U4SWNoUXkzRE56ZzR4WWxQSEViWE44M2dEa1ctWlJvSmI1WENfcDM5U2tQYzJDYWttd0psaUlLSmNYdzloUGRPbUZHYjF3RHZ0WjRQbDBoMzZYeEVwaFFyalotUm9xckE5NWh6TlNsUFpJakRCVUJzNFBNTURLQXQyUUJmSWctdWtqTGFCQWljZGtLYm9yRVRRa2FQc3NMa0NGd0JSRFVyNNIB7AFBVV95cUxOVkJZY3dBV0phRzZOUzY4QUZoMUR4YjlyY2R0Yi1OOE11NG1jUVJSVUFiYWR3X0NIWmsyZ3pUeVV5UEN1ckV4STJHU1U4SWNoUXkzRE56ZzR4WWxQSEViWE44M2dEa1ctWlJvSmI1WENfcDM5U2tQYzJDYWttd0psaUlLSmNYdzloUGRPbUZHYjF3RHZ0WjRQbDBoMzZYeEVwaFFyalotUm9xckE5NWh6TlNsUFpJakRCVUJzNFBNTURLQXQyUUJmSWctdWtqTGFCQWljZGtLYm9yRVRRa2FQc3NMa0NGd0JSRFVyNA?oc=5",
+    "title": "DMK Moves Supreme Court Against TN Minister's Statements On Karur Stampede, Objects To CM Vijay Meet",
+    "title_ta": "",
+    "summary": "DMK Moves Supreme Court Against TN Minister's Statements On Karur Stampede, Objects To CM Vijay Meet",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "kar-jul3-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWg3WkhlSmFPWmxfZTBaSHZETlVKbW9HazNqSmVyeFN3blUxM1NXb2NLUjFfa29nMExueEIzeHFEWXBGNXhjbVhyVzIzb1NBYkRPTmZwX1RkMUQzQmNlZ05kb2EyUUZIVFhyUnQ3Ymd1OHdtdkRMa2FjR25ycjNjNVJKODh4QllfdTVFT3E0d3lKS3ZleTBsT0xUT0lDYnc2TFh5VWo3R0xVbEF0TTZjaHVGb1RJWUF2eFYzbGdPVjlDUWk4OFN3?oc=5",
+    "title": "DMK moves Supreme Court seeking impleament in Karur stampede case",
+    "title_ta": "",
+    "summary": "DMK moves Supreme Court seeking impleament in Karur stampede case",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "kar-jul3-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQazlXRnlLMmFpbXhzVnJqZkhOXzlpeG80MkFSajllMV9OUVJ1RmtpOEViS3JjaTFURURjbzRnblJNVVlkSEdXaFdYUXBRZTEzODRiazVSTzk3Q19razByNUFqazBONHN0YjA1Q3ZUMWkwZ3FzVURmMkc5THZSbjY2UWFxem8xVFlUaDMxU1NaaGtFSi11bUlnNWRmalZPNUp1MFhqc0tYRlR4OXhoaGwtbVlyNnVsbVQ0cVFSYlhiUTNjekJGenNkcEQyc1dUYmt1RFZPZ3Q2cEl2WFQ0Nlo3Rzh6cktyNHRfQUxHX0REakhUdkM0cnNtdUFpSU03RkpPRFFzQTZkendoeGVHNkttRWJ3OXNfd19mbFg0?oc=5",
+    "title": "TN: DMK to file separate case against Aadhav Arjuna over Karur stampede remarks, terms Anitha Radhak",
+    "title_ta": "",
+    "summary": "TN: DMK to file separate case against Aadhav Arjuna over Karur stampede remarks, terms Anitha Radhak",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "kar-jul3-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWhjRHZCX0hEdXlObjlwaERuczRReVFlMmJXVzZtT3NwekNZeEMzTlNYU0kxRWdUX0pMYkl3aVhPZGZsYkhidzFSRWZXV2cyTUtBMG9TMEZwY2JyS0xHd1RCWVNUc25XcUhyS2s2ZWZYN1VxWHhOZ2kzWmkzb1lYVkVRYV85WmxLVnNsZlBuVC1qcktabnliQ3ZSMjRGTzBqZTl2am5oTTc3cTUy?oc=5",
     "title": "'Our Mistake': DMK Leader Regrets Not Arresting CM Vijay Post Karur Stampede",
@@ -104,42 +140,6 @@
     "title": "Tamil Nadu to see bypolls in 7 seats after MR Vijayabaskar's resignation from Karur",
     "title_ta": "",
     "summary": "Tamil Nadu to see bypolls in 7 seats after MR Vijayabaskar's resignation from Karur",
-    "summary_ta": "",
-    "date": "June 30, 2026"
-  },
-  {
-    "id": "kar-jun30-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmFLRXFDOVk3cWp4Xy1lTVlQOTFWMHNubU9DamdqQVhVclZHbGI5VWEweWhRMVZ2bUdWdlktV1dsY1VwOW1OSGxraTVlRjhKV3JtQThCM2JKWHA4SWxFTWMyeUZfRU5hZjFyMERpMFlxVDBBZ0pJSzEzbkpoWUlyQ0h6QU0wUUtUVkotczQ1ZUFuZGdhWDFyczB3OHgxS1FQdTBpeElNdlJvUmt2YVpvQ2V0dFVkZzg2ek1wNmUwOU1rRS1ZdDBMQnhPQ3ZvekJHS3c?oc=5",
-    "title": "Tamil Nadu set for bypolls in 7 constituencies, Karur Assembly seat declared vacant",
-    "title_ta": "",
-    "summary": "Tamil Nadu set for bypolls in 7 constituencies, Karur Assembly seat declared vacant",
-    "summary_ta": "",
-    "date": "June 30, 2026"
-  },
-  {
-    "id": "kar-jun30-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVg4RHRWVkVCTGQwUkdHdk5RZ29oSkgwSDNiM1daVXBsa3Awclh5NjBmVGpobVZGZm9BRGJBLTVYNDdBQmpTbEhIbXBBVVpEX2stQjJHTkotV1RsNE84M0x1T1V4ZWpqN1Y5S0FSWWQ4MGl4N0l4S1AtVWNqcGVMLWpUazkxYVN4QUJaa3pjX25NaUVkXy16VjF5NXRHbXRtd1JuOE4tRm9jaUt3LWdR?oc=5",
-    "title": "Karur seat vacant as Vijayabaskar resigns; TN set for 7 bypolls",
-    "title_ta": "",
-    "summary": "Karur seat vacant as Vijayabaskar resigns; TN set for 7 bypolls",
-    "summary_ta": "",
-    "date": "June 30, 2026"
-  },
-  {
-    "id": "kar-jun30-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWM0N1ZaRUprMXd0T0o1WUZhNkJDR2dHYUM1Mk1nM1hhbmhKWGxOWllDb3lYS1VpVnFiZWtVUE1DM3M2N3hwSWdPN1JWZjQtQkt1bjJxTUF5Uk5UTm8ySGtpclBHOElMNUZ1N1l6MEU5M0xuNzJUNWo2eVVLZEVDaXBzb1p3eFlKMnI4akJHMU9BNkZZWll3LWo0SjN6M2I0WDBMUkszcmVyTmpqU1hZT9IBvgFBVV95cUxQYmkyQlRCR2FpQjRKZ2FDSTdjckVKTWxwc2pKdFBvbGMwaDVzdkIya0NXaVlLQU4wdjdqNTRkeTNfQTFPZ3dRY0tfSko0ME42UmREblJERnBraXlsNTBwcWR5MDZUMFMxR0tXMENqLV92QUMzM0cwLXF1aWJ3LV9Tdno2amY5VDRUWGFzT2JJcUxYb0FfNUYyekpYelk5UUdQRjM2S3psMU5ZTjJIbFNuVkNvOUdWNXBVMG5WVTFn?oc=5",
-    "title": "Karur Assembly seat declared vacant, TN set for bypolls in 7 constituencies",
-    "title_ta": "",
-    "summary": "Karur Assembly seat declared vacant, TN set for bypolls in 7 constituencies",
     "summary_ta": "",
     "date": "June 30, 2026"
   }
