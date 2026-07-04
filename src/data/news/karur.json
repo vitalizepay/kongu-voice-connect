@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul2-003",
+    "id": "kar-jul2-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExPcGZ1QnplMEV0Vm1qQUhTb1NDVUNjQmJNeUQ5WmtEVy1nNC1sMnUya2hOYUtHWFoxUDV1b0s3Q3Jac0F0V2pZUFZ1MTg0ektCQVMzOS1uS25fWEh0MXNoMjc3bVpieTZpX0xfSTVRdW8wSDFlUjd4eXhKRUNMX2xqMmZMOFJLZ1BBUWhueEhXak93cVJ5d0tmWHBNMDhzM05jLXZHWktpbU5HQ3VjTXQyb9IBuAFBVV95cUxPN0pBYWVpNlQwR0hpNmNxYmk4QVFKTlMzME1aeWgtRlJaeGVZbE9vdUR3SWFvZUFMU2pFMTlPMFhWaEQtZEYtTFVOc1UxajNTaWZiNUpsNjhJVm5wd2FCeEVsY0FnSVlnWnYzQ1NmS0p3UFBvdm5UM1dkVWttaENpRnAyQURXUGlONGhISDJTSVprV2tUZTE3NWMyak9MSHltWjVGMHBvVkxURXhkZmJoMUk4RVZVRHh4?oc=5",
+    "title": "Government Job For Kin Of 41 People Who Died In Karur Stampede",
+    "title_ta": "",
+    "summary": "Government Job For Kin Of 41 People Who Died In Karur Stampede",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "kar-jul2-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZycmRwQXo2MTA3MVZHUUVzNm1qRVowdk5YNEtxbHA3T04xWkJ6bTFXSUtpVnEwZm9yVXJxQkV3Z0FTNHVuQllMUVIyY1c0RXJhZXhYd2ZkTEV4UC13UTVCc1BTdUM1UlVPSjJxRjNmYUJ3R2pnZVVkSmJFcGh6OGFBUWZyZlNMRnROTC1CYjV2clVaaDh1aDVYV3BWMGpZUEdmdkVVcWZ2cWRGeV9DUHJVTDEwM0NNQ3E1QUpyNkV6VDQ?oc=5",
     "title": "Tamil Nadu CM Vijay to visit Karur on July 10, meet stampede victims' kin",
@@ -130,17 +142,5 @@
     "summary": "'Our Mistake': DMK Leader Regrets Not Arresting CM Vijay Post Karur Stampede",
     "summary_ta": "",
     "date": "July 3, 2026"
-  },
-  {
-    "id": "kar-jun29-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZURwcWdWR1VEaXVXUjA1dXNKbEQ3RlZLUDhJLW00a19mdVhGU2dLODBBaHFqQllJQ1AzYUVqUlh6eG1EalNfTExfMDd4SUt6RFh6QTJoRUtMZl83YlpVbkhyZkMtdGlQVWFsVDNuUGxVZm1qX1BlcEo1YnRSSHJXZHpBakdKeG9jQkxOX1JPdHRCU0tVNjV4T3V1YU1JUHJqYzhJSzhmUTVBc2NkUll5cWhha0UzVUM0cC1XeWktRUFqSVlkS09vSjZncXBIaWxBT2haTTU3ekFKRWNpZXfSAeQBQVVfeXFMT3NBckhGZjRGbS1CUERGenR2N3MteVJQYzI4Zm1kNzBiSEZ4bWZ1azBjVmNwdHNMTzVtVlV5M2FzdjUxSFJKaXBhTUNfNmYxUWlPcXdzVjBYRnN5YlR6Tm8wcmcyaDBvUXFkYnJNSHZ6TXJ4ekNwZXNZcjRVV2RNbERMeFFJaVhMMFRNbF9SbE1VUWR0eTdORmloOFJoc0VjbUpsMmI2c1FEYnlpOGx3RmtZUzdvS3RrN09CejlOTjB0a3hMUGhVUnVXZUFwWGpEY2xHbmV4TEVublJPWkt0WWk1bHds?oc=5",
-    "title": "Another setback for AIADMK as M.R. Vijayabhaskar resigns as MLA in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Another setback for AIADMK as M.R. Vijayabhaskar resigns as MLA in Tamil Nadu",
-    "summary_ta": "",
-    "date": "June 29, 2026"
   }
 ]
