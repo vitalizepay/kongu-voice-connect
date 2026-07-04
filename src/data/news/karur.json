@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul4-001",
+    "id": "kar-jul2-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZycmRwQXo2MTA3MVZHUUVzNm1qRVowdk5YNEtxbHA3T04xWkJ6bTFXSUtpVnEwZm9yVXJxQkV3Z0FTNHVuQllMUVIyY1c0RXJhZXhYd2ZkTEV4UC13UTVCc1BTdUM1UlVPSjJxRjNmYUJ3R2pnZVVkSmJFcGh6OGFBUWZyZlNMRnROTC1CYjV2clVaaDh1aDVYV3BWMGpZUEdmdkVVcWZ2cWRGeV9DUHJVTDEwM0NNQ3E1QUpyNkV6VDQ?oc=5",
+    "title": "Tamil Nadu CM Vijay to visit Karur on July 10, meet stampede victims' kin",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay to visit Karur on July 10, meet stampede victims' kin",
+    "summary_ta": "",
+    "date": "July 2, 2026"
+  },
+  {
+    "id": "kar-jul4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNEZtOWxJY2ZLRmwxTnN6YlgwYThHM2NzRGxwdk9fMnpSdld5a2JZeWM5eGF6RTVJVFBaTXZybGhydG8tbng3ZWdHS1AyZmlTOU8zZFlqdmdVN3FvNXc2UHk4MHNDQ2pMWnVzbkdwZXNMaDI3MURHNG1hRFN4R1RZTVgwR3J5QWFhc010N2p5ekg5UV9wNmkzcW53VXlIazZ5ZXpIcDNwampwS0drdkhUMk1SV2tsU2RUSl9NNm4zdnRVZkNHRTVlaXhLR0dTLWpjcGhfNWx2X1F5WDjSAegBQVVfeXFMTkFidVljU0x0eEdXS2ZpN1IzLTJRLUJXLV9fYnVTdVNuSjA2Mms1SFl6RVNhNjlmSjB6UU83OE01NzRRMThpMGl5eVJQcTFVQXNnc2FfVVF3c3RJdDdaVExTdThfRV93VkYtcmZSYTNFZXVNM2pwRXRMOThBYlRBNThKcG0xY1R3QUZOakVsM285LTByVVc3RTBlSW1FSU1zQmNOUGdETS1zc0taWWhhUDVRbEtEVzdvWDh1Snl0cG11VHZYTEx6NlNtSHpRVXFMT2EydGVVQmlTUlpFYndIZnhnWDJTdHp4aw?oc=5",
     "title": "CM Vijay may visit Karur on Friday, kin\nof stampede victims to get government jobs",
@@ -130,17 +142,5 @@
     "summary": "Another setback for AIADMK as M.R. Vijayabhaskar resigns as MLA in Tamil Nadu",
     "summary_ta": "",
     "date": "June 29, 2026"
-  },
-  {
-    "id": "kar-jul2-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExPcGZ1QnplMEV0Vm1qQUhTb1NDVUNjQmJNeUQ5WmtEVy1nNC1sMnUya2hOYUtHWFoxUDV1b0s3Q3Jac0F0V2pZUFZ1MTg0ektCQVMzOS1uS25fWEh0MXNoMjc3bVpieTZpX0xfSTVRdW8wSDFlUjd4eXhKRUNMX2xqMmZMOFJLZ1BBUWhueEhXak93cVJ5d0tmWHBNMDhzM05jLXZHWktpbU5HQ3VjTXQyb9IBuAFBVV95cUxPN0pBYWVpNlQwR0hpNmNxYmk4QVFKTlMzME1aeWgtRlJaeGVZbE9vdUR3SWFvZUFMU2pFMTlPMFhWaEQtZEYtTFVOc1UxajNTaWZiNUpsNjhJVm5wd2FCeEVsY0FnSVlnWnYzQ1NmS0p3UFBvdm5UM1dkVWttaENpRnAyQURXUGlONGhISDJTSVprV2tUZTE3NWMyak9MSHltWjVGMHBvVkxURXhkZmJoMUk4RVZVRHh4?oc=5",
-    "title": "Government Job For Kin Of 41 People Who Died In Karur Stampede",
-    "title_ta": "",
-    "summary": "Government Job For Kin Of 41 People Who Died In Karur Stampede",
-    "summary_ta": "",
-    "date": "July 2, 2026"
   }
 ]

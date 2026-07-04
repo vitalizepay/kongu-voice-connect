@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jul1-001",
+    "id": "sal-jul4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHRRbFZlY1J2d2Z1RWRqZG02a2l1emNnZTVlZktJVGZSbGdvSGVmVXNwUkZsRWVIZFN6bEZ6TEVheGZXQ3JjSk5NRTZkQ1AxdkRwSEdxRUl5NGtFemk3dXlWN01pNDhJZzNQT2xBUkxwdHAyM3VQaDB2YjFra0xRYlJfc1RRV3EzeTUzY29Zc2pEYW44U2NnbE1RbFR1S0UwODBCbWZYODJCdHJIblA5SlJkVF9iZElMZUxoUXVVYllmOTFlVDFkeWxYWU0tTWJ2dGZnSUs3aHM5elB2TmdjRG1Wei1qRjc1V0toWTNB0gH0AUFVX3lxTFBnZjFDSi1uZWRWYWs5UjVQZHktcFhrdG53N0JycGo4Y240dllBRXAwd3FWOGNmWWswWmtENTVPdEpxV0lCZDFoUGdaVlRxN3djTFNvNWdQZTYtdU5SMjdjT0MxbVVzMXZUWnhfdEtlZlBMZXhLRldWVFlBOUNHTW51V0NTOC1ZWmdrTUNma1I4b1VCVVhZMUEzZmhjWHI4WGVyUWZhOVJGTHo1eTVsY0JRMzR1Q2tsd2ZUUXdlYm5ZSEZYV3drMFdBWFplQkVQSU4wakZYWFU4LW42c2JSeHNwdEQzUzZhU0pYN0FIbVFlMXZmZ2k?oc=5",
+    "title": "Fifty Bangladeshi nationals from Attur detention camp sent to West Bengal by train for deportation",
+    "title_ta": "",
+    "summary": "Fifty Bangladeshi nationals from Attur detention camp sent to West Bengal by train for deportation",
+    "summary_ta": "",
+    "date": "July 4, 2026"
+  },
+  {
+    "id": "sal-jul1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2ZCbThBN0ROTlNfdUYxNFliTGNJdTA5VENSUy1ZTUlIVk40YmxlRl9pU2VpOEcwbkhkV0dlZEliblh0UldhZGt2Vi1zaERCMjhPcUxZVXZKcXlTRjFBVzJYbjhObHpaRkkwd1pWaURuMnVZbXEweU9wdkdvLXoyVW83VmxKS2d1UGUxcE1lS0loYlVJLUZiaXE1dGZ5ZEkxSDVwMHFtOHBvTDlJ?oc=5",
     "title": "TNEA Colleges for Cutoff Marks Between 120 to 140",
