@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul4-001",
+    "id": "coi-jul5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODdkQmNSdjNXOXBlUkZZcGIwcG1aVzY1ekwycjQ3NVlkMllJU0ZIUnYzT1FNVlhaUFZWX3g4WDhyWnNtdzdOby1oRllhMDlGV3FaTDRSdkVucHFNSDItdy1iODBIeDZ0WWdRZE8tZXBma1h1enByNlJ6TnlOeEhYR3FOa1JKODJCR2g4N2hqejRlWk1RejJoVW5GXzc5bWFld2ZuVGhOZVEwbjd5T0djZXoyWDkybU01VEJQUVhxQXF0MWVSdnAtNGFmSS1Ra0ZnQ0JReUxJM2FSV2vSAegBQVVfeXFMUHA0U1FzdGdDMFF4YnNKQVlJNzlsN256b2ZaUl9FT3RQcGNJUk5ONEdjSE1hbWpWYU01UVJjR2pZLVFKcV9meHd3OTFRbUFheHBSRXBnUjV4dDllNGJhV3JlcWpJazRYbERXaGlZUkNxQ0tvb0VfaDFudDB5OW5UWUY3YnZsZm95T2FjYkNPSlQ5Rk5HVnFnVVhacmxLN1lpdE4xVXMtd2F0OXR0dFhqak9mdVppOUE2eXlRRkZCNUgxVngtSUQxbnI2cEszZ3liT2IwVUx4ZmpxWUJjckhJenRxZC12UVpkNA?oc=5",
+    "title": "Farmers bust illegal storage of subsidised urea in Coimbatore; police seize stock",
+    "title_ta": "",
+    "summary": "Farmers bust illegal storage of subsidised urea in Coimbatore; police seize stock",
+    "summary_ta": "",
+    "date": "July 5, 2026"
+  },
+  {
+    "id": "coi-jul4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON2tkek9HTjQ5VmZ1anE5MWJvd1lERXlCNGJsN1ZzZFRKeVRmUERWUFJXaGhIVDBUbFZIM05WbVlISGx0UmVZazRYWHl2VVppQlYxMWQ4VXN1WVVqZnlyeWpPajhtRy1fbDVGenJ0MjFfRGloZzQyRUV3VzNiX0NJajFlYTVXeHZra21ZbUp6S0dWbXZ3dFpfMlNrbUV2ZzE2Nm5xZ1VaY3NrYU91Q3F0SC1hYWNRd1A3QXNVUnRZWUVfMHdwVVh6UnlGY0VtR2hHSnl6VUNZRTVybmlFWmdPTWhzdndJWDFpRkpNOEp2TklvZzExQUUyemJtTDTSAYICQVVfeXFMT016MFlpU1B0RDBpam14N21yZ0sza19UdFZlZGtYdnRUOFJLbk56elg1dDBDeVZ0VzlZb1ROaDhSZ3M1czJKSWl1alZVSUp1Rkl2cmZkM0tSLWZNUU9LTW5HTGtYVFhoNVBkdFU1RWZqWE8wTW8wcVF5aGNqN0g3eVNQc19NMVBuSnNoZWlRWnA0eFZnMTNmZ0tYRmNOUlFqUlM2Q1lHSTlMc3cyS3liR1pFc0pTTXpKcHZWenhkVVRvamQ2MWxlMmJVaHZ4TEV6MXNxbjluMHRVUXFrSGlVRXBWVUZhZ0lCdXdDclN0VlNGd21zOW5HRmo3TEZPMmJhcjR3?oc=5",
     "title": "Tamil Nadu govt urged to revisit industrial power tariffs to boost textile competitiveness",
@@ -130,17 +142,5 @@
     "summary": "Debt-ridden man murders wife and daughter, dies by suicide in Tamil Nadu",
     "summary_ta": "",
     "date": "June 30, 2026"
-  },
-  {
-    "id": "coi-jul2-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUpFVjNscHg2UHpNdkNWZkJyM2xlZTFUUEhJUlNjMm9UMmh4QWpNcHVfbEt3R0hOT2J0Y1BCOHhvTW1sNGVtWmszY1pyRXI1S2s2b3BLdmo3elBfLUlYSmQybThaQWtVVWpLNVhZVUhmc3VlSHpSaXVMRDFwWUZUQnFyQzlpRDRjZGJKRjVIamtwVTAzZ2tGcHRTUllwVFRTMXJkOEFSRWtzRVNSMEFPRw?oc=5",
-    "title": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
-    "title_ta": "",
-    "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
-    "summary_ta": "",
-    "date": "July 2, 2026"
   }
 ]
