@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul5-001",
+    "id": "coi-jul3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR3ZhNmdkZkxyTENxeUZhMV9YNEkzVDMycV9aS0haZTlmZ3d6VVVmeDBRQmpoVzZYek1ialV0WmtjalhDajVUdjVac05qVGlSc2pKeWMzaktUM21OZXZpUlU0V3lCM1NqY2VMRGJyQmN1VnNsQmtkNTdHVEJJRkd0SkgzTFdpLVMyX25qSHZDOW9nMjZNcDdzYW9VMFIxT0EzdWZybGo0ZmpGeVQ3alItaVR3MHBJVGpsXzRwYnB0cWFSRHgyaldXbnZmRzRJcVVFOUxWMW96N0ZwTm9BNm5EUlhpemtVeGFnb1d6aXFsMnd4bmfSAfoBQVVfeXFMTWVXT1pNT2lfSDlDYlNRVkRUOUlXOVpKWlpDOWxHVDF4cU92QlVhRVgyNHhaVzlFWE4xZm1OWWkxc2h3bkgxT1hNRmFfajIxcWxnZTgzMmF5dy1tMW5RYzJ1ZzRrUGVQMFN4SmUwNU9RdEJGUkZhQ2NuZTc1X1FVSlk4VGU3cGQ4eDZNazVJU3pBYnJnV1hNOXJycHE2T0ZKNEFtR29zU2taSjlNN2FSOGxHU3dHNVBfazBmVjdKeWo5eFNPeUpTOFUwam9Ub0RzVjIwVjFVVEVxdmpwWGFESGQzSmNCWldXLTJfeW43R1NjV29xTEo5YmNqdw?oc=5",
+    "title": "Government Order issued for additional 7.44 acres to link Coimbatore airport with L&T Bypass",
+    "title_ta": "",
+    "summary": "Government Order issued for additional 7.44 acres to link Coimbatore airport with L&T Bypass",
+    "summary_ta": "",
+    "date": "July 3, 2026"
+  },
+  {
+    "id": "coi-jul5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODdkQmNSdjNXOXBlUkZZcGIwcG1aVzY1ekwycjQ3NVlkMllJU0ZIUnYzT1FNVlhaUFZWX3g4WDhyWnNtdzdOby1oRllhMDlGV3FaTDRSdkVucHFNSDItdy1iODBIeDZ0WWdRZE8tZXBma1h1enByNlJ6TnlOeEhYR3FOa1JKODJCR2g4N2hqejRlWk1RejJoVW5GXzc5bWFld2ZuVGhOZVEwbjd5T0djZXoyWDkybU01VEJQUVhxQXF0MWVSdnAtNGFmSS1Ra0ZnQ0JReUxJM2FSV2vSAegBQVVfeXFMUHA0U1FzdGdDMFF4YnNKQVlJNzlsN256b2ZaUl9FT3RQcGNJUk5ONEdjSE1hbWpWYU01UVJjR2pZLVFKcV9meHd3OTFRbUFheHBSRXBnUjV4dDllNGJhV3JlcWpJazRYbERXaGlZUkNxQ0tvb0VfaDFudDB5OW5UWUY3YnZsZm95T2FjYkNPSlQ5Rk5HVnFnVVhacmxLN1lpdE4xVXMtd2F0OXR0dFhqak9mdVppOUE2eXlRRkZCNUgxVngtSUQxbnI2cEszZ3liT2IwVUx4ZmpxWUJjckhJenRxZC12UVpkNA?oc=5",
     "title": "Farmers bust illegal storage of subsidised urea in Coimbatore; police seize stock",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu weather update: IMD alerts Coimbatore and Nilgiris of heavy rain over next two days",
     "summary_ta": "",
     "date": "July 2, 2026"
-  },
-  {
-    "id": "coi-jun30-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3hTeG94YWRqdXZqZGw1a2g2bkxHcVZZR3NxQkhJQ3h3eEhzY1hDcXVUbkNZVkJSTTlKVmJNMWVPTE5fUlB4aDA5X3FMMGhFSjRHbjhjLWhWOU91RjdvUVVLMXMwRkcyNHlPdHYxUHVvNDhUTzh1Y05UbDREajhCRkRJazdOc1dpYW5XTlNkMU51d0dIdkRSSDNXNjhpYlNLNE1WSTVNUlNPc05WZXppUERVRzdKLWpzRmtyYlhSQ0MzLU5DcjRPSG52c1dXUEc5aHRjRkFQS2tzbEHSAeABQVVfeXFMTV9LOF81WlUtaUx5cXBRSzJvZ2ludG1zLXl1cFV0alF0MUhsbHlWVU1WTGY1UUVjeUJMdUgxU3p2dGs0RVNLdlFWZnR6SGNCbnlUTkJyUGdBdzVDYjZmTzdxWDdTdXYtNkw2TkNZakJCMlY1dk45UndFSnE1ajBraEMyNDk0cEtIc3A2MXNkTWRXdE1vRHRmOHVmNjk3QTJWM3pGaTc2UXJUakZkczgtSWtGcWFqeURGVjlnMzNFQU1MVkN1OU82alhfUlpwQWdmeE1rMmpQMGVhTkc0M05qUW8?oc=5",
-    "title": "Debt-ridden man murders wife and daughter, dies by suicide in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Debt-ridden man murders wife and daughter, dies by suicide in Tamil Nadu",
-    "summary_ta": "",
-    "date": "June 30, 2026"
   }
 ]
