@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul6-001",
+    "id": "coi-jul5-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUpFVjNscHg2UHpNdkNWZkJyM2xlZTFUUEhJUlNjMm9UMmh4QWpNcHVfbEt3R0hOT2J0Y1BCOHhvTW1sNGVtWmszY1pyRXI1S2s2b3BLdmo3elBfLUlYSmQybThaQWtVVWpLNVhZVUhmc3VlSHpSaXVMRDFwWUZUQnFyQzlpRDRjZGJKRjVIamtwVTAzZ2tGcHRTUllwVFRTMXJkOEFSRWtzRVNSMEFPRw?oc=5",
+    "title": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
+    "title_ta": "",
+    "summary": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
+    "summary_ta": "",
+    "date": "July 5, 2026"
+  },
+  {
+    "id": "coi-jul6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tVll0VV9nckxGclp2cTVvQmpmXzNZVkZIZzgyS0NhRXNPYVczdGo4OGxNRWQ4NHRHRGlrd3dHOWZqYW5hMXdRRzZSRjBCUlJKTzJSVUNQaGxzNXJiejVHQjhvcGRETGhjb2dHWGxydFRkcE5yOHlrVTZB?oc=5",
     "title": "Heavy rain likely in TN’s Coimbatore, Nilgiris today",
@@ -128,18 +140,6 @@
     "title": "Coimbatore’s industries call for power sector reforms",
     "title_ta": "",
     "summary": "Coimbatore’s industries call for power sector reforms",
-    "summary_ta": "",
-    "date": "July 2, 2026"
-  },
-  {
-    "id": "coi-jul2-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVVxOEtESm9kaUQwQVBHOEE4VHhoTEdab01wYk9EN3RnTW1aQXZxSWI2R3cxbW8zNTlaQTI4a1gzY2gtdjNfb3VicVdjZnNjY1lOaC1mVFpaYklJYnJYNmtsTHhYWGRkT2tidUZYWXo4dkQwXzZSTExLTUxMd0Z5WVQ5dG12Z3FSYi1XR3Mwem5ENm5PZFdmU1l5cGRfR1VjOTQxVGlCN2lKNF94Z3lwRnFFSC0?oc=5",
-    "title": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
-    "title_ta": "",
-    "summary": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
     "summary_ta": "",
     "date": "July 2, 2026"
   }
