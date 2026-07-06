@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul6-001",
+    "id": "kar-jul6-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb244WEU5aTVlclF0WXVjX252SVZCeHFGc1dqRUNHUEZEWnM4alFRanAzSDJlcXZRX2tzdVctNjVnWWk0ZzlERjNqQTFoSHU3WGNSTU9JM29IMEFiTzl3X1ItY2FhS29FRGlsU0NQWVpybWUtNkE3MkIwdHZPWjNlMU9nTElWZkU5RWFmMTBtZ3RXU0NhYml3NWtwTDBvMU5tNGJtaUJuNGs3LVRacU16M2xXcl90ODRVcDJEZ0YwajNFYzZVX0ZwOVNvTGlSR1JScVB6Vm5pdnItX2txNmYyb3lxazdWZjAy0gH2AUFVX3lxTE5TQVFqdmNRN1FySTB5ZG1KeGlUdm1LWTdJcDZTNlZQa0lMWGpBSGNweDczNVZMVGk2c2ZRdjhuam12TGw0Yk9FWkhCalIwQ0hhNXV5NmIzb3JXbEJNWENPakhMZTJTbEp2ajF4V3BGYWVBRmlrREpodUstWUNOX2ZoOW1Mb1hGNDNLQ0tieHo0d0NGenVoZTVDTEZrTEZqZTJpNXBCa1ZtYUlYMnUxM3dPaWU0czc4cHluN2F3bTZhZS0xSmJoWGtsZjItOVRLekI3MXRoMnR4dGhDOFd6SXZ1VE0zdjVPQVVjX0dfT21HOVEtUDlnQQ?oc=5",
+    "title": "Veerapandian says he would welcome jobs for Karur victims' families on humanitarian grounds",
+    "title_ta": "",
+    "summary": "Veerapandian says he would welcome jobs for Karur victims' families on humanitarian grounds",
+    "summary_ta": "",
+    "date": "July 6, 2026"
+  },
+  {
+    "id": "kar-jul6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlxUVFrRE9mTHlBY25vV1hZWmZDN2dUczliV0s5ODVJbnJjZmlCWXZqeEk3UkZQQ1Nkbjlza2F1YnZVdHUwb3dnX1J4blM2M1lEV2hoalhnR0hGTnJQNGdZRHhhTVl0aS11X1E2TWVXSEd0QUYtd1R3NjR1ZXdab3BobVNTZGJLemNpajNla3hPRjNVRmVleTFJalBoQ0p2OXpyX0RZYmxKUnIxd2VfSjVjS3BGTmo5emlscE9FRDRqVDJyd2hTWG1qQ3VBZ9IBzgFBVV95cUxOZTlxUVFrRE9mTHlBY25vV1hZWmZDN2dUczliV0s5ODVJbnJjZmlCWXZqeEk3UkZQQ1Nkbjlza2F1YnZVdHUwb3dnX1J4blM2M1lEV2hoalhnR0hGTnJQNGdZRHhhTVl0aS11X1E2TWVXSEd0QUYtd1R3NjR1ZXdab3BobVNTZGJLemNpajNla3hPRjNVRmVleTFJalBoQ0p2OXpyX0RZYmxKUnIxd2VfSjVjS3BGTmo5emlscE9FRDRqVDJyd2hTWG1qQ3VBZw?oc=5",
     "title": "Karur Stampede: Supreme Court To Hear Plea Against TVK Leaders' Remarks On Ongoing CBI Probe",
@@ -130,17 +142,5 @@
     "summary": "DMK moves SC in Karur stampede case, seeks curb on CM Vijay from commenting on CBI probe",
     "summary_ta": "",
     "date": "July 4, 2026"
-  },
-  {
-    "id": "kar-jul3-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZmNjSTVfeDdkMnh1eGY3ZjdfVVhLWU5IN3cwWnpTZWtjUnZNRWU5dno2QUdFeU9lYldFN2daTjhZTUJiVm5pRDNrUEwzZzcxUkx6ejRfRmd2bTdOd2paNFllLUpveEtCeVlpQXFRR2hBWW11ZTlZU19YaWRtNEwtR2NzVkJva1FXUlJqd1ZqU0d1ckZlcGotUFlDNGxIaGtXbTUxMnRfNHJpbG1hLWh4N25sbXVabDZEemZTOFhub0dodk85aTBoSmVPWVMtS2hSWDZpUmNrekVRTDFHTHRGV3NLT3dJZHRET2twQllDTkt0enPSAfoBQVVfeXFMUDk0SHJxTFozOG13a3dsbDR0VG11ZkZfTEYzaDJrZXpsV1dkZlFPX0NoZnBvWVNta1lIX1pNLTB6NHNBWGF1VURUTnN5QTNoRmNRakg2WExlMWVQb1laX1JvZ3RDbXNSbENDMTdQcE1CMVpGZWFTWUJiYkhlRGFiVnpsWGxEOF9hTDVhTHl2c084RWJDeW9UdEZaSTVpcHc4VHZWNmdLcEh1dGtUVmI5U21PQWlSN0JBY3pzRUVMRzBHcDRwRWxmekZCbEhmVmFuaHdRbTB3VlQ2OXVhajZOSzFpZW9RbUs3UzNGdVBza3A4d3BBbXRyZjB1UQ?oc=5",
-    "title": "DMK moves Supreme Court to bar TVK leaders from making ‘threatening’ public statements on Karur stam",
-    "title_ta": "",
-    "summary": "DMK moves Supreme Court to bar TVK leaders from making ‘threatening’ public statements on Karur stam",
-    "summary_ta": "",
-    "date": "July 3, 2026"
   }
 ]

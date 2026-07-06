@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul5-006",
+    "id": "coi-jul6-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnJWTXNRbzgweHE0TWdQSml6VUdHTWpMWGZyM3VibVNyWG93ME5DTzBWQWFQT2dYbXQ0WFdocjlVNm40WU1lektYS2MzX29pd1dHVmljNTdhamhaal83bnJFb25xTGVzRXZUd3JZVUJVSFJSTEpMeWcwSlZ5cHYtUVphS0x5UXVOOXUxVHN6THVnbWV5TjZrcmppWXRzckQzVFpuSW5R?oc=5",
+    "title": "Two held in judicial custody for Coimbatore child abduction and murder",
+    "title_ta": "",
+    "summary": "Two held in judicial custody for Coimbatore child abduction and murder",
+    "summary_ta": "",
+    "date": "July 6, 2026"
+  },
+  {
+    "id": "coi-jul5-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUpFVjNscHg2UHpNdkNWZkJyM2xlZTFUUEhJUlNjMm9UMmh4QWpNcHVfbEt3R0hOT2J0Y1BCOHhvTW1sNGVtWmszY1pyRXI1S2s2b3BLdmo3elBfLUlYSmQybThaQWtVVWpLNVhZVUhmc3VlSHpSaXVMRDFwWUZUQnFyQzlpRDRjZGJKRjVIamtwVTAzZ2tGcHRTUllwVFRTMXJkOEFSRWtzRVNSMEFPRw?oc=5",
     "title": "love affair turns violent in Trichy; woman attacked, murder in Coimbatore solved",
@@ -130,17 +142,5 @@
     "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "summary_ta": "",
     "date": "July 3, 2026"
-  },
-  {
-    "id": "coi-jul2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlo2bGpneDM5eXFsS2d0dUFYUmZFbTI1ZW92RG9wWFgzdjJRdlVJNFJnMjlUWEZnLS1BV0RoSEZuR3ZPLXhSLUx3cVNTZTdpNV9mSENiX25rVGdHbWxoT3BMTkpXdXg4VFZybEhXSEhMZUxNcHJ1eWhvU0VYakxLRmVqcjQ4MGZ3emdsbHJJQjdBLUUtdlJDd0NpdW04N1BzMWE0cUVCZmtIdVU4TnFIbjlGSVJWVlFNNDdCNtIBwwFBVV95cUxOdE4tVVZlbjVEell1M1NYQXZ2aERJRl82c19HblRlTm9wX3gwR3pKZUxWXzJLN1lUZ0d2WHJjUi1GSklwdVRBOEpzYXdFSGtTMXRPbzdnT05KcGNkamh1Z0pzaUV5Vkp2VjR6T0xUM09jb1c2b3ItU0hJQjE4YUZOblZjOTVwOWVSbU1DRlB4WGtLTVpSSmU0R0plb0RsZVUzbXNTd3ZMNlZvaDZoQUQ0b3RDeWlEV2NrazRxQkZnYUlJU00?oc=5",
-    "title": "Coimbatore’s industries call for power sector reforms",
-    "title_ta": "",
-    "summary": "Coimbatore’s industries call for power sector reforms",
-    "summary_ta": "",
-    "date": "July 2, 2026"
   }
 ]
