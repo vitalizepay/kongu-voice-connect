@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul3-003",
+    "id": "coi-jul6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tVll0VV9nckxGclp2cTVvQmpmXzNZVkZIZzgyS0NhRXNPYVczdGo4OGxNRWQ4NHRHRGlrd3dHOWZqYW5hMXdRRzZSRjBCUlJKTzJSVUNQaGxzNXJiejVHQjhvcGRETGhjb2dHWGxydFRkcE5yOHlrVTZB?oc=5",
+    "title": "Heavy rain likely in TN’s Coimbatore, Nilgiris today",
+    "title_ta": "",
+    "summary": "Heavy rain likely in TN’s Coimbatore, Nilgiris today",
+    "summary_ta": "",
+    "date": "July 6, 2026"
+  },
+  {
+    "id": "coi-jul3-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR3ZhNmdkZkxyTENxeUZhMV9YNEkzVDMycV9aS0haZTlmZ3d6VVVmeDBRQmpoVzZYek1ialV0WmtjalhDajVUdjVac05qVGlSc2pKeWMzaktUM21OZXZpUlU0V3lCM1NqY2VMRGJyQmN1VnNsQmtkNTdHVEJJRkd0SkgzTFdpLVMyX25qSHZDOW9nMjZNcDdzYW9VMFIxT0EzdWZybGo0ZmpGeVQ3alItaVR3MHBJVGpsXzRwYnB0cWFSRHgyaldXbnZmRzRJcVVFOUxWMW96N0ZwTm9BNm5EUlhpemtVeGFnb1d6aXFsMnd4bmfSAfoBQVVfeXFMTWVXT1pNT2lfSDlDYlNRVkRUOUlXOVpKWlpDOWxHVDF4cU92QlVhRVgyNHhaVzlFWE4xZm1OWWkxc2h3bkgxT1hNRmFfajIxcWxnZTgzMmF5dy1tMW5RYzJ1ZzRrUGVQMFN4SmUwNU9RdEJGUkZhQ2NuZTc1X1FVSlk4VGU3cGQ4eDZNazVJU3pBYnJnV1hNOXJycHE2T0ZKNEFtR29zU2taSjlNN2FSOGxHU3dHNVBfazBmVjdKeWo5eFNPeUpTOFUwam9Ub0RzVjIwVjFVVEVxdmpwWGFESGQzSmNCWldXLTJfeW43R1NjV29xTEo5YmNqdw?oc=5",
     "title": "Government Order issued for additional 7.44 acres to link Coimbatore airport with L&T Bypass",
@@ -128,18 +140,6 @@
     "title": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
     "title_ta": "",
     "summary": "Heavy rain likely in TN’s Coimbatore, Nilgiris over next two days; IMD issues weather alert",
-    "summary_ta": "",
-    "date": "July 2, 2026"
-  },
-  {
-    "id": "coi-jul2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLU1lMXlCOXh1N3Vkd0FOSTg1dUJsbVA1V1FPOWk4ZllzWjdxQV9KY0tRaWRQLVhqazVINElHRFAxV2hHdXozUklkd19feHJzWlN3ZDdMQW9PRE5xTERCS25wUEVLU2pNZzF6djNNcGxPaW1NWVNnUUYyZGl6MHp6NzNjQWdWVmVoMHluOVJSNVV3NFFQLW9JTmtsV1I4VTdxTEM0T19jNy1iR1lvMnNSOThkS0hFeE1DY2xnTQ?oc=5",
-    "title": "Tamil Nadu weather update: IMD alerts Coimbatore and Nilgiris of heavy rain over next two days",
-    "title_ta": "",
-    "summary": "Tamil Nadu weather update: IMD alerts Coimbatore and Nilgiris of heavy rain over next two days",
     "summary_ta": "",
     "date": "July 2, 2026"
   }
