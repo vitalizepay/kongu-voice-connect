@@ -1,8 +1,44 @@
 [
   {
-    "id": "kar-jul7-001",
+    "id": "kar-jul7-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0pOd3pvREVHQlpVZDNOcXhDRlBVTzdsTE1SRmFrWG1FTGh3RFFkSGhoLWtvQmd0QTZkTEY2OXAwdWdLOTJCUHh2bGV1cGcwYjlzQ3p1WUFXdlZXYVRSR2p5VTZLanBaX1VEY2xPU3U3Q2xkd1h3MXRkM3J3R1NDYWZ6aXA5QnVLVy1DM1VXdGh0bEZ6Um8xUzh6SFlBY1liRExlVWF3Vms5UXBD?oc=5",
+    "title": "Video | Supreme Court Snub For DMK On Karur Plea | Vijay's Big Message To Ministers",
+    "title_ta": "",
+    "summary": "Video | Supreme Court Snub For DMK On Karur Plea | Vijay's Big Message To Ministers",
+    "summary_ta": "",
+    "date": "July 7, 2026"
+  },
+  {
+    "id": "kar-jul6-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTlxUVFrRE9mTHlBY25vV1hZWmZDN2dUczliV0s5ODVJbnJjZmlCWXZqeEk3UkZQQ1Nkbjlza2F1YnZVdHUwb3dnX1J4blM2M1lEV2hoalhnR0hGTnJQNGdZRHhhTVl0aS11X1E2TWVXSEd0QUYtd1R3NjR1ZXdab3BobVNTZGJLemNpajNla3hPRjNVRmVleTFJalBoQ0p2OXpyX0RZYmxKUnIxd2VfSjVjS3BGTmo5emlscE9FRDRqVDJyd2hTWG1qQ3VBZ9IBzgFBVV95cUxOZTlxUVFrRE9mTHlBY25vV1hZWmZDN2dUczliV0s5ODVJbnJjZmlCWXZqeEk3UkZQQ1Nkbjlza2F1YnZVdHUwb3dnX1J4blM2M1lEV2hoalhnR0hGTnJQNGdZRHhhTVl0aS11X1E2TWVXSEd0QUYtd1R3NjR1ZXdab3BobVNTZGJLemNpajNla3hPRjNVRmVleTFJalBoQ0p2OXpyX0RZYmxKUnIxd2VfSjVjS3BGTmo5emlscE9FRDRqVDJyd2hTWG1qQ3VBZw?oc=5",
+    "title": "Karur Stampede: Supreme Court To Hear Plea Against TVK Leaders' Remarks On Ongoing CBI Probe",
+    "title_ta": "",
+    "summary": "Karur Stampede: Supreme Court To Hear Plea Against TVK Leaders' Remarks On Ongoing CBI Probe",
+    "summary_ta": "",
+    "date": "July 6, 2026"
+  },
+  {
+    "id": "kar-jul7-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcURPaGduQmFvc004bFJrcGpjNHAwQlNodDB4Unc2ZS1rcGxFdk12TlpzV1RTSkNVMFItY1N4ZjBhZHc1SW9GTkw5eHdSZGpvbmQ4UDY5Yk05N1RUeVFOUFVRdXVaNW5WTk5tcVBUVTc3Y19qM3NjNTlsMFdpWjgzbEotUUFpeUVocG1nZEJ2aUI4RnVsVEU5d3ljeGdnS251a0xCQ2pHdmlTOE5jdU9V0gG2AUFVX3lxTE9IX1hjUHVWdXdqT3Awd3ZhQ0k1dkhpa2RMWWQ0UHlmc0doZ0M5eFhZV1RSemtFWXlCTXVPODZ2Z3cyMDkzYWxtdEFMWHNXY2dZNFdMMUNSLWo3ajN1UWxMQ0NXbFpLSm5fLWUxbGJIZVA5Z0NrQkhmTDBqbkNMcHBWN3ZOY1NLR09JRms5d2NEZE8tY29qakVGMlVxWE1nNGVTWGg2bkw4ZXNYUEFxOURxYzk3LTlB?oc=5",
+    "title": "Supreme Court refuses to block CM Vijay’s meeting with families of Karur stampede victims",
+    "title_ta": "",
+    "summary": "Supreme Court refuses to block CM Vijay’s meeting with families of Karur stampede victims",
+    "summary_ta": "",
+    "date": "July 7, 2026"
+  },
+  {
+    "id": "kar-jul7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQmpJMlNwaDRhS3o4WjRYU1h6QThBOHJyM3RtTnRBdDIta3lSUF9oeDVLNUVhQkdQcW56bDdHdU5aMy10dElqamV5aVhNby1OZEo5ZENxcC1lMWlaR1ZpSDB3UmRWMWYzaHlaa083U0FZTVp6enBNMHdzdGtNZElxc3F5XzVjNFEwNWxSYTY5YVFYVVYxMmhwRExpTUdjSExaRnNXd1owZE05Mk1GNjlXNTQyRlhSdzhoRTlXTmkybGJDeEVSNDFHb2pJaDNpbmpxXzNOaGt4YkNIOEE1TFRYedIB5wFBVV95cUxNX09nZnJOWjVzaHl5VmtNMG44SnhaY2NETVl3NHVWcDA3S0dwYnRwdzNGVy1mT0p2OXNJMWVnaDdzTFRsbVpLOVpRbTZ3aEVJYmg0aW5lcGFWbUFTOUpSWnIxbmRONlZoU2xMMHpwS25FS3U0aTk3LWl6UUVhZXNhS0Y2bEtZWWx1YUplcEMzY2REMkpnRURESW9XNTFVRzdDVVA1YVZ2SU1OZVUzRGF2Z2dRYjlybkEwWlZ4bE1jVGtERVNqR3ktQXdLNTlXVWl4elBWS1BMUXhRMkhlTXZGRFdsM3puZnM?oc=5",
     "title": "Counter ‘free speech’ with ‘more speech’, not judicial gag, says SC; refuses DMK plea to restrain TV",
@@ -104,42 +140,6 @@
     "title": "Supreme Court Refuses To Entertain Application Seeking To Restrain Tamil Nadu CM Vijay From Meeting ",
     "title_ta": "",
     "summary": "Supreme Court Refuses To Entertain Application Seeking To Restrain Tamil Nadu CM Vijay From Meeting ",
-    "summary_ta": "",
-    "date": "July 7, 2026"
-  },
-  {
-    "id": "kar-jul7-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWjN2ZUNQN1pWbUM5R3NQNUtoTWlZMnAxdG9vdGdqRnNmX3hVWkdXQXNUaGhSTml3cEMySm13cVdwbkJkZFExM2YzdzBIc3lzMUItS3lrMVRsYkFUQUZ0NjZKTTVhemdTMVpxM3VUQWlrSGZEOXhOZEE1cUQxYVZOcWZlTURMUW00RkMyWUtnbzZaMDZMMU5talo3VGljTjd3ZjJaS2pmTFlybTdmLS1veXdkdGdpMXd4aGhDNFFyMlBLQ2wzdzl6MDRsMWVTTVJiSEIwbTJmWGpPZnZkS0RnWVJWU0ZmTDA5WkRJNy1OZHNiczdQMkRpadIB_gFBVV95cUxOREZuVXd2LXZHLVZqdmE2U0NrRmFSNm5QVkRyT25vdVdpUnZWSFhxaVM4clpYNE9rd1VuRHNSdHJpYjRhclRYdVBPZWJoQzJZUGNXZkhKZG8tSkI5Vl9kZmhFaWpnUWs2TkxsemdCVW8tWUdCdUE0V2ZWLUtwRVc4d18yYlc1RDNnUGJIV2N4YjU3R0hCMVJfY3FKQ2dVX3RwMGVmNTJ4Z0NuOTlseUpIWWRqT3FfVk5XcWQ5NGhCMmxLZ24tWE4zVkdscXJDSlo3Um5DNExlTmc1RHdKeTlQVkppRXZ5SnFXNThhT3EtR2VQd2FhVXdFOHhQYWdUdw?oc=5",
-    "title": "You want us to regulate the CM? Supreme Court raps DMK in Karur stampede case",
-    "title_ta": "",
-    "summary": "You want us to regulate the CM? Supreme Court raps DMK in Karur stampede case",
-    "summary_ta": "",
-    "date": "July 7, 2026"
-  },
-  {
-    "id": "kar-jul6-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTlRrWm4yVUUzMGo2amhibzQxbEY0b3VtdExOM2ZYR0NOTl9aeW9aWW1uLUdNTEJJT0d2dUNhTmEtekQtVzBsWXYzaEhsRXFmVl9LSUI5ZGNzUnZlNXNselR1OU1MNGNrY09aUHcyRVI3a3ZwWUNWSmJ2aWRLX0RGSWs4U3l0TWpZY3RBUGdvSXFDUndpQ1VudGlZbWM0Ty1LN0FsQzk0b1RVVk5McVZZNldVZGtkelBGeGU3QkFiUmluYXkydVVncjloeFhXTjhPSjFVZ3Y2clFyV1NuMXE5YWsyU1ZBOXRZaTBBOXhRVkpKZGN2NHJ4YWdPLXByUFJxRlluSFpiN1hNNThvYVZ0bjduSVBmNzJkSF9Ua2VwNHQtbmRIamZwMDV30gGwAkFVX3lxTE9qTF9oRWdfV0VxeFFSbXF6UWRLd2w1THROS0Jyc09MWFNpckx3LUV5TmxhYk1NSFJJSjJ6ckFick13RTZfRkJ0R3R0Tk5UNENrR3hTcE42bFFjcmhTQmZQS3ZBN3VWSEhBcFBjTUJWY0VIUC1DeFVXbDFKclRNZ1dBSmwwVWZORW9sc2E4MzJDVDJIV2pjWkpHSnVsZWctZnVLejVEOEZyTC1EMVJnUndmckotOVpPOVhYdVNlRk5nU3puM1pKQkVtSFRoT3o5dlJtcFJwQmljX2x0LVZ4cUdKVFhoSU53SVIxOWZtSTZJLUo5RjRDUmJacDg4R0dZV3RQOUlyR0V4Z0JCLVdsSFY3Uld3TGRDRXBBNmJUTW1DMXl1TVhaZ0puSUN0Y2ZGRkk?oc=5",
-    "title": "Karur stampede case: Supreme Court agrees to hear DMK’s plea to bar TVK leaders from ‘influencing’ m",
-    "title_ta": "",
-    "summary": "Karur stampede case: Supreme Court agrees to hear DMK’s plea to bar TVK leaders from ‘influencing’ m",
-    "summary_ta": "",
-    "date": "July 6, 2026"
-  },
-  {
-    "id": "kar-jul7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDByOFA5cGlIN0ZoZlBSZG1hSGg5STdaMWlEZ3QzOVdyc29WZjB4OHIzZUFLMUltQkZSR3VPZTVuZ1dRTm9lZUIteVdVSUhyT3RNRTc2VzVDRUl6bUp4N2l5c1l4UFBvSnllT0VvRnV4dXZyYkRVVDM5RnlWcHBxX3Zlc1NKYi1mMzF0WXF1Y1ZIeXpSMEZfMlhxYUtHYWpQWXhSS1VMa1VDQ0lIYWFlUmh2Wm8tV1RiUERfeGM2eTQ3alZCQTE5b0lnbG9xZ9IB0wFBVV95cUxPRDV5UG9LLWE4LVlkdGVRb00tbVVvblBvQUFjY2Z1Tld6bE9paGMxV2tOT1Roc2RfanJPZnNGcUs3OFJVWnFNVzVVNE5vZFR0NVBLeEFuVjlzREY5aWNuLW1kVGRTV1YxOUVzYXMtNmFEQ2R6Skg2NEU1Ylk0ZUpUV0RQU1BGVDA5MnNHMk9CQXVPSkZBZ2dEM2hwZ05EdXB4T3NlUlJFNnlkTzgxRUtfRE5kUzJSSVRjckV4d0tWS3pvNi1DY21peUFuemo1NmJCS19R?oc=5",
-    "title": "Karur stampede: DMK moves SC against CM 'influencing witnesses'",
-    "title_ta": "",
-    "summary": "Karur stampede: DMK moves SC against CM 'influencing witnesses'",
     "summary_ta": "",
     "date": "July 7, 2026"
   }
