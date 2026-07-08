@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul8-001",
+    "id": "kar-jul7-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPczZSTWQ1SW5oTGZfUEZZbzRoUnNFTDNNWDVIWjFnM193MTJhSWtRWXkzeEVlTTg2SWpGdWNSN0Qzd2NPNkc0NjY1RkpVX0x4RURvWjJrS0ZfMmdoTVJWU1lqbGFHUlBwRGFOckxlME8xVnFpdTB5OXM2bktQUHZ6LVg1VkV3a0kwVEdDS0RJZUd5Vk9QUHJvaVphM3VmbEpsN1pjVG56VUtzR1lJdE1mR2xsckxSeWtHdWhWVUhHNnNOaXAtQzh1RFdUTGJtNWPSAdQBQVVfeXFMTnZObkxXaXVtVjNjNDZJeWtPeXhSNjFuYmVIbTNaV045MDNjOWVjRlZxa0QyaGJEcEk3SXJuYjN2RmJ3M2FueGFlcDYwSkpTM0VONDdya3JBYlo4MmJTY3k2MmhOX09UQUVZd09sckRhWk93dXB2NDRvQXFSS1Q5NEpFbFhWN3RNQjVqeE9POGhmZXVQcmVBZmR2eGFqbzJOLU5vN1BQMWx6MTJrLTdVWGtLMmxmeUZiZzNFVmw1R21id2M2UTFuWWxpZ0VkYkJqTmljdlk?oc=5",
+    "title": "Supreme Court Refuses To Entertain Application Seeking To Restrain Tamil Nadu CM Vijay From Meeting ",
+    "title_ta": "",
+    "summary": "Supreme Court Refuses To Entertain Application Seeking To Restrain Tamil Nadu CM Vijay From Meeting ",
+    "summary_ta": "",
+    "date": "July 7, 2026"
+  },
+  {
+    "id": "kar-jul8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHduLTNneENDTUdlemMzWHZFT2NGN1N6bEl5YUswM2gzMV95VnVqeG5nNVVxRDNHR195QkhZNjFwX3ZQMldBendqc1BXeW05eWRoekNPallLUjF1bUw2NlAzdE43ZUhMYU1jV3l1bHhHTlFLeGU4MjQyMjN4Tm5mdDk3b3VFS0NQUzh4My13dGMwTE9fTFdtVWpEUHFZRU5FclpoenZXTGtBaWEzTkxXVGdRb2ZFUllUNUwzOGZEV1NKR0ZoVGxQSjl0VHJMQWQ0WC1RS1FwMkQ1alpDNG5vVW1n0gHoAUFVX3lxTE9Ra01zdXhRMDB2eFB2MTZTMTUybnduZ0YwX2dXRm94WGpHT0tWbHBPMUtOdzJDaXpaVnAtcGMxQ0QwRU5vYmlydVdhSDhORUhvWE5rVkpYcHZBVnBVVk9EU3o2SGRGZlVjSHloS3Z6Nm5LS0haSlhjSXU2UWpVRkIxR3NIT3FSN3JMcGhRcGFlZUlxdmNrVGlYb2JBUTVBNk01RWUzVDUwdHRxSWFRckdkMGRRa1VIMDd2MWJCOXYxdUxOYXJmTlZmcF9qcHBRN0JhZWhnaHVBemhmYzJrUmp1cWdDQXk0NGk?oc=5",
     "title": "Tamil Nadu CM Vijay to visit Karur to meet the kin of stampede victims on July 10",
@@ -128,18 +140,6 @@
     "title": "Supreme Court refuses to restrain CM Vijay from commenting on Karur stampede",
     "title_ta": "",
     "summary": "Supreme Court refuses to restrain CM Vijay from commenting on Karur stampede",
-    "summary_ta": "",
-    "date": "July 7, 2026"
-  },
-  {
-    "id": "kar-jul7-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOUk5VDhPcnZ0cTdkYmk3QjBEc09ETmJ4enk1eGlxX2MtbGsyX1h4RHVhaDQwSzhHeDRPdEltRGxwVGFTbkhqRnNzYVhpTFJjU3RsNTBhRzBrNUMwTFJHZTRmd0FEdEhPdVMydF95ckFobkV6WHJleW5iN2FzVG5TRmRsZ3dhRkpRWEtaeGd2VEJFbWVwUV9IOXhYakVPNUkyemZCbEdzTDd1NEFpS2dqOHFNVnducmNDckF6cl9pTE8yUVdKWWJ4cTl3NXBuVDlwX1dJQTdmeUtlVnR0alhNbEdGcEoyLWtTV0FRenhlUWTSAfYBQVVfeXFMTzhRcl9YckJaUlh5TTE0MkNoZkJYTmw4TmZqenlQRzBJRzJycDh0NjZrWmVrTzVseEFwbHhINi1lZUMyd0s0UUoxclUwM1RjVDV4dGtxOWpKc2RyeExMM1ZZekRlMUlheVpoLTJ6bEFHaHFfMko2MHFkRnU4MjRqWnFlLUV2MXpxOFJzNlBiOWwwUHA0c0FhVmswYlRQbEdLY29mdHd6TXVqWmZVN3RRaUNCTElidGpmazVmbFI5eDVKN2ZFRVhsYngyRHh2Y2RqUUVjRW9wamtCNzR1SldsbVdoVTNPNnF4TjhMRlJqUC1NZktyUjlR?oc=5",
-    "title": "'CM Vijay Not Accused In Karur Stampede FIR'' : Supreme Court Refuses DMK's Plea To Restrain TN...",
-    "title_ta": "",
-    "summary": "'CM Vijay Not Accused In Karur Stampede FIR'' : Supreme Court Refuses DMK's Plea To Restrain TN...",
     "summary_ta": "",
     "date": "July 7, 2026"
   }

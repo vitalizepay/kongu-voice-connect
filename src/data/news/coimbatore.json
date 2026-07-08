@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul8-001",
+    "id": "coi-jul8-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GWlBZLWtOdjdNQmd5cUhORlBKTWVfVUFfcVpUUElFMnNBc2o1dDdVbjNwSGxUMWdlZl9heDFVNks2bWJXSGt3ei1pLUhhaGxRdWxSYjJQTzFyLVRnWmo4OC1mZDRDYkY4SGc?oc=5",
+    "title": "Ford’s GCC inaugurated in Coimbatore",
+    "title_ta": "",
+    "summary": "Ford’s GCC inaugurated in Coimbatore",
+    "summary_ta": "",
+    "date": "July 8, 2026"
+  },
+  {
+    "id": "coi-jul8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMjNrSlFKc0hvcEpJOXU3Tks3UXl2Z3p6TzdqQmwzM0stajVEOXlWUkNfMUhGdnE5cExZX254dC1XT2NzMGp5SE9yX0RpSVRETlJ1VjhfeFNhbTVQRnV3MjBxR3o2SWdEbU83U1Fzc0FBQlFZLWZvNm82QlFtZF9ITGpaQm5hMnFZRk5DVDVGZjk1YjZHZ0xnZVlXZHFTY0NVOXh1WXozMHpxZDE4NnZoRlVBVEFoR1NLa0JPeUZHckx0eXJLN3Q0bEtrcnNMR0FBQXRLVC1hR3VNdDNLRGJZbXduMUhQRHPSAe4BQVVfeXFMTzdQUEJ5bnJRZDV6N0s0VktvajdrVklSQV9PX3FBTV80QVl5WkZ0TFMwRFZGeE53WHhTMnBwNEdvRHF6eXI0dHd5cHZackRnMExiNDM4d2V5cHRaMWpWOWxpeklUUTh5YTBXU1drQURDYjNNUHNjS0l3Y19rTXNZeFkzS2YxbXVtTGx3NU1acElGTUZjRVYwTVFFY0VBdVFVVnRiWXM0eHVMeXNYb29CVGZ1eG1aZ2lEUEpmSm0yS3AtV2ZlX05HX0tteGlwUkFxdFR0QTlKbkRHaTd4eU8xSU9DYVF4MklKT0NKOUVMUQ?oc=5",
     "title": "Ford Motor launches 3rd India tech & business services centre at Cbe",
@@ -130,17 +142,5 @@
     "summary": "Government Order issued for additional 7.44 acres to link Coimbatore airport with L&T Bypass",
     "summary_ta": "",
     "date": "July 3, 2026"
-  },
-  {
-    "id": "coi-jul5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODdkQmNSdjNXOXBlUkZZcGIwcG1aVzY1ekwycjQ3NVlkMllJU0ZIUnYzT1FNVlhaUFZWX3g4WDhyWnNtdzdOby1oRllhMDlGV3FaTDRSdkVucHFNSDItdy1iODBIeDZ0WWdRZE8tZXBma1h1enByNlJ6TnlOeEhYR3FOa1JKODJCR2g4N2hqejRlWk1RejJoVW5GXzc5bWFld2ZuVGhOZVEwbjd5T0djZXoyWDkybU01VEJQUVhxQXF0MWVSdnAtNGFmSS1Ra0ZnQ0JReUxJM2FSV2vSAegBQVVfeXFMUHA0U1FzdGdDMFF4YnNKQVlJNzlsN256b2ZaUl9FT3RQcGNJUk5ONEdjSE1hbWpWYU01UVJjR2pZLVFKcV9meHd3OTFRbUFheHBSRXBnUjV4dDllNGJhV3JlcWpJazRYbERXaGlZUkNxQ0tvb0VfaDFudDB5OW5UWUY3YnZsZm95T2FjYkNPSlQ5Rk5HVnFnVVhacmxLN1lpdE4xVXMtd2F0OXR0dFhqak9mdVppOUE2eXlRRkZCNUgxVngtSUQxbnI2cEszZ3liT2IwVUx4ZmpxWUJjckhJenRxZC12UVpkNA?oc=5",
-    "title": "Farmers bust illegal storage of subsidised urea in Coimbatore; police seize stock",
-    "title_ta": "",
-    "summary": "Farmers bust illegal storage of subsidised urea in Coimbatore; police seize stock",
-    "summary_ta": "",
-    "date": "July 5, 2026"
   }
 ]
