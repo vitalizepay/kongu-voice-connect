@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jul7-001",
+    "id": "coi-jul8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3ZwRzJzNUhlVGVOenFYX0lHcmQ1VHBZY2FrVjE1d01ZMDRXaGFSQUpGX2t4TlpKZmtXQ3hXa3o3d3VpWHY2cVoycVB4VVhnOU5WZDdNMmxpTHlYYmpKMnYta3R4OGU0d050ZnFTeXM2Ukh1TGFlSVJJQlVNNDROZTFWX2U1SWxoYy16RXUybHlieFUtQ1pKSzJ3NmVzTVk2RTFKZGQ4TUVKa3d3anZWWTk1Tk1EVXZYYkhza1pKRlc3X2lRUU5GTGJmOG81VFBENzFPRE5rZGN6MkNZb3FDbElkeFNxMXhL0gHuAUFVX3lxTFB1T19HZXJUSU9tNzAwdWRET2c2T0NkTGpmMzk3ajNuQVNtSHNYS0RUbWhjZ0xvU2xZQjM5UXdXWFllSno1bFBuc19jYnVRTVk4LVczSjZwUVNTRUJGZ2RIUkVOVVJ3Rlpmc2lPaDdjaGhfN01iTWRXVE5mZGM0MWpwYTJqVEFaUDhzWEFSLTJtdl9BNTdsZ3lsb1RBV2ZoU2c0NV9sZWRzTGFJaEpWYTVXTWtaNG1YcndRRFhCMklsZkdDTlRxeWJBQmY4Wng1ZTJJM0NueTRZX3FwS2JiTXdJMHNOUW9SSTdINDRxS3c?oc=5",
+    "title": "Ford's India GCC bets big on tech for growth; opens new Coimbatore hub",
+    "title_ta": "",
+    "summary": "Ford's India GCC bets big on tech for growth; opens new Coimbatore hub",
+    "summary_ta": "",
+    "date": "July 8, 2026"
+  },
+  {
+    "id": "coi-jul7-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "July 7, 2026"
+  },
+  {
+    "id": "coi-jul7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTmNpVkU5TUhmVGdIQk5VQjlCLVZZend6dFRhXy1VX2EwV00wNG13MVdUQk4tTmVibzBaSzdxMUZUaXdUMFl1ejlIQXhhWlk5STd0LU5uYzdIdkRMQmVpeVNnWEJ0NDdCWmg3RVkzYmVwMVJrTHFqRlBSMHVjclJqYzUwM2pZNThKdXMwYWlMUldMOFMyYzFPZG1BX0pDdk1DWkNrb0dQNlNWZDhyNXNGLVkyc2FfUmcxVGozNzJONFdNeUJNbmp3R0Q5Q1VfRHBhamhfWF9YU2tZLXljcUdUdDVaYlZ1MmNKbmdB0gH4AUFVX3lxTE8yTHphaHkwQmVqVTdwSGswQ3hoNTZSNjhRUVlDS2h0d0dsRkx3VVd4T3F2WnBRU1Q5ZE1MV01saHNIRzZVaHVjenVMUl9oTXA5R0ZFX0xpVm1DYkFkLXBBcXd6aEZUbV80czZwYUQ5MlRfcWRNRzY4RktLRlZha0JZR3pFNzVjODlWbk94RjhhNW14UVNSb09YYjVzNnllQ0FTV08ydnB3OHpOYW1SaTAtOHBVc1pULTFJRFJGcF9lOGZGdVozNTRaWUw4YWZXcEpGbk4zTlU2QUloNjFkVlFBa3k1VklqTU84Wm5uMlFIQXNXWUFmb2Jt?oc=5",
     "title": "24-year-old photographer murdered over relationship with woman in Coimbatore, two surrendered",
@@ -116,30 +140,6 @@
     "title": "TVK government will ensure that all MoUs signed for investments in Tamil Nadu are executed, says Ind",
     "title_ta": "",
     "summary": "TVK government will ensure that all MoUs signed for investments in Tamil Nadu are executed, says Ind",
-    "summary_ta": "",
-    "date": "July 3, 2026"
-  },
-  {
-    "id": "coi-jul3-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3NESVIzbWZiLV9EMUNXYXIwc1FjUU1YVjhwOFE2YlJqd0JfMERjTlh0ejQ4TUE0X0FVNlVnODRqRkdOVUNkb3h2b2xHZC1QMVE3Z1g0WkI0c2hUbzhLU0RzUFlsMllKX0FVM1h4cWxRN2QtRG1tMGQ3bjRJdkdKZWFDMW1DOHBOWkNiTFZXMFd5SWI2VjdRR3FrVmdlMFdBTTRtRG5BU1RoWHo1a2FNX29EY2xrelBIQ2JEenEzbC1ZeW9HSVpSSXNkNVRac0VqNkY5RTQ2eEh6UdIB3wFBVV95cUxOWktSbHJ3dzhHSTA0RHFncHJBQlZTZkl3WVFwTkd0SkhSX0hTV3QtTFRRX2NTTF9KTVZEajZ1XzVwNl9rX0V4UHRsUE1hUDh6b1BXdXBMTVNqY1F2MUZoTXVoaG1ZbndxWnhFc18zeGpmVkJaYllVRnFLcU9UQ0dwWThoYWl0SmlnbmJaTHhKUG9rbk5PS3Y0TXdfNWxZTmJaU2xxU3BRTW00cWpJcERlQ3VaQUFkY2NXRGU1M3dOZXk4dmpKS3FSSG96aHp0SUotWjFCZW5hdEhDZkV4c0gw?oc=5",
-    "title": "TN to strengthen Guidance Tamil Nadu, back Coimbatore NEXT agenda",
-    "title_ta": "",
-    "summary": "TN to strengthen Guidance Tamil Nadu, back Coimbatore NEXT agenda",
-    "summary_ta": "",
-    "date": "July 3, 2026"
-  },
-  {
-    "id": "coi-jul3-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlFaOG5rQVJ2OHZyUlp0bWJycmZrRkFTQk5OMVZ2YmZvMEMzNW9KUVdtOG1NTWwwOTFWZ2ZaX0luS3IyUFlQZ0owUllrSXB6bTdqenl0ajZxWEl4WXFjbHVKeHlWaFowV1FzTEtmOHBsczUtVlprbVg0NERVVm0tOHdoNlhjdlBaVkpoN3dfSkhobncyc2t5ZC0zbEl0TmJOOTlj?oc=5",
-    "title": "Coimbatore Industry Seeks Faster Infrastructure Push At CII Meeting",
-    "title_ta": "",
-    "summary": "Coimbatore Industry Seeks Faster Infrastructure Push At CII Meeting",
     "summary_ta": "",
     "date": "July 3, 2026"
   }
