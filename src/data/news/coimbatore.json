@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul8-004",
+    "id": "coi-jul8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0VUOXp6UWJHLWV1RWZMcF9fSlJLaU1oMGZvUDluaVlsMzFITjRuM3oyZ3R3XzB6Vm43TXNSUVpfVnROVVVNWUpHcFltVFAyT3M5ZlNzcmc4QUR4NzRtQnJrVmxlOUZJZko2MEphdWk1d2VOckszMjl5aWhTLU9LQ19fN3pvdFBKUEVmRmk0VF9NUGRjLV9NbktKYkNJaVpSOHJHQV8yTDlIQ1gy0gG6AUFVX3lxTE9XTll2WndIX0dVaHpzNzdtSmJkblJuWDB3SXpDejlaNXkzRmU1X0d6SXNVVUo2Z3N5ZXgyUzkycm5pd1dEa21vcF9YMEJZaXF2ZlpqUVNXRHhIa0FzdEJrYnRiYjBhT2MtZHNHOTllOFRkQVY3Yy1BMThTZ2lPbEpwRDFoU2JSLWFnMVFGRndjN3kzVTRKNWdQUXlOZGd5VXRQeGwxRHk1RWwzbWNMQ1k3RWVEVF9tTjVVQQ?oc=5",
+    "title": "Ford Business Solutions opens new centre in Coimbatore",
+    "title_ta": "",
+    "summary": "Ford Business Solutions opens new centre in Coimbatore",
+    "summary_ta": "",
+    "date": "July 8, 2026"
+  },
+  {
+    "id": "coi-jul8-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GWlBZLWtOdjdNQmd5cUhORlBKTWVfVUFfcVpUUElFMnNBc2o1dDdVbjNwSGxUMWdlZl9heDFVNks2bWJXSGt3ei1pLUhhaGxRdWxSYjJQTzFyLVRnWmo4OC1mZDRDYkY4SGc?oc=5",
     "title": "Ford’s GCC inaugurated in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Heavy rain likely in TN’s Coimbatore, Nilgiris today",
     "summary_ta": "",
     "date": "July 6, 2026"
-  },
-  {
-    "id": "coi-jul3-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR3ZhNmdkZkxyTENxeUZhMV9YNEkzVDMycV9aS0haZTlmZ3d6VVVmeDBRQmpoVzZYek1ialV0WmtjalhDajVUdjVac05qVGlSc2pKeWMzaktUM21OZXZpUlU0V3lCM1NqY2VMRGJyQmN1VnNsQmtkNTdHVEJJRkd0SkgzTFdpLVMyX25qSHZDOW9nMjZNcDdzYW9VMFIxT0EzdWZybGo0ZmpGeVQ3alItaVR3MHBJVGpsXzRwYnB0cWFSRHgyaldXbnZmRzRJcVVFOUxWMW96N0ZwTm9BNm5EUlhpemtVeGFnb1d6aXFsMnd4bmfSAfoBQVVfeXFMTWVXT1pNT2lfSDlDYlNRVkRUOUlXOVpKWlpDOWxHVDF4cU92QlVhRVgyNHhaVzlFWE4xZm1OWWkxc2h3bkgxT1hNRmFfajIxcWxnZTgzMmF5dy1tMW5RYzJ1ZzRrUGVQMFN4SmUwNU9RdEJGUkZhQ2NuZTc1X1FVSlk4VGU3cGQ4eDZNazVJU3pBYnJnV1hNOXJycHE2T0ZKNEFtR29zU2taSjlNN2FSOGxHU3dHNVBfazBmVjdKeWo5eFNPeUpTOFUwam9Ub0RzVjIwVjFVVEVxdmpwWGFESGQzSmNCWldXLTJfeW43R1NjV29xTEo5YmNqdw?oc=5",
-    "title": "Government Order issued for additional 7.44 acres to link Coimbatore airport with L&T Bypass",
-    "title_ta": "",
-    "summary": "Government Order issued for additional 7.44 acres to link Coimbatore airport with L&T Bypass",
-    "summary_ta": "",
-    "date": "July 3, 2026"
   }
 ]
