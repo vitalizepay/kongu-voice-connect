@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul8-001",
+    "id": "coi-jul9-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcnAzTXlTelJ5dlAzZWFwT0FCamhzMkFMbVprV1VjaF9EVVJsTUVwSFl4RDFoUldib1BvZElONEhqdmp2eHI1QmZpUVpuZTNMdkZrWnVQMTM1ZUExcUNvaG0ySDg5YUNSUDJtRUdvd1d0akpUR3g2RFg4alFNQ3U3RFRCejJ6bk5oeVFiS1ZaOXBTWl9mUXFxdGZ5MGRjVWxCLXlkOGozNnEwblFBbnphOWE1SmNMOTRrYUhFS2FCWVFhWnRYY0dnRXZ3?oc=5",
+    "title": "Ford Business Solutions Expands India Presence with Coimbatore Hub",
+    "title_ta": "",
+    "summary": "Ford Business Solutions Expands India Presence with Coimbatore Hub",
+    "summary_ta": "",
+    "date": "July 9, 2026"
+  },
+  {
+    "id": "coi-jul8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkRoMjlxOWc2NHlPVVhkMFpLcXhmbjN4Mk9VVHdiY0Q0aU8ydjB2STVfVlhkRm5fNnNXelBzZjNxQ0RQYzU2cWpaOERBaVM4SGFXeDlTV2k3eHlTTTk3ZVFQTlJsVUV3TDVTWi1aSVlVWmlEc0s0Slp0ZGE2Ukl2RG12R3BZQmVqSGREUF9UcUJfZU5lRlNFaEZ2VWEtN2RsS3ROQnFyZVNfN0xpMnpSWU1Xc1RkWkxPSTVMM3NwaFBwVF91d1BWNTlPZ3VDWWvSAdQBQVVfeXFMUEEyd0NBekdqNGw0TWRuRW80c0JCYk9xWkFFUFRXUEdEaEpBVjRQVmdmWmNxeVNCdGZJTWhrRkZJMENZLXN1bF8tTWhNUkhJX2ZoS3F0ZkphbkVZYzZ3TkdPenhBY2lhSHdicXJjOE1ybEtQNklaU0FIVmhmQWstdkJ1cWtJVGx6NmhZbUdwZXpzTEdfblk2eEItRzNySno3RGdZRms4Z0MtX05Nc0NqUGZqbjYwLW1OOVFVOWhjc29fbVg2NFFRUE9QbWlhbWNBMnAtQlg?oc=5",
     "title": "Ford expands its GCC footprint with a new Coimbatore centre",
@@ -130,17 +142,5 @@
     "summary": "Pharmacists' association urges TN govt to fill vacancies, revise posts",
     "summary_ta": "",
     "date": "July 7, 2026"
-  },
-  {
-    "id": "coi-jul6-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnJWTXNRbzgweHE0TWdQSml6VUdHTWpMWGZyM3VibVNyWG93ME5DTzBWQWFQT2dYbXQ0WFdocjlVNm40WU1lektYS2MzX29pd1dHVmljNTdhamhaal83bnJFb25xTGVzRXZUd3JZVUJVSFJSTEpMeWcwSlZ5cHYtUVphS0x5UXVOOXUxVHN6THVnbWV5TjZrcmppWXRzckQzVFpuSW5R?oc=5",
-    "title": "Two held in judicial custody for Coimbatore child abduction and murder",
-    "title_ta": "",
-    "summary": "Two held in judicial custody for Coimbatore child abduction and murder",
-    "summary_ta": "",
-    "date": "July 6, 2026"
   }
 ]
