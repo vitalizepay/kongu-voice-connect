@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jul7-001",
+    "id": "sal-jul8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbktFSHNWY0ttWXczOXVxTXBIVURkSWVFRkw1ZW1yZkJELTBMYnUtN092ZDBzSXFOSDhpQlI3U05BWGJoUUVUUUFDaS1wZWJFNGxZQUg3THItellhTDRlREFBQnFnZkdUZk9NYllBYk5xVFVyYXlEd3AyUEhwWENqOGo2cGJ3bmExUUlOdFhNTTFTS2REbkcwUVRZNkZ6OXlVVHM3bWluY3VRVWxOWWhodjMtUU42T2tRYVJXNTVBNkg1TmVnUS1FRi1peXd0a055cDkxMWR3dmZtVWFXYmfSAeMBQVVfeXFMT3hCXzJGVF95cTZXMHlTUlRrVEVGYTF6UFgxYXNleFZ2SkJVLXRUeWdteVc0STNDSUV5WTM0a1JPVGZJN0Y2SzRmbEZraEJsSm84b0JRT0hmUXpHeXZvUFEzd1A5djFKeWY2UDJFQS03ektpcWNtVmYtRXEzeUxMaHJ6NGpoRzB2UU8zdGFYbnpONW93c1dyUkNoTllHQXFRcDAxWlFmNjByc0JlVjNlOVVDNXlIanhMWUE5cDNFUXJJQWktcVNRWjFtSkt6RUlpeHBiN2hLRm9GOXFyeExaM2VjRmc?oc=5",
+    "title": "Salem drinking water supply project gets revised administrative sanction",
+    "title_ta": "",
+    "summary": "Salem drinking water supply project gets revised administrative sanction",
+    "summary_ta": "",
+    "date": "July 8, 2026"
+  },
+  {
+    "id": "sal-jul7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnpLc0hPclBZX0otckJQWlp6dS15Uy12SjFKQkdKMXJVTG8wUjRRZ3dXOURhcjR6RzhRcnZ3LUdMb3ZmZGl1aW94VlBZNU1tSExKVmZBS2tzQWg5RUVja2dKY0pBTGw5R056QjYyVWl3UmZVbC14RnpSeVc5WU1wbGZQQ2tjQ19EOGNXcTlOcm9VRm12SkdwMUl0MGZOZ1kyek9LUEhlazVsN1RKcVM1Z1JBVVhaemdxcTFuUDJTSFFkeld4WXpMX0oxMU1Ud0pi0gHWAUFVX3lxTE9sT0hJc2MyVlZ6ZENzaFZDSl9UNllnSGhmVEJfMkdBTFJjZy0zdWt0QWU2UFg5MTRYQ3Jqd2QxejBFeTU3d2huazlmU2h6d0psZE1VcFlaaG1YVk1YUXNEUGtDaHZnWVk0dUtZcEtGaUpHSWF6c3E5aE5DNml5dW5ZVFdSUm1FbjhhZF9rQ1ZuNWRpTDhGVlZQVmxoM1RLSl9vMlV6Z2tSWGMzSk5NZ3ZKV09qajBTUzBPSXhINEd2b251SXN1RWZuQkNZNUJ0dDFXWEt0MFE?oc=5",
     "title": "Man sleeping outside house hacked to death in Salem district",
@@ -24,18 +36,6 @@
     "date": "July 5, 2026"
   },
   {
-    "id": "sal-jul3-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalN5OU8wSEMtUERKLUppTXBxX0M1MzM0aTVnZ2tCN0V3Ymo3OGZiUk5pTzNXZkZQTUtCcXpIaTRGdzdERkV0MzNhVmNBb25Jcjg3dzJFMXJQcGY2Mk1NbjMzXy12T056WURXTXdzLVRtYzlBbUd3MkVXN0lkUUFSemdnU0ljeHFkbzdzQXBhMTk?oc=5",
-    "title": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "title_ta": "",
-    "summary": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "summary_ta": "",
-    "date": "July 3, 2026"
-  },
-  {
     "id": "sal-jul4-001",
     "category": "News",
     "featured": false,
@@ -46,17 +46,5 @@
     "summary": "Fifty Bangladeshi nationals from Attur detention camp sent to West Bengal by train for deportation",
     "summary_ta": "",
     "date": "July 4, 2026"
-  },
-  {
-    "id": "sal-jul1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2ZCbThBN0ROTlNfdUYxNFliTGNJdTA5VENSUy1ZTUlIVk40YmxlRl9pU2VpOEcwbkhkV0dlZEliblh0UldhZGt2Vi1zaERCMjhPcUxZVXZKcXlTRjFBVzJYbjhObHpaRkkwd1pWaURuMnVZbXEweU9wdkdvLXoyVW83VmxKS2d1UGUxcE1lS0loYlVJLUZiaXE1dGZ5ZEkxSDVwMHFtOHBvTDlJ?oc=5",
-    "title": "TNEA Colleges for Cutoff Marks Between 120 to 140",
-    "title_ta": "",
-    "summary": "TNEA Colleges for Cutoff Marks Between 120 to 140",
-    "summary_ta": "",
-    "date": "July 1, 2026"
   }
 ]

@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul9-004",
+    "id": "kar-jul10-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWdNZ0lrSmRoemtyOWJxTEVZQlU2TEpmZDRGVkxFR0FDNlR4aXNsQ0stMm1EaHdVZzZFU3dQNjMyVzQzRTY4WUdpT0RDUF95dWoxMUpBSXZOS3FpZUhVZ3hUUjhLcS1Rby1HcEN2bGZOaERWWjZpaGFtQzEzckdLOTFUUzctWEk2OG0xODdrcHNOM2NkWTFxejdUX2FfZ3JFeGxINVJUaHNoaGh3VWJyYV9lYWZXZw?oc=5",
+    "title": "Video | Tamil Nadu Chief Minister Vijay's First Karur Visit Since Stampede Amid Jobs Row",
+    "title_ta": "",
+    "summary": "Video | Tamil Nadu Chief Minister Vijay's First Karur Visit Since Stampede Amid Jobs Row",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul9-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORFNMUEhGWGtEMXA5MktMNlhneV9IYk1TOG5pOG5BNmVPeTZtOTlpVTEzZFliRkRaY01kQUlPWE00NkVCTmRCM2tyNDhHWU1qRjh2VkdrRUpaYkMwdWt5aFNZLXRMTTF2aXg0X1BndWNtODc3X2FPNVdqNnZiYUZ2M2NHZURfa2JaR3NfWWYzZG1acUZUYlVnOFVtVkNXbFVkcDBid0d2cGI1NUYwN2ROZ01PSVB3eXRFcGtRUzNIMVFYam1LTUVyeFZnQzc2TzFMVVNzVm1ocDZ0VmZnZ2c?oc=5",
     "title": "Tamil Nadu CM Vijay to handover govt job appointments to families of Karur stampede victims",
@@ -130,17 +142,5 @@
     "summary": "Tami Nadu: Karur Gears Up For CM Vijay's First Official Visit",
     "summary_ta": "",
     "date": "July 9, 2026"
-  },
-  {
-    "id": "kar-jul7-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOUk5VDhPcnZ0cTdkYmk3QjBEc09ETmJ4enk1eGlxX2MtbGsyX1h4RHVhaDQwSzhHeDRPdEltRGxwVGFTbkhqRnNzYVhpTFJjU3RsNTBhRzBrNUMwTFJHZTRmd0FEdEhPdVMydF95ckFobkV6WHJleW5iN2FzVG5TRmRsZ3dhRkpRWEtaeGd2VEJFbWVwUV9IOXhYakVPNUkyemZCbEdzTDd1NEFpS2dqOHFNVnducmNDckF6cl9pTE8yUVdKWWJ4cTl3NXBuVDlwX1dJQTdmeUtlVnR0alhNbEdGcEoyLWtTV0FRenhlUWTSAfYBQVVfeXFMTzhRcl9YckJaUlh5TTE0MkNoZkJYTmw4TmZqenlQRzBJRzJycDh0NjZrWmVrTzVseEFwbHhINi1lZUMyd0s0UUoxclUwM1RjVDV4dGtxOWpKc2RyeExMM1ZZekRlMUlheVpoLTJ6bEFHaHFfMko2MHFkRnU4MjRqWnFlLUV2MXpxOFJzNlBiOWwwUHA0c0FhVmswYlRQbEdLY29mdHd6TXVqWmZVN3RRaUNCTElidGpmazVmbFI5eDVKN2ZFRVhsYngyRHh2Y2RqUUVjRW9wamtCNzR1SldsbVdoVTNPNnF4TjhMRlJqUC1NZktyUjlR?oc=5",
-    "title": "'CM Vijay Not Accused In Karur Stampede FIR'' : Supreme Court Refuses DMK's Plea To Restrain TN...",
-    "title_ta": "",
-    "summary": "'CM Vijay Not Accused In Karur Stampede FIR'' : Supreme Court Refuses DMK's Plea To Restrain TN...",
-    "summary_ta": "",
-    "date": "July 7, 2026"
   }
 ]
