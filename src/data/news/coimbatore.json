@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul9-003",
+    "id": "coi-jul11-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZGszcV8yRWJyZXplMHdLMFFkSXF2ZFBwUm5ZSk9BbTM4Um5aWXRjTk1qM2ZxbFRTSG1sdnpOQjg5NTdiRkNhOGNiOGlsYWpRaThLNU9hRVdXNkNWSkFvemZDeVV5WkNZS2NzWndKXzVteDdPYWlsZWktQm43OHg5WjNURzc0ck9LdjE2QTVmWXpIOVFld0ZRQURHS3QyQjN6WXJjRGJKb2RpZVVBVXBkZ2VvQUk4M2U4MTBVelBGQlphNlVSTGpWS0VtRE9uNnBfSURSa05oVDhtbDdSdnfSAeMBQVVfeXFMT0dZOEFDbFZZYTM1cG1jLUdNVUp3UmlLX0J3SDZMclNlUmZoYk1FMEpqQ1IyTG5qcVE0ZjUxNGZHMXljbHRjM2ZkOVpqMEhfaWJQbUFwTTFhbmtjVi1sQUc2RU1BQUN6MnN1dGt4NHVER3g1NnVpaDNHMlphZlNxczM0NTB3OEFUYjUyWnE3MVZyaHNfT3NCLWJ4a2dzS2stNHdOS2FYLWJSUDdzZlFTS2d1YmxqYjRoTlVaY21RclNwaW42MlNQQkV0S0lUYUVyMGNhTVhMV0FTb2ZLNl95QmV2aWM?oc=5",
+    "title": "Tamil Nadu Farmer Builds Safe Habitats For Sparrows After Birds Saved Him From Elephant Attack",
+    "title_ta": "",
+    "summary": "Tamil Nadu Farmer Builds Safe Habitats For Sparrows After Birds Saved Him From Elephant Attack",
+    "summary_ta": "",
+    "date": "July 11, 2026"
+  },
+  {
+    "id": "coi-jul9-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzJDMGRNT0dNMWRPdWJkVFlqSkhIQmZCRkItM1VIemxQQXRJNE55UWFGTEpRTUdzampWVG5BU20ydlRkNTZwOHF2YlE1UGE3Rng4NTVOLWJMZUZ1S0V6OFZBWkt4cTNreWNvZUFoSnlic2xUS2ZnMnhxRnh6Wi1zZ2kxSmFGdzBRSXZRTHZ5ek5HbEExRDRSWjJhVlNNazRBcjZxTS11NmFuVHlwcHJF?oc=5",
     "title": "Why Ford’s Coimbatore unit has sparked a political slugfest in TN",
@@ -130,17 +142,5 @@
     "summary": "Ford's India GCC bets big on tech for growth; opens new Coimbatore hub",
     "summary_ta": "",
     "date": "July 8, 2026"
-  },
-  {
-    "id": "coi-jul7-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "July 7, 2026"
   }
 ]
