@@ -1,8 +1,44 @@
 [
   {
-    "id": "kar-jul10-005",
+    "id": "kar-jul10-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajhBclpaZGZSTHgwcW9BOC0xWUd4ZFpFcGl0aXFUQkM1ZUdOMENzd1VVb0hvUXNQakc2SUdka2tDcmhxVmRHNEZXRHJtd1pQeG1JOEZKMUdyV0FEY0ZNUGF5WjZtYVdjRjRwQXIzMTM2UXdHU1pKV3I2QURpMnBqNkJ1N0ctRHhpekN5OEMxdFJMYlRHY1d4M1dhYTdKd1FWN1VfMy1TWHMwSDRWcEllQlJUOGc4Z2xwYUFVYjFlUWo5SW9ZUXdRUmhCTXNvOXFCRl90MERaejZqSzFCZWfSAeMBQVVfeXFMTW1YSHB4UEctd1VzbUMxNk0wUlRuOXJBV2JjcjY5WFlqeEJBenhZQmFUUGlLNkliVmxDamZQbm16WkVWS1JIdjlqU2hrSU91eFNXaWpZVTdzVzllTld5ZEw2eHJYTzNaYUZBNTgxQmZxWlJhMF9FWTFINzlqSU5EZUtUcWt0QzJCNW9sdkVoNmJHQTF1Z1ZUUVJBOUlseWgzZkZXWHdqcWN0ZXV5VzhVTlVRcnhXQThIUHNZTGlBUE0zdWNpb2Y5Vi1LdEhfQUhxQnZCZ3FhWnQ4S2dPMFhxVlJrbWc?oc=5",
+    "title": "Tamil Nadu won't accept delimitation: From Karur, Vijay's message to Centre",
+    "title_ta": "",
+    "summary": "Tamil Nadu won't accept delimitation: From Karur, Vijay's message to Centre",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul10-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeVhiZnpXLWNMYUk3bjM4eVNxNjhNajFBUUZqMlRta2dZdGJ1bXJHTlB6dUFrTkFiMTNLRWlqLU9BV3hhX0U3bEtmUnVjNi1COUFBa1NKX3N6S1F4QXBrZ29hSmt1Z1Z4cWVjWnZjRGtxOVYxc0NVenB5MUpucDcyQXhQMF85SjlZdUJySDhIaWFMMERid0x5YkNtcjZMUzVhT3lHZy1od016N2tnamdPdVhyaTRzS2ctQ05yZTlrSkhWRnJQN1drM0JUYzM0NEtNWVNDUno2TGNLUVVOMHNLemtYWXRDcWJKeEcyNU9MQk9TSWwzWTdIZEpKcEM0Z9IBgwJBVV95cUxQaVhDVy1ieUZsUVdyQXFZZ05sbVVyazA2WHo3Tjk3enBTdENYb3NZWklQZnRvT1NrekRTTk1nT2NzX0RrYTV1Nm9ma21NTjMtMEN6MVZFV3RhbGlySFZaR01PRnN2Ni1EY085YVg4OFJEX2EwTjBNVXhaMS1Id2I4cUh3c2Y0NDRtOUk5RHRmMUtNVEhRR1NBQVNWVkhCRGt6ckxxbUp2REJrY1FsN0p0SzVtZTEta1lxdjBTR1pHMWhTanI3X0VUczNnQWtSZ1JUMEM1bDdaMjNabGRTZDZjNWhpRjhuMUlqTHluRGpGbDhKQ3JFSzlqVE9oRTdFeFRpV3Fr?oc=5",
+    "title": "'He became very emotional': TN CM Vijay meets Karur stampede victims' families, hands over governmen",
+    "title_ta": "",
+    "summary": "'He became very emotional': TN CM Vijay meets Karur stampede victims' families, hands over governmen",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul10-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTnJmbnZXc0F6VHZaVUFabFNkWndYMEg1anRnYy11VkVTcnU0SUFQQUZFa3N4QUlKZWIwQUdHSTNDOUdCSjlLbmVoTVhpS1ZYUlFjTVFUV1NjLWRQcDJjcVdhY3RZeUpKMlZoX2FrbFNfejIwaDRmUjV4RFRqYTZ3TF9vc09fR0RVZ1dVYlYwVVUwY0E0MjdURWlVaWdOZVJhZ01ZT0pXa2gzQ1J1Ti13REJiQ2F2dGpLaUVPbzJLelk5X2tDOEZ5VVRET1RMYUMybVE?oc=5",
+    "title": "Tamil Nadu CM Vijay hands over job orders to 31 families of Karur stampede victims",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay hands over job orders to 31 families of Karur stampede victims",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul10-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNEdEajJKcmhKYmhlMC1BSjJ5aXM3S0prbDRkMU95N0dBaGV2VHFCbXYxWlpEUFVwOFF4Q3AxU3hDemh4d0syUTVuT0EyRjJPamthNXZwQVBTNW9MX3BzUkE4di1pTVVQSTBmUFlobE9xX1FPQzk1RGl1Y1I5cWNOaGNlOVFvQWE1aUdIUUdBakd0QUxuNU9qS1gwUmYtWW9tVjl2WldSQ29DaDgtc29XVFUzWHVyUl91cVc4eTJpWlUwTkdvbWdmLThWQjRkbUdyVEV5bm9lVWN1NGllOHVicXJTZUhOOXQwN0xHZUZrQU9uUWpCNFY5WkFR?oc=5",
     "title": "Karur stampede: Tamil Nadu CM Vijay announces relief push, hands over government jobs to victims’ fa",
@@ -104,42 +140,6 @@
     "title": "Tamil Nadu: CM Vijay says police could have alerted him ahead of Karur stampede",
     "title_ta": "",
     "summary": "Tamil Nadu: CM Vijay says police could have alerted him ahead of Karur stampede",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORENKd0RQZlQtS3R6WXNXc2ZyXzRuMXg2UW9ENWY2V1lnOF9LUHlrdjRuZmVWcmRBSW5hRTRad0tQWUR6d0FGTWxFZ09LUGYyM0locWZ6OFhWS01lQ0ZUYUJQSFhDZll6cmxURHV0LVJ5MjBReEdjeE1rTGVXQnhOMTZ1OWtHSVhxT085ejNZWHY5WDkwalhZTEZCd1RsWnUwX2VyX3FocEpzcGg0YkcwYXRxSFRPcVhNSlMzdTF1NFE5ckV0SWFpcWNOQW5SOGVDTGJ1LWhLS3RlcWhzNEHSAesBQVVfeXFMTTNOXzhyVXJrRmdtekoxRlhIUG9iWnVZRXY3cTZNTjdpZlhsMjRRQklOanpfak9hZ1NlZjlZMEFjM1lfRjRaUEp6UUw1TDBPUk5OY2tmVHFEZEZhRDFzZl8wQm5YbGlUNVRSdVdFNzdUdnBuaHF2cFdaV3VjTUJiR1lPamVJb3M0WGg0YWRtcjFDZnRHejF6TWlMd3NQSU1jcFhlSVBLcVpaUjBGUFZoRy1mTnRTczlzQ0wxV3NvSWxjcVBZSExxWGE3QVFicVNIRmItT0R0RGpYZm5OYUs0ZHZuQ0V6T0hseGZhSQ?oc=5",
-    "title": "Karur stampede caused immense anguish; police could have warned us, says TN CM Vijay",
-    "title_ta": "",
-    "summary": "Karur stampede caused immense anguish; police could have warned us, says TN CM Vijay",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcjVVeXVWdnBNcEtEaFJrZHptWGkyQTBkWkdlc0dvQ1Z0TkhTUFR4YTVXZEtNT25ieWl2WDlaVlNKUlNzZjBiODBxYVVRNVgzb2l5MC1BTjhVZ3dkWjhkVVp5cXBlYkJtY0tXXzdsdWY5aVBkZ3NnNW5fdl9iUWtMc3JEbkF0QmtvQkZ5T002RlFqVndDMEZKeXEySDZsX0RheWtBdHNyZ1VQUUxmOUs0dWl1THXSAcIBQVVfeXFMTzFjek1HejdfalVZNUdoYkJzYUZTUjNmTHQ5Z3ZrNkxsNTRsajg4cHpvYnlMUTNldVVUZ1J1Y2pIbUU3NkJUREdRVnZxVmNvZVB0ZC1VUnhjQ1I4R2JkUWRFUERud1l2djlWVU9nM0IzRzBob0pFUEpZYVNZRXhxV3A1QUNpYkxfQnByVVZKWEpKSzUyYkNLTm1kTGxjeGlOOTZfOTlkSGZXc0MzSzc5TmhBbjBCSExHSzRMQUpiQW9xMmc?oc=5",
-    "title": "CM Vijay blames police for Karur stampede; DMK calls remarks irresponsible",
-    "title_ta": "",
-    "summary": "CM Vijay blames police for Karur stampede; DMK calls remarks irresponsible",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEo1eFM5Q1ZYNWdNNzh3U1Z0aDZ6SDJKak5WbF90bVNOZUZDbkJqY0plT29yZTFVaS1uNlZFLWpZN1pzTXF4dlFLZ2gxNmxibi10Ymgya3hfaWVsN2JTeGRNclBTOFd3VV9VbXpVNEtmcDFuTklGYm50MlZhUFZ5LW9rWkZaZXM2cE9OS0JROGhrMUJxX2VIZENzbG9zdG00QkNsUEZsOWJMbl9PLWNLRNIBvgFBVV95cUxOY042NVFyVzBLUjh3SEZYZ3I0MlcwSjVmQnpPbUFENU15VU10WDdEVkc5ZEFYSUpHbnBtNHZlcGJkelNYdXAzMEVPOU1EV3ByZl9hcU15ekNSS2NaeEE2ZjZnOTdtVWZRa3gyM2hQbUwtQTM2MUYwZWp3OXIxeVVpYXpseUZZQkUyZjdIWC1RU0g5N19weDNFTEs4cmVURXlJMWFWQmdqMkJySGJBVEREVWFBNmpLREs0WnhVdURR?oc=5",
-    "title": "Highlights | I know who was behind the Karur stampede, says CM Vijay in Karur",
-    "title_ta": "",
-    "summary": "Highlights | I know who was behind the Karur stampede, says CM Vijay in Karur",
     "summary_ta": "",
     "date": "July 10, 2026"
   }
