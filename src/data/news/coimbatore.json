@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul12-001",
+    "id": "coi-jul12-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaXZVbzUwcE1wQm8xUmpBblJOYjdiRG5TMHFtNzVYMW9XNGxrWjZVUktyblMzV29jUTAtc05BMGhlRjlFZXJUaTZQTlZtQS1uczZUYVV3eThUeEgzX3NpVkVLY3h2cTRwQ1RPSWUwcEpwUmFzU2otZWd6OFpoc1lrVzFoWWk5cmY1dTNWQWFWaTFfMkxJTHJuVDFIcWhGWlZha0k2cGxTaVVONE9zSVI5XzdRZ3BfSVI0MkJ0VlBRbzlIY29vSWl0OUtwSmpFYWN6Y1l6WEhhSkRzeG53?oc=5",
+    "title": "K Annamalai to hold first 'We the Leaders' conference as part of drug-free TN campaign",
+    "title_ta": "",
+    "summary": "K Annamalai to hold first 'We the Leaders' conference as part of drug-free TN campaign",
+    "summary_ta": "",
+    "date": "July 12, 2026"
+  },
+  {
+    "id": "coi-jul12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjRVZ1dqai1zLUdEZTM5OFEteGNBendGbFBUTmwtVEtndTBXekJKdEFwV0hXY2ZpTDNqcEc2Zm5vV2FLUktGczZWUDBKTXBkQlFQT0xGV25wWEYtUUFhellvR29aV0VuUDNOV1VRbXVXbERlcHNUVTU4Tlprb240LXdNdnJQVDNXLUdoY0UtYUdxTWxTNUpOMkh1d09oV0lrRXUzWHllZmVmZXJSTHJ0MXhSeUEwODh0ci1Bcm1FUDdoX0FqZGhydEFaOVNNVGU5NmlFMUlyWXJkaGw5ckNrZDJn0gHnAUFVX3lxTE0yUDNkZDFrRUN2d0pTb3RCS0JQM2U0eThUU21MZ2UzZU1pWkhDdl9jUFFsbnNtQnRUQ01jOTdmellOMVFhZXZYejZ2VkZhUC1jNktlNV9GWXd5VWRuOEx4NFlxcDB6X1FFSEJoWW90SUR1dXVHWkJCSlNqNmk5ejNrTWc0ZGdyaEpWSzlEaEJ1MUo5VUpPbExCWXlac2VNR1JnaDN6MnRzelh2djJ6UUlMeFJWX05WU19JSnk2ZjRhZjJ6TzFXaDdOZkZoQ3JyT1RPNTVIOGwxbUY2Y1ZJeUJ6bF95MjRaaw?oc=5",
     "title": "Massive Fire at Coimbatore Bus Body-Building Company, Three Buses Reduced to Ashes",
@@ -128,18 +140,6 @@
     "title": "Ford Business Solutions opens new centre in Coimbatore",
     "title_ta": "",
     "summary": "Ford Business Solutions opens new centre in Coimbatore",
-    "summary_ta": "",
-    "date": "July 8, 2026"
-  },
-  {
-    "id": "coi-jul8-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GWlBZLWtOdjdNQmd5cUhORlBKTWVfVUFfcVpUUElFMnNBc2o1dDdVbjNwSGxUMWdlZl9heDFVNks2bWJXSGt3ei1pLUhhaGxRdWxSYjJQTzFyLVRnWmo4OC1mZDRDYkY4SGc?oc=5",
-    "title": "Ford’s GCC inaugurated in Coimbatore",
-    "title_ta": "",
-    "summary": "Ford’s GCC inaugurated in Coimbatore",
     "summary_ta": "",
     "date": "July 8, 2026"
   }

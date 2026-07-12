@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-jul11-001",
+    "id": "nam-jul12-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXVXS1JTbzVZdzhNdE0zTE54bG5ZZnN4LXJvNTNJUG12ay1udnowc1o2RlFkU2x4WWl4N005REJQdUtoN3lqLWlJOU5aNTBaX1VQUW1ZLXU3V1RCMTFQMjA4dVQ0S0ZXX2tDLTJZUWhpcENQcDREdk5WZ3BaaXlQc2p4Yjh0ZFg5WUVZNVhDZFdLVlJZX0IxMTUxWnNlaW5OOVBJ?oc=5",
+    "title": "Drought deepens in TN’s Namakkal as dry lakes leave farmers staring at crop losses",
+    "title_ta": "",
+    "summary": "Drought deepens in TN’s Namakkal as dry lakes leave farmers staring at crop losses",
+    "summary_ta": "",
+    "date": "July 12, 2026"
+  },
+  {
+    "id": "nam-jul11-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWx4LW93WUFNYXIwLWpGZkFGYUY4SUJ1blhnUWpJMzhESlpua3FqeFRxUWdXaTlwTkRnLWYwSTlQOTRLMXkxekZpNFA3SkQ5aFEyZnI5VFJfWEFVSkdzbmhfU3NoZFNLME1pSUg0aG5fbTFENWtPdm1ycnZrblIyX1Bra1ptUlNhaXNnR1l2bnkzRTJrRGlUYtIBmAFBVV95cUxQOWx4LW93WUFNYXIwLWpGZkFGYUY4SUJ1blhnUWpJMzhESlpua3FqeFRxUWdXaTlwTkRnLWYwSTlQOTRLMXkxekZpNFA3SkQ5aFEyZnI5VFJfWEFVSkdzbmhfU3NoZFNLME1pSUg0aG5fbTFENWtPdm1ycnZrblIyX1Bra1ptUlNhaXNnR1l2bnkzRTJrRGlUYg?oc=5",
     "title": "Namakkal doctor, aide held in MLA poaching case",
