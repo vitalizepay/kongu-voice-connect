@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul11-001",
+    "id": "coi-jul12-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjRVZ1dqai1zLUdEZTM5OFEteGNBendGbFBUTmwtVEtndTBXekJKdEFwV0hXY2ZpTDNqcEc2Zm5vV2FLUktGczZWUDBKTXBkQlFQT0xGV25wWEYtUUFhellvR29aV0VuUDNOV1VRbXVXbERlcHNUVTU4Tlprb240LXdNdnJQVDNXLUdoY0UtYUdxTWxTNUpOMkh1d09oV0lrRXUzWHllZmVmZXJSTHJ0MXhSeUEwODh0ci1Bcm1FUDdoX0FqZGhydEFaOVNNVGU5NmlFMUlyWXJkaGw5ckNrZDJn0gHnAUFVX3lxTE0yUDNkZDFrRUN2d0pTb3RCS0JQM2U0eThUU21MZ2UzZU1pWkhDdl9jUFFsbnNtQnRUQ01jOTdmellOMVFhZXZYejZ2VkZhUC1jNktlNV9GWXd5VWRuOEx4NFlxcDB6X1FFSEJoWW90SUR1dXVHWkJCSlNqNmk5ejNrTWc0ZGdyaEpWSzlEaEJ1MUo5VUpPbExCWXlac2VNR1JnaDN6MnRzelh2djJ6UUlMeFJWX05WU19JSnk2ZjRhZjJ6TzFXaDdOZkZoQ3JyT1RPNTVIOGwxbUY2Y1ZJeUJ6bF95MjRaaw?oc=5",
+    "title": "Massive Fire at Coimbatore Bus Body-Building Company, Three Buses Reduced to Ashes",
+    "title_ta": "",
+    "summary": "Massive Fire at Coimbatore Bus Body-Building Company, Three Buses Reduced to Ashes",
+    "summary_ta": "",
+    "date": "July 12, 2026"
+  },
+  {
+    "id": "coi-jul11-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5MSVBkQlR1M3VJeWVoNE1IZVJZVzlmV0wyVVhLRnNmdmZfSDZzWTdmc0F2aFRlSE1odFQyc2xrWktUU280VHhfNVd4ZE5Bbm5vVG5KUEFSYmR3YWpQZHJMSmpOMVFBeDdDaXZpZTcwTGNKSTVZVXhZLWxwclVaUzRJZEJDcTE1ejV5dXNQQjJXbEdPYmp1OHZhYmlXRHRNZGkzX0hZVW5DeTg4YWtlQ1Rn0gG4AUFVX3lxTE14THBFcTI3RTgxY2VNR3JZUU9pNVJUZUVfTWxnNmVUTkxiMHZGNjA5RmJsTGRYdXpRMnBkZnU4WHlFYUhScE1jMFBEVTk1YWVCNlVQMjU4a0E0QjBPeWMtcktQRVFBUkFjWFNqVWZ6bi1hdktpMFd2eFR0QjE2cjNfN09tN1RCUy0za1BlV2Z5bmZaRmhrUlNYOFZKb2s2STNOdmtGdHlyb04xdUdSSVFuZm1QS01FZzE?oc=5",
     "title": "TNAU student found dead inside hostel toilet",
@@ -128,18 +140,6 @@
     "title": "Ford’s GCC inaugurated in Coimbatore",
     "title_ta": "",
     "summary": "Ford’s GCC inaugurated in Coimbatore",
-    "summary_ta": "",
-    "date": "July 8, 2026"
-  },
-  {
-    "id": "coi-jul8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMjNrSlFKc0hvcEpJOXU3Tks3UXl2Z3p6TzdqQmwzM0stajVEOXlWUkNfMUhGdnE5cExZX254dC1XT2NzMGp5SE9yX0RpSVRETlJ1VjhfeFNhbTVQRnV3MjBxR3o2SWdEbU83U1Fzc0FBQlFZLWZvNm82QlFtZF9ITGpaQm5hMnFZRk5DVDVGZjk1YjZHZ0xnZVlXZHFTY0NVOXh1WXozMHpxZDE4NnZoRlVBVEFoR1NLa0JPeUZHckx0eXJLN3Q0bEtrcnNMR0FBQXRLVC1hR3VNdDNLRGJZbXduMUhQRHPSAe4BQVVfeXFMTzdQUEJ5bnJRZDV6N0s0VktvajdrVklSQV9PX3FBTV80QVl5WkZ0TFMwRFZGeE53WHhTMnBwNEdvRHF6eXI0dHd5cHZackRnMExiNDM4d2V5cHRaMWpWOWxpeklUUTh5YTBXU1drQURDYjNNUHNjS0l3Y19rTXNZeFkzS2YxbXVtTGx3NU1acElGTUZjRVYwTVFFY0VBdVFVVnRiWXM0eHVMeXNYb29CVGZ1eG1aZ2lEUEpmSm0yS3AtV2ZlX05HX0tteGlwUkFxdFR0QTlKbkRHaTd4eU8xSU9DYVF4MklKT0NKOUVMUQ?oc=5",
-    "title": "Ford Motor launches 3rd India tech & business services centre at Cbe",
-    "title_ta": "",
-    "summary": "Ford Motor launches 3rd India tech & business services centre at Cbe",
     "summary_ta": "",
     "date": "July 8, 2026"
   }
