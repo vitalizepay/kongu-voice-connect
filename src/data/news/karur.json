@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul10-002",
+    "id": "kar-jul10-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndNS1lfYm1vT1ppNk96eUZiUzRzeEZiektjczJxU250UTdkLVhkNkNqS1ZqaHhNMWhpS0VaSUVQNHVSbzRUYVFjelhNZlRXVEZnY2pHS1JERkVHdERySE9UZ2NEVkVmOEN6LWNBWFN2MHk1LUdCM2dKZDhEMC1YQV9zUmRxNHJBa1ZmVmlUMzlrS2QtcXJDbDNiTExqc0tlRGZyQkxDSk1VVnA2MnNKLWhQMXprM2Vj0gHGAUFVX3lxTE5maXhyTEs3ODExMlhiM3lyeWMyMHFFSloyWldmX0JzMUNTcEYwajVVUEhPMXBWOEVoNl9YamxvZmw4YkYxZHBabWFDbmVrX2pDMWhqWFpIRUJ2RzFTWk5yQlVwbWlxZ2wwMHZ5RnpEQW1FNWJHeWF1UnlXWEVGcDhPYVNjbDlZX1RKRkhHQVZ4cVJ6NDhJdC1YeTZHdEo2QWZUN1h5YmYwVnJPb1h0aE9fT25zcnlmYm1wR3FSQUZvNkZjWjJpUQ?oc=5",
+    "title": "CM Vijay to give 32 job orders to kin of Karur victims",
+    "title_ta": "",
+    "summary": "CM Vijay to give 32 job orders to kin of Karur victims",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul10-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajhBclpaZGZSTHgwcW9BOC0xWUd4ZFpFcGl0aXFUQkM1ZUdOMENzd1VVb0hvUXNQakc2SUdka2tDcmhxVmRHNEZXRHJtd1pQeG1JOEZKMUdyV0FEY0ZNUGF5WjZtYVdjRjRwQXIzMTM2UXdHU1pKV3I2QURpMnBqNkJ1N0ctRHhpekN5OEMxdFJMYlRHY1d4M1dhYTdKd1FWN1VfMy1TWHMwSDRWcEllQlJUOGc4Z2xwYUFVYjFlUWo5SW9ZUXdRUmhCTXNvOXFCRl90MERaejZqSzFCZWfSAeMBQVVfeXFMTW1YSHB4UEctd1VzbUMxNk0wUlRuOXJBV2JjcjY5WFlqeEJBenhZQmFUUGlLNkliVmxDamZQbm16WkVWS1JIdjlqU2hrSU91eFNXaWpZVTdzVzllTld5ZEw2eHJYTzNaYUZBNTgxQmZxWlJhMF9FWTFINzlqSU5EZUtUcWt0QzJCNW9sdkVoNmJHQTF1Z1ZUUVJBOUlseWgzZkZXWHdqcWN0ZXV5VzhVTlVRcnhXQThIUHNZTGlBUE0zdWNpb2Y5Vi1LdEhfQUhxQnZCZ3FhWnQ4S2dPMFhxVlJrbWc?oc=5",
     "title": "Tamil Nadu won't accept delimitation: From Karur, Vijay's message to Centre",
@@ -130,17 +142,5 @@
     "summary": "“I Trusted Police But Was Blamed” – CM Vijay Thalapathy On Karur Incident",
     "summary_ta": "",
     "date": "July 11, 2026"
-  },
-  {
-    "id": "kar-jul9-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTlmbm4zTHBvZnJQemtscmkxRThjY0piZmsweGxiZHlQNDRHczdnLWptZkJYMC1lVmlhOGhWQTEwb2M3U21ycmlsVUNQV09mWF9PQWVHZHhGLXV0Y01ZZ0lUS3NGQ3hqbkxhS0tvSzd2dkFRazlGaXlHSDFEU2pvYlpmRXhpN1V5emNUeXM1OFk1bXlWdVdWeUREVEZVWVQxeXZVVWE1Q1ExNE1FSkxUR0FSb3pmbUdmV01iTkhOWFlpNjhoaDNIdjhGaG96TlR3bEY3Ym1kYWZGQUJfb2l4T3UyN3JWLXNxLVEwTzdqZk81NE0zYmZSeWRPRdIBggJBVV95cUxOOGhmbklpc25xY0hYUmRYWGhlbVQ1RDZyRURwTTlmUkpzdTNnUFN1c3I3OUVSYXRVRmZnUjVqeHJkTW9yd3BoaHFkOTdsTTlteEdLeF9YUnYxaEt1XzZkS3FpeXM4LVhDRWJSQjFzQ1ZGbmtGc2ZsOGNQbElqQXNySWlycThoVTBVTW1QVXVXOUVhWm5JRmFVN1h1UE5hUzBWZTcxdHY4dk4zMlB0Q1NRdjNKajBwbTJRTjdpV3U5bXJNSG50d21oOGhvcjlnelhGQmdrNXpoV1RYNVlyclR3aU4ydFl6VUNsOEdpbjNzdlplclgybV9UdDdWTzR4UTh0MUE?oc=5",
-    "title": "Tamil Nadu CM Vijay to distribute govt. job appointment orders to kin of 32 Karur stampede victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay to distribute govt. job appointment orders to kin of 32 Karur stampede victims",
-    "summary_ta": "",
-    "date": "July 9, 2026"
   }
 ]
