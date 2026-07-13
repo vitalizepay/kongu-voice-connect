@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul10-001",
+    "id": "kar-jul11-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEpQZDdRbDZrWUh5aDV5b1Zkb0taZnZjMmlOeXFfWlNFX1F4MlBnTnYxYlFzOXc0S0t3N2Z6LVpLMzl5Mnd1Wm9KMDFubHhqeGx5dlBNUktwQ09hZkVzRWV1TXlrODRieHlwOEZYX0hxVVZhaDB5Qmg4ZjJSZzh0a1IxdmRkUVlPS0lIZkV2cjNEcU9OeVlBNVhENmgyYXNMeU1BZzViSm8teGxWOUQ4dnZ6VTh3MVNLYkZtOUt30gHDAUFVX3lxTFBCcFdrLURPNmR1YUhSUDMwa1Z4YnY0ZVFyYXpfN3VmTGhUbzZ4NTUyYlhvbXR0MWtuYnJMeURiRldLLTBwNk5MZ1d4N1JYZndTYl9mQkFfWXYzMGJRNG53cjJlSllIUzAtdksyRW1hVzJTanRjclhMOUE5YUZsbUlOSzZITGF0SEdrVnNQcTBkdDgyNFdiM1RQZVZ1VGR3clNLbmplVjlhR2ZnZUthTEZQVWM5anJPMW1uRVhJUG1BVl9XNA?oc=5",
+    "title": "DMK's Kanimozhi Hits Back at Tamil Nadu CM Vijay over Karur stampede remarks",
+    "title_ta": "",
+    "summary": "DMK's Kanimozhi Hits Back at Tamil Nadu CM Vijay over Karur stampede remarks",
+    "summary_ta": "",
+    "date": "July 11, 2026"
+  },
+  {
+    "id": "kar-jul10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTFJvN1d1R01tam1fRXZNNUdtbXJZMkxNRU55V0RsVzFzZU1CSDlYRDJCbDJXQjFTR2NlaThLT2JPYmE3THoyVkZyRl91QzlMeklwYXRJZ3V6cUZUbkE3dER4OTJCN2daN09wdlV3d3BKRER3eEhPa3JOSkZlcGJQWF9RaFhRd1MxR0JpQ016bW9YQk55c1JrYWUyLUhZMm16b18yaFN5V0s0UngtLS1BZUpkM0szemdaRXhjQll2SXF5bG15X2NHeTZVRE5kZ0pDVzBjWm1ZVU1CZVBpbGhvQTRla1RnV3RsRnFZR1o2T00yT09iT0FfM09aYW53SHk0UFHSAYgCQVVfeXFMUFZjZGpfV0o1TzZrTXBSNDZYTHhqQTlydTRIUmd6WWY0UzB6V25kLUFjSUJyVUFWVkIwbmkzVV9aM0MtYkVuYi1uQjJkdUhFckh3Y1pIYThtbmpISWtiMHFZaTVPY2NmM1h4U2xrUkcxQzQxWlRvYmdZZG43LUY2RWxRTnRJNjE3TWJpa3BXVXhOXzNxOTk4V253cUlVaDhFbDR4LWp2Z093bmljSWRGUTc2VFpBOF95Wk5KQWk0WTRVQWxPME9mdFN5SzR1UU85VG1rV2xpLUZocEh0OUpkYkkzVXpSTkQxM3R4dGRZeUNlYzdHMERXZVdQLTBEZG5Uelk4UlZyTXlF?oc=5",
     "title": "Vijay's Karur visit updates: T.N. Chief Minister announces memorial for stampede victims on behalf o",
@@ -128,18 +140,6 @@
     "title": "'Most painful time of my life': CM Vijay holds rally at Karur, promises memorial for stampede victim",
     "title_ta": "",
     "summary": "'Most painful time of my life': CM Vijay holds rally at Karur, promises memorial for stampede victim",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclBUelpsVllrblNwZzhqSjRKdDh5UVhCUG5zaE1rSEJLaURheTB2WFczTnpNZnE4SUdidFdiMHpHQ3dPM0JBUS1NVGVVdVUwcGZUOHpYSXlWMXQwem9JYzFPWUw5X0JSQ0ZtNndxbF9PNjZrNGp0VnczQ3BsenllM2J2eVM2b3V6N3o3YmhmR2w4TnA1UVVyaV9nbXd2Q3ZaWk05Mkx3cE7SAa8BQVVfeXFMT3ZQLVRUV29wbUNtbnduT3RZUkdGTW50dUUyOHlDRF9ZMnBkRmhCald0NVN2WHh5TGNzTHdyZmxCLTZNUlFJVHhDOVNPcW8xamdvRnlWTzEzM2dOdmd0ZS0tWW1kY2xqNGR1cVJmZmc3OHU4RWoxREU1SklvcUJLWnRaSFoxZ1dJd09JZXo1TWpfQ29laWZaTzJfcjlFZWdZc3RiTktyOC1QbVFsMldMcw?oc=5",
-    "title": "In Karur, Vijay returned to the wound, governance and a side of ‘kothu parotta’",
-    "title_ta": "",
-    "summary": "In Karur, Vijay returned to the wound, governance and a side of ‘kothu parotta’",
     "summary_ta": "",
     "date": "July 10, 2026"
   }
