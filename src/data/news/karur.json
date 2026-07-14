@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul10-003",
+    "id": "kar-jul10-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM3BfUFphWU9LaVFSZ3NvQmhzYnFfLVpxVlp2WkcwRjRSVDFiX1ZrSGR1RXVyZEJpaHJCZlZCS2ZDb19fcmZNblR1dkZGcFB0M2xVQU5mWmRLYldzUTl0SzNrSzYzdTh1bUVMMl9ZZ0M1TDBHNFBZNkFsMjFEbDNvUDRicTl3U3Bucmg4SnpGS3BYdlRrT3B1eTVqbkFEb2d3S3ZZaF9IMXVicVpTaXd6UlVWcDBSdHVycHJzT0RFU3ZtRjEyQ25jQnNULUxCNDZfUHhLN05LemFHRW8ycmpiVXpKdmRab3ZvZVJPYTdkSTY3Yy14QWpj0gH8AUFVX3lxTFBRZ0VUVTEyQUNOam9tSFZMb3hqOWFmSFFBWWRlaGdoa1ZpNDRiNnFQWW9ZeWJsRmhFU1c1WGFzUVpJS2VpMnMzWlBBN0VaV3FCckdOLXhkU0gzWUxnaWVuaXlSclVFSUYyTHhteFhQd2UzaXJuQVVqUkRMbS1wY0g4eFpfV2NpZGU3WkJMdDZvdFRacG5EZWVTY3pxRmk5RHhMcEMtU29PVkJnWVRzaTZ1UG5TMkNxVFRjZWxIREN6NUZRMEdRakY0SmdxN1g5cGVtdDB2ZlhwWGp4OGJJUlJqV2xwT0d3T2V2d0tBejdKaERzR2tnWVlsZE92bQ?oc=5",
+    "title": "Why Karur tragedy didn't sink Vijay's ship",
+    "title_ta": "",
+    "summary": "Why Karur tragedy didn't sink Vijay's ship",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul10-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeVhiZnpXLWNMYUk3bjM4eVNxNjhNajFBUUZqMlRta2dZdGJ1bXJHTlB6dUFrTkFiMTNLRWlqLU9BV3hhX0U3bEtmUnVjNi1COUFBa1NKX3N6S1F4QXBrZ29hSmt1Z1Z4cWVjWnZjRGtxOVYxc0NVenB5MUpucDcyQXhQMF85SjlZdUJySDhIaWFMMERid0x5YkNtcjZMUzVhT3lHZy1od016N2tnamdPdVhyaTRzS2ctQ05yZTlrSkhWRnJQN1drM0JUYzM0NEtNWVNDUno2TGNLUVVOMHNLemtYWXRDcWJKeEcyNU9MQk9TSWwzWTdIZEpKcEM0Z9IBgwJBVV95cUxQaVhDVy1ieUZsUVdyQXFZZ05sbVVyazA2WHo3Tjk3enBTdENYb3NZWklQZnRvT1NrekRTTk1nT2NzX0RrYTV1Nm9ma21NTjMtMEN6MVZFV3RhbGlySFZaR01PRnN2Ni1EY085YVg4OFJEX2EwTjBNVXhaMS1Id2I4cUh3c2Y0NDRtOUk5RHRmMUtNVEhRR1NBQVNWVkhCRGt6ckxxbUp2REJrY1FsN0p0SzVtZTEta1lxdjBTR1pHMWhTanI3X0VUczNnQWtSZ1JUMEM1bDdaMjNabGRTZDZjNWhpRjhuMUlqTHluRGpGbDhKQ3JFSzlqVE9oRTdFeFRpV3Fr?oc=5",
     "title": "'He became very emotional': TN CM Vijay meets Karur stampede victims' families, hands over governmen",
@@ -128,18 +140,6 @@
     "title": "Tight security ahead of Tamil Nadu CM Vijay's Karur visit; to hand over job letters to stampede vict",
     "title_ta": "",
     "summary": "Tight security ahead of Tamil Nadu CM Vijay's Karur visit; to hand over job letters to stampede vict",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVndNS1lfYm1vT1ppNk96eUZiUzRzeEZiektjczJxU250UTdkLVhkNkNqS1ZqaHhNMWhpS0VaSUVQNHVSbzRUYVFjelhNZlRXVEZnY2pHS1JERkVHdERySE9UZ2NEVkVmOEN6LWNBWFN2MHk1LUdCM2dKZDhEMC1YQV9zUmRxNHJBa1ZmVmlUMzlrS2QtcXJDbDNiTExqc0tlRGZyQkxDSk1VVnA2MnNKLWhQMXprM2Vj0gHGAUFVX3lxTE5maXhyTEs3ODExMlhiM3lyeWMyMHFFSloyWldmX0JzMUNTcEYwajVVUEhPMXBWOEVoNl9YamxvZmw4YkYxZHBabWFDbmVrX2pDMWhqWFpIRUJ2RzFTWk5yQlVwbWlxZ2wwMHZ5RnpEQW1FNWJHeWF1UnlXWEVGcDhPYVNjbDlZX1RKRkhHQVZ4cVJ6NDhJdC1YeTZHdEo2QWZUN1h5YmYwVnJPb1h0aE9fT25zcnlmYm1wR3FSQUZvNkZjWjJpUQ?oc=5",
-    "title": "CM Vijay to give 32 job orders to kin of Karur victims",
-    "title_ta": "",
-    "summary": "CM Vijay to give 32 job orders to kin of Karur victims",
     "summary_ta": "",
     "date": "July 10, 2026"
   }
