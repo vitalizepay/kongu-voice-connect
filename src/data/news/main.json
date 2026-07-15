@@ -1,7 +1,7 @@
 {
   "section": "Region",
   "section_ta": "கொங்கு மண்டலம்",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "hero": {
     "id": "main-hero-auto",
     "title_en": "Blood Quits Blood - EPS's Own Cousin Walks Out of AIADMK, but Who Held the Door Open?",
@@ -12,19 +12,7 @@
     "date": "July 8, 2026",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80"
   },
-  "trending": [
-    {
-      "id": "main-trd-001",
-      "title_en": "Blood Quits Blood - EPS's Own Cousin Walks Out of AIADMK, but Who Held the Door Open?",
-      "title_ta": "",
-      "summary_en": "Blood Quits Blood - EPS's Own Cousin Walks Out of AIADMK, but Who Held the Door Open?",
-      "summary_ta": "",
-      "district": "Region",
-      "category": "News",
-      "date": "July 8, 2026",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80"
-    }
-  ],
+  "trending": [],
   "districts": [
     {
       "slug": "coimbatore",
