@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul15-001",
+    "id": "kar-jul10-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2p0UVo3VVdERk5DMUZ6OGllR0dCOUllMUpiNWVUajJRM2xnWE1kUlljLWJSWGt1cnoyNVpUa3hGR2RIdnZMUC13Vnd3QS1YWFQwdVNQRXB5UXBmZ2JXcDg3VnRnTE1EWDVXZXdtWXEyUlZFUGtVajMzNVhLRXpsQmFNbGdVSkhWWmNXbmNsY1ZiRTBUWGRTbDBXdHRoM2NyTkJIZ1dRS3Mza0ozcW9RNmdnRFJjLS16enQ4NTB3b0FUUkNqdEJZ0gHPAUFVX3lxTE1LN2JnbWNyazQ1VDdYMlhQZFozNEhKNkoxMjZVV1h4cHZKTG1oQ0JkcjljaWx2aTBzTzlTN1FRdmZxUGR3c3pGZnNkQkRSVWd4ZENucERhYXNuMFc0TEtkSlJfcGhxa2FZUWdIR1JQSjVoUlY3OUJ3d3AzMTBWSF9CQURmUHdWQ2Y3TlVfRDBvX0tPZnB5bjJDOGc4TEVaVmM1S0hVdFJnelBMVWpJNmg5N284OVhwdm5CY3RTMnZMMld5dDF6clpzNF9BWC1LTQ?oc=5",
+    "title": "\"I Trusted Cops, They Put The Stampede Blame On Me\": Vijay In Karur",
+    "title_ta": "",
+    "summary": "\"I Trusted Cops, They Put The Stampede Blame On Me\": Vijay In Karur",
+    "summary_ta": "",
+    "date": "July 10, 2026"
+  },
+  {
+    "id": "kar-jul15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2pjZVk4SlZOOWJJcEJmSUFJdnZHcGZTYVk1clQzVXZKU1RZWFFORnJHUUZLb3Rmb2I0YlJ5dzd5ZjRXeGxlU2lqUy1TVHJzUUpRTnJIUUpCNVk4bFV3NU02NWxOREtiektuM09GcDdMY0RHZXhGaEhFUC1DZVlnTExoenE2Q3o3UjV5T3hSMkVrSGNjLW9ZUWRIdTJzMm5TaFZZMG5xNDk1RkZPXzNnWkxiTi00ZDZ1am80d0pBTjFFcDFoa2ZmRTVpLWnSAdIBQVVfeXFMTmxJME9jNHZVYmJUcEwxTzc4S21odXlieXRNbGhVaE0wX1VYeDRtZU9LbEdoTm5xa3pURjljeUFKOUVEeWFWV0tQcUE0cU13WHYyc0Z4Uzl5MG1vUUgxa1N5RHN4OHJuSmR2cnJOaFRFVWhUNTE5cWthNFJaQmZnWHNzeHVmSUVvT2lJeHFnN2Q3VUFxXzdjaXJHcDlQUnpMcDRNVVI4dW81Ry14V2M1eDRvTkUyZWdmd1RIRmk3U1IzZi1LRlBIcmlleXNRZGxJeGlR?oc=5",
     "title": "Vijay's Karur move draws heavy backlash as Tamil Nadu heads for heated bypolls",
@@ -130,17 +142,5 @@
     "summary": "DMK's Kanimozhi Hits Back at Tamil Nadu CM Vijay over Karur stampede remarks",
     "summary_ta": "",
     "date": "July 11, 2026"
-  },
-  {
-    "id": "kar-jul10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTFJvN1d1R01tam1fRXZNNUdtbXJZMkxNRU55V0RsVzFzZU1CSDlYRDJCbDJXQjFTR2NlaThLT2JPYmE3THoyVkZyRl91QzlMeklwYXRJZ3V6cUZUbkE3dER4OTJCN2daN09wdlV3d3BKRER3eEhPa3JOSkZlcGJQWF9RaFhRd1MxR0JpQ016bW9YQk55c1JrYWUyLUhZMm16b18yaFN5V0s0UngtLS1BZUpkM0szemdaRXhjQll2SXF5bG15X2NHeTZVRE5kZ0pDVzBjWm1ZVU1CZVBpbGhvQTRla1RnV3RsRnFZR1o2T00yT09iT0FfM09aYW53SHk0UFHSAYgCQVVfeXFMUFZjZGpfV0o1TzZrTXBSNDZYTHhqQTlydTRIUmd6WWY0UzB6V25kLUFjSUJyVUFWVkIwbmkzVV9aM0MtYkVuYi1uQjJkdUhFckh3Y1pIYThtbmpISWtiMHFZaTVPY2NmM1h4U2xrUkcxQzQxWlRvYmdZZG43LUY2RWxRTnRJNjE3TWJpa3BXVXhOXzNxOTk4V253cUlVaDhFbDR4LWp2Z093bmljSWRGUTc2VFpBOF95Wk5KQWk0WTRVQWxPME9mdFN5SzR1UU85VG1rV2xpLUZocEh0OUpkYkkzVXpSTkQxM3R4dGRZeUNlYzdHMERXZVdQLTBEZG5Uelk4UlZyTXlF?oc=5",
-    "title": "Vijay's Karur visit updates: T.N. Chief Minister announces memorial for stampede victims on behalf o",
-    "title_ta": "",
-    "summary": "Vijay's Karur visit updates: T.N. Chief Minister announces memorial for stampede victims on behalf o",
-    "summary_ta": "",
-    "date": "July 10, 2026"
   }
 ]
