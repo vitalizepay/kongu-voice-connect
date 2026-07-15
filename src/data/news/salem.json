@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jul13-001",
+    "id": "sal-jul13-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnhSWGlQY3lUTk9FZXdFQzBHdlRGelZSMVZNRFpWYUJCTXBCMFJwdzFxbXhUeElFWmtNZ0VwWjhtT25pdWtVdTV1UjhEQ0xva2Jsd3BPbFZueFZqS1gwX05nWDJWSzFxblpyQXFlazdCLUZES0dfOGhUQS1iS1RJM1dWd3g2NmFfWjQ5Sk9KYy1aeTdrX3d3S3dUV04tT1R1RS12QURnZzFqWXPSAbgBQVVfeXFMT2RrNjdiN3NYc0tNbWk1MHRYN19nZTlqNnFlcWdaZndOTTcxbm5ua3pjckhxS21OUDFEOVFMazZXeU53SHhkRFV6RXFNQTJDQ2EyMjBueHdVNDFCNllxYnotSlgzdmxGSm10WkdYdGw4b0diQ1NVdnFlYzRENi1iWGNoMElOdElNS3BkLVoyUHB1VDRsbmVBdUZKXzFVX1Mwd2ZxVzJqbm5UOEx4X2Jub3Jndm5OUVRpNw?oc=5",
+    "title": "New statue shows Ambedkar sitting cross-legged. That has left this TN village on the boil.",
+    "title_ta": "",
+    "summary": "New statue shows Ambedkar sitting cross-legged. That has left this TN village on the boil.",
+    "summary_ta": "",
+    "date": "July 13, 2026"
+  },
+  {
+    "id": "sal-jul13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGN5ZHYtM3NhblBjcU5sZnc2d0hpSHZITUdtNElPY19kVW1Dbk84WXlVajNZNjEycGxCMmc4dWpUNWtwR0E1TEJRM2Z2cGJ6M1cybWVBb1N0WDhFTTRTWGR2VDlGbWltclA1R3V6eTF4T19OOUowaWxlb1lMZjNaX3hlakRwY3JqVjBwRFpBOWVHdU5KMXVtV0F3MWtRbEQySjdyVl9kdWJhMnh5YS1URmY1ejlOcEl1c0twRDR3aGhWZ2h1YkFQOG0tNFczQXRzUGt4Q1FSZ1dUazU2alJySWhUdGE3TkHSAe4BQVVfeXFMT1VMYnNYeldJcnZ6MlEzN2JfSmdoME9fU1B4Z0R2OHNyRlJaX1dYVXJfV3FCWVp2NWl6b3FNWDl3aVdhR3FiOG1UMldOQk1FczJzM2dDNzB6bmp3TzAyRlFPZXkwNEZCUjc5a3hHQ05vS09kaUdqek1XNDNod2V6Z1ZCSVVicW1wcXNpeUw4cmcxTmRma1VHY2pLVWY5X192WDRLWHVCVXJ3ZHE3Y0pDMGM2NzRSSUhNZ2xZanBZN0xPY0xFNGhFQnpqQVlXNWZBMmxHVkVoR01xT3ZEWjFSdDhmbmRFQXhFUnBjOXd1UQ?oc=5",
     "title": "Unauthorised patient pick-up, drop-off through private ambulances banned in Salem GHs",
@@ -48,18 +60,6 @@
     "date": "July 13, 2026"
   },
   {
-    "id": "sal-jul7-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTBFUGdweWk3eERTQWtuNS1vMlE0MXBwTjBGTG1tdDhNc0lJTU1KV3hTN3hWVlBXdFdVTEpabFd4eEVMVlc3X24yWFowQW1FeTBacF9uZVZZTmZzRUZfN1QzeUNrY1h5eUdYZnk4cWYwbmZ2OGFGdm0tTEczWEFaNEJ3MDJWaXlPZDFhOVd5YUxrLVFRRkRyQktiMkd2WWxTRVdXb04yekdQZ2FKUFpEUU1rM3hXbkViMlVWVXI3WlBYUE1rYjhVTTlHamRPbk5pTFA3UUZxUE5ubzDSAegBQVVfeXFMUElqenkyMndCUDFJTHpFbXRaSXh2NmlzT2ZScldKN01kWjRlckt2a3NUVTRKOHc3VzRZVmU5WHFTY1NoUE5HODVhVDFycW4xQUluaFJISkQyVmp5aVNYTnlZS1JWQ3hEa21wUTRjOV9wUGdzQUlZUk1sdHlVNlRHVHp1NVYxOThSci1LaFdDTmJzNjNMTW5aejF3VDNtUXp6bHdsVWl2ajVVWHZOQjJfTU8teV9Ta3dfeFJUcjVGc0ljUGxxRl9rbHo1cjR5TXRhOWdhYmJsTlBDUDZyQ2d5RnlwMVpZcnRkNw?oc=5",
-    "title": "Irregular drinking water supply: Villagers stage protests in rural parts of Salem",
-    "title_ta": "",
-    "summary": "Irregular drinking water supply: Villagers stage protests in rural parts of Salem",
-    "summary_ta": "",
-    "date": "July 7, 2026"
-  },
-  {
     "id": "sal-jul11-003",
     "category": "News",
     "featured": false,
@@ -82,41 +82,5 @@
     "summary": "Heavy police deployment at village in TN's Salem after Ambedkar statue row turns violent",
     "summary_ta": "",
     "date": "July 12, 2026"
-  },
-  {
-    "id": "sal-jul7-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalN5OU8wSEMtUERKLUppTXBxX0M1MzM0aTVnZ2tCN0V3Ymo3OGZiUk5pTzNXZkZQTUtCcXpIaTRGdzdERkV0MzNhVmNBb25Jcjg3dzJFMXJQcGY2Mk1NbjMzXy12T056WURXTXdzLVRtYzlBbUd3MkVXN0lkUUFSemdnU0ljeHFkbzdzQXBhMTk?oc=5",
-    "title": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "title_ta": "",
-    "summary": "Salem (North) Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
-    "summary_ta": "",
-    "date": "July 7, 2026"
-  },
-  {
-    "id": "sal-jul8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbktFSHNWY0ttWXczOXVxTXBIVURkSWVFRkw1ZW1yZkJELTBMYnUtN092ZDBzSXFOSDhpQlI3U05BWGJoUUVUUUFDaS1wZWJFNGxZQUg3THItellhTDRlREFBQnFnZkdUZk9NYllBYk5xVFVyYXlEd3AyUEhwWENqOGo2cGJ3bmExUUlOdFhNTTFTS2REbkcwUVRZNkZ6OXlVVHM3bWluY3VRVWxOWWhodjMtUU42T2tRYVJXNTVBNkg1TmVnUS1FRi1peXd0a055cDkxMWR3dmZtVWFXYmfSAeMBQVVfeXFMT3hCXzJGVF95cTZXMHlTUlRrVEVGYTF6UFgxYXNleFZ2SkJVLXRUeWdteVc0STNDSUV5WTM0a1JPVGZJN0Y2SzRmbEZraEJsSm84b0JRT0hmUXpHeXZvUFEzd1A5djFKeWY2UDJFQS03ektpcWNtVmYtRXEzeUxMaHJ6NGpoRzB2UU8zdGFYbnpONW93c1dyUkNoTllHQXFRcDAxWlFmNjByc0JlVjNlOVVDNXlIanhMWUE5cDNFUXJJQWktcVNRWjFtSkt6RUlpeHBiN2hLRm9GOXFyeExaM2VjRmc?oc=5",
-    "title": "Salem drinking water supply project gets revised administrative sanction",
-    "title_ta": "",
-    "summary": "Salem drinking water supply project gets revised administrative sanction",
-    "summary_ta": "",
-    "date": "July 8, 2026"
-  },
-  {
-    "id": "sal-jul7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnpLc0hPclBZX0otckJQWlp6dS15Uy12SjFKQkdKMXJVTG8wUjRRZ3dXOURhcjR6RzhRcnZ3LUdMb3ZmZGl1aW94VlBZNU1tSExKVmZBS2tzQWg5RUVja2dKY0pBTGw5R056QjYyVWl3UmZVbC14RnpSeVc5WU1wbGZQQ2tjQ19EOGNXcTlOcm9VRm12SkdwMUl0MGZOZ1kyek9LUEhlazVsN1RKcVM1Z1JBVVhaemdxcTFuUDJTSFFkeld4WXpMX0oxMU1Ud0pi0gHWAUFVX3lxTE9sT0hJc2MyVlZ6ZENzaFZDSl9UNllnSGhmVEJfMkdBTFJjZy0zdWt0QWU2UFg5MTRYQ3Jqd2QxejBFeTU3d2huazlmU2h6d0psZE1VcFlaaG1YVk1YUXNEUGtDaHZnWVk0dUtZcEtGaUpHSWF6c3E5aE5DNml5dW5ZVFdSUm1FbjhhZF9rQ1ZuNWRpTDhGVlZQVmxoM1RLSl9vMlV6Z2tSWGMzSk5NZ3ZKV09qajBTUzBPSXhINEd2b251SXN1RWZuQkNZNUJ0dDFXWEt0MFE?oc=5",
-    "title": "Man sleeping outside house hacked to death in Salem district",
-    "title_ta": "",
-    "summary": "Man sleeping outside house hacked to death in Salem district",
-    "summary_ta": "",
-    "date": "July 7, 2026"
   }
 ]
