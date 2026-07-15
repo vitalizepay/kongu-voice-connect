@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-jul12-001",
+    "id": "nam-jul15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlY5bUZVSlBnQkdvdmg0dDBXVkUzRkZKRE00MU04b2hnMGFRMC1MZEFOeDdpN1RtNXF5ZHJGOTFxR1lEMU1EVWhYdDFOcUZOMnQ4T1MwajcyN1BNX1VNVjhpS1ZUM2hxcGlFeTRkbHhtdDNGRmhVTDVGY2piVFRzSWh2a0k1dzBPNno3UzhRZnkxZ9IBlwFBVV95cUxQSDBEcHZzM0VqOHVPaWhPajNVVmZfTjFrb202VXNkdU16WVB6Z1lQM2hrOHUtaU01akotbUdGLXhCSGtNemlJM3g3ejloYmM4S2xaRkpaNmpEZTdTdTRueGZhTFMtLXAwc0dab24tc0tRZnNta1Y2akJCZ1U0eG5OcDNMRkxIaWFIN3dfQVRCNm1IU1prZHF3?oc=5",
+    "title": "Just Now | நாமக்கல் மண்டல பண்ணைகளில் முட்டை கொள்முதல் விலை ரூ.6.80 ஆக உயர்வு | Namakkal Egg Price",
+    "title_ta": "",
+    "summary": "Just Now | நாமக்கல் மண்டல பண்ணைகளில் முட்டை கொள்முதல் விலை ரூ.6.80 ஆக உயர்வு | Namakkal Egg Price",
+    "summary_ta": "",
+    "date": "July 15, 2026"
+  },
+  {
+    "id": "nam-jul12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXVXS1JTbzVZdzhNdE0zTE54bG5ZZnN4LXJvNTNJUG12ay1udnowc1o2RlFkU2x4WWl4N005REJQdUtoN3lqLWlJOU5aNTBaX1VQUW1ZLXU3V1RCMTFQMjA4dVQ0S0ZXX2tDLTJZUWhpcENQcDREdk5WZ3BaaXlQc2p4Yjh0ZFg5WUVZNVhDZFdLVlJZX0IxMTUxWnNlaW5OOVBJ?oc=5",
     "title": "Drought deepens in TN’s Namakkal as dry lakes leave farmers staring at crop losses",

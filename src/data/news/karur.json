@@ -1,8 +1,44 @@
 [
   {
-    "id": "kar-jul11-006",
+    "id": "kar-jul15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2pjZVk4SlZOOWJJcEJmSUFJdnZHcGZTYVk1clQzVXZKU1RZWFFORnJHUUZLb3Rmb2I0YlJ5dzd5ZjRXeGxlU2lqUy1TVHJzUUpRTnJIUUpCNVk4bFV3NU02NWxOREtiektuM09GcDdMY0RHZXhGaEhFUC1DZVlnTExoenE2Q3o3UjV5T3hSMkVrSGNjLW9ZUWRIdTJzMm5TaFZZMG5xNDk1RkZPXzNnWkxiTi00ZDZ1am80d0pBTjFFcDFoa2ZmRTVpLWnSAdIBQVVfeXFMTmxJME9jNHZVYmJUcEwxTzc4S21odXlieXRNbGhVaE0wX1VYeDRtZU9LbEdoTm5xa3pURjljeUFKOUVEeWFWV0tQcUE0cU13WHYyc0Z4Uzl5MG1vUUgxa1N5RHN4OHJuSmR2cnJOaFRFVWhUNTE5cWthNFJaQmZnWHNzeHVmSUVvT2lJeHFnN2Q3VUFxXzdjaXJHcDlQUnpMcDRNVVI4dW81Ry14V2M1eDRvTkUyZWdmd1RIRmk3U1IzZi1LRlBIcmlleXNRZGxJeGlR?oc=5",
+    "title": "Vijay's Karur move draws heavy backlash as Tamil Nadu heads for heated bypolls",
+    "title_ta": "",
+    "summary": "Vijay's Karur move draws heavy backlash as Tamil Nadu heads for heated bypolls",
+    "summary_ta": "",
+    "date": "July 15, 2026"
+  },
+  {
+    "id": "kar-jul15-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1k4QnBYRXE0ak9SY0J3Q3NMUWdYRm9lNmRhUmJaUUc4LVA5SkR4bTgtUGpxX19BTTRWR2dZN3FwWjdKXzREbHdqWDgxRnJ5eEFkdC1CVXQ0dEpnR2FIQnlVTEZURVR4SE04QlhkTXg1WmprZnA1Rll3WmNfYVhrRG10bG1DNUFvWTBzczdDX0FncGJ3YnVLUzg0ckhBOUR2WnJVU2x6dmZycTZRNE1YVTFSYlROMTdzQVHSAcABQVVfeXFMUElHdmhQaUM2STBKWkkxbEhfVUFNVV9PbU82V1B3UW9LZXJmY3ZzSDBxdzEwaTdKS0NZdkpuX2JnckhoanhGc2MwUy0wTWg2MGR0RWtaX3hvM3VSWHRDc3l1VlRVcTQyVGlCNHh1RnJjZ0U0NEFOQkdnVkRMNjdqcEJHR1JiVW1ZT3lhaURkOFZ2Y01IdjRObjNSWFFpdG1MU2hVNk9pX20xNDlLaWJkRDVYN3ZUbjFXMUhuSld2UXVR?oc=5",
+    "title": "What is the row over Karur ‘temple land’? | Explained",
+    "title_ta": "",
+    "summary": "What is the row over Karur ‘temple land’? | Explained",
+    "summary_ta": "",
+    "date": "July 15, 2026"
+  },
+  {
+    "id": "kar-jul15-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
+    "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
+    "summary_ta": "",
+    "date": "July 15, 2026"
+  },
+  {
+    "id": "kar-jul11-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHZyc3ZBc1VxLVI4dWtUT0tDRy13WE5Zd3RaeHF6MlNVS1YtSWFQZzQ2WmxsM3FObUNiNFFDSXROZkRySnB3STE4ZFU4UDNVZ0tsVUx1ejB4QlhRakFGS1NuaWs0VlRNMVZpMWl2Vm9XN2t4T0lkNGtMRG84Xy1BOTZlMW1CS3BFMjUxdFM1LVpQU2VsWTlKemlIVE5qQ0t6ZjVnQ0RDc2ZnZmN6dlNDcWVTZFQ0eTVvaTBVdlpkazZoOXFUUzRCS0tfY0xwZkZ10gHWAUFVX3lxTE5Yd2R1MWR4T3FoU2hGTmlKUEtHS2tha1dfNmVlMWNCc010eFZNNjIwNlAzUGVtWkp5UDk4bjh3cGdiNGY1QS1QRzU1MDkyMks2eG9velBtUGNhVzBPWEIweXpld2VxLURSeC14Ui1aMmM5SmMwRnJ0bHRyYWFkS2JBYzZNWXJPbElqdXgxakkxbGdXanZqM2twWUZGa2kwVmRka19DdUc3Y0ZDRzRJa1FjUlZHbmpCc0RHaFdrOXl6VHNmR0d4NWhaXzgxd2JWVElQMUNjNnc?oc=5",
     "title": "CM Vijay Hands Over Job Orders to Families of Karur Stampede Victims",
@@ -104,42 +140,6 @@
     "title": "Vijay's Karur visit updates: T.N. Chief Minister announces memorial for stampede victims on behalf o",
     "title_ta": "",
     "summary": "Vijay's Karur visit updates: T.N. Chief Minister announces memorial for stampede victims on behalf o",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul9-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTlmbm4zTHBvZnJQemtscmkxRThjY0piZmsweGxiZHlQNDRHczdnLWptZkJYMC1lVmlhOGhWQTEwb2M3U21ycmlsVUNQV09mWF9PQWVHZHhGLXV0Y01ZZ0lUS3NGQ3hqbkxhS0tvSzd2dkFRazlGaXlHSDFEU2pvYlpmRXhpN1V5emNUeXM1OFk1bXlWdVdWeUREVEZVWVQxeXZVVWE1Q1ExNE1FSkxUR0FSb3pmbUdmV01iTkhOWFlpNjhoaDNIdjhGaG96TlR3bEY3Ym1kYWZGQUJfb2l4T3UyN3JWLXNxLVEwTzdqZk81NE0zYmZSeWRPRdIBggJBVV95cUxOOGhmbklpc25xY0hYUmRYWGhlbVQ1RDZyRURwTTlmUkpzdTNnUFN1c3I3OUVSYXRVRmZnUjVqeHJkTW9yd3BoaHFkOTdsTTlteEdLeF9YUnYxaEt1XzZkS3FpeXM4LVhDRWJSQjFzQ1ZGbmtGc2ZsOGNQbElqQXNySWlycThoVTBVTW1QVXVXOUVhWm5JRmFVN1h1UE5hUzBWZTcxdHY4dk4zMlB0Q1NRdjNKajBwbTJRTjdpV3U5bXJNSG50d21oOGhvcjlnelhGQmdrNXpoV1RYNVlyclR3aU4ydFl6VUNsOEdpbjNzdlplclgybV9UdDdWTzR4UTh0MUE?oc=5",
-    "title": "Tamil Nadu CM Vijay to distribute govt. job appointment orders to kin of 32 Karur stampede victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay to distribute govt. job appointment orders to kin of 32 Karur stampede victims",
-    "summary_ta": "",
-    "date": "July 9, 2026"
-  },
-  {
-    "id": "kar-jul10-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2p0UVo3VVdERk5DMUZ6OGllR0dCOUllMUpiNWVUajJRM2xnWE1kUlljLWJSWGt1cnoyNVpUa3hGR2RIdnZMUC13Vnd3QS1YWFQwdVNQRXB5UXBmZ2JXcDg3VnRnTE1EWDVXZXdtWXEyUlZFUGtVajMzNVhLRXpsQmFNbGdVSkhWWmNXbmNsY1ZiRTBUWGRTbDBXdHRoM2NyTkJIZ1dRS3Mza0ozcW9RNmdnRFJjLS16enQ4NTB3b0FUUkNqdEJZ0gHPAUFVX3lxTE1LN2JnbWNyazQ1VDdYMlhQZFozNEhKNkoxMjZVV1h4cHZKTG1oQ0JkcjljaWx2aTBzTzlTN1FRdmZxUGR3c3pGZnNkQkRSVWd4ZENucERhYXNuMFc0TEtkSlJfcGhxa2FZUWdIR1JQSjVoUlY3OUJ3d3AzMTBWSF9CQURmUHdWQ2Y3TlVfRDBvX0tPZnB5bjJDOGc4TEVaVmM1S0hVdFJnelBMVWpJNmg5N284OVhwdm5CY3RTMnZMMld5dDF6clpzNF9BWC1LTQ?oc=5",
-    "title": "\"I Trusted Cops, They Put The Stampede Blame On Me\": Vijay In Karur",
-    "title_ta": "",
-    "summary": "\"I Trusted Cops, They Put The Stampede Blame On Me\": Vijay In Karur",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDI4SUJ5VUFmTFlwbXlVTjBxMEVSUmhBNnp2VFFFY19VeUprSE53MlVQTHVFVUM5ejhnc0xDN1QwZmZhOVZZaGx5Q1FJUTlZS0x6T1dWZTJ3bjVBcnhxZnh2dGhZbk9NR2dYZlQxWTBRNGxGNnhsckZNR3dydWhEZW5CcGludVBHU2otbVlBX21oeWNFaG9mcS1hR01vTk84TUt5djduUndSTDNRSzNCMEZJc9IBuAFBVV95cUxOZlhBSDlkUWhtVm9QN3BCRnBXZmR1cHN4bUxQbnJtQWtOWVFvTkNTRFpJZ3JnVVlfSWxiLVBLcHR6Z0NCeENvZ1c4MFIyN09xNFpsVERLNF92aHRQYnhpa2FaU3JhLVdubng4MWNGUnJvNEVNelJNUVFsZ1Z3Y2xhdlV3N0xyQk1DNzE1SVNrcmwtTm5wSV9ZQ2tBZTE3TFRleGlWcnNKSElCRE9sYlEyZ205azhUbnhH?oc=5",
-    "title": "Tamil Nadu CM Vijay Breaks Down While Meeting Families Of Karur Stampede Victims | Video",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay Breaks Down While Meeting Families Of Karur Stampede Victims | Video",
     "summary_ta": "",
     "date": "July 10, 2026"
   }

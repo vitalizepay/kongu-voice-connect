@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul14-003",
+    "id": "coi-jul15-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZGNraGNtTWR4eW53Vmhpd1U0NERoUzZyU3lsM1FOTlBZVVhpdzhyMmtpanExZ19oUVEyMjc1TFotblpGYWVTR1c0R1N3NVZrNXV2aG5rbFlVLXNQa0lsNG9sWDdvZFBsNUYwRXVLR1pFZWcxak5aVXVtNUtjR0Rqb2xLeG5jRWFYUWozSEdNQ3g2SkxNSmZlMHl0Q0xzc2dOZ2xPOGZ0UUs1M3AyWnRxRlRGbk1GdEM0cWVoMkRORmFydlRISHpEdw?oc=5",
+    "title": "Ondipudur, Coimbatore South, Tamil Nadu, India",
+    "title_ta": "",
+    "summary": "Ondipudur, Coimbatore South, Tamil Nadu, India",
+    "summary_ta": "",
+    "date": "July 15, 2026"
+  },
+  {
+    "id": "coi-jul14-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamFUNmpKVElmYkpsYnBOYkhnQ2k0aE9oUkV3M3pWeVlvN013c3RVNXR3VllrTHBIeGxrNjhxNzZlYVhyY0VWOGpUNVU0UmZSWC1HZ0RlUGZBYmNRREtYRUNFZDNpMVozaFk2cXJsbVFoUjc3SFliSWUwajI4UG0yNThJZ1NlcVRCY25Zb0ppVEJyWkNHN3k1X1F5aUdrcFFWdGRBenFtd1dZNGFWSXlPZVozRHZIZ9IBwwFBVV95cUxNYU9aQUZtekszUUZHNlhtbk9zU19iVFEwT1E1clNXeWg0SkZXNUc4OVQ3a1ozQ004dEJxa3N0MVVtUTBpanBIZktVaXJlSFMxcVYtU1ExU3R4R3FoUW9kMG1pZ3NNc3BPNVJHRVJndGZxXzBCXzhCWGtWUkF2YXJuMlZmTDBHNGNLWElvSnJhSFlMQVJlZjEyLVdZSlY0LU5KVmh5TzlUYmxqWjZEZkY5VjFSeXVjNkhnVkNZMUJqWGpvQnc?oc=5",
     "title": "Vietnam boat tragedy: Bodies of Tamil Nadu victims arrive in Coimbatore, Tiruchy",
@@ -128,18 +140,6 @@
     "title": "Zelio E-Mobility Expands Manufacturing Footprint with New EV Plant in Coimbatore",
     "title_ta": "",
     "summary": "Zelio E-Mobility Expands Manufacturing Footprint with New EV Plant in Coimbatore",
-    "summary_ta": "",
-    "date": "July 13, 2026"
-  },
-  {
-    "id": "coi-jul13-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPOGhDank3Zmx3QmxpUVR4SUpwMFVyb2ZPdlpUbWN6eFZxb3p0YW83TlZoQjBqeHc2Xzd4bVVmWlMtaHE0M2twcmRaMVBvalhIR2w3bnY4LUZDRjFnV2JMSXQ2dUhuR2xtTHBaVHBoc1pyWFlCUjJidjR0S0poX2hlN0RiekhzSEU3YUM5WUc1dzN1dU1ySjU3dzhXdGYxSUEzdWNqZ3JKRThFSFJPZExuUUxMYWRhZnZ2Nm5aOW01alkyV1hfRzVjZEJWc1RqR1V5X3JJRjdPUG5BWlR2TVkwZDdVRENzOVNmbGp0b19oNlhhYldpN2o3QmtWOVNqRmxfVWowMXh0VjBQVEdYR0JCZm80d0w2TVkxRjVkVko5aEQyZ3lXMUF3dGVKU2M2X2JyUHJ4cnJWTUFzYTVKYlBPOTE5UGhmTThWNlgwbXdUN3VrZmx3aXfSAdsCQVVfeXFMUGNURTFFb0hCLWwzSGlFNTZGZjZRRkQ4LV9DckVOM25ZS1E5dmFQRmRWSjN4MmxmMTUybEpUN0ZlWXhDZHFpMFdNRkx6ZlUyOE5Iel94VmdCMTZhbGJmSGZUNnMxcUxsejMyX2oxcmFzVXB6V3VVZXhXaGpDSXNHSVV0V3R3b2d6YzcwYkhvMEN2M0ZBb0pHNmphSVVuMG1CVE5PVXVaNlBKeFBIMTJ6TUVDVmFfWENBQldpSThmczVmV3JkQTB6SVFudTRXTHFJS1BPak1mS2RpckpFbDREZkNIeU5naTVlMFp3eFFGMmxMYjhKRnhQYU1rSGdKMEMwZHZZZmF3bGh1R2xxTGdyX3dHM0lnZGhmX1lJUE05NHZqNmdjRTVYQ0NxdGJYdnBiYXk3QTNRQUNTZTdwMG5yM1UxUGVzQ0FkZnlRVXEtRUxPTXlHNFZPYVdsYUk?oc=5",
-    "title": "Inside 'Ramayana' actress Sai Pallavi's Tamil Nadu homes: All about minimalistic comfort to heritage",
-    "title_ta": "",
-    "summary": "Inside 'Ramayana' actress Sai Pallavi's Tamil Nadu homes: All about minimalistic comfort to heritage",
     "summary_ta": "",
     "date": "July 13, 2026"
   }
