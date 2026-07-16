@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-jul16-002",
+    "id": "nam-jul16-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUEhNTk9rZXlrU3NYRzFkM1cwNTJvakt5dHlRQ2h1NmtJQmhRTDN1RVVQVG1tcnFfRWxrS0hsbnFMVXhxazJieDNLLXFqOFhocWN5OFJJTFRPMm9DeGhvUmFpWkJ2N2J1Y3Z3LVFzSDVWRURDc2JqOW5Fd1VQWlJsSVpNVzFlSmZFZFVfREtYUWF2M1poZ0lLdVkwVUdrRkF2S2RPdG8tSi1hVUtTQXA4NGtPdFJ5a0VwMEVGMHNSbmJYRHhPM054cURmeVN4aDZ3VHR3QTJRVEtiZGR5cTB6T0JBVmxTY0RpQk1mQTZwNUs?oc=5",
+    "title": "Tamil Nadu all Schools and Colleges Closed on July 28rd and August 3rd District-wise Official Update",
+    "title_ta": "",
+    "summary": "Tamil Nadu all Schools and Colleges Closed on July 28rd and August 3rd District-wise Official Update",
+    "summary_ta": "",
+    "date": "July 16, 2026"
+  },
+  {
+    "id": "nam-jul16-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10ajNHazgyenZDaUdDNkpYRzdOUXhMcjdIZHR4RnV0aUJKVFViaGdHTExQNVBiRG16c3RQTXNROUV0TXRHNHAyWWhoOUxtbjY1aG14RUZmUTEwWnIwYnlRaU5vczJlZUJvR1FzMHctUQ?oc=5",
     "title": "Egg Prices Hit a New High; Namakkal Procurement Rate Raised to Rs. 6.80",
