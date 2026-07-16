@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul16-001",
+    "id": "kar-jul16-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnRMREVsNW1JUnJYUmgxai1WMk1DQzNvVGpDQ29FbkE4NU11TkE3MmtnSFFRdFpUNll1Sk9DcmstNzNGS1dkZ2ZfUUxhdzdsb2t1MXVMQmpXVG5lWUpTelQwcUtDa2xMWF9fUHVGZGV4YmZlQU1QTmxRSVkyRUtkWHAzVV9zMm9TUTdoZHNZVHZLSmdLVjFmVHlvVndra2R0OGkwdFZmb3loUVRSXzNzZU5FWjJVdGJERlEwY2ZmbjMtNnJ6TkY2Ml8zLXpBNVVrTVRZelRFOWUzc1k?oc=5",
+    "title": "Tamil Nadu Fire: Massive fire erupts at Karur municipal garbage dump, thick smoke engulfs area",
+    "title_ta": "",
+    "summary": "Tamil Nadu Fire: Massive fire erupts at Karur municipal garbage dump, thick smoke engulfs area",
+    "summary_ta": "",
+    "date": "July 16, 2026"
+  },
+  {
+    "id": "kar-jul16-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1NVbDR4ZV8wbUhnQlR6SUJhYl96aEU4ejZxdUlYZTc3Mjkta0lubERXMUNmeVhiMS1Vcjh4NUJSZ2stSWVhTGxWZklLMFp1TmxBS0dqbGVtUXBzR3N5aXphZlRNVXFHU2JwMF9rNVZ6eHRGMWtjWXVIcHVNbVpqN1ZsR0c5Q2phMGZkT1lVVnByVnFJOFVseGdxSm10SFlDQURYOUo4bWt2UFNTak1vcnFySXBKS1drYkVBM2hCUlFCSGVYd0psaE9MMHR0Mk9oVzNQYjlKRWdkbm5WQmFhU3JR0gHnAUFVX3lxTE9wc2lXZUV5TW5qVHNUY042UldsUF9fZGxDU2NhcmFELXBnSWNocUpqcWZreEdxWlBUQmlEVlYyNVhfZ0h0Ty1LbkhnekdBdmNDV1ZTQ0xmSDNYNWYtRE9jVUw0bDU1SFlSVEN5eWtQYzFiR29rWFRqdzJ0c09YUGhUR3FiLWV1X3puc2JleUNTT3F0bTBIaDFJUjlUMEFlQVFhZnQ0VmgzNVVBUWpnTUVQeXdnWDlqNFFySEctWmJsajNkc1EwM1dCUnRPSi1MY3lmZW0xSFVvYlNsZ1dmck9ocGlCUmJLdw?oc=5",
     "title": "Massive Fire at Karur Garbage Dump, Burning for Last 5 Hours",
@@ -128,18 +140,6 @@
     "title": "Karur stampede: Tamil Nadu CM Vijay announces relief push, hands over government jobs to victims’ fa",
     "title_ta": "",
     "summary": "Karur stampede: Tamil Nadu CM Vijay announces relief push, hands over government jobs to victims’ fa",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul10-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclBUelpsVllrblNwZzhqSjRKdDh5UVhCUG5zaE1rSEJLaURheTB2WFczTnpNZnE4SUdidFdiMHpHQ3dPM0JBUS1NVGVVdVUwcGZUOHpYSXlWMXQwem9JYzFPWUw5X0JSQ0ZtNndxbF9PNjZrNGp0VnczQ3BsenllM2J2eVM2b3V6N3o3YmhmR2w4TnA1UVVyaV9nbXd2Q3ZaWk05Mkx3cE7SAa8BQVVfeXFMT3ZQLVRUV29wbUNtbnduT3RZUkdGTW50dUUyOHlDRF9ZMnBkRmhCald0NVN2WHh5TGNzTHdyZmxCLTZNUlFJVHhDOVNPcW8xamdvRnlWTzEzM2dOdmd0ZS0tWW1kY2xqNGR1cVJmZmc3OHU4RWoxREU1SklvcUJLWnRaSFoxZ1dJd09JZXo1TWpfQ29laWZaTzJfcjlFZWdZc3RiTktyOC1QbVFsMldMcw?oc=5",
-    "title": "In Karur, Vijay returned to the wound, governance and a side of ‘kothu parotta’",
-    "title_ta": "",
-    "summary": "In Karur, Vijay returned to the wound, governance and a side of ‘kothu parotta’",
     "summary_ta": "",
     "date": "July 10, 2026"
   }

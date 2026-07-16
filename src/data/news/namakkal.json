@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-jul15-001",
+    "id": "nam-jul16-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10ajNHazgyenZDaUdDNkpYRzdOUXhMcjdIZHR4RnV0aUJKVFViaGdHTExQNVBiRG16c3RQTXNROUV0TXRHNHAyWWhoOUxtbjY1aG14RUZmUTEwWnIwYnlRaU5vczJlZUJvR1FzMHctUQ?oc=5",
+    "title": "Egg Prices Hit a New High; Namakkal Procurement Rate Raised to Rs. 6.80",
+    "title_ta": "",
+    "summary": "Egg Prices Hit a New High; Namakkal Procurement Rate Raised to Rs. 6.80",
+    "summary_ta": "",
+    "date": "July 16, 2026"
+  },
+  {
+    "id": "nam-jul15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlY5bUZVSlBnQkdvdmg0dDBXVkUzRkZKRE00MU04b2hnMGFRMC1MZEFOeDdpN1RtNXF5ZHJGOTFxR1lEMU1EVWhYdDFOcUZOMnQ4T1MwajcyN1BNX1VNVjhpS1ZUM2hxcGlFeTRkbHhtdDNGRmhVTDVGY2piVFRzSWh2a0k1dzBPNno3UzhRZnkxZ9IBlwFBVV95cUxQSDBEcHZzM0VqOHVPaWhPajNVVmZfTjFrb202VXNkdU16WVB6Z1lQM2hrOHUtaU01akotbUdGLXhCSGtNemlJM3g3ejloYmM4S2xaRkpaNmpEZTdTdTRueGZhTFMtLXAwc0dab24tc0tRZnNta1Y2akJCZ1U0eG5OcDNMRkxIaWFIN3dfQVRCNm1IU1prZHF3?oc=5",
     "title": "Just Now | நாமக்கல் மண்டல பண்ணைகளில் முட்டை கொள்முதல் விலை ரூ.6.80 ஆக உயர்வு | Namakkal Egg Price",
