@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul10-004",
+    "id": "kar-jul16-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1NVbDR4ZV8wbUhnQlR6SUJhYl96aEU4ejZxdUlYZTc3Mjkta0lubERXMUNmeVhiMS1Vcjh4NUJSZ2stSWVhTGxWZklLMFp1TmxBS0dqbGVtUXBzR3N5aXphZlRNVXFHU2JwMF9rNVZ6eHRGMWtjWXVIcHVNbVpqN1ZsR0c5Q2phMGZkT1lVVnByVnFJOFVseGdxSm10SFlDQURYOUo4bWt2UFNTak1vcnFySXBKS1drYkVBM2hCUlFCSGVYd0psaE9MMHR0Mk9oVzNQYjlKRWdkbm5WQmFhU3JR0gHnAUFVX3lxTE9wc2lXZUV5TW5qVHNUY042UldsUF9fZGxDU2NhcmFELXBnSWNocUpqcWZreEdxWlBUQmlEVlYyNVhfZ0h0Ty1LbkhnekdBdmNDV1ZTQ0xmSDNYNWYtRE9jVUw0bDU1SFlSVEN5eWtQYzFiR29rWFRqdzJ0c09YUGhUR3FiLWV1X3puc2JleUNTT3F0bTBIaDFJUjlUMEFlQVFhZnQ0VmgzNVVBUWpnTUVQeXdnWDlqNFFySEctWmJsajNkc1EwM1dCUnRPSi1MY3lmZW0xSFVvYlNsZ1dmck9ocGlCUmJLdw?oc=5",
+    "title": "Massive Fire at Karur Garbage Dump, Burning for Last 5 Hours",
+    "title_ta": "",
+    "summary": "Massive Fire at Karur Garbage Dump, Burning for Last 5 Hours",
+    "summary_ta": "",
+    "date": "July 16, 2026"
+  },
+  {
+    "id": "kar-jul10-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2p0UVo3VVdERk5DMUZ6OGllR0dCOUllMUpiNWVUajJRM2xnWE1kUlljLWJSWGt1cnoyNVpUa3hGR2RIdnZMUC13Vnd3QS1YWFQwdVNQRXB5UXBmZ2JXcDg3VnRnTE1EWDVXZXdtWXEyUlZFUGtVajMzNVhLRXpsQmFNbGdVSkhWWmNXbmNsY1ZiRTBUWGRTbDBXdHRoM2NyTkJIZ1dRS3Mza0ozcW9RNmdnRFJjLS16enQ4NTB3b0FUUkNqdEJZ0gHPAUFVX3lxTE1LN2JnbWNyazQ1VDdYMlhQZFozNEhKNkoxMjZVV1h4cHZKTG1oQ0JkcjljaWx2aTBzTzlTN1FRdmZxUGR3c3pGZnNkQkRSVWd4ZENucERhYXNuMFc0TEtkSlJfcGhxa2FZUWdIR1JQSjVoUlY3OUJ3d3AzMTBWSF9CQURmUHdWQ2Y3TlVfRDBvX0tPZnB5bjJDOGc4TEVaVmM1S0hVdFJnelBMVWpJNmg5N284OVhwdm5CY3RTMnZMMld5dDF6clpzNF9BWC1LTQ?oc=5",
     "title": "\"I Trusted Cops, They Put The Stampede Blame On Me\": Vijay In Karur",
@@ -130,17 +142,5 @@
     "summary": "In Karur, Vijay returned to the wound, governance and a side of ‘kothu parotta’",
     "summary_ta": "",
     "date": "July 10, 2026"
-  },
-  {
-    "id": "kar-jul11-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEpQZDdRbDZrWUh5aDV5b1Zkb0taZnZjMmlOeXFfWlNFX1F4MlBnTnYxYlFzOXc0S0t3N2Z6LVpLMzl5Mnd1Wm9KMDFubHhqeGx5dlBNUktwQ09hZkVzRWV1TXlrODRieHlwOEZYX0hxVVZhaDB5Qmg4ZjJSZzh0a1IxdmRkUVlPS0lIZkV2cjNEcU9OeVlBNVhENmgyYXNMeU1BZzViSm8teGxWOUQ4dnZ6VTh3MVNLYkZtOUt30gHDAUFVX3lxTFBCcFdrLURPNmR1YUhSUDMwa1Z4YnY0ZVFyYXpfN3VmTGhUbzZ4NTUyYlhvbXR0MWtuYnJMeURiRldLLTBwNk5MZ1d4N1JYZndTYl9mQkFfWXYzMGJRNG53cjJlSllIUzAtdksyRW1hVzJTanRjclhMOUE5YUZsbUlOSzZITGF0SEdrVnNQcTBkdDgyNFdiM1RQZVZ1VGR3clNLbmplVjlhR2ZnZUthTEZQVWM5anJPMW1uRVhJUG1BVl9XNA?oc=5",
-    "title": "DMK's Kanimozhi Hits Back at Tamil Nadu CM Vijay over Karur stampede remarks",
-    "title_ta": "",
-    "summary": "DMK's Kanimozhi Hits Back at Tamil Nadu CM Vijay over Karur stampede remarks",
-    "summary_ta": "",
-    "date": "July 11, 2026"
   }
 ]
