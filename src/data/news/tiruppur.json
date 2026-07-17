@@ -1,50 +1,26 @@
 [
   {
-    "id": "tir-jul10-001",
+    "id": "tir-jul17-001",
     "category": "News",
     "featured": true,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcjRqZHQ4M1dPX2lTQWtwRGdxZVdvOURGTnQ5a3QxNlZLWWZRYl9nNkNZLTZaaDlKNE9rZGllM3A3eW5oazVIekgwUmYtRUJlOEpqckRlSmNoYkNnV3ZtNWc4NEc0dGlod0xzWVd1V0dfR045WjlTRUVGbmtSSmhWbUdlSm15TEZRVkt2S0lJbUtwdllBeHlTWEVXN0VGak9XdkVnUUs4aFFaSExZZ0xNUVJOVFV3X1BQSWpLN2syYjc5eTh1amd5SVVmMThTZkxnVUpmWnNZTEFSbG91VlHSAeMBQVVfeXFMTmdzdEpUNE9uek5USExmRzNhRUo3SzdLTXFTV1RHZEpTNHdNMDVqanppZlF3bGR0TXpEODhTdGRlX2stU1lOUnVndnV0TC1hSUsyQ2xOTE9pbkcxcncxWUdDczZLeEVpcjJtQzdtajg0NnZJLUhQc19ZZm92aXdmdzlmaTF5aWJnY3c1VE1qSnhWZ2lMblZDYzktN2dwTklHcHFUMFRfTEllb1VFNmxfU0pxRk05bzUxaHV6Q2xrczNfbXMxempQa19TcVU2ai1GdjJqNmREVUhHTE5hdGM2SUtfcnc?oc=5",
-    "title": "Six Members Of Family Killed As Car Collides Head-On with Diesel Tanker In Tamil Nadu's Tiruppur",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFdqejlXUEo2WXdCdHNDdWlhOXhaMkxUV3JTcE9vY1ltVWk0Y254ODd5eldsYjg4QnNXS0VqZUFJTWhkazQxN3VBM2RkeVR6QmxRRFBxSnhpQWRLd0Rwb05leTV0cmd1eTROaDRidUNIOHFlS1gzdEVsbXNmM0YtREg0U0d4VGdmZktEN3Fn0gGbAUFVX3lxTE5wZC02cEFLTFljM3F2Qk5UQXV1Z1I1djFCUUR1RXFBWUJvaFFhSFlwcDlubDVaSVc2MkJfXzJQamxfWTNtdzlwQzJPellqemRQbW9DeEJIamZxQkhaazFzU2FnUy0xU2FGeFZKOV9TMUhGY0pvVGQ1ZmYwLWFsS3lvUExDTkZPdUJIRERYU2U2Y2pTSmFnSzRLVG5N?oc=5",
+    "title": "Two Onam special trains via Salem, Erode, Tiruppur",
     "title_ta": "",
-    "summary": "Six Members Of Family Killed As Car Collides Head-On with Diesel Tanker In Tamil Nadu's Tiruppur",
+    "summary": "Two Onam special trains via Salem, Erode, Tiruppur",
+    "summary_ta": "",
+    "date": "July 17, 2026"
+  },
+  {
+    "id": "tir-jul10-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXRCekRIeEh0Mkk1dEViRFExMTNaVTBVdVc2dFhGUGc0dmRFMlBQQnJuWXdsRjlBU21yUm1yYncwbW5iWmE3RTk2Ymd1bUM5TzNpR3pQMUZ4ZlRJQjBDTFRRTXh0bWdFWUhvNmxQZDJxSExNZ3lOZFRza2ZmYlhvVm1NZWFFUXp1TEpoeUxMaGtoVzkyUUlnNW83dTFJa1JIdkNJTGtqLVlxUmwxODhxTDBwYUJuMWhMWnhLc183NzdqcktiZFRtSXlPM0N0QXPSAdYBQVVfeXFMT0FTTm5jSGkzTDFvUklUblluVnhObmNkWnhORVpsSjVtZDhVVFNPUjRESzlpWG5rd2JHWDJXamYzZ3FabFdOVmZYZ05kVllNS0FsaUZwMHM1UlJoS0ZlZWZGTV9ZUWVSUllmejVhOXg5VzNHSVc5TklrOE5EM3A2TXlSWDNVY3JaM0JoVUVGdFU5amlVWVN1VVFRQWJJUGtlb2xrRVpGVmd4b3hPdWFSZUkzU093VWxSNjBxNl9tbjZ0N0c1ZXkwcWFsWjFodkxLSkxSU0Zzdw?oc=5",
+    "title": "Six of family die in car-lorry collision near Uthukuli in Tiruppur",
+    "title_ta": "",
+    "summary": "Six of family die in car-lorry collision near Uthukuli in Tiruppur",
     "summary_ta": "",
     "date": "July 10, 2026"
-  },
-  {
-    "id": "tir-jul10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclJubktlalRzX1E3aGdrQXBTb3VFQ3k0elJCY3JrcWtBdGQzTmo1ZjJNdHlucGNtMEx0Z1h4RjEtcjNkbDRMZTlJdXlhamZqbW5XLU1iQzlobFE3d296Vmh5bkVZWUFfU2Y0b3ZlOWpUcXZBbE5zaFFIUmRlVnVqOGNwYXkyZ9IBkwFBVV95cUxNQmJXSDdBZElWa3ZBYngwSXF6bEl3TUpfYjdZS2xWaWRPYjZWamdyNk9fcXNiZEFWUEkxVHc3ejZGZnNjbVV2QXRUcDdlaG1leEhGOWFBcFo1c21wNkZ6SEVQZVJrZXlmWWZ6Mk1heTFmYzJ2TlRrNFFadWt4czc5VGtYZDN3TnExdkZNRkJ4bE1kT0U?oc=5",
-    "title": "Tiruppur to face Dindigul in TNPL 2026 opener",
-    "title_ta": "",
-    "summary": "Tiruppur to face Dindigul in TNPL 2026 opener",
-    "summary_ta": "",
-    "date": "July 10, 2026"
-  },
-  {
-    "id": "tir-jul7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3Z3eUdFMFBvQ2ZKS2Y0TTFpY01HVU5nSEVxQktGY3dUdXZHM2VTUUZKekdpdFRvdjlKM0lUQU9JbHMyQi02ZEw2VXRhV2J3eHp6dXdBcVNDMzRIdHU1dXpENDlXYmhNWVNFd0ZHY1pxZkdvU3JwTTBkUU1UazA5TXUyNXZhbmdsTTdYUEZsOUxiallHS2gwM2xnUnU0cjNka2R5VmE2SlRVeDZKZ3hkQWE1cFhBUVNVTjJqYjUzUUZWd9IBzwFBVV95cUxOM21lckxhZ3h0NE5pbXlLc1NoSm9EUDlLSnlMR0VmVFFQVzMzWjRYNWNYajMtbnlKckVmTVI4LUVHclJRenNPekg1ZktRYXhqbDB1ZWdTZS1OVG1rbDBycnU1eXY4VVhfOFdZVGYwYXJqMy1oaktUOU1DUHJ1MmJXak1yblF3bVg3U0s5X1MtY010RnlYbnNHbG9nLXZ0QmFWdVdiUWhOOVZsRTBxYlJaWDNwcGZVZVBQVHJGdjhMWjhIZlJBQ3hzbko2QjhCc2s?oc=5",
-    "title": "Lawyer Muruganantham murder: Eyewitness hospitalised after brutal attack in Tiruppur",
-    "title_ta": "",
-    "summary": "Lawyer Muruganantham murder: Eyewitness hospitalised after brutal attack in Tiruppur",
-    "summary_ta": "",
-    "date": "July 7, 2026"
-  },
-  {
-    "id": "tir-jul5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQLWlzRGpVOTQ0ckZMWVhnNVlvYU1PUWthcm9ENVVXZTZibjBfUkdOc25PLWdxeXVpUkdOOGVYMFJnNmZWdGQxRjgyeTFBSHZ3alo2cU52LWsxT2RpbERRN0tER2RDek14cy15Q0d6NGJadG96VWJzZ2pPTEdLMFM5YUFYd0RObDZiN3BmbTNDeWxxai1OS1VvSko2Z1lrVFhHZzRlUERmTk5QWG9sME81TzhQUngxbWxJYWFDWkhZdnczTkczcl84SlJmdWdsUy1Vc0FyLWV0LXlXU3dJUXEyY1N2UWU3Q3NhVzBpSEEwVWVfdWphajZIMWJUUTQ0QzNkZjV5Z05ubUxIUG4wa2lER01nbEgxNEo4Vm02RTBWRk1HTm_SAaoCQVVfeXFMT1dUSFFNX2ZYelltblU4WkdTTnJYbzNmNFlZOUdLb0IxdlROcE0tdDMwUUwwXzFGTk1Lby1iV3JXWkgwQlBJT0QzdnJnT1JTbHktU0JwZDBsQ2tIZ1dFX1ZkMDFnRXNmLXE0RzNaOEJ4RVJWbXo5dUtEcGYtR0Z2anJBVEFteHRTZTdQX2FNNXdBNnRBZ01la2FXRDF1eDFwR0xlaVNVcktITXRHU2VOUkp2TlBhcGkxSTJwREVWemR0eUVteGhYdnBxR0pwTnJzd0J2Y2xXeEl2aHQ4Uk1sM3FFNXZKUmhnaHd6b3oxZXpyRW9Jd3p0SGs2UXlla3JfTTNzNXI4Nkl1U0Y4eU5OV2ZqdWdBLWg1YXcydDhubjV6TzhfSlg3eWUzQQ?oc=5",
-    "title": "Transport Department to consult Tiruppur with private bus operators on July 7 to address complaints ",
-    "title_ta": "",
-    "summary": "Transport Department to consult Tiruppur with private bus operators on July 7 to address complaints ",
-    "summary_ta": "",
-    "date": "July 5, 2026"
   }
 ]
