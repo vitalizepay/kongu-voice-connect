@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul17-006",
+    "id": "coi-jul19-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEx5MHU3X1hfRmpnVDdzOUpIZklCRFlmR2dYdEpUOC1LMzVUcWR6VmFpZE5QZjJYSmhORHdBNGhxcVNtNnFmZGI1dWh6bzNkOC13ZGV1eGhJb0QzczFKa0lVT0M0ZE9PTVVGR3YxSDBoRWVwSTRSMzdLdDItY0xNSVhMenpaajNLeVhoYll5RWlxMmVNM0VoWVlyR0NKLUJFeDFMVXVkVVFzbGJRZXVEZ2xKLUVUU01JVlltelp4TWtVOU1r0gHKAUFVX3lxTE1NSzd6YXM0TXloTlJVb19pTGNFVXFnSlhLWGZRNW4taHFlNWM0c1dIVmNRaVAxMWFXZXNMSlh6eTBjbmR4M1NsV2N6MDBRTS16Zmtudkk5aEJtWWl4WnNTMWFGel84eExjbHljalVwMU9tRS1xMHBoZlI0U1ptTGh5SjMzRFUtUnZ6R0hya2FvMXNRLXNibUpmRkE0UGVEYzI0U2t6MHZ3VFVxOWwyWUNWejNfMDRaNzZfUWV1aVdlVXBDYVAyVjVQMGc?oc=5",
+    "title": "Policeman Arrested In Tamil Nadu For Sexually Harassing Woman During Patrolling",
+    "title_ta": "",
+    "summary": "Policeman Arrested In Tamil Nadu For Sexually Harassing Woman During Patrolling",
+    "summary_ta": "",
+    "date": "July 19, 2026"
+  },
+  {
+    "id": "coi-jul17-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Coimbatore students create giant football to promote anti-drug message",
     "summary_ta": "",
     "date": "July 17, 2026"
-  },
-  {
-    "id": "coi-jul14-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeU9FY3kwcU01eEdydGJfZ1VsaUNpS204ZXM1Snd3dFB2TFVKWlpHYXFPLUhSV1ViUHhsb3hRUDVjQ0xJODZZNHhYWk80X3NrNlRDRUVfLTZDUGhPZENncENhMUdaUFlQNWRMWUU1MnRGcllxdUdYWG5Ca2lTUVc3Sm5OclB2Q1E2VzB0YTJNOFJ1SWZXa3RBdmdLS182aEVZUVR5dXpxcEstLU1ZYWxVZXRfck9Ma2xBV1BaS0R3Nlp1ZHBHbDBNQnJsalXSAdIBQVVfeXFMUFc3ZnJOaGRJZWp1aURtTFhZSjNjMXU0akxIbDU0cnFtelB3dl9VZ3lsclVrWE00MEMtZkQ3RXgwcnlFLVNWOXk1RC1hX09yTUhNeFBKM0tTQVBiMjJGUGhUS2U0X2JmMTFCaGFjUUNEVjAxeVQxekNTMzFVWWZqV1FaWUtub3dqOUdxdlJuQlBPOThqc1pKOWNwdFdKUzZPdEdHcm5mMklnSV9vQVVKVHdSRVFUcExGQ2tEaWtZeUpHRnZMRC1sTXV4Z3BzeW83Y21n?oc=5",
-    "title": "Mortal remains of 6 Tamil Nadu victims of Vietnam boat tragedy arrive in Coimbatore",
-    "title_ta": "",
-    "summary": "Mortal remains of 6 Tamil Nadu victims of Vietnam boat tragedy arrive in Coimbatore",
-    "summary_ta": "",
-    "date": "July 14, 2026"
   }
 ]
