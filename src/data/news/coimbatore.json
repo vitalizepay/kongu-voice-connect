@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul19-001",
+    "id": "coi-jul19-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFY0VVZnbUo4NzVhUjdlN0ExcnM1WUJ2dmdxd2hoSVFuLUFJNzZEYVBmZXhrbnZzeGVMNjdXLXllSGU1MTZka2EwZlRLOFVLSF9pOV94eWZBUldvMTBsakFra3VGTEl1LVZNbjlLMmtsRkhqc1JXRm15ajJBb2JRYzEtcHNicmxfdE13NWNCQkhyaDFRa1h3TjNVTWFXQ1FYN3RnTmphdnFGUGxIU0gwY2NnNHloWW8weWhseG530gHLAUFVX3lxTE1PSFgwcUpRdE1SQTY0aFpJSmcxN0l4VnJCV3lvWVhqc1lWeTJqVnliSmdjcm1kb1JfN245Z0c3Z2dsd3FQSXFmalNzRHhFaHdCRzI3SXB4d2hRSUlITFVuMlk3bEVRNFEzZkxIbGVSNU1PNG90ZS1QWko2NUx4M2lJMjFoTTVVZVNNM2FRVUV6YUFNVUpsMlAySkFXNmpXQTdqQVY4UTQ0WWEwUlk0NTdFUVh3VjhMLUw1SUw5X2w2MXFuU1Y2QS1DMENV?oc=5",
+    "title": "Police constable held for 'harassing' woman under guise of interrogation in Coimbatore",
+    "title_ta": "",
+    "summary": "Police constable held for 'harassing' woman under guise of interrogation in Coimbatore",
+    "summary_ta": "",
+    "date": "July 19, 2026"
+  },
+  {
+    "id": "coi-jul19-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEx5MHU3X1hfRmpnVDdzOUpIZklCRFlmR2dYdEpUOC1LMzVUcWR6VmFpZE5QZjJYSmhORHdBNGhxcVNtNnFmZGI1dWh6bzNkOC13ZGV1eGhJb0QzczFKa0lVT0M0ZE9PTVVGR3YxSDBoRWVwSTRSMzdLdDItY0xNSVhMenpaajNLeVhoYll5RWlxMmVNM0VoWVlyR0NKLUJFeDFMVXVkVVFzbGJRZXVEZ2xKLUVUU01JVlltelp4TWtVOU1r0gHKAUFVX3lxTE1NSzd6YXM0TXloTlJVb19pTGNFVXFnSlhLWGZRNW4taHFlNWM0c1dIVmNRaVAxMWFXZXNMSlh6eTBjbmR4M1NsV2N6MDBRTS16Zmtudkk5aEJtWWl4WnNTMWFGel84eExjbHljalVwMU9tRS1xMHBoZlI0U1ptTGh5SjMzRFUtUnZ6R0hya2FvMXNRLXNibUpmRkE0UGVEYzI0U2t6MHZ3VFVxOWwyWUNWejNfMDRaNzZfUWV1aVdlVXBDYVAyVjVQMGc?oc=5",
     "title": "Policeman Arrested In Tamil Nadu For Sexually Harassing Woman During Patrolling",
@@ -130,17 +142,5 @@
     "summary": "Appointing PG teachers for census work will affect Class 12 students: Coimbatore Teachers Associatio",
     "summary_ta": "",
     "date": "July 18, 2026"
-  },
-  {
-    "id": "coi-jul17-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY19Qb1E5T0s2RXVSNTM3bkdaNWRKZFlhVkZZcGhkaFhESW1DX2JyUi1XanBTaFRSR2R3SzdaNWlrQmxLX3lfV2hEN1VwOEVMZVpOUEJHdnFDTWdubFExcExUTXVERXlMYnlCYVVoXzZMNTFnTk4teDJ1LXFhYW5Cemh0M080NFlVdk1TZ3ROV1FlVmFFeHlwUGUzTUotSnBYTFh4M0tR?oc=5",
-    "title": "Coimbatore students create giant football to promote anti-drug message",
-    "title_ta": "",
-    "summary": "Coimbatore students create giant football to promote anti-drug message",
-    "summary_ta": "",
-    "date": "July 17, 2026"
   }
 ]
