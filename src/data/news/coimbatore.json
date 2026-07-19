@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul17-004",
+    "id": "coi-jul17-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "July 17, 2026"
+  },
+  {
+    "id": "coi-jul17-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeFNZUV9tZGFQeDc4TmlRblpfYTlWRXdQcGV6dkZROEcxd1VSUzgwck4yVGVDdUpWNVZVR21vZElwalJVMHY3NmNSOEZVMDk1V2JIcG4tQnV6S1g0dl9SS3BlUldCN1M3YzRTbmZ5NkhIeHJpZ0xocnlvQzFmT2E3ZGtkaHRZNG5BNnlRdjFwVUdQd2pqbzVPVWJuaUI1UDBQb1NyY1lYLW5vRHktRm93NDc3bHl5OWNPSDhDZXFFZWhmQmNCMHkwNkNHM0pXYlNKTExpbks1U3B3d25na0puZTZrNXpJUVc0RXljMFZpTWlWVlhTV1hpWFR6VDFubF9QOFNmc244RmFwVW9uMEVIaHRtTmE?oc=5",
     "title": "Tamil Nadu: Two arrested for allegedly cheating over 500 job seekers of ₹7 crore with false overseas",
@@ -130,17 +142,5 @@
     "summary": "Mortal remains of 6 Tamil Nadu victims of Vietnam boat tragedy arrive in Coimbatore",
     "summary_ta": "",
     "date": "July 14, 2026"
-  },
-  {
-    "id": "coi-jul17-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVnNYQXYyTGdVOUxxSURhUjVtMmwzSWV5TnpmTXZiSDQtNjBqMkQ0dW5ZUHlGVVVhZmtCRWFTYTEtaTNLdzlvQTZwWHptOHVTWlR5ZUY0OGFCWHgwaU5HcFprTUFST29DUmRQemJmRFlzSFZockF2UC1taXZFWVFGZUFsWkQ4RWQ0MVlPRHJqYmlBRENRMU9lXzdZUm9PamR2MEdjV3kzam8takdjQjNGTGpnV3ZJeTVYNENEVjZtc3pyV1NiamJRWkFFS3pOeHRBTFBaV2kyUHc0a0dFNUhaTG84WUc?oc=5",
-    "title": "Coimbatore: Students promote anti-drug awareness with giant FIFA-themed football installation",
-    "title_ta": "",
-    "summary": "Coimbatore: Students promote anti-drug awareness with giant FIFA-themed football installation",
-    "summary_ta": "",
-    "date": "July 17, 2026"
   }
 ]
