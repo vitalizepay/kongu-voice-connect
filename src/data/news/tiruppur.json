@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jul17-001",
+    "id": "tir-jul19-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkN6UU5pbTRhbnVfdTRsZE1EUkk5dVVvenF6SHJ1T1hBdUNEWjlmUG1kUUJoZmNnWl9SMmFIVGc4bnpDTF9NaDVmQWNzSzNQYjZ2TlVjcVdDYjBFaTdQelBuQm5JbXdWTXRqeUZIeGxrMmNpTEFlSmtnaUNmUm1JSjNsZjJtLXRDSjd1dkZjVmlmTm9SVlF1MHpBRXJWNXhnZl9JaE1haDgxbDJoWmpxTDJfLXV5REJwR3lqNkJic1VTSHI4eUdLOWJSMER2Q1hyamEtcmhuaW95TGvSAeABQVVfeXFMTjdVbV9keGRPUW10NjBfdmU3LVlJeTQxYUVEdWt4NktBTU5iS0ZoaVpKRkZQN0pZNjNmTy1BeHItYnhrV3JHbERzZEJRMFZOaGtLUFVxXzVoZmtkQjhKOGFzNjkzSGJnaUUxbVdxSE9lTGI4SjR4VVVkUWptVHNNRERXSjgwZUF0OFZERHlab01TdXlNRUgzMFdGXzJ2MWgyOGpROW1DajEyZGZncTdET0ZxOFZNaVJjaXFJVDNQUENLM0F2Q1RuMmVZRlFUTzIweU1OVHN3enJjQWhXYUlreTg?oc=5",
+    "title": "Tiruppur knitwear units work overtime for CM Vijay's farewell film 'Jana Nayagan'",
+    "title_ta": "",
+    "summary": "Tiruppur knitwear units work overtime for CM Vijay's farewell film 'Jana Nayagan'",
+    "summary_ta": "",
+    "date": "July 19, 2026"
+  },
+  {
+    "id": "tir-jul17-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFdqejlXUEo2WXdCdHNDdWlhOXhaMkxUV3JTcE9vY1ltVWk0Y254ODd5eldsYjg4QnNXS0VqZUFJTWhkazQxN3VBM2RkeVR6QmxRRFBxSnhpQWRLd0Rwb05leTV0cmd1eTROaDRidUNIOHFlS1gzdEVsbXNmM0YtREg0U0d4VGdmZktEN3Fn0gGbAUFVX3lxTE5wZC02cEFLTFljM3F2Qk5UQXV1Z1I1djFCUUR1RXFBWUJvaFFhSFlwcDlubDVaSVc2MkJfXzJQamxfWTNtdzlwQzJPellqemRQbW9DeEJIamZxQkhaazFzU2FnUy0xU2FGeFZKOV9TMUhGY0pvVGQ1ZmYwLWFsS3lvUExDTkZPdUJIRERYU2U2Y2pTSmFnSzRLVG5N?oc=5",
     "title": "Two Onam special trains via Salem, Erode, Tiruppur",
@@ -10,17 +22,5 @@
     "summary": "Two Onam special trains via Salem, Erode, Tiruppur",
     "summary_ta": "",
     "date": "July 17, 2026"
-  },
-  {
-    "id": "tir-jul10-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXRCekRIeEh0Mkk1dEViRFExMTNaVTBVdVc2dFhGUGc0dmRFMlBQQnJuWXdsRjlBU21yUm1yYncwbW5iWmE3RTk2Ymd1bUM5TzNpR3pQMUZ4ZlRJQjBDTFRRTXh0bWdFWUhvNmxQZDJxSExNZ3lOZFRza2ZmYlhvVm1NZWFFUXp1TEpoeUxMaGtoVzkyUUlnNW83dTFJa1JIdkNJTGtqLVlxUmwxODhxTDBwYUJuMWhMWnhLc183NzdqcktiZFRtSXlPM0N0QXPSAdYBQVVfeXFMT0FTTm5jSGkzTDFvUklUblluVnhObmNkWnhORVpsSjVtZDhVVFNPUjRESzlpWG5rd2JHWDJXamYzZ3FabFdOVmZYZ05kVllNS0FsaUZwMHM1UlJoS0ZlZWZGTV9ZUWVSUllmejVhOXg5VzNHSVc5TklrOE5EM3A2TXlSWDNVY3JaM0JoVUVGdFU5amlVWVN1VVFRQWJJUGtlb2xrRVpGVmd4b3hPdWFSZUkzU093VWxSNjBxNl9tbjZ0N0c1ZXkwcWFsWjFodkxLSkxSU0Zzdw?oc=5",
-    "title": "Six of family die in car-lorry collision near Uthukuli in Tiruppur",
-    "title_ta": "",
-    "summary": "Six of family die in car-lorry collision near Uthukuli in Tiruppur",
-    "summary_ta": "",
-    "date": "July 10, 2026"
   }
 ]
