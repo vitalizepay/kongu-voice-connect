@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul19-002",
+    "id": "coi-jul20-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5na3U4cDI0WHRuZjRRSl83cE01Qnd6dW55ZHUtbGRNUDdLY3FTeWVJTF9NaUJ0aTNxTFBjRUtZM1c2VVZJcExRYl9uQnNKaGdIbzZMLURlM0hIWUVfM2phTGtadVhiWlhsZFpRUVpwYmhvcWlKanYw?oc=5",
+    "title": "Pudhur House in Coimbatore, Tamil Nadu, India",
+    "title_ta": "",
+    "summary": "Pudhur House in Coimbatore, Tamil Nadu, India",
+    "summary_ta": "",
+    "date": "July 20, 2026"
+  },
+  {
+    "id": "coi-jul19-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFY0VVZnbUo4NzVhUjdlN0ExcnM1WUJ2dmdxd2hoSVFuLUFJNzZEYVBmZXhrbnZzeGVMNjdXLXllSGU1MTZka2EwZlRLOFVLSF9pOV94eWZBUldvMTBsakFra3VGTEl1LVZNbjlLMmtsRkhqc1JXRm15ajJBb2JRYzEtcHNicmxfdE13NWNCQkhyaDFRa1h3TjNVTWFXQ1FYN3RnTmphdnFGUGxIU0gwY2NnNHloWW8weWhseG530gHLAUFVX3lxTE1PSFgwcUpRdE1SQTY0aFpJSmcxN0l4VnJCV3lvWVhqc1lWeTJqVnliSmdjcm1kb1JfN245Z0c3Z2dsd3FQSXFmalNzRHhFaHdCRzI3SXB4d2hRSUlITFVuMlk3bEVRNFEzZkxIbGVSNU1PNG90ZS1QWko2NUx4M2lJMjFoTTVVZVNNM2FRVUV6YUFNVUpsMlAySkFXNmpXQTdqQVY4UTQ0WWEwUlk0NTdFUVh3VjhMLUw1SUw5X2w2MXFuU1Y2QS1DMENV?oc=5",
     "title": "Police constable held for 'harassing' woman under guise of interrogation in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Mortal remains of six Tamil Nadu tourists killed in Vietnam boat tragedy reach Coimbatore",
     "summary_ta": "",
     "date": "July 14, 2026"
-  },
-  {
-    "id": "coi-jul18-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONW5zLXZ6OFg1YWd1dTZrdE1JRDZUNlItbmZFbWlHT3MwOXdlNWYzWjJYV2t2VDc3QkxTRWtSY3Zad0FlTUpjX2UxNGdoQnBCN1ItTVhwRHJGYnNmUUloR0t4WDduZzRRaDNHcGhFSENZdDZ5cElCY2o4WFpCZlMxeHQ1T1VpYW54dGlSN1doN2lEcm02TFF1b01NWTNsOHlUWTNOVHlXSFZsZ3FYSTRUQ0pxclBRcTBJaUt4bDlpaUg4MVJsLXJHRnVXSUJxbmd6RDNOdVZ5MjN1ZWJfUTdsaDNZNWc4WVBfZ0RGQkRpX1A0akpPNnfSAYMCQVVfeXFMUC0zb19USzVKazlzRVF4dS1jS3lwd0FnZ295SXM1dUZ0andTMlhya1QyRDM3TWFQMXRhcnNNVlhlc0dEcHRnX0xhd1FaazJtckw3djFRQUZrbE9Ed2V0SnZVZDI1Y1U3aGYwOW13NVVBMVdTQ0c1YXc2N21nYW03OU50SDVGRjZ1TjYwMHdCVHg5WHZJaWY0NEZ2RHYtNE9SVHpoVGQ3QnAxZmtaUndkOUlsOGZjbVBJcGNRZTNGWW5Wd0U5SHZyVnk2MmdDeHRZbXV0OGw0RUtISTlMUDBSc0NJV0Q0X1pWWXR5YnN4VG5PX2RBY3FoS0hFazVrZDQ2eHJaRQ?oc=5",
-    "title": "Appointing PG teachers for census work will affect Class 12 students: Coimbatore Teachers Associatio",
-    "title_ta": "",
-    "summary": "Appointing PG teachers for census work will affect Class 12 students: Coimbatore Teachers Associatio",
-    "summary_ta": "",
-    "date": "July 18, 2026"
   }
 ]
