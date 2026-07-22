@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul21-001",
+    "id": "kar-jul22-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1dXbG5TYVVxajA2blA3dVczb2N2ZWJXejlGU2V2azN4cFdqMlNMbVRwRXRhMGtMd2pSRGNiU2ZjN0d3bDRGWkthV1REMWt4QUZWMVo3OVgwV0tnbjhxZTZtWTV1Skl1ZXFwNDc5MzdJQlp5Z3BNYVJWNGRLSlJOdkNhRTd2bUFFMGxwN3NkLV9Kdm5PZ0xKaUVERE1OOWhCb3NOSHVEbFk4QWti0gG6AUFVX3lxTE5lT2Nobmw2d3BhNEhPdjI3OUFfaGNYYTNiX0l1WHZVNUhTYWxvZ19lc01tVURDbGN3dXBXeFFsNlZ5aHlwS1hqbDhQUVZRM2RDWWhHdE03SFJ6RFpQSnJYSVpzT2kxSmlZdTZiaVhYZU03cVZZaGoxdEFJSWZXdEp3UnZaSkRRSzY1RzVFSHNYRURVWFZMNTRzRTNmd0o2TDRRRU4xYWp1eS1QbU9TaXZwV2NPTm1CVV9NZw?oc=5",
+    "title": "Karur jobs case: Madras High Court reiterates stance, adjourns to July 27",
+    "title_ta": "",
+    "summary": "Karur jobs case: Madras High Court reiterates stance, adjourns to July 27",
+    "summary_ta": "",
+    "date": "July 22, 2026"
+  },
+  {
+    "id": "kar-jul21-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORFhTNlJhWDYtYU5HSnVDZlJ5dF9ZNFAySzhlUF9NV1NRSC1XV0V6dUh1ck5Dd0ludXY3MUYzZ0hlcWNWQkgzQjA1TDRSZkRaeEFSNGo4RkxraGU0YXY3Q0toVy0zWHlJaC0tN2ducldvYUpPMV9MUkpralFFaXRHUWVia2ZONFZrOWU3NlZHRkIwYm5fT2xOdDZyc2w2N3JfM1RDQWNiN2tNUEZXTXA4OGVmSnVoZVFnY3Nmbk1pTmUxTW53S01nWmhBWDlxY25CSUh4cWdTcklnbXBHRlJTSDAwYnBTOWhqcElwQUVpWmUyX1Q4eGpZcDJ6YUNvVFAxcS1v?oc=5",
     "title": "Madras HC adjourns petitions challenging govt on providing jobs to Karur Stampede victims' families ",
@@ -10,30 +22,6 @@
     "summary": "Madras HC adjourns petitions challenging govt on providing jobs to Karur Stampede victims' families ",
     "summary_ta": "",
     "date": "July 21, 2026"
-  },
-  {
-    "id": "kar-jul15-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
-    "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
-    "summary_ta": "",
-    "date": "July 15, 2026"
-  },
-  {
-    "id": "kar-jul15-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1k4QnBYRXE0ak9SY0J3Q3NMUWdYRm9lNmRhUmJaUUc4LVA5SkR4bTgtUGpxX19BTTRWR2dZN3FwWjdKXzREbHdqWDgxRnJ5eEFkdC1CVXQ0dEpnR2FIQnlVTEZURVR4SE04QlhkTXg1WmprZnA1Rll3WmNfYVhrRG10bG1DNUFvWTBzczdDX0FncGJ3YnVLUzg0ckhBOUR2WnJVU2x6dmZycTZRNE1YVTFSYlROMTdzQVHSAcABQVVfeXFMUElHdmhQaUM2STBKWkkxbEhfVUFNVV9PbU82V1B3UW9LZXJmY3ZzSDBxdzEwaTdKS0NZdkpuX2JnckhoanhGc2MwUy0wTWg2MGR0RWtaX3hvM3VSWHRDc3l1VlRVcTQyVGlCNHh1RnJjZ0U0NEFOQkdnVkRMNjdqcEJHR1JiVW1ZT3lhaURkOFZ2Y01IdjRObjNSWFFpdG1MU2hVNk9pX20xNDlLaWJkRDVYN3ZUbjFXMUhuSld2UXVR?oc=5",
-    "title": "What is the row over Karur ‘temple land’? | Explained",
-    "title_ta": "",
-    "summary": "What is the row over Karur ‘temple land’? | Explained",
-    "summary_ta": "",
-    "date": "July 15, 2026"
   },
   {
     "id": "kar-jul21-001",
