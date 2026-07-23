@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul20-006",
+    "id": "coi-jul23-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS09KTm15aU53ZFpCVkEwNXVrYm9QQ2pLSXNPYlBBVTA1cFhjZW54NVdmRDN4T0VCbEtXTm4wNF9RZHBpbnpKbC1LbGJVcC1EUkZMalVMY2VKTXJDakY5RzRvMm4xS2Y0UjEwSW83TzNkOXZRYjRxQUtib0NFV1JCczRZVmhVdDhNbGtPenhxal82VU0tZ21RV1BuV3dsTjNzdlhvcUp6R1NqUmlHNEtZNnNCZGVvakoxbktPUDBMMjZydFhPLTJBU2FUV1RfQkhxX2tzdTgxM1lKSVdSQU44MTdZc9IB8AFBVV95cUxPeklWb0JXczRvc2xKREs0Y2pXTmZGWTJGZXZQSDZvVUR4SWlWeHJ3MlQzSllkcm1QUEEybXdHU1I4WFpfRWwwb0U4YmVrUEZic0VJRXYzLUdyb1ZmRXhKTEZpeUtSXzk0a0pMa0RjSjgteFdJcFFJaU5wSUN2WDRvQ3NNYlBNVlNNTUFxYmlSUVpoQzF1b3QwZ200bEQ5bE5yQktxQ1YzMWxRcXhvc1Jlal91T0plZkdneXBraFdBRnRtVjZHLTBkVDIyTElmNjhtandXMFB5VzdNbFJIcVpTZ2tDV0Y4T0VVNl9KRkNfTnk?oc=5",
+    "title": "Citizens across India urge TN govt to drop proposed waste-to-energy plant in Vellalore",
+    "title_ta": "",
+    "summary": "Citizens across India urge TN govt to drop proposed waste-to-energy plant in Vellalore",
+    "summary_ta": "",
+    "date": "July 23, 2026"
+  },
+  {
+    "id": "coi-jul20-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekplenNiSGRSdFZVR1pMbDd3NnFNY1R4dm5CX0lrTWlFVXdfRzlRVG5VNjBob0dmdjVmYWJoVUR3SEp4ZGhiZlAxaDh6MWlBdjBKZVJhZmFvQlpMUWVHTHJQamtJcTM2cDFIYnRPRnduUXMxeUoyaE5KTEJWblA3SGRQcXE2Um82NzdUcDdZam5aWXJWcGhlZWJ4bmxiS3hlSmJpYnBEeHl5Q2R0WXV2MEUzUkI5QkN1bTVFa1JCZVpXUQ?oc=5",
     "title": "Minister V. Sampath Kumar inaugurates mega free multi-speciality medical camp in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu is seeing ‘golden era’ under CM Vijay, minister Sengottaiyan claims",
     "summary_ta": "",
     "date": "July 18, 2026"
-  },
-  {
-    "id": "coi-jul20-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYTR2UWNIeW1UZzBvUHhLUXkyaDh6dWk3NHRZRDhMeEdwTlZjSzV4V1ZENUhRcEZrODVOdkhGSUgzVFBuWWxTZm9XQkdOQmtvQU9rbHpRTGdtRDBKRjFnYWY2U3BCaWZIYnBKY05kX1NFak01SVZ6VGdXa1ZVM3BMNC1id01IZ2NKSEJ1b2xtX0M1ZXlJWnA2aUVGUVJmU3YyQ0ppeDdCRlNuZnMxbW9NSnJmLTBJaVNDbW85ZGFxemZzZk0wTDVIX1hTbGZsNEpRRXp1M29zM1pNVlZ4MjJaZzczZ2Rud1lsRW8ySVhITlVpWi12aGU00gH-AUFVX3lxTFBZZ0NJdDBrc1BLTVVUSTlEYUR0Z0FDVXI2cmxYbC12V3VzZWJlZUlVNjlCMi03TG1abVYweXZXNmsxbmh4UW9qbFdWeFdDQUhiRFVVLS1nSmNvSmZLckRwY2R4ZDZpRHlvNHNxVGxzdVpFZV9fU1NqeXd5ZXk1QUY4OTBZS1liXzB1ckVaTjNFZXlQbXBLSXhrRVY1SnRNcUY4MkRVU2NaS1FGLVA4eUFFbVJzTGlOUFM0TWJyY3FnUk54eld5TzBMUlpienRubFAwWmpvUFBSdEtXM2ltUUU5T2xodXRkRXJYOHdEYjkyMnktRnJKRWFYbXoxbmtR?oc=5",
-    "title": "Farmers urge Coimbatore Collector to reconsider 430-kV transmission line route through farmlands",
-    "title_ta": "",
-    "summary": "Farmers urge Coimbatore Collector to reconsider 430-kV transmission line route through farmlands",
-    "summary_ta": "",
-    "date": "July 20, 2026"
   }
 ]
