@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul25-001",
+    "id": "coi-jul26-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV053Y01saUVxQW9CV2hERE5sYWZybjVwS2dXSEhIX3V5LUNOX0E0SlppUVBJcDJ6YjhxMV8wNGIyX2lETXA2ZTNWS2NRenFyUkdfRFJhUEZPZzNUM3NNNHlwX3lfbG8tdF9yVGxaQ2xIZ1B5LXJjQXR3V3lSbEVsRUlhN3J1X1BXSnNwY1VMSUFpWlBya2daUTctdGvSAaoBQVVfeXFMTlNhTnVCRGNtR184dWYzWThsRVBDeFBKYWVHWWtqNzZud0FUbk80cGJuVlpncDNwWXNhamZUbWtoYnRmVWJaR1ZXOWh5QXE3eUVDTHRRWWpTSmtZNTZmVjllVDk3VG9iUXQ5R2tTeDI2RExUY1BWRTJDZ0dHRVhJMzlvQkFvcG1TcnRvUFdxb09ucHlUbmRXaTBkREpSLVl3LUxrV2U1Ym5VRVE?oc=5",
+    "title": "Centre rejects Madurai, Coimbatore Metro Rail projects again",
+    "title_ta": "",
+    "summary": "Centre rejects Madurai, Coimbatore Metro Rail projects again",
+    "summary_ta": "",
+    "date": "July 26, 2026"
+  },
+  {
+    "id": "coi-jul25-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNVB3Qkx2Und4ZFJsOFJnYl9KSHRPMUUxZEJlYktpX0pOVnBPenNPSGxseVp1SFV4TUE0WVN2akRlQXBPQmJkXzhtbl9IeUNsVnFrZzJ3NENZckQ1OUVXVzdQLTFEaFJaLVk3NGtIMWFOT3VrSEQtSTFGTlNLOVNucW5vM21WTl92WHVhbElPdGJoX0RIV3JHcFFHZUc4SkJlOE1GWTZKbVBzZXNyb1EtVWJ3ckJwMjdicjdwMk15YXp5R096OHJoSk1jYlBDTFlUNFRjRTYzY3o4N1lHUmlQV3JhakXSAesBQVVfeXFMUC1oSkZqcWRteGNpU3JKQWt5b0hfV1gwd1hYc3lseFlZMlZSU3NnM2FaR0FoUVJwUURYV1lOYW5SbFg1VG1DU1FRTk9fdTI2bkRxd181UlhOX3hxZGdxLWFqWlVicnQwNGRLR3VsaVhtNXBVTkNiWFJYT2lKb2pRRDR4dFlrQ1pKRnlyTHFRNDRBT0RDcTFzMDM2RmlTQ21tYWx5VjdxRlNJMnI3U1VtMWg4aW1iMC1rWm40Sy1INW43UmhiU2tSS21mOUxlUTRjQkpwVTdUX0RRWTlWdWY1MTQ3M01UbnZrcmNkNA?oc=5",
     "title": "Centre yet again rules out Metro Rail for Coimbatore and Madurai; recommends BRTS",
@@ -128,18 +140,6 @@
     "title": "Coimbatore tops Tamil Nadu in rooftop solar installations, Chennai second",
     "title_ta": "",
     "summary": "Coimbatore tops Tamil Nadu in rooftop solar installations, Chennai second",
-    "summary_ta": "",
-    "date": "July 22, 2026"
-  },
-  {
-    "id": "coi-jul22-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUhMUzRaZVp5eDc1a1BBM2M1NFpjN0lPVVZxWnFka0dWMWVEQzVQWkc5eEQ4RmV0RnZKeDU5RWRVX3NuekF0VU1CTjQzQTRuNjZjSEI2SFp3aVJKcUd3aGs0LXA2YkNXdS1vREZ2LVZidmpMVzJNQ2szU1hGN3A2WWtWRVA0N25kNVpXci1McF9Hd0pFdVd3NW5uSU1WVk0xa2RnWE9JVdIBtAFBVV95cUxNNlg5bUZlVWdkTVY4NUxyRFBLMUNvZkJHUDRTcVJEaEVOZHFlbVYyVF9CVUM4Vl9wT25sa1FHZUtCSTliN3pIeEc5TE1JZXZhWUI2akExcnIyYnhCRzFtaW9vazBGSk9RRWlWX3hVR20wUmFSYXpWSVIxZlM2MDhFbTdfWXBEa3B4X09WX0NlcENlcGtxM1FjMEoxZHF4TGRienEwVTVYRWlPQ2NQYmJBWEtqMjc?oc=5",
-    "title": "Coimbatore consumer group opposes TN's plan to procure only AC buses",
-    "title_ta": "",
-    "summary": "Coimbatore consumer group opposes TN's plan to procure only AC buses",
     "summary_ta": "",
     "date": "July 22, 2026"
   }
