@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul24-001",
+    "id": "coi-jul25-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNVB3Qkx2Und4ZFJsOFJnYl9KSHRPMUUxZEJlYktpX0pOVnBPenNPSGxseVp1SFV4TUE0WVN2akRlQXBPQmJkXzhtbl9IeUNsVnFrZzJ3NENZckQ1OUVXVzdQLTFEaFJaLVk3NGtIMWFOT3VrSEQtSTFGTlNLOVNucW5vM21WTl92WHVhbElPdGJoX0RIV3JHcFFHZUc4SkJlOE1GWTZKbVBzZXNyb1EtVWJ3ckJwMjdicjdwMk15YXp5R096OHJoSk1jYlBDTFlUNFRjRTYzY3o4N1lHUmlQV3JhakXSAesBQVVfeXFMUC1oSkZqcWRteGNpU3JKQWt5b0hfV1gwd1hYc3lseFlZMlZSU3NnM2FaR0FoUVJwUURYV1lOYW5SbFg1VG1DU1FRTk9fdTI2bkRxd181UlhOX3hxZGdxLWFqWlVicnQwNGRLR3VsaVhtNXBVTkNiWFJYT2lKb2pRRDR4dFlrQ1pKRnlyTHFRNDRBT0RDcTFzMDM2RmlTQ21tYWx5VjdxRlNJMnI3U1VtMWg4aW1iMC1rWm40Sy1INW43UmhiU2tSS21mOUxlUTRjQkpwVTdUX0RRWTlWdWY1MTQ3M01UbnZrcmNkNA?oc=5",
+    "title": "Centre yet again rules out Metro Rail for Coimbatore and Madurai; recommends BRTS",
+    "title_ta": "",
+    "summary": "Centre yet again rules out Metro Rail for Coimbatore and Madurai; recommends BRTS",
+    "summary_ta": "",
+    "date": "July 25, 2026"
+  },
+  {
+    "id": "coi-jul24-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2N6bk9vaEwwc1RaMzVNR2NhbkhaQk1MOW5IV2tXUFFuSHBaWVlBWC1oX1AwZlZReHlHbXdUdjdwUnRLYXZEV3VtVXJVRHdIRllGRkR0c0d5dmxSSVdiZEtMc2JoWGVpTU53cVRaSkVCX3pPMmUybWpmVENkM0tuZUxJaFRnYTdJcXRmS19ONFhkUHNTWWlBTWFzazdqeENWR0lzeGN1VnNldGpmb2EtTl9HMUJheGctSGItMEhBS3NDUdIBxwFBVV95cUxQT3dvN2RKVG5WQ1ZmeVpKZGNiZHhZQk5uVklUYlhQa3NYM01zdVBZaDl2Q1lNSUxXeWZwQkwwZExsZVZxMkUya2JtdWR0MmRkTVYyRE1MeHhWMGNkTDFFMWpRanVSS0ZrVElLalY3ZGlzOHI3V0hKajBIQjlLcU9zd2hvQ1VGX0Q1X2Vrc3dmazFTTU12OUhVLXNrZF9Ea082QXNFZmFtcjZaMFBTNmRDbzFEbUdZX0N3d1dWLVRFRlBjM1NGM1pv?oc=5",
     "title": "Vijay should not go to Karnataka, Anbumani says",
@@ -94,18 +106,6 @@
     "summary": "TNAU begins certificate verification for UG agriculture admissions",
     "summary_ta": "",
     "date": "July 22, 2026"
-  },
-  {
-    "id": "coi-jul19-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "July 19, 2026"
   },
   {
     "id": "coi-jul22-001",
