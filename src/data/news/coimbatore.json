@@ -1,8 +1,44 @@
 [
   {
-    "id": "coi-jul26-001",
+    "id": "coi-jul26-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczV2LXpjN2NjSTQ4WVRiNTlUR3B0UWNXSDZkWm14Z2paZURZYUpDWlhMU0hNWlhGRU9ydF9rbFl3dFNrSWhVRzR2VWlaMmxLTTlrMzhHODhBZ1RUR2p2amgtblBuOXRsWGRSbl85eDhIc1VfV2tLY3FFTHhqMi1TRWI0RGNUTTRZM0dtc0RMSFZmNXlhX2JuUWFkc1M2Smd1eXFhaW1adTN2ekZ3WFBXOHpsV3ZBY3h2OW5xd01aQzhicllHZnfSAcsBQVVfeXFMUFFqc3VWd0FvQWdtUHlydlFYaUNNa1A2dW5xMEFiNDdNc3U1bW1PSS1fSGdyb2hrQnhqQW9TRFlkM3N0LWJhYzVPVHktS1VzNE9nNU1rUVdKZUFwYjhOZERTZkl4cmd1cG5BOHBvSHhlcXhjUXM0WnNkRDZJODBGWWpqWDBSdzdIOHlrNnAyUjRySEJqNk9nOTZtZFNzU042cWdwaWhBMlR1TXctc1o2WWFraEFNMzk3R1U2eFNwRnFnMTdITUtyVk5UVlU?oc=5",
+    "title": "Centre Rejects Madurai, Coimbatore Metro Rail Proposals Again",
+    "title_ta": "",
+    "summary": "Centre Rejects Madurai, Coimbatore Metro Rail Proposals Again",
+    "summary_ta": "",
+    "date": "July 26, 2026"
+  },
+  {
+    "id": "coi-jul23-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkJHMzlzYVplZ0o4Vno2a0ZGaGdKRWNhTjRvOHM1NklVamFrWUhCZGRtZ1IzNUtXb3EtOFBJNmhqSjNGcGlsU2Y5eTh3enQ3Tm9yVVFPV0UyZEM3LXduSk9XcC1vLU4xN0VMdW1CUG9QQUQ2NENwVm5IalFzTVhfQlpZVG5fUmVFVElQZFRFZw?oc=5",
+    "title": "Vice President C.P. Radhakrishnan to visit Tamil Nadu today",
+    "title_ta": "",
+    "summary": "Vice President C.P. Radhakrishnan to visit Tamil Nadu today",
+    "summary_ta": "",
+    "date": "July 23, 2026"
+  },
+  {
+    "id": "coi-jul26-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRXRFTkhIRm1INFJoYnlRcGpHd09SbGdGem5sOXQtR2ZpbDNHUWRBaVJSNDROX01LZENyN1BsZVJOUDlQS0FiYU9UZU1tT0p4b0xTVGdMUEludVVRbGgzdTRoaWZiTkpGcVdUVktEYXpPRXZKUXV2aVJLN1lPLVFRYzB1REhEbUtWdVNidjRyaGNPSElzUXB1bEszbWpJZm1RVnY0N2FTbmN3UW5OV2E4bkc1dmxHVFNiNGM3MnI4czZCTUZnRlk0V1JzQzdhbFnSAd8BQVVfeXFMTVkxRnRPc210N3BDdGdWTTd1dnJxY1JEREFXZDJDZG9ENzBTY3pzSUlXQTBjSmh2Qmd2NDd1aTl0THNqYl9IN3pEMV9OWXVzNTRCaU9xSVN0TWVPY2xkYllqc1FWLUtGaHIyNkdzdFVRLUM4NEhBSlNydjlKOXF4RHktX2xjVXhWckF5bS1Da2VSVS1aR1FYUHlIVGpTTS1GUV85eUVibmg4QkFpQjBkNXQzRVBLWC1PVGxCMnJCSjgtZi1nLTcza3VCVHFFUjdnNzV4cUtsUE5NMkozS2w5MA?oc=5",
+    "title": "Centre Rejects Madurai And Coimbatore Metro Rail Proposals For Second Time Over Population Criteria",
+    "title_ta": "",
+    "summary": "Centre Rejects Madurai And Coimbatore Metro Rail Proposals For Second Time Over Population Criteria",
+    "summary_ta": "",
+    "date": "July 26, 2026"
+  },
+  {
+    "id": "coi-jul26-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWWpQSkhkM2dLYnFjc05zZzJkcllUNkJ6QlBZdFMzblNlZ0t3U1pibmk1WXU2anpFUFp4dmlyMldoR0hvcGc3Zk1laERNSlN6TzBad1M3UTl0WjZXNXpIUFlBaW1wZTltMlM0LXZkZHFEQ0J3OGdRUnlJb2VBb3RJSlZkejNFdTBLS1BYQzM5bnBPTnZOeTQ5bVdMQzhiLUI3YjAwY1g3UnJRdk9hYldQUlNDWU53cXlHNUV4WXFORmUzcF90Tnd1NzR2Zm5qZ9IB2wFBVV95cUxOWVRtT1FlMGg0RkY4QnNuT1ZOd1g3dVlrZjNPSFd1QkkxRmVIMjE0RWtZQU5SRUZQQ2pvZWJCT0tWNGZKQjd6ellPVWw3SXA5VFBaZlZBTGRxWkpUelU3RWJLMjNhY2RxS3o3OVBSMTRIU1VCVkZKalREdV84ekRLRlhDWnVsNUt6X3lOcW1PYUVZVFVNVXZKT3dCWHBmZDFvQzJFNGhoQ2xEbzNvak1ZakdoVFRkUkVpLUNqd0ZXM1hfWjlnR051Mlo3NzFweHhFR2w5N2dEdkNtRW8?oc=5",
     "title": "Centre rejects revised proposals for Coimbatore, Madurai Metro projects",
@@ -106,41 +142,5 @@
     "summary": "Minister V. Sampath Kumar inaugurates mega free multi-speciality medical camp in Coimbatore",
     "summary_ta": "",
     "date": "July 20, 2026"
-  },
-  {
-    "id": "coi-jul22-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSXNqcl9fT0FQMXVlRXZ4RkRUenRzMTRHY1RndWFoelk2d3NXS0d6cVJDUUUxSTdXd2w1aDM3cEc0bjRCXzFBeGYtbjJjU1ZzZ0prOVBRTDJRUGlLdnAwQ3p6WTJ6dHJTa2dnWENxQnZHU0FnaVZqakVfVXBYVTRZd3VfRmVkRHFKMERVaUFwZEpaVVFtVDdqTlBqdzM2QlNqYWMtZFlPMGhHMXdQLUJoQmIwakJBUmVJLWF3UkszbFhtOHJPUGlpVGVDelRTR19GbzB4LTdwa29wMU1SY0c2VEZPdkYyWEMyb19kdGhZcTUzYk10NVR1Q3hJd0NfbWVLVlJDd9IBigJBVV95cUxQaldVNFVYZ2pyWXdId21RR0dWbUlLakt1NjgyUzJDYTNZb3NLTU9LT0VaZWQyMHlsdzVVbXA1V2h1X0h0U1p1OUZ5NHdteWZZVFQ3aHBrNENlc21mSUZMNl9xVGdIRktWMmFmMUNmYmVobG0wclZDUDdGbmFSZjI3elY5UGdRMHR0OC1mZXBsV1hGZ19nY1VZTnhBNWZhbUlJT3R4RGNoWHg5NENmMVprckVneXk0bGxXRjV4TXBvakh5a21qUVczRExUaEdPc0ZVMV9VcHl0bndxVXlFSk5iOEhOYVh4MWdtc19uWTFDdnRGZ1hmX0ZkaEJnYkx0YUNPVHlNdUNBM05IQQ?oc=5",
-    "title": "Steps will be taken to regularize the jobs of contract sanitation workers in Tamil Nadu: Minister",
-    "title_ta": "",
-    "summary": "Steps will be taken to regularize the jobs of contract sanitation workers in Tamil Nadu: Minister",
-    "summary_ta": "",
-    "date": "July 22, 2026"
-  },
-  {
-    "id": "coi-jul22-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWtwRldkVXdLUkVTZXJUaUFGV0FRZ1l1NEpGLVltdkRGYVpTeTRhNnNqRWxmWU1uUUtzVmw4VlZSSXpIdG10Q01SZE9xNkNwLXh0LW80ZnlETFdWbTljVHJOYUV1MDFwNGZOWVhVYV9CWHhRbDhDX3VmaU5CLXdxZjgta050N3V6WnFJT0tid2w0VkdMX1p1dVBsN3VfN3ZpV2EtQjM5VGpZclJ2TDdSWQ?oc=5",
-    "title": "Tamil Nadu victims' bodies from Vietnam boat accident reach Coimbatore",
-    "title_ta": "",
-    "summary": "Tamil Nadu victims' bodies from Vietnam boat accident reach Coimbatore",
-    "summary_ta": "",
-    "date": "July 22, 2026"
-  },
-  {
-    "id": "coi-jul22-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaE81MlY1U29qN1BSdHA5OU1IeGUwVnd4VVNZUFFVQVdZYnE0RlNBc0toMHBwSGRTR0NSZVdsOEVudDZXcVlQMnBpcmt5ZGpHTy1MVWM5eGpQdGJhSENYdm9WQ1RQNkFkaGdubDc4bEx4M21BTmZ3OHZvRjA1UnRydnpLcHBSbmxsZEFJQXVWTXdrWVowSmhWY2JveDlkdXRTZ2FmaHBYUk5pUW0wd0ZxRDRoWDZpQ0hiWVdneU9XOU1saG51RlN5UE5vQWo5THNlR3FpODdlU3Zwd1JV0gHiAUFVX3lxTE1NOVhaQ2haT0xiMF8yaVhTM21IM1c5UHBHQnFLR3VvcDBYU2p5cjFwS3JGRnpZLWJWNTdyUEs0NllvaTNyY2lva2MtVUV6TTVHUHRRYndlRzZDaWFqZzYwQW5Gc2hkNUc2cnNtQVp1dk5MMkp1WlpGQVNXMFRBVU9WazZlUVRfcjhDRlRIX0ZleVRVVEpmUDNKMENPMjZ6am5WeDlTQmdwNTJSYzJYdFFISkUtbktfZklwakRzbUZTRlo1VXV1TjVRejdKdW1rUFNMVDBBdHgwbXhxcC1GaUl2UkE?oc=5",
-    "title": "TNAU begins certificate verification for UG agriculture admissions",
-    "title_ta": "",
-    "summary": "TNAU begins certificate verification for UG agriculture admissions",
-    "summary_ta": "",
-    "date": "July 22, 2026"
   }
 ]
