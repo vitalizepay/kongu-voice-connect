@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jul27-002",
+    "id": "coi-jul27-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUUwRmJFZ1JrRDdOcTNrMVc5SWo0eHhsQjhFWWVwWDBacGxoU2hENUZVOFFWdmlnTm1VSjItM0xaLXAwaGZudEZGRU1pRWRYUnlIa2Q0MVhpQ3Q0SVM2T1NBSkVlZVdaZjNtVnFjZ1ZJZUw0ZE82Yy1QSmkzMUlBOWlwUGlIcVRpamdObDJlWEVmRzdWWm0tNU0xSkRiSHhiQW1SR19FZTIxZXBmNWlDOVhvUUR3TUtqa1E?oc=5",
+    "title": "Preview: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "title_ta": "",
+    "summary": "Preview: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "summary_ta": "",
+    "date": "July 27, 2026"
+  },
+  {
+    "id": "coi-jul27-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGtQYWU3TGV2WThZZ2FyQy1obG1QczktOGxHVW1qYk9wTF9MaVRqdHR3ck92QlR0c05yWVRfZXk3VlV2aWE1T3NNRHJWeGdsTE1adDl5TjVrN1JjZHh0andScFVxcHpmOTVCYzZDZHpIVXBSVzJYYkdJY0Z4TmVpN1lCQzUwNFRSaTZ5azFsdXhYM3NNY2hsUHBacjFrQzlMYWp0WkMwZWplUzJ3Y0lKSFJrUHQwd3BoYTczNTAxbFZqNUo1Z0dR0gHMAUFVX3lxTE85MmY4MjExak9fY3Y2MU5PT0lkMzR0Y2tsUWRVSlBCNnFJSnNuTFVxeEVxUng0b3ZXU1dmYjZ5Y2tJSHFiQnY0ejV4RjlDTkpMdUJUeUtvLTNiWkpJbmh3SjViWEc3NDc1S1ZDOFdTbXp3Z0JnemdpQ3ZpU2NTam5Fa1d6REVFajIxX3YyWFN0Ty1Id1owOU00MzdTeDlrajJ2Q3lodDVQc3o4ZTYwcndoaFQ3cGZrZGZVNnVKUXRITm1qMWdXNmFWeWo5aA?oc=5",
+    "title": "Ram Charan heads to Coimbatore with family for wrist surgery after Peddi injury",
+    "title_ta": "",
+    "summary": "Ram Charan heads to Coimbatore with family for wrist surgery after Peddi injury",
+    "summary_ta": "",
+    "date": "July 27, 2026"
+  },
+  {
+    "id": "coi-jul27-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzlFOXhNMnF1bE5PUDZFYmtrdXVpTWpOc2xXZDZueG5OVF9MRlh1RlNDZzRNU2c4R2xqczBNMTBwcUVQV3hSVGNVOUYxbVg3ZGtPVVh1N21ud3ZYOXctdjF0cG5sblRSZ0QtN1NIYkc0MjZOaEh6dWkzOU8zc2VHVS10WGdzLVdoc0lzVXhlYnhOQmtvcm13UXpMTE8xV1p1MmEwSm1tc0M4aVoxUUhn0gG8AUFVX3lxTE85NDdlZ3MtQ0JmZC1la3FnVlNTWlUxN0dsWmQ5RnJpTElKdC16c2lCWWc0S3BLSllPaTRuZEF5QTVSNlFWeFotMV94NUl6WTdpOUh3ZHNidEwxMVFWSm1iNmNhdHBuX3FIbjZaS2QxX0EyRkJsRlFHZ1BUVmpTYndhZ1ZQb3RrT29hQktiLWMyb05HemJ6bTNiYWk0aU9OTk1feWVobmZad1M3eXJMbTg4UjRsZHhTazl5Rjhj?oc=5",
     "title": "Centre rejects Tamil Nadu's fresh bid for Metro Rail in Coimbatore, Madurai",
@@ -118,29 +142,5 @@
     "summary": "Vijay should not go to Karnataka, Anbumani says",
     "summary_ta": "",
     "date": "July 24, 2026"
-  },
-  {
-    "id": "coi-jul22-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0h0bE1nTjEwaXRpeE1yV3gxRGpCcDlhTzlMZFpsV25fTThubk5kNHFWVTdkQXJfMEpiUnBuSUhTRGF5WnFpMFFBY2tFc2lvSkxmM1pzWUNvaER4M1poYWNraHNRRjY5MV9YYzZMZmwyN1Nqd0VOem9UMkxqbkp0VDJNTHpLZkJtX0FmaHQwd3Z4SFEwNVRkbUFFbXBjRjhGeF85RW9wRFhxcGgwaEtUSEFmcU8wZGZJUDZpbWFONlZMNmtFMTctV196UmJEQTM1dnFzaFRoQlNrYlFvV1NBRDZIZ9IB6gFBVV95cUxPTGF6LWdIYU1XLVZDcTRwZ2pWVnJzclo2Y081bGMyWFNqT2ZnT3hubjdBVnRzdDR6T2ZPdTBQc29naHNUdnVBdUZPWWtTNUNLbGJTN3p3UVltRHMydkxZYjVUYWdfTmlBUG5Qald6ak9XT2lsTXZQb1R1LTlsWDFwVUZfMjdiMXoxc0l3N3RhSHd4S3Uwejh3UkZBTTZVc2g0YW5mazZ4RktscTZVRjYyeFFjWDE3QTQ4NEkxd013YzNjRjlPdk5WVmpDX0JDaHNqTnZtNFFTSVVWZnFNdVpVczN0MTNZWnNMT2c?oc=5",
-    "title": "DYFI, SFI activists detained during protest in Coimbatore demanding NEET abolition",
-    "title_ta": "",
-    "summary": "DYFI, SFI activists detained during protest in Coimbatore demanding NEET abolition",
-    "summary_ta": "",
-    "date": "July 22, 2026"
-  },
-  {
-    "id": "coi-jul23-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
-    "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
-    "title_ta": "",
-    "summary": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
-    "summary_ta": "",
-    "date": "July 23, 2026"
   }
 ]
