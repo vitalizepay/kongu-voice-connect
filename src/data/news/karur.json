@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul27-001",
+    "id": "kar-jul27-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3o4dWFOWjFHcmg1eGFGMDgxbkZLV3pkSENMWmdJR1JtWnlsTU44eVBUR0FHWk44ZUh5ZUlkcktfWkFoZGZfS2ZBS1NyZERWNXhzcjd6elJKT25uNDBfcjkwTFFQdmpLcGdxbWNlRk1XcmVMMHpvR1ZQSHlHR1NWRXBfNHdxWEt1bXJOaUxqbVROb0tDTnlMS00xRnRadkZnNkhXNEItMEozYzFWS3ZkR3JuZXB6LWNZWjh0SG5ITkV4WG1pclh1UWpkcnItT2JRTWpMbHJGTlEyMFM2STdJUVUzOEFFaU1zcy05aHN4QVHSAfYBQVVfeXFMTS1PTUhLMF81eGstZDJtWThUNjlpVWFRVUxrbEdxZDhmWkJ4dkRMYUJDd0pGQzkzaXQ3S21oR3RMZ1NabmNNZEoyOXJpWjRxODRRSkZabTVoOFFIX0JmdzJhNTNDa1FZa3gzMG5IeDRZX01mUElVemRnVHkyYjlDdjZZdldweXpxMW92LTBkRWVsT3ZUbXVtdFZPM0lfZmVQYXhXeDU0QVR4TTYyMU9HNEowR0E3cU5jZTMwUGtJeXpmQ1Fla0xKTXVBbmxTVGhDS0N6U3F4ZTg1ZHRydTV3Ulhpd3RnRjBVUVpWR2dDQnI0VU0ta3Vn?oc=5",
+    "title": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
+    "title_ta": "",
+    "summary": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
+    "summary_ta": "",
+    "date": "July 27, 2026"
+  },
+  {
+    "id": "kar-jul27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUE0bWNIUExER2x6QS1fSXpMOXk1bHdVSWFRTHBCVi1wNVMwREE5NzREOWVSRGUtNk1oajJOUEZJdzJFOHA4OXozd3dBbUF2dkJGRGxHRUlqQnZOa2lxcHNhN1pJSE4yV2JUWnBUem5jQnhCV2hkbzdyUjRuVm5YVHZUTVprRE9wV2wtRU1QenZNYW52Z1hjU093cHl3M3NxVlEybzA5QXc2M1FLZU1pcFZSQ3dkdGJscEpTTDJVWDZfdWZ0azJkMHFNNDN4Q1otcVl1bkUtcTJ4cDlsTWt1U29PekxNdTFRVUtDTVk5Z9IB9gFBVV95cUxPdGdfWXlNbi1odVBFeWd5blhScDVaN0ZJNGVENExGWmpNRFJsVndraEtkQnpManRBYUZCQ1VMNU5rdjhtUXVuMW1wTE1SWTR6SS0wcUZoTUJ1cnlxbUxFTlMxMUE0cWM3b1NNWTJqdWMycDMtdC1MdVppMkFKNGZYenp1UGVnN0NObkx1cWZiMDlEMWtNN2Y4cG83SGVJSV80bDBMUjJRd3Zva001MEFGWXJUSjNhejRmb3EyQm5uLVRWa0RDYmxtNl9mTWF2eDExR3NtS1UyZkRONGppalRxQmNjZ0hsUUhmR0Iza1ZNb01UWnVlWkE?oc=5",
     "title": "Madras High Court strikes down orders granting government jobs to the family members of Karur stampe",
@@ -130,17 +142,5 @@
     "summary": "Security breach during CM Vijay's convoy in Karur, Tamil Nadu",
     "summary_ta": "",
     "date": "July 25, 2026"
-  },
-  {
-    "id": "kar-jul22-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmwzeWxhdFNHMF9GM0RQVHZ2UGJNa1phOURoOS1JVHhsUjhiUUdGRXZzQk1SbU1odmJPUDBVX0RmWFN4ZUc2TDE1emVkUHg4TDVrbDVCRUdqZ014M25Yc2lHVWlFa2pSUjdnT04yRUFXY1NmSEF6cVVTbGNYdmlvVFZaa2FrZ08xZnFqdUR2SVg0UHktekRTcG5DRk9JQzJHU2J5YWpvNTVDeXZrYUpIaC1sX28?oc=5",
-    "title": "Tamil Nadu minister Aadhav Arjuna inspects arrangements for CM Vijay’s Karur visit",
-    "title_ta": "",
-    "summary": "Tamil Nadu minister Aadhav Arjuna inspects arrangements for CM Vijay’s Karur visit",
-    "summary_ta": "",
-    "date": "July 22, 2026"
   }
 ]
