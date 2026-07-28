@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul27-006",
+    "id": "kar-jul28-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3Vzb01rNGwwRUt5N1I1OEItV3YzLWstc0ozWFQtRUpSWFBFUjkybGdlVzFLTS1FQm52MTZVN3ctTHFxR0FJdGY1NTduUkEtaFY5b0QzSV9ZN1JOT2lzNVN4Vi1DdXZVRllYX3VZSldXTEZGUFhnaGJ4R0VOVVJPbnhIdG5YS0dyTEVwVkVHQ09OSEREV0Vxb1FwUENpTkw0dW5kUHNNVy1DWDFJVlNtZQ?oc=5",
+    "title": "Video | Karur Stampede | DMK Slams Tamil Nadu Government Over Karur Stampede Job Order",
+    "title_ta": "",
+    "summary": "Video | Karur Stampede | DMK Slams Tamil Nadu Government Over Karur Stampede Job Order",
+    "summary_ta": "",
+    "date": "July 28, 2026"
+  },
+  {
+    "id": "kar-jul27-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3o4dWFOWjFHcmg1eGFGMDgxbkZLV3pkSENMWmdJR1JtWnlsTU44eVBUR0FHWk44ZUh5ZUlkcktfWkFoZGZfS2ZBS1NyZERWNXhzcjd6elJKT25uNDBfcjkwTFFQdmpLcGdxbWNlRk1XcmVMMHpvR1ZQSHlHR1NWRXBfNHdxWEt1bXJOaUxqbVROb0tDTnlMS00xRnRadkZnNkhXNEItMEozYzFWS3ZkR3JuZXB6LWNZWjh0SG5ITkV4WG1pclh1UWpkcnItT2JRTWpMbHJGTlEyMFM2STdJUVUzOEFFaU1zcy05aHN4QVHSAfYBQVVfeXFMTS1PTUhLMF81eGstZDJtWThUNjlpVWFRVUxrbEdxZDhmWkJ4dkRMYUJDd0pGQzkzaXQ3S21oR3RMZ1NabmNNZEoyOXJpWjRxODRRSkZabTVoOFFIX0JmdzJhNTNDa1FZa3gzMG5IeDRZX01mUElVemRnVHkyYjlDdjZZdldweXpxMW92LTBkRWVsT3ZUbXVtdFZPM0lfZmVQYXhXeDU0QVR4TTYyMU9HNEowR0E3cU5jZTMwUGtJeXpmQ1Fla0xKTXVBbmxTVGhDS0N6U3F4ZTg1ZHRydTV3Ulhpd3RnRjBVUVpWR2dDQnI0VU0ta3Vn?oc=5",
     "title": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
@@ -130,17 +142,5 @@
     "summary": "Madras HC quashes Vijay-led Tamil Nadu Govt's job order for Karur stampede victims' kin",
     "summary_ta": "",
     "date": "July 27, 2026"
-  },
-  {
-    "id": "kar-jul25-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjJ1c2hSQ3UyMEJscXRMRHQtUnBLOUlXaTJEcE5qN0JiaTQ2d3k2aktTXzc3SVQ2Z1liclg3Um9KUTZuajh3V1YtbHBwVFYzUVJIb3lWZ19HV3NaVUo2eldHSmpxQ0NVdVIzdmk4TEN5OXVadmNuSWh6ZnFhUHFpS0dzSFZjVHNnanZXVkFkOVp3eURKdUh4d05R?oc=5",
-    "title": "Security breach during CM Vijay's convoy in Karur, Tamil Nadu",
-    "title_ta": "",
-    "summary": "Security breach during CM Vijay's convoy in Karur, Tamil Nadu",
-    "summary_ta": "",
-    "date": "July 25, 2026"
   }
 ]
