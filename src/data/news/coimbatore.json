@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul28-001",
+    "id": "coi-jul29-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUNpYU13WjN4Rk8ybkJFcVdIcEhNc2gwOXdqY1lzbW5XNHo4eDhCc2UzWG1YYWFJNVJzeGJqUmtnOXpjZnFnbEhOZ0FmSUY5RDY1aDhmX0FSX1EyTXFzRVNUalN2X2RwdnkydEhRWHdTZEt3YTVvSXJBVFgzTHRwZkRpZDAyWVFkVHd5UGhJZzUtUUdoblhCZ0s5T2otTFRRYndmRTRZeXFOTjhCOGJfd2k5bWd1VzZFY0Vnb1VNQVVidw?oc=5",
+    "title": "Day 2 Results: 16th Hockey India Junior Men National Championship 2026 Coimbatore, Tamil Nadu",
+    "title_ta": "",
+    "summary": "Day 2 Results: 16th Hockey India Junior Men National Championship 2026 Coimbatore, Tamil Nadu",
+    "summary_ta": "",
+    "date": "July 29, 2026"
+  },
+  {
+    "id": "coi-jul28-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGFNOGZYS2ZzNndMQlpYQmpxUFd3VzRMV2pVeXZFY296aS16aFlRdFJzLS1KVmpOMFBfQVI4dV80bmE1S2kxc0o4WFVYaGVtMWpGTW5KZzA1RWhJeDNHcFhLdHNEcFJSMmI0WjN5S0hBT3MyTzlHSHAwTWpUbXZQc21PM3lGSHN4QUFkQzFjNkVUUmxQcWdiRnFkZEg4VEhwM2Faa2lzN2ZId05oZ3NuRmdMclg3cjZpWGpMenJqbnJNUQ?oc=5",
     "title": "Day 1 Results: 16th Hockey India Junior Men National Championship 2026 Coimbatore, Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "Centre rejects Tamil Nadu's fresh bid for Metro Rail in Coimbatore, Madurai",
     "summary_ta": "",
     "date": "July 27, 2026"
-  },
-  {
-    "id": "coi-jul26-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQmFRXzU3T3d5R2RqM0o3SEY1el9Lb0duNmxERkxKbmpXQWZheVJaN3p0VkpkdmRWOFplaGNNZHhTTkVEN1VFTnNESnZDLWpPVk9TZzVOMWR3bnQyME84clh2SXhlNzFXVnNWRHZYZVg0NDdkLUhtWXBjUlk0MXhTbkl4a2tUWHN5RXRzNVJiUXMzZlZvNlloLW45RVk1S1hQc1psX19pWGJqbkdUa0c3ZzJCZFBiMllkdTNQRmJMcGdjMXdVWlZHWUxQUlhNZ0xXcDZidUFSV25sRWxkNjF1NkgzNXpZcFhQQUY00gHyAUFVX3lxTE5vd3RKLXU5N2VROVNvbV8yS0ZEUEY3OTRIOEhnZE1rNHJtYkxBWTE4R1h0TVhLd0UyT2JvRzFJbVIxQzRXWG9pMi1KQ19IMXhmTFNxb2swZXpfRnZzSjhUS25ZMTItRjdWb243RkVoQUQ3WmFZaV9lTUlvUnFWZUcxVlhGbHFTR2xVMFNOS252aUtjTXdRYXpQVldxQ3IzRmEwN0Y4bHhEcVFKYXdRRDlLNVpZVi1yc18wUGNIYUZ2Y05sQUg4QW1PNG4xc0FlTkZuUTV5ZEtUeHE4VDI3TTd4MXZBanFMdmZZLU50UktfcU9R?oc=5",
-    "title": "MMK condemns Centre for rejecting Metro Rail project proposals for Coimbatore, Madurai",
-    "title_ta": "",
-    "summary": "MMK condemns Centre for rejecting Metro Rail project proposals for Coimbatore, Madurai",
-    "summary_ta": "",
-    "date": "July 26, 2026"
   }
 ]
