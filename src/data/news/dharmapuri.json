@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-jul27-001",
+    "id": "dha-jul30-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEdNSlRJOU9BZm85emFoNEx5VlkwcVFDbUpJd1NlY24zLXJBLTk0VWkxUTNUUUNWV1M2cUIyN014LUJJcWt2bFFvZEl6TF8wOTRYQi11WTBIU1h0cWZqM1BkeEVlY1p2Y2JTbVlxcUhUVEh0SFdZTjNxTTJhaU5vLWtDZXBsdHBMMkVwRWc4ekVwVkFhY19ETFZFaXo2Ykozc0d3TGZZYllEYzJQTkE?oc=5",
+    "title": "Drought, white grub infestation threatens sugarcane crop in Tamil Nadu’s Dharmapuri",
+    "title_ta": "",
+    "summary": "Drought, white grub infestation threatens sugarcane crop in Tamil Nadu’s Dharmapuri",
+    "summary_ta": "",
+    "date": "July 30, 2026"
+  },
+  {
+    "id": "dha-jul27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBS1NOeF8waXI0T05pWUI0aV83Y1hBeDhNR09DUTdGb0VLUTk5RVBhZDdNWmVSWDRmRmdCcjVKcHJNOGk3bklHWkJQSmpQNjd4Y2RoR0RGLU1LZ1lHd0YwQzNuNkx3RmVnMHFz?oc=5",
     "title": "Dharmapuri, Tamil Nadu, India",
@@ -10,17 +22,5 @@
     "summary": "Dharmapuri, Tamil Nadu, India",
     "summary_ta": "",
     "date": "July 27, 2026"
-  },
-  {
-    "id": "dha-jul23-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXAyMFIzVVdyV01meGJWZ1BhTXUtNVhkYVVIQnl4WWwzQ1JBQVItMkVHTmhwMTMycUZGVU1FR29saTdycVJ3VURfTlNpVkNwdWwwRkFDZEdiVXdrQWtnai10bzFuNUFtRHozeWw3czVMcnNOWXB0ZnlQaFlaWG5ybm0xZmlhYXpCdTNldUR2VGgzd2loMmhubHA1TnVsS2x4SVNyeWtTSV9QZEZ0Z2c0WjJEeXZOQlQ0SXNV0gHIAUFVX3lxTFBUbUVyZmNSTl85b0lSZXRLS054T3k2YkpIM1N3VEl0RVU4d25nZ3VYVDA5NFlEcEpIdzA3RlFrb0xDTWxnZ2ZUOUNFREUxWXZ4QzF6V0tHR3RWUS02NV9zN1hLTU9Ld2hOYzFGV1lIcGNtdEN3MDJadnJhV3NXci1ORlcxWVhLRkt3a3ZNbHBNWERZWUdBbTRwQ3czOVFxbDF2TlhSTTdhWlZYdWlKOXJ1SHFzaDZmVWZnZXlOV2ZyUmZweFBrNWVD?oc=5",
-    "title": "Woman throws 3 children into farm well; ends life over family dispute in Dharmapuri",
-    "title_ta": "",
-    "summary": "Woman throws 3 children into farm well; ends life over family dispute in Dharmapuri",
-    "summary_ta": "",
-    "date": "July 23, 2026"
   }
 ]
