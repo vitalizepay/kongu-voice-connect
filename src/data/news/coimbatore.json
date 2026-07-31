@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jul28-005",
+    "id": "coi-jul31-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMThFNDBHeVk5RUhIRlVyQUcybHFLdkRoUHZuLXpPWlJ6a2xsUlpiUzJ3SXN2VXA2VnZ0Z1E5TnhCbnNURFdxUDNiMF9uQ3hNNXV6WWRBc3pTb05KcU1pRHFVazlKdUJTQmtsVHVPeWpkQlU4S1c0UzM3SnZpQ1NjbE9UaFhXR0FKMnNsamRsOUttZUVTdXhIME8xLTFTY1h5N09mRnFKc090Y0psLWFSc0RWQVdZQm9GMVFNUWw4R1FtZw?oc=5",
+    "title": "Day 4 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "title_ta": "",
+    "summary": "Day 4 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "summary_ta": "",
+    "date": "July 31, 2026"
+  },
+  {
+    "id": "coi-jul27-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "July 27, 2026"
+  },
+  {
+    "id": "coi-jul28-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZFVaMzdlNkxBYkxZX29MTk91ZDE1dEgteGs4THJBS1Q1RDJvWVA4ZHZTVm1OYmFvdjQySm9JT0c2OThBbGlFVkZ4ak5uSEJxb0FvM29LTUZpVmhSY1ZhTGd3dUdrQlpNc2JfOW5wWVJiQWpLcXc1WkxDTFhGR3FkOU5TNlo1Y0VnbWRaMGhEaHZDellUQVhsZTdhZWFOb0Qwek1TRWFWeFhjd05oMDBNNGJwOWc2Skl4SmpFUFItMmszcXhlanU5LWNIZHVQVTZCRFlLcEhKaDFtRl9PT3pXRU1sMVhCS3ZVTk9uZE1sY3VGODhuTnhReGY5TzM5RjRoTUIxYUlOQ1VXUFZ6YXY0UU1QTUYyd9IBmwJBVV95cUxQVHhMdkoyT3pRelEzdl9BZ1VvSkthZ2cxR3A3NE43Wmg0NS1rc21TcHB2T1UxTDQzc0dFQ0M5VlRWLXducy1Bcmt6YUlfMTNpUE16Vi1xRkUxc0VRcWUtamhIRVBPQjd5MFlVOXFEcDlvMWE0b2VkVDJxcXV4SWVJTkR1Mk9TbmxGNmtlaFB2Z3M1cDFwOGVGMVdEV0ZDYlNZd1hjZDFsZFkwTTdUelpPYnYtS2c4d1ZEeTUwWWMyODRhYU5oOENyd3BFUVREa2M1WDg2djlCT0xsTzdRRkpjR1RuMkhGbkFxWlhzaEhjeGxwOWVvMVdaWUppTzdaVW1UUVNIX1BPZ0xyaFRpUDJ1WTViRm05dGlqWkZF?oc=5",
     "title": "Tamil Nadu Sand Lorry Owners’ Federation welcomes ban on transportation of rough stones to neighbour",
@@ -118,29 +142,5 @@
     "summary": "Centre rejects Tamil Nadu's fresh bid for Metro Rail in Coimbatore, Madurai",
     "summary_ta": "",
     "date": "July 27, 2026"
-  },
-  {
-    "id": "coi-jul28-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUGlsb1FjSWFPS0pRMFpJWklEajYxWW5BSDFGbmFoMTNlM2dOU1hhYzBpYUVqaEN6OVF5RW5pbERwZWpIdmJYQkZvUnd6UVFKc1o3QWxueEpFenRIUV9KZzRuTXBkcTA5M2s1WVNKZ2c4VjQ3aWJJS2VaandGOWZUM0d4TWREdWRKcUlaSFlkTm5sX2dMVVFxSi1TVzhxalZxbUVXa2lmNU1wOU9PX0VxZ0xGcmtmSG9tMm5VZWRUeG9rVnBta003SFpoYzVtWXZnUlRKcC1wdWItTnZDd1VKWTJ30gHvAUFVX3lxTE9BUFVzMWlTQ1lDRjRtbWRvSmhldGlKcFhnejRQZ004eUNBXy03Q2NZdW1PRWdwRk9IVXRrZThGUDFqZmVuaklDWmxpWGlTYVU5WnlZMTNtYTQ1QndsTnVmOHFRTnpZcDNrVDNVOGhETlkyVERPSUpwalBjTkVpMEQwcVZwN1h3SFRwVHExQ05FaDR4enp4dGZlQV9oSVh5aC1LVGdOSHRrcy0yVEZ6TVItME5yeEVmTUItSmdESnpsRWI4ZWtyNnYtenRqUTBiTXVJckU1ZFM1RUFxNnhDMlFxQ3V1anpSYVhWaXEtZXpr?oc=5",
-    "title": "Over 50 MMI cadres held during protest over Coimbatore Metro Rail project rejection",
-    "title_ta": "",
-    "summary": "Over 50 MMI cadres held during protest over Coimbatore Metro Rail project rejection",
-    "summary_ta": "",
-    "date": "July 28, 2026"
-  },
-  {
-    "id": "coi-jul29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUNpYU13WjN4Rk8ybkJFcVdIcEhNc2gwOXdqY1lzbW5XNHo4eDhCc2UzWG1YYWFJNVJzeGJqUmtnOXpjZnFnbEhOZ0FmSUY5RDY1aDhmX0FSX1EyTXFzRVNUalN2X2RwdnkydEhRWHdTZEt3YTVvSXJBVFgzTHRwZkRpZDAyWVFkVHd5UGhJZzUtUUdoblhCZ0s5T2otTFRRYndmRTRZeXFOTjhCOGJfd2k5bWd1VzZFY0Vnb1VNQVVidw?oc=5",
-    "title": "Day 2 Results: 16th Hockey India Junior Men National Championship 2026 Coimbatore, Tamil Nadu",
-    "title_ta": "",
-    "summary": "Day 2 Results: 16th Hockey India Junior Men National Championship 2026 Coimbatore, Tamil Nadu",
-    "summary_ta": "",
-    "date": "July 29, 2026"
   }
 ]
