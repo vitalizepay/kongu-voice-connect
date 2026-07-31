@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul31-001",
+    "id": "kar-jul31-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQllVNlBoX19WTDJ6TjJ0V1ZHWUYtUDdrZEhnOC1WVmZsRWhJVl94TkRYSFhsRlBRaFpqZ0p1RWsyZ0pVbVJCUVhtRTlyRUhCcUx5anF4R0dPZklmMC1DNmlzVTltbkxNZ1oybnRMSU1MT3B2TzB5amU1c1UxY0hOMmxGdG5JSWtoalE2MXB1RVZZbUxRcWtJd3BQT0hwYmVFVGI4MVRXeFp1THd5ZTdINzMycnF2V2xsR29EVUxHSW1NMnc?oc=5",
+    "title": "Caveat petition filed in Supreme Court against order on Tamil Nadu Karur stampede job scheme",
+    "title_ta": "",
+    "summary": "Caveat petition filed in Supreme Court against order on Tamil Nadu Karur stampede job scheme",
+    "summary_ta": "",
+    "date": "July 31, 2026"
+  },
+  {
+    "id": "kar-jul31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPazRDU1RSc1pyV3VXc2lzNHVyZk1CRXJLRkU1VXQ2WjQ2Ul9nUm5pTHBpcC1obGtGQmlFUTcwLU51V1hyUjlDa3ZHcnpxUmFXZTBJX2xrRlpCNEZzbi1zVVh4U3A0NUxqQkg5WWVLWFY4N090Nk9kVkRqbDU4WGRtZ01CUGNnR1BpYW5BRGwwNmduSDV4S0gycFJZTmhKTWxFS2tFX1FTQ25YcjZITXY5Z3VjSWtVWlNUYjF4R0IzTWh3SmQ4NEpCa2p1Vm1ZNzNhSHJ6d0Y0VW1CaHVsOTV1ZXJvb3ZLa0FtdVNUYVNR0gH0AUFVX3lxTE1xTFdMWVhKcktZZ0xhNkVDeVhkckZZWUp1cUphVDNBZGhDajB2X2dab1J2Z2RCNEJpV1lkTDJwNm9sa3RDdk1OSlhVTUJDakl5QzN2Q0tCc0NOUmpLYmhaMXNxb3BHQmRWSTk2VjBUa015cW1ub1Z5LVJlc1lra0VoVm1xUm5JVmpBM2R0TE1ia0l5emdYN2lkdFBiVTJtbTc4bFpVOGJ6emxBMFB0N3l6WUhjVmlFTkl0NHhmVTR4dGozLXJBU3hBV1NtYUtfclNQUDJtY2VDa0hDdnJhM0NURXA3dGFCY2kxcjRjQ1FFb3VVQm8?oc=5",
     "title": "T.N. moves Supreme Court against HC striking down jobs to Karur stampede victims’ families",
@@ -130,17 +142,5 @@
     "summary": "Video | Karur Stampede | DMK Slams Tamil Nadu Government Over Karur Stampede Job Order",
     "summary_ta": "",
     "date": "July 28, 2026"
-  },
-  {
-    "id": "kar-jul27-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3o4dWFOWjFHcmg1eGFGMDgxbkZLV3pkSENMWmdJR1JtWnlsTU44eVBUR0FHWk44ZUh5ZUlkcktfWkFoZGZfS2ZBS1NyZERWNXhzcjd6elJKT25uNDBfcjkwTFFQdmpLcGdxbWNlRk1XcmVMMHpvR1ZQSHlHR1NWRXBfNHdxWEt1bXJOaUxqbVROb0tDTnlMS00xRnRadkZnNkhXNEItMEozYzFWS3ZkR3JuZXB6LWNZWjh0SG5ITkV4WG1pclh1UWpkcnItT2JRTWpMbHJGTlEyMFM2STdJUVUzOEFFaU1zcy05aHN4QVHSAfYBQVVfeXFMTS1PTUhLMF81eGstZDJtWThUNjlpVWFRVUxrbEdxZDhmWkJ4dkRMYUJDd0pGQzkzaXQ3S21oR3RMZ1NabmNNZEoyOXJpWjRxODRRSkZabTVoOFFIX0JmdzJhNTNDa1FZa3gzMG5IeDRZX01mUElVemRnVHkyYjlDdjZZdldweXpxMW92LTBkRWVsT3ZUbXVtdFZPM0lfZmVQYXhXeDU0QVR4TTYyMU9HNEowR0E3cU5jZTMwUGtJeXpmQ1Fla0xKTXVBbmxTVGhDS0N6U3F4ZTg1ZHRydTV3Ulhpd3RnRjBVUVpWR2dDQnI0VU0ta3Vn?oc=5",
-    "title": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
-    "title_ta": "",
-    "summary": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
-    "summary_ta": "",
-    "date": "July 27, 2026"
   }
 ]
