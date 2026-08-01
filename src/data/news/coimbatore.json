@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jul31-001",
+    "id": "coi-aug1-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3NiUWJxTHVWMm5wS3BoNjdRVmpsalFsRENKaEFETk5HU2hPUThaSDV6eFpxQ0l3QTg3VjF0OUM4eWxIWXlRcVV5LS1TSUtWYmFBTmxlTWxudnlVaWdRV3h4UkhiY2RlTzZ3YllsVjVfRi14aXg3WXM0RllQQU9uMlh2cjJZeDdDY3RYMm9nSjFJaWVONWFQR29uRDNXaHVqT25wWDFEZExqTGw5VjhkcDZoektPX2PSAcQBQVVfeXFMUFZJcEJrQ2NKZ2lHNjlwOUI1c0ZROEpjd0lQaElqakFzV2xTSElJRDJTbHJtWnpDaVA3TG5hRUswOTFDTnlobExIaENJaDU1MlBXMG1CbDJjRDZaWXczMVFPbkh0Y3RtVTU0VXhVZHdyLU1XR1FKMlJ6b0dGZHhmYVlVQjhaNTF2dWRoenZHSzg4YU13d2dCeXNBam5lMDVfakpMUl9iQjRMbDVqMXpXcFJjNVAwaDRTMVhKYk5xTGdhekdVNQ?oc=5",
+    "title": "Kovai blast: All 12 accused students of Arabic College",
+    "title_ta": "",
+    "summary": "Kovai blast: All 12 accused students of Arabic College",
+    "summary_ta": "",
+    "date": "August 1, 2026"
+  },
+  {
+    "id": "coi-jul31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMThFNDBHeVk5RUhIRlVyQUcybHFLdkRoUHZuLXpPWlJ6a2xsUlpiUzJ3SXN2VXA2VnZ0Z1E5TnhCbnNURFdxUDNiMF9uQ3hNNXV6WWRBc3pTb05KcU1pRHFVazlKdUJTQmtsVHVPeWpkQlU4S1c0UzM3SnZpQ1NjbE9UaFhXR0FKMnNsamRsOUttZUVTdXhIME8xLTFTY1h5N09mRnFKc090Y0psLWFSc0RWQVdZQm9GMVFNUWw4R1FtZw?oc=5",
     "title": "Day 4 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "Coimbatore blast probe: ED raids across Tamil Nadu, Hyderabad and Mumbai over ISIS terror funding ne",
     "summary_ta": "",
     "date": "July 30, 2026"
-  },
-  {
-    "id": "coi-jul27-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzlFOXhNMnF1bE5PUDZFYmtrdXVpTWpOc2xXZDZueG5OVF9MRlh1RlNDZzRNU2c4R2xqczBNMTBwcUVQV3hSVGNVOUYxbVg3ZGtPVVh1N21ud3ZYOXctdjF0cG5sblRSZ0QtN1NIYkc0MjZOaEh6dWkzOU8zc2VHVS10WGdzLVdoc0lzVXhlYnhOQmtvcm13UXpMTE8xV1p1MmEwSm1tc0M4aVoxUUhn0gG8AUFVX3lxTE85NDdlZ3MtQ0JmZC1la3FnVlNTWlUxN0dsWmQ5RnJpTElKdC16c2lCWWc0S3BLSllPaTRuZEF5QTVSNlFWeFotMV94NUl6WTdpOUh3ZHNidEwxMVFWSm1iNmNhdHBuX3FIbjZaS2QxX0EyRkJsRlFHZ1BUVmpTYndhZ1ZQb3RrT29hQktiLWMyb05HemJ6bTNiYWk0aU9OTk1feWVobmZad1M3eXJMbTg4UjRsZHhTazl5Rjhj?oc=5",
-    "title": "Centre rejects Tamil Nadu's fresh bid for Metro Rail in Coimbatore, Madurai",
-    "title_ta": "",
-    "summary": "Centre rejects Tamil Nadu's fresh bid for Metro Rail in Coimbatore, Madurai",
-    "summary_ta": "",
-    "date": "July 27, 2026"
   }
 ]
