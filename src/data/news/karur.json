@@ -1,8 +1,32 @@
 [
   {
-    "id": "kar-jul28-005",
+    "id": "kar-aug1-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVFKVWZQMFA3MDBPU3dwbldaQUthbFgwOVE3UmJJVWZVZVVmVUJ6WUIwd2JNelhCMHBTY0p0dDdOWHJEeWlBVlgtdTRHZFdCU0dVLXBrMmxGbDRGeGN1VHFzT3o1TVZWajc3VHV2b2ZSU3VoQnF0eEpEMDZabFoxX3dGRkFKUU1nT1R4dG10LWlDOGVHX05veDVrR2VlQWFvQ19nRldfV0NHN1lPd2E4Q3VhWl81M1JWV1VBUTJjSGJMakdQeGtfUm91UFN5OEE?oc=5",
+    "title": "Tamil Nadu Inaugurates Two New Mini Textile Parks in Karur to Boost MSMEs",
+    "title_ta": "",
+    "summary": "Tamil Nadu Inaugurates Two New Mini Textile Parks in Karur to Boost MSMEs",
+    "summary_ta": "",
+    "date": "August 1, 2026"
+  },
+  {
+    "id": "kar-jul28-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUk13ZEFLU2thN21VMlFxeENsWWM3TmZjemp4U0xKOWJrX2x4RWJENjFfQkJFaG85UllmY3hqY3VseWQzUW5VNUtOMkN3SjV6OTZvR2d3MXFSQU5KUmJxbXktMllPaHpZSW1rMFRJLTh2Z2cwaHJrV3Vlb1puQU0tZUZ3RzF3QmhDeTJyWGRoc01kUVBnNEFqWGotdW1hZUlLVTVj?oc=5",
+    "title": "Tamil Nadu BJP chief criticizes CM Vijay over Karur tragedy response",
+    "title_ta": "",
+    "summary": "Tamil Nadu BJP chief criticizes CM Vijay over Karur tragedy response",
+    "summary_ta": "",
+    "date": "July 28, 2026"
+  },
+  {
+    "id": "kar-jul28-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZzZ3UmRSaFpWWGxOYXJTWDUtbkZMU2p6eTVSUVVuMjZtWDRoQURVRkhpN2dUVF95VlR0SlBoZ2tfRjB3MHJvRkRINzBoUHlRWlIyTWhFa3NXdUR1N01naDNYOFNkUXhfWC0td1lrRFNFV3ZydVVhdThoN0V5NndKbHI0TWMzaWI3SUhWTjNxSV9fLXBEMTcxeVJ6VnB6Qnc0bVJMOUpCV3kwSXVhZzJsUzZMWTVoWjBZWEUtdjhhWE1Zdy1aWlVMeVN4a0xqZHp4MThDMFFxSGprU2hiaXRmOTdtdTRxNDNKNDk3bUZJWWpkbzdjbjdUMHhwUTNqQlRvUFHSAYcCQVVfeXFMTnRyYU8yMTl2b1diZ1AyYk91U09JT25wa000VG0tcEg1ZncxZ3hKQ0VLM1N5SmFIZnRueTdQWXRjYXpoSHBZMVFLTVpkdExpcXFmY29RTmhnOHV4YkVSalFQR1RMc2l4MHd4dlh4cnBXX3lLc3pyR2s2MWg5WHRRcGNrQUIwWGhHZ0x6bWRZN3hkQ2xJNmtvbm9IYzk1LUlXYXdxem5tTTdJcHF3YWZFZEV0RDYya3M1TGJ6RVFhSVZqcUt1a1Q1aXF4b3hQRmhaSzBZRjdvcGI3MGs2RGhUM2l2bkZjNGpJMGM4ZUZmM2d5aE5pWEppWUI0VDl2VXV2Y3ZHcHdWZTQ?oc=5",
     "title": "Karur stampede: Madras high court quashes govt jobs for victims' kin, says employment must be earned",
@@ -118,29 +142,5 @@
     "summary": "Vijay's Order On Jobs For Karur Stampede Victims Cancelled By Madras High Court",
     "summary_ta": "",
     "date": "July 27, 2026"
-  },
-  {
-    "id": "kar-jul29-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObzc0RndwMlRMVGNJNWxnTjJ1bmg2XzlPa1VIeDZoOWVfRDNHeFZkUDE5MEhfaEJpa1Y3WFNmNzI5RnFyOXZ0THhNZ3pRMTVfUVF6ZXltOFJBRXM2dXN3N0NCOGZnRm9XZXFxYVZxVGdMR2hPNUNJNEhfdnRSY3hqMnNuRExnc016SnhPNjVVcUc1bDBqWWdGaG9xT2NHUVlPcnExbWIwcDI4MW5DQXM4UFRaSjZuWGhBdGxOU1YwSURqS0xwYVRncjlPV1d3SDY0aG81QVBjX3lhZXRIbjFxSUlJbjVma1Jta0FpZk9vV3U4Y1HSAfgBQVVfeXFMT2U2UTNNLUVHZXhDNXFudGNjV29ENUpmUkxwYU1XYmtHaEVJU1Nobm5nRFA0OXNfejlUaHNWbmVQYzA3OVdJZVBpSjJaTWo5bzJzUkJzOWtsY0g4VGV5ZG9kTGlaWURwSHJ5b1Rmc2FMQUhwRHgtcXRJUkNuZzRIcmNQVXVVVkozdjk2aW11aFdYTXVpejA2NGdRTGhfdy0ydHRLd01kUVNpS1NFS2dhWWFrUl9MX2hFcnNKSlJNb2dTT2w0VHBRREZCUzlrakk4NE0tRDl3RVVTeFJTeEwtVDFXX0NuYWhOeXExVVZZMFJqN3Q3cnZxU1c?oc=5",
-    "title": "DVAC raids residences of former DMK minister Senthil Balaji, aides in Tamil Nadu's Karur",
-    "title_ta": "",
-    "summary": "DVAC raids residences of former DMK minister Senthil Balaji, aides in Tamil Nadu's Karur",
-    "summary_ta": "",
-    "date": "July 29, 2026"
-  },
-  {
-    "id": "kar-jul28-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVE14X1BVTE1KZ3N1Unh3RW1hY1ZXU0xhUUExSVRfTFlvQkNRTXRZT0w3eXZQZWgwUUNQX3lNc21WNGlLNzNrSlBBMDB1WGZHcVBodUZyWXJUcWFzUGFnVm93V09vQ2p1WnpwblNyRUJNY2p2SmtJaXVyOGZac043aE43amVJcDRnSHZSZnpKSjZRcjJtNmo2NnhBeHZBSzJxN1hQSVJBSUtjcFhkeUgtM2laLS1xYUZNbzdlamU0SHppZ19HX1pocFZrenk4SENpOHJDVjQxcU3SAd4BQVVfeXFMT1AybFItODFEamFCaWhmaG40NFhvNTIxajVEUmZCa1lpc1VSQlN1WmY5ejRKUml1alNTX0xjRE00Z2F5QU9nMDhOcmpuZEVmY1NyUTd4aUtFWk9RZVJfOUNJNm43dWRPc3pKU1hNUHU0ZDNwOS0ycXJPdmM0R2NGeVFPaTJIaVlrR3M4MWk3SDdOZGNESFVhVTlpeEN0dmxRYUN5ZGxJYmIybkVWVVp3UV9WTC1ISkZKTXJGdVJLMVNzaGE2Q3ZKZ2VWNFJDT0hrZUhBbGx0MXBKRmRZelJB?oc=5",
-    "title": "Tamil Nadu: Madras HC quashes TVK govt’s compassionate jobs for Karur stampede victims’ families",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Madras HC quashes TVK govt’s compassionate jobs for Karur stampede victims’ families",
-    "summary_ta": "",
-    "date": "July 28, 2026"
   }
 ]
