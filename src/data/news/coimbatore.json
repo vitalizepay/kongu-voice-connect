@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug3-006",
+    "id": "coi-aug3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUU0Sk1oZHNWX3k5TlJQZmZKTmYxa0NvdHBzMTJBYjJuQXMwN0poTkRDZllQUlFrVDZiSEFmWEtjZDFRS2pkYjlGam1SVFBENDVZTTUwYkFCU2xwcFZVQVVpUHVnZTBNWmVGdmNaWE92aE1PZW1NakNPQ3dWRGw2UklsRzh4OHFua3dPV1BmbkJSM1BVSENQT1h4bWp1eVpKNS1zdWdCUVR3bmFEdkJ1TEFXR0xUZkNUYTRIclNSVUM1QQ?oc=5",
+    "title": "Day 7 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "title_ta": "",
+    "summary": "Day 7 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "summary_ta": "",
+    "date": "August 3, 2026"
+  },
+  {
+    "id": "coi-aug3-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUtST3lnNzN6bFd4WWJrZXAteHE0dHhfWXJPSDJOOXljOXNjRmhac2k2aVVaQjNyaW9BbVhfb2NWeTljRmZKZ28tUkF4MU5zTEF4VXlZbGNiZm1EY3Q4R0o3dlpGWUh4SUFuNEN2X3ZZdFh0OTRCOTkwekhVX1JjYXRYRWlCcWhYVVRZTA?oc=5",
     "title": "Prem Deep Jewels opens Tamil Nadu’s 1st showroom in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "Coimbatore blast probe: ED raids across Tamil Nadu, Hyderabad and Mumbai over ISIS terror funding ne",
     "title_ta": "",
     "summary": "Coimbatore blast probe: ED raids across Tamil Nadu, Hyderabad and Mumbai over ISIS terror funding ne",
-    "summary_ta": "",
-    "date": "July 30, 2026"
-  },
-  {
-    "id": "coi-jul30-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUdhZjhmZU04MGtVTUlxSzNhczhqbWJnQzBwaDd4MHdkTWUxYzd5QjZMaUY5anVzSEgxV2J0T3gxZHBNanIyM20tR0dDQjVZaDRoOFBzYjRTcll2ZldUOGp3WXptNFJjbWJEWWl2NmRORXRUZE02N0hBaHp5RUtEUVRTODJKbDByMEJsdll6WGdGNnpFX3pwZ28yUURaVEk1QVd6VTFkakRVOHZvS3l6cEdCb1E2V21sSkhxXzNpV3BDMGRJTnp2WTJpMENFbVXSAdYBQVVfeXFMTkdieTZuVlk4UEx0djlBRU5mRHV1VUlwU2JfenJfX2x2a3pYM1pER1VRYWYzUWtlTE5URzZPNS1Ocm0zYkpqSVNaRFBlSnFfUzRYQWtVeXVUSDIyUF9pbHRIZXRwLTY2TzF5d3VYR2RHT3hPdFNhemRYZVlLTGZIbGRYeDlDQklZdmZvcVNvNXBuYnI5cW1qR1pYMGtQUTZtT2pmcFV6ZG1TN2J0NWFGRFB3S0RZQ082aVRWcjJKUjJTRFAtVFB1RWFUcEwtaTZiY1RDSFRTUQ?oc=5",
-    "title": "ED searches 16 locations in 2022 Coimbatore blast terror funding case",
-    "title_ta": "",
-    "summary": "ED searches 16 locations in 2022 Coimbatore blast terror funding case",
     "summary_ta": "",
     "date": "July 30, 2026"
   }
