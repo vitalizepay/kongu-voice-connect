@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug2-001",
+    "id": "coi-aug2-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1VRQlluTHdCUklZT0EzMXAtRThsMHVyR3ZFZTJoa2w2X0pld2pqVnMyQy1WMkxRekVRdU4yX0F2dng0T1lpY191ZFExbS1oNmpQSkVMZktNRzNMWkVOckllMmQzMjdaSWxnbFFCdkNub28tdDlkUXYwandsYzFtaDMyZmxpZ2Jwd1o1d04xZkdBa2duTDV1RHY0cDZoTXk1VHBsNUo5VmtzaGlEc1BZdjNaR1NsSndOTEsyOTRXMllNZHYy0gHKAUFVX3lxTE9NcXViZ0tCSjNmWDBZSV9zWGwxbkZMMEZFdEVVWWhnTjE2NERVUkFRODh4VTBPenV6Zk1MNWpIMjBSeVVxazlsTVA4bENsZ1ZPdWRfUnY5MTA1Rk12RzRSV09kLXFMSC1jTFF5czZuTzdrSW1GOUtKbW5tN2FfMzZGZ1N2VTMwMDZnTm9wX1dqRDUwV0lzcE9zOEEzZGtHM3VsMzBnaXJXeWx0VHdXZFNEV2lxM2hHZlRFN29lQmVYQXZ4eFBuQnRSekE?oc=5",
+    "title": "Tamil Tourist Dies After Being Swept Away at Kerala Waterfall",
+    "title_ta": "",
+    "summary": "Tamil Tourist Dies After Being Swept Away at Kerala Waterfall",
+    "summary_ta": "",
+    "date": "August 2, 2026"
+  },
+  {
+    "id": "coi-aug2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3FSeXc4NHZYZFNkbFJrdDVMdkFkRXBRMi1KT0VtLW9EVWljLUt1S280QVAtMmpVcWN0NDFqVGlQTWtNcEtfVGhuNjhXYjJwU1EzUE1kTGpVUGg1SXJvZ2JuR1FhX1RNNnN6VTNkc0w5emlua0ZNZi1Wc1RNQ1lFSlNXTGlDd1ktb252ekh2RXpSc3NEcVBxTU1pZWctOFYxeU44VVBiaUY4M2J6MDBBY2p0Y0pWZnhwZ0xzRWpObnBTdw?oc=5",
     "title": "Day 6 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
@@ -118,18 +130,6 @@
     "summary": "Day 4 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
     "summary_ta": "",
     "date": "July 31, 2026"
-  },
-  {
-    "id": "coi-jul27-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "July 27, 2026"
   },
   {
     "id": "coi-jul28-005",
