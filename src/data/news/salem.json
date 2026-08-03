@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-aug3-001",
+    "id": "sal-aug3-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVEphWmtQUFd5ZnJvc3VGdkZaSndkU2RBenlpU2JhbW53cXFkeXFyclNzMG05cUlUOUszNURfR2paQ1lxSFhiNGxuU2w1bHVlRjVkdHRvRnpKSmRnZUhjZ2E5c3BjRkhlalpEWXdCQUlkWHg5cGNQNVpJb1ctSkxiU0FhcWt1Q3VRTkV5UjlkU0c0cHpLVFlrdTM2ZXRWZVc0U3ZtWW1Kdk92a0psSktWWklVMkctYUtsUlZNSDkxU3QyQThoUWZGcy1R0gHPAUFVX3lxTE9FRmxOZFF3UU11X0hJWmtLS1FqR1ZRdjhCX3h2Q0MxSHYyLUJZZkFnME9mYnJiX0s0cjFfRlFMSVIwNGhEU2lid3hPYUc4UjFoaUNVQXdnSjVvZFAwQXhUZnpWTlE3UVZfZHNHQ29hVTZUZEpKVVFNTXp1dGpWaFV6c2tvOTVmbWtGYlZ6Q0dKVjV6TnoxMnBNbVFnYUdxQVRwNC1WYnNQZHBvR3VYN210UzJtYXYxdWcxeWtRUTBNME9jQkJyNW9aNkJ5SmJwYw?oc=5",
+    "title": "11 Rushed To Hospital After Inhaling Poisonous Gas At Private Factory In Tamil Nadu's Salem",
+    "title_ta": "",
+    "summary": "11 Rushed To Hospital After Inhaling Poisonous Gas At Private Factory In Tamil Nadu's Salem",
+    "summary_ta": "",
+    "date": "August 3, 2026"
+  },
+  {
+    "id": "sal-aug3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcjZON204YnpVa25vS2VOd3FKY1RSTjFhclBZZHdzd1JtSHRoM3pOQWhndHByVVhuVHBhTzRJQ3pVODBOR2ZxbUFkM0JJZWRXZ2NWcjNHcEJoOFRZeDNwTU55a3hIejVsUW44VmNDY25sbERveVBQRDZQZFBnWjA2bEpnelZhQzJFMGtqcW9ZMXBhUndQT1lacF94b0lqMkhSSTYxSDJIOFRpbDhTZ2x2c3RVU3BYbkVsdEJwZWZvRFlhNVhaR1lUNUNuZkNkb0VlVWNkUlluS2NfRGdjaFc4cXRndDM5ZEHSAewBQVVfeXFMT3dkcXdKOGQ5dFVVaGlqWnl2RmtNY2JCVzFnanY2LWd1aVRPZUZTQ1FEdHJmMlZRNEpxeExvRmpVQWZiMW94Sm9DUGxqZkl1QjQ4ZDFnVktfSzVPLXZZUGZySkZMV0Z3bXpDeXhZeEhUbm94bmpTUHVlalZfTE9Ic3JfcVVuYXVjYzF0ODh0OWRvNHhxYzJVUGRtNlg5c2ZIZWVjdExrX3pHQnl2QUFLeWFIdm5tVXZRWnlaSFpsWUo0N3BxTVJGWDVoWkxpR3FJRi1GQjZlVGtzUS00NWVleXZOLXdEOVAxRjcyT3I?oc=5",
     "title": "Salem: 12 Affected In Gas Leak At Private Sago Factory Near Attur",
