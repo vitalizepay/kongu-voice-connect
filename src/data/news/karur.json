@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-jul29-004",
+    "id": "kar-aug3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1FMTFNaZ2lQNkxEeUJPa2hhUWxlVHpxV2QwZFZwNDBvWVhibXRmZmtVZ2M0SVFEclk1b25kcFgtbnlsOVdKUElUaTNWNzNNbjZnaVAzSGUxREtmRDZqOVlHcWpxTnpjZ25XSDh3NlkzbGpmd3lBRVQ5X1ZfZEJRcjhhb3prSHZTcFBXWXBn?oc=5",
+    "title": "Karur | Teacher | தலைமை ஆசிரியை மீது இடைநிலை ஆசிரியர் தாக்குதல்..",
+    "title_ta": "",
+    "summary": "Karur | Teacher | தலைமை ஆசிரியை மீது இடைநிலை ஆசிரியர் தாக்குதல்..",
+    "summary_ta": "",
+    "date": "August 3, 2026"
+  },
+  {
+    "id": "kar-jul29-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObzc0RndwMlRMVGNJNWxnTjJ1bmg2XzlPa1VIeDZoOWVfRDNHeFZkUDE5MEhfaEJpa1Y3WFNmNzI5RnFyOXZ0THhNZ3pRMTVfUVF6ZXltOFJBRXM2dXN3N0NCOGZnRm9XZXFxYVZxVGdMR2hPNUNJNEhfdnRSY3hqMnNuRExnc016SnhPNjVVcUc1bDBqWWdGaG9xT2NHUVlPcnExbWIwcDI4MW5DQXM4UFRaSjZuWGhBdGxOU1YwSURqS0xwYVRncjlPV1d3SDY0aG81QVBjX3lhZXRIbjFxSUlJbjVma1Jta0FpZk9vV3U4Y1HSAfgBQVVfeXFMT2U2UTNNLUVHZXhDNXFudGNjV29ENUpmUkxwYU1XYmtHaEVJU1Nobm5nRFA0OXNfejlUaHNWbmVQYzA3OVdJZVBpSjJaTWo5bzJzUkJzOWtsY0g4VGV5ZG9kTGlaWURwSHJ5b1Rmc2FMQUhwRHgtcXRJUkNuZzRIcmNQVXVVVkozdjk2aW11aFdYTXVpejA2NGdRTGhfdy0ydHRLd01kUVNpS1NFS2dhWWFrUl9MX2hFcnNKSlJNb2dTT2w0VHBRREZCUzlrakk4NE0tRDl3RVVTeFJTeEwtVDFXX0NuYWhOeXExVVZZMFJqN3Q3cnZxU1c?oc=5",
     "title": "DVAC raids residences of former DMK minister Senthil Balaji, aides in Tamil Nadu's Karur",
@@ -10,18 +22,6 @@
     "summary": "DVAC raids residences of former DMK minister Senthil Balaji, aides in Tamil Nadu's Karur",
     "summary_ta": "",
     "date": "July 29, 2026"
-  },
-  {
-    "id": "kar-jul27-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
-    "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
-    "summary_ta": "",
-    "date": "July 27, 2026"
   },
   {
     "id": "kar-aug1-002",
@@ -72,18 +72,6 @@
     "date": "July 31, 2026"
   },
   {
-    "id": "kar-jul27-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3o4dWFOWjFHcmg1eGFGMDgxbkZLV3pkSENMWmdJR1JtWnlsTU44eVBUR0FHWk44ZUh5ZUlkcktfWkFoZGZfS2ZBS1NyZERWNXhzcjd6elJKT25uNDBfcjkwTFFQdmpLcGdxbWNlRk1XcmVMMHpvR1ZQSHlHR1NWRXBfNHdxWEt1bXJOaUxqbVROb0tDTnlMS00xRnRadkZnNkhXNEItMEozYzFWS3ZkR3JuZXB6LWNZWjh0SG5ITkV4WG1pclh1UWpkcnItT2JRTWpMbHJGTlEyMFM2STdJUVUzOEFFaU1zcy05aHN4QVHSAfYBQVVfeXFMTS1PTUhLMF81eGstZDJtWThUNjlpVWFRVUxrbEdxZDhmWkJ4dkRMYUJDd0pGQzkzaXQ3S21oR3RMZ1NabmNNZEoyOXJpWjRxODRRSkZabTVoOFFIX0JmdzJhNTNDa1FZa3gzMG5IeDRZX01mUElVemRnVHkyYjlDdjZZdldweXpxMW92LTBkRWVsT3ZUbXVtdFZPM0lfZmVQYXhXeDU0QVR4TTYyMU9HNEowR0E3cU5jZTMwUGtJeXpmQ1Fla0xKTXVBbmxTVGhDS0N6U3F4ZTg1ZHRydTV3Ulhpd3RnRjBVUVpWR2dDQnI0VU0ta3Vn?oc=5",
-    "title": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
-    "title_ta": "",
-    "summary": "Madras High Court cancels govt jobs for Karur stampede victims' families | India News",
-    "summary_ta": "",
-    "date": "July 27, 2026"
-  },
-  {
     "id": "kar-jul31-003",
     "category": "News",
     "featured": false,
@@ -106,30 +94,6 @@
     "summary": "T.N. moves Supreme Court against HC striking down jobs to Karur stampede victims’ families",
     "summary_ta": "",
     "date": "July 31, 2026"
-  },
-  {
-    "id": "kar-jul27-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVTg1bUJ3NVM1dG5wSnZ4UDZfaV91MHgySzZ6cWlEeVR5clVsUXdhVk1TM3VGWS1MYzRjaW1Tb1JxcUlVd29ReFIzRk4xUWdkakhHb1JnRjN4aG1MSnp3ZWI0bHFWNnlLRzltOTFuOU5fUGpFTmVFZWxzeG9zNl83R3E1RDJ1RnFIN2xjYzFrRkZjdmpCbko5VUZud2FDZ2d1N2tLbkhOb0NQaHF6ZE5fWFF2OHZIMjFWekHSAcABQVVfeXFMTk5QbmlndjhsaEVCa1Z6bmMtWkVTVlNXX1VXY1JRdmJBVEs3azN3clVtSzV1czZFdUV1blVMeEExVVJQSE13T2NOaGNDczVGVU9hdUxiQ0JaaERHNVQ4MWN4RVZuNy1jckM4VVhqbTBEcGkxVHBBR04yLUIzNVI1d2xoclN5T2NzMkpZWk0wV0xnd1FZeEJ4SV9TMmNTN2wxb0sxWXNrWDAxLTUwaEI3ZmRCSFdaSXNhT0RxdjF4ZW5s?oc=5",
-    "title": "Setback for Vijay, court cancels jobs for Karur stampede victims’ families",
-    "title_ta": "",
-    "summary": "Setback for Vijay, court cancels jobs for Karur stampede victims’ families",
-    "summary_ta": "",
-    "date": "July 27, 2026"
-  },
-  {
-    "id": "kar-jul27-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR1kyTld6MjZCa0RPeERsdjNGcVBCOG1Hb2o1TUpTVUhYX0pjWVhvaHNGNGliUG4xTS1lc1BsRDFQekFZQVhoVWxlNmdYNEFzTWo5YjBfbkZXdnEtY3JMY0pVanJVRl9TcUNTSGxfU1dxVS02a2RHVnNZQmx6MjFqSVZDeEg4TWFBNnNlOWpwb1ozZzRMelE4Zi1CTFU0aFUxWlRmWDFmakhYMGhjMHZFZHdhQllmZE92NzVpRWJuVXYwSElaakhsSzFTSzZXSnZvVnlQa3kzY3NqUTY0c0M0Y2tvUkI1Y2RBdkRSUktqLTI1em5YaUxwWUZn0gH_AUFVX3lxTE5KbVlkTjluMHB5NnNQZnBjMnBIQ3NINXdUWDZfaElrQUtqSURjMVBwcHhmSUFGNUxkQW1ZeFJuRDhDTlpfaEt0Q0tnVnozNzQtQ0d3di1sU2lXWnAxOHZmQjhxcWZNU0RnU0NBSDBzTFpoWDZyUmpKN2lwYVZVa0xZbExlOVd2VUF4X2pCNmZZS1RMX1dwVTE0VWZ6THJHVDVzcWtDTmlXanA1aC1aVVI5UGlwWU9oNU9XaFJKYW1YY3ppVUpyVm1tZWFRRkcybVhSaWdveTNTbUhkRkgtRHBTcVduMG5WWENFN1p2RnFXTWg5a05FN21rYzgxdE02Yw?oc=5",
-    "title": "Blow to Vijay govt, High Court cancels jobs order for Karur victims' families",
-    "title_ta": "",
-    "summary": "Blow to Vijay govt, High Court cancels jobs order for Karur victims' families",
-    "summary_ta": "",
-    "date": "July 27, 2026"
   },
   {
     "id": "kar-jul30-001",
