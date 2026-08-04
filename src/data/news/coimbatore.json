@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug4-001",
+    "id": "coi-aug3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "August 3, 2026"
+  },
+  {
+    "id": "coi-aug4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQXpNZnlBOXZtU21QSkQ3NF9PODNRekdWVHNVNUdMd2N4V1ZIajVJNldjTFhDZ2c3eEMzYlJla2dvaUN0azJDVnRlelBaY3NkVW9Oek5DaG9tWm0yc2IwUkl2clVicW9ZZWg2djU4SzFVM0RWanhvaGIyTU9sMXFVbDk0NzNPNDA5bkRxaTktaTk5VG5DUHhwM095MDNIUDBmWVlZWDJTbVY2VXRVRnJGM0VIOUFmOGJ3TU1ZTHlOWDFLQldhS2pyeTNrRkJ1Rk1fWDgwcjRJNElqbl9nNk5LQmFIZjjSAeQBQVVfeXFMTUF6TWZ5QTl2bVNtUEpENzRfTzgzUXpHVlRzVTVHTHdjeFdWSGo1STZXY0xYQ2dnN3hDM2JSZWtnb2lDdGsyQ1Z0ZXpQWmNzZFVvTnpOQ2hvbVptMnNiMFJJdnJVYnFvWWVoNnY1OEsxVTNEVmp4b2hiMk1PbDFxVWw5NDczTzQwOW5EcWk5LWk5OVRuQ1B4cDNPeTAzSFAwZllZWVgyU21WNlV0VUZyRjNFSDlBZjhid01NWUx5TlgxS0JXYUtqcnkza0ZCdUZNX1g4MHI0STRJam5fZzZOS0JhSGY4?oc=5",
     "title": "Cauvery inflow from Karnataka reservoirs swells at Tamil Nadu border",
@@ -130,17 +142,5 @@
     "summary": "Very heavy rain likely in Nilgiris, Coimbatore hills and Theni; IMD issues weather alert",
     "summary_ta": "",
     "date": "August 2, 2026"
-  },
-  {
-    "id": "coi-aug1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHdxWkstNzJ0RTFSVHIycUZmZ3VKVDVBNTUyV3hhYnljbXB5OWtoVVMta09vZWUxV1U4TTIyZEdzTU5MaEpmMWVfYVprRGk2QXRzMW9iYl9fZ19nNF9QRzAta2R2cTR1ZWp0WThDc3hNVFN5LVdLZm1xLW9TeWZwaEZ5NWJNQkpFd3lwYjhJN0Y3VTk3VFFYMUF4UnRKeFJSRHhINnllTmw3Z2tvNTh6MkdMbFkzamJyTFB4MHJTUWNaQQ?oc=5",
-    "title": "Day 5 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
-    "title_ta": "",
-    "summary": "Day 5 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
-    "summary_ta": "",
-    "date": "August 1, 2026"
   }
 ]
