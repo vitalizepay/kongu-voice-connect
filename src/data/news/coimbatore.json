@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug3-003",
+    "id": "coi-aug4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOa1M4YjU5WXdRNkVYTEI3V1NpLWlqZzgzYUY4WVFUSWRJdmpxUVB2a0E0YU1EX29VTTlFSEdOQnN5cFl5ZkdTaFhNbVloRFp5cmY1a2JfT04wRUpzSFFOa2g0WTFLdURxQlp5bGUxRFpXeUc2V1ItZUlYOTd2S2c4STFmOUlWVmVEYXdmdksyZ1E1TmJYeDhUMlRENmxOSldVRFRGemtnSHRWekU1LWMzMjZVU3RVZ0JMMXFvVFIycndfTFJNN2xXY2l2X1FvaDR2Vm5Jbm1XZ2Q2cGdmWFhDbWZVUEpPN3lHd0E0a2lOOHFlSVN4TUxmeVJfT0FjZFJVaVhCNdIBigJBVV95cUxPbkJsRGxXSGx2UFRxc09CNDltOWk1Q2RSQ1hGaHNEdXRQUlZRQ0RISmdDek9kT2JCdGFfTHNoUFdsVm9oWlZzZzVTQlMxQUVKa3JENGFjd1hxQWtKR01jc1lqSWNQRG03SUFGNk1JMjN5cFNOQ2EwV0luTGl4V29yV1VuZWVULU9welR3T3VWT3dQZi1EV0ZTR3U2R3dEbWV6alFldUUzUnNLdkJsN0lfb3dlalFBaDRPVTNfRHRNMmVlM1VMQ3ZoS2dFeXF6dVpuSmw2WWF2MFdEb1paYUtfV0l5dXZpNEd2eHNZWW9ZeG9LWm5LSEY0RzNpZFk0UUxkSkRQUmJjYlBWUQ?oc=5",
+    "title": "Tamil Nadu Power Cut, August 5: Electricity Supply To Be Suspended In Parts Of Chennai And Coimbator",
+    "title_ta": "",
+    "summary": "Tamil Nadu Power Cut, August 5: Electricity Supply To Be Suspended In Parts Of Chennai And Coimbator",
+    "summary_ta": "",
+    "date": "August 4, 2026"
+  },
+  {
+    "id": "coi-aug3-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "5 killed as speeding car crashes into stationary lorry in Tamil Nadu's Pollachi",
     "title_ta": "",
     "summary": "5 killed as speeding car crashes into stationary lorry in Tamil Nadu's Pollachi",
-    "summary_ta": "",
-    "date": "August 2, 2026"
-  },
-  {
-    "id": "coi-aug2-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSElFN2NlLTJ5YVA2UmlUanlEaWlrYTkzQWxDMVVmRm9OSjU4ajgzQmJKMmtuUzR0Vm1mMnpUNklCXy1wcEtKY0RtMlNkdkRVS05COGFiUlBIR3ZCZ0c1TS1peERYQmFMUkZaZzlqa1VlS082dkFNZVNkaU5wNXJCMWRVUXZuOWw3bFN6MW9UcEFnVTh2d2NtUW16LVdSZ2FWSGxHSzAtMGZGN3J6UGZ4S1NPekZLejR1ZFIyZXFYS1_SAc4BQVVfeXFMT3pnNi0wRzVLLXRMU01xY3hWTGROOUhXYWlIUHcwMThWcHVwNW81ZTRSR0g5UUN2OVRyak11ZGhmaENlU0lpRGJGTUx2a0hCQUhnN2FNNkhRUE9EUkxXYTYxNmhrZEpubVhCWUZuSW9ra19YZEJVQTZOZE16UndQWlcyU2UyWEtCMGg5ak5OTnd1ekhQTUd5aVdnWG9BblJQeG9adXh0dm5CS1hZOFBhREVWbkYwRDJuM2JEbm42bkJEWmhOTG5CaU53YlpzNnc?oc=5",
-    "title": "Very heavy rain likely in Nilgiris, Coimbatore hills and Theni; IMD issues weather alert",
-    "title_ta": "",
-    "summary": "Very heavy rain likely in Nilgiris, Coimbatore hills and Theni; IMD issues weather alert",
     "summary_ta": "",
     "date": "August 2, 2026"
   }
