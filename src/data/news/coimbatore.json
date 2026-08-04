@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug3-001",
+    "id": "coi-aug4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQXpNZnlBOXZtU21QSkQ3NF9PODNRekdWVHNVNUdMd2N4V1ZIajVJNldjTFhDZ2c3eEMzYlJla2dvaUN0azJDVnRlelBaY3NkVW9Oek5DaG9tWm0yc2IwUkl2clVicW9ZZWg2djU4SzFVM0RWanhvaGIyTU9sMXFVbDk0NzNPNDA5bkRxaTktaTk5VG5DUHhwM095MDNIUDBmWVlZWDJTbVY2VXRVRnJGM0VIOUFmOGJ3TU1ZTHlOWDFLQldhS2pyeTNrRkJ1Rk1fWDgwcjRJNElqbl9nNk5LQmFIZjjSAeQBQVVfeXFMTUF6TWZ5QTl2bVNtUEpENzRfTzgzUXpHVlRzVTVHTHdjeFdWSGo1STZXY0xYQ2dnN3hDM2JSZWtnb2lDdGsyQ1Z0ZXpQWmNzZFVvTnpOQ2hvbVptMnNiMFJJdnJVYnFvWWVoNnY1OEsxVTNEVmp4b2hiMk1PbDFxVWw5NDczTzQwOW5EcWk5LWk5OVRuQ1B4cDNPeTAzSFAwZllZWVgyU21WNlV0VUZyRjNFSDlBZjhid01NWUx5TlgxS0JXYUtqcnkza0ZCdUZNX1g4MHI0STRJam5fZzZOS0JhSGY4?oc=5",
+    "title": "Cauvery inflow from Karnataka reservoirs swells at Tamil Nadu border",
+    "title_ta": "",
+    "summary": "Cauvery inflow from Karnataka reservoirs swells at Tamil Nadu border",
+    "summary_ta": "",
+    "date": "August 4, 2026"
+  },
+  {
+    "id": "coi-aug3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUU0Sk1oZHNWX3k5TlJQZmZKTmYxa0NvdHBzMTJBYjJuQXMwN0poTkRDZllQUlFrVDZiSEFmWEtjZDFRS2pkYjlGam1SVFBENDVZTTUwYkFCU2xwcFZVQVVpUHVnZTBNWmVGdmNaWE92aE1PZW1NakNPQ3dWRGw2UklsRzh4OHFua3dPV1BmbkJSM1BVSENQT1h4bWp1eVpKNS1zdWdCUVR3bmFEdkJ1TEFXR0xUZkNUYTRIclNSVUM1QQ?oc=5",
     "title": "Day 7 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "Day 5 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
     "summary_ta": "",
     "date": "August 1, 2026"
-  },
-  {
-    "id": "coi-jul30-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUnZ3WFlFOTRGRXRoRWJqYm5EZlNBZDJKUy1BU0VlZzJwcFRBUXdIZXl5RE1HZUZaUFloSXA0ZDhSLUhlMFgwdV92c2tlMVpIVHlTczdGa3p0bUVCdmpDcWJiZlVLMm1HcVJ1UDVLamtVVmR0N08zUDVlNWw3OXJvYWVEQWU3OVdnaVJMTHJMRFM5WGxmXzl3azdZMUozTV8zQnBCcTIzUk9DYlZ2b3Z3dXJCZjU1QURubVQ4c0oyS2pSSFFjTGI1aVl5dEROMmgxd2RxMGpEMHg2aWVKaU10SUhLMlB0SzdDZTJERkJoMXrSAfYBQVVfeXFMT1RvaW43U2F6T0dqMnNHUlpGQmpmLWJuSDlFM05VS3FJWHpzYlNxMVdweDNRdVJiMXJvRE1hNDhjTXkyUF93SHMxaXVjeUpLVGtIVzJWVmZmZE1HYUpRVTFCZXJhREdXUXM5RnZfZ0hpNFhsMi1OSHFkSG5kU2J5Vi1UbGJxQ25ZaUxQVEpuQU16eFVvOHNfMzNtcXJLMVp5ZU9zcERaaGd3WFlzRmpQSjJuN3BVSFBCNGtDN2d0WXY3bXlnWWVSUGJOSC1lUERPamJKV0k0NXdsYlhjU0NVaG1zNWRrUW1JQ2pvOEtiTXZGem55S0pn?oc=5",
-    "title": "Coimbatore blast probe: ED raids across Tamil Nadu, Hyderabad and Mumbai over ISIS terror funding ne",
-    "title_ta": "",
-    "summary": "Coimbatore blast probe: ED raids across Tamil Nadu, Hyderabad and Mumbai over ISIS terror funding ne",
-    "summary_ta": "",
-    "date": "July 30, 2026"
   }
 ]
