@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug3-002",
+    "id": "kar-aug2-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1hGWlRadndSNUtHS3U5YTBrbE1UOGtHTFhKQzRVaGwwaFdQNEFhMjlFdEY1Y2hpUHNFb2k4MUFWTW1xaHJ0YmhWbmR5Z1lMcWJ6TnBSOGwxeWlSSmhsNkIyd1RVcWdXMFBOVjIzLUtRbURwRnNQd1ZIcnNVSzJhUjNTSzFzRXBKbW0yTlExaGFTaXZ3aG5PMA?oc=5",
+    "title": "Karur | Amaravati River | தண்ணீர் இன்றி வறண்டு காணப்படும் அமராவதி ஆறு..",
+    "title_ta": "",
+    "summary": "Karur | Amaravati River | தண்ணீர் இன்றி வறண்டு காணப்படும் அமராவதி ஆறு..",
+    "summary_ta": "",
+    "date": "August 2, 2026"
+  },
+  {
+    "id": "kar-aug3-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
     "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
@@ -10,18 +22,6 @@
     "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "kar-jul28-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFozS2ZuMEJjNTBYTTFMQlJORzZWSV84QzRIVXRFd28zcXlEQkEwOUpfOFNyMDZCZk9FYVUyOW8yYUE4Q2p5VG0zaGk1RzhWblVuMW9fbmp4bjA1aDE3eUQzREFzWGZWY0pBQXNwUnlWX2lYOU9VQ2VQVW1CY3kwaS05UXJhYzFNaGFud081WklzejdT?oc=5",
-    "title": "BJP says CM Vijay mishandled Karur stampede crisis",
-    "title_ta": "",
-    "summary": "BJP says CM Vijay mishandled Karur stampede crisis",
-    "summary_ta": "",
-    "date": "July 28, 2026"
   },
   {
     "id": "kar-aug3-002",
