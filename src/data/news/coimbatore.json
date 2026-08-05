@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-aug5-001",
+    "id": "coi-aug2-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3FSeXc4NHZYZFNkbFJrdDVMdkFkRXBRMi1KT0VtLW9EVWljLUt1S280QVAtMmpVcWN0NDFqVGlQTWtNcEtfVGhuNjhXYjJwU1EzUE1kTGpVUGg1SXJvZ2JuR1FhX1RNNnN6VTNkc0w5emlua0ZNZi1Wc1RNQ1lFSlNXTGlDd1ktb252ekh2RXpSc3NEcVBxTU1pZWctOFYxeU44VVBiaUY4M2J6MDBBY2p0Y0pWZnhwZ0xzRWpObnBTdw?oc=5",
+    "title": "Day 6 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "title_ta": "",
+    "summary": "Day 6 Results: 16th Hockey India Junior Men National Championship 2026, Coimbatore, Tamil Nadu",
+    "summary_ta": "",
+    "date": "August 2, 2026"
+  },
+  {
+    "id": "coi-aug5-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTM2NUlPb29SaUlpNDg1akdjcEpHZmJBWkFjcDRrN2cyN19MVWpkb1cwMnVnRXFzU0xxaF9wdjV3ZE1RSmpWREJTci03TEFseTJ5clFHcUs0WnVJbTlaNDc2c096WGZlamJieVAzbXlvaFdEeDliRkNSU21lbXJaU0NOUlY3V2tlMjltRE9WT0F4MWhUcTJZQ3ZCNm0xUDg0bExpLW8zOTFqUzFNc1BVVW14eXpCQ3hIRXhRZXhqLVI?oc=5",
+    "title": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
+    "title_ta": "",
+    "summary": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "coi-aug5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaEsxdVJlRF9qeUJ1dVdlNVd0cnktU1AtVWM2TndxNFhEaXVNUTc0Sk4wSmVmb0ZGOW10SlR1am5HYU94dU5rWXY2YlVrUXJnX0sySlNHSUNoQlNYX1lUQzQ4T3UyM0tGRFBXNmcxUm9IQ2VuRTd3ZTZLaGtzSEVLdmgtT1NPUllaVHY1STQ5NVZmdV9OSDlBY0RrNmQ0ZDcteXNLZW9QbjBuM1hISm1KeV9pZkMxZW1TbFhucnY3ZldCS1ZXTE9UWGUxRWM2MGgzZ3V2RWEyNm5QbHgwOEl0WHhCV2JreXR6cWNvQXZ4clJEWHVNdFHSAfwBQVVfeXFMTlA5VnNEZGhBTGFnbTdMWk1ic2Q3Nl9TZVB1aDAtVXFBbFEtRnBONzNPQl84WVY3NVFtYS0zaEhrMU9VX2lFaVdCUEN2WDZHUWN4VjlwVzdveXVZbGFZRGVzR3BleXk4QjZhNHhHazNJZ0NJRzZScjdMSU1CZ3p2TWRFRDdMeERYcmh2Zmx0ZkVCcU9CSGloR2FrMGx5RnR1ekJwNUU2Z1FoSHdHUnhUeXNZMUZTTVc4NGRFX0FiVjcxSHhqNHZGMHRTWW9FLW9nd1FQS3p1M1VrRW1IX2ZrNFd4dVBnV2VhMXI5eFYzc2VfMlI1VWoyQVA0MmR2?oc=5",
     "title": "Tamil Nadu Budget:Textile industry in Coimbatore and Tiruppur districts welcomes announcements",
@@ -118,29 +142,5 @@
     "summary": "Coimbatore woman slips into Palakkad waterfalls, dies",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "coi-aug3-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1lWaFliLVNtZVRwS29TZlJUYkhjdlA3WHNYMzhtTFBvNlItVVg4dG9HalBpLVMyam5ZZHBWRVcyWWxNWUZGV2FEWnpwa1NSaTduZXpkWlRnODA5ZmJ5Rng2WExPU1hNZVd4SHpaR0EwcjhXdGlEYzlOYUNSMVRTdHFKMGNjczY0MHQzYTNzZ29lR3JqQU44ZEtxTmE0a0w0cGxDNHdtZ0tubm9QVkdUWUZDN3Y0azJMZ2Yw0gHIAUFVX3lxTE5tSVdPSENubEZlTThqTEZjTmlEWS1kYUVuQUdzc20wUjAwa0RfUHkweDBVc1BYRGFDZ0M4c1ZDVmVZdjNWd2JpNnZZMjU1WXk5WklaNU1VTXBQajBWTjRDbkYxd3pMOHA0Q1UtbnprVDdLYklZdHJSQVFKcXk2YXJiMWJjR0ZZX0s3cVdsckJYaHJPSkFOMlpMUlM0VzFoVTIwVlphdjRwU1FXUEViNW9CdXZwVnB1UUJwZGdYY3VXbGNhWjcyWXRw?oc=5",
-    "title": "Industry seeks direct flights between Coimbatore and Thoothukudi under UDAN scheme",
-    "title_ta": "",
-    "summary": "Industry seeks direct flights between Coimbatore and Thoothukudi under UDAN scheme",
-    "summary_ta": "",
-    "date": "August 3, 2026"
-  },
-  {
-    "id": "coi-aug2-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1VRQlluTHdCUklZT0EzMXAtRThsMHVyR3ZFZTJoa2w2X0pld2pqVnMyQy1WMkxRekVRdU4yX0F2dng0T1lpY191ZFExbS1oNmpQSkVMZktNRzNMWkVOckllMmQzMjdaSWxnbFFCdkNub28tdDlkUXYwandsYzFtaDMyZmxpZ2Jwd1o1d04xZkdBa2duTDV1RHY0cDZoTXk1VHBsNUo5VmtzaGlEc1BZdjNaR1NsSndOTEsyOTRXMllNZHYy0gHKAUFVX3lxTE9NcXViZ0tCSjNmWDBZSV9zWGwxbkZMMEZFdEVVWWhnTjE2NERVUkFRODh4VTBPenV6Zk1MNWpIMjBSeVVxazlsTVA4bENsZ1ZPdWRfUnY5MTA1Rk12RzRSV09kLXFMSC1jTFF5czZuTzdrSW1GOUtKbW5tN2FfMzZGZ1N2VTMwMDZnTm9wX1dqRDUwV0lzcE9zOEEzZGtHM3VsMzBnaXJXeWx0VHdXZFNEV2lxM2hHZlRFN29lQmVYQXZ4eFBuQnRSekE?oc=5",
-    "title": "Tamil Tourist Dies After Being Swept Away at Kerala Waterfall",
-    "title_ta": "",
-    "summary": "Tamil Tourist Dies After Being Swept Away at Kerala Waterfall",
-    "summary_ta": "",
-    "date": "August 2, 2026"
   }
 ]
