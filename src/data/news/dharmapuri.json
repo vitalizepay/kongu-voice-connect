@@ -1,8 +1,32 @@
 [
   {
-    "id": "dha-jul30-001",
+    "id": "dha-aug5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTljWmxuc3p1V29xbFhuZk02ZXJlcGZkdExpSmhwREt0aXJ6blF3eUFBWFk5QXJBdk9weUpvVG1pU0UtSUxNMmRfbk93NUFlOHlSbDVUU1ZJU05lT0FLR3gtVjdwYWhqeTNQMWxSbG1jQ1N4UGNnd0FrN3RKSlkwMWE1c3V0YnNiNTE5SlV2RXF6clRKaTBPbHRYLXBuZ2szbXk3TTJJUmpYS1BQ?oc=5",
+    "title": "TN plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
+    "title_ta": "",
+    "summary": "TN plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "dha-aug5-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc3dlVlhleGlTU0oyaEdFdVRpdERQQlNxS21XMzNOemRON0xoT0EwRGNhdjhMcWFWZldtdnp0OWNxQ1BJVkZEN2p4eE5KTUtEZ1pVUlZTOS1rTG9qRnlnSDRoQ05GSXA2bWVhLWZYSmNENTVkQU1JaFJ3LWF3TGxkZGs3dVZNay0zc0QxTDROeXRlbDFLRDZLSWxIeU9kNmk3Q2c4bDJic0xQTEpwVFo5YW1PR1ZIWXF3WGZnT2E3TWVmWFNWdlpFY0RPZ3JhNm1ES1RBODhrMXVCTGpOWFE4adIB4AFBVV95cUxNc3dlVlhleGlTU0oyaEdFdVRpdERQQlNxS21XMzNOemRON0xoT0EwRGNhdjhMcWFWZldtdnp0OWNxQ1BJVkZEN2p4eE5KTUtEZ1pVUlZTOS1rTG9qRnlnSDRoQ05GSXA2bWVhLWZYSmNENTVkQU1JaFJ3LWF3TGxkZGs3dVZNay0zc0QxTDROeXRlbDFLRDZLSWxIeU9kNmk3Q2c4bDJic0xQTEpwVFo5YW1PR1ZIWXF3WGZnT2E3TWVmWFNWdlpFY0RPZ3JhNm1ES1RBODhrMXVCTGpOWFE4aQ?oc=5",
+    "title": "Tamil Nadu plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
+    "title_ta": "",
+    "summary": "Tamil Nadu plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "dha-jul30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEdNSlRJOU9BZm85emFoNEx5VlkwcVFDbUpJd1NlY24zLXJBLTk0VWkxUTNUUUNWV1M2cUIyN014LUJJcWt2bFFvZEl6TF8wOTRYQi11WTBIU1h0cWZqM1BkeEVlY1p2Y2JTbVlxcUhUVEh0SFdZTjNxTTJhaU5vLWtDZXBsdHBMMkVwRWc4ekVwVkFhY19ETFZFaXo2Ykozc0d3TGZZYllEYzJQTkE?oc=5",
     "title": "Drought, white grub infestation threatens sugarcane crop in Tamil Nadu’s Dharmapuri",
@@ -10,17 +34,5 @@
     "summary": "Drought, white grub infestation threatens sugarcane crop in Tamil Nadu’s Dharmapuri",
     "summary_ta": "",
     "date": "July 30, 2026"
-  },
-  {
-    "id": "dha-jul27-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBS1NOeF8waXI0T05pWUI0aV83Y1hBeDhNR09DUTdGb0VLUTk5RVBhZDdNWmVSWDRmRmdCcjVKcHJNOGk3bklHWkJQSmpQNjd4Y2RoR0RGLU1LZ1lHd0YwQzNuNkx3RmVnMHFz?oc=5",
-    "title": "Dharmapuri, Tamil Nadu, India",
-    "title_ta": "",
-    "summary": "Dharmapuri, Tamil Nadu, India",
-    "summary_ta": "",
-    "date": "July 27, 2026"
   }
 ]

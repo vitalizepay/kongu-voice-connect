@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug2-006",
+    "id": "kar-aug5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUczY192UHhZRDFQSFRJQWh1b3Eyal92bW15OFVETzVNbUxNNVBqSFl5T3NQVUpVMXU4cm5oM0d0aV92ak9VVjZKVGd1czVPbW04NUdmQlRWUklLVlV6SkxtNE5QMWUtamx3OWQzdzRKaDFrYUVwX2NxcE04bmpDUDRLYXdJRGwwb1Rhb2tRQVJqN3RYYjg2TG9iRU9FYjBkcjRrOEtxWXo?oc=5",
+    "title": "Tamil Nadu CM Vijay grants jobs to 32 families of Karur stampede victims",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay grants jobs to 32 families of Karur stampede victims",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "kar-aug2-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1hGWlRadndSNUtHS3U5YTBrbE1UOGtHTFhKQzRVaGwwaFdQNEFhMjlFdEY1Y2hpUHNFb2k4MUFWTW1xaHJ0YmhWbmR5Z1lMcWJ6TnBSOGwxeWlSSmhsNkIyd1RVcWdXMFBOVjIzLUtRbURwRnNQd1ZIcnNVSzJhUjNTSzFzRXBKbW0yTlExaGFTaXZ3aG5PMA?oc=5",
     "title": "Karur | Amaravati River | தண்ணீர் இன்றி வறண்டு காணப்படும் அமராவதி ஆறு..",
@@ -46,18 +58,6 @@
     "summary": "Karur | Teacher | தலைமை ஆசிரியை மீது இடைநிலை ஆசிரியர் தாக்குதல்..",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "kar-jul29-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObzc0RndwMlRMVGNJNWxnTjJ1bmg2XzlPa1VIeDZoOWVfRDNHeFZkUDE5MEhfaEJpa1Y3WFNmNzI5RnFyOXZ0THhNZ3pRMTVfUVF6ZXltOFJBRXM2dXN3N0NCOGZnRm9XZXFxYVZxVGdMR2hPNUNJNEhfdnRSY3hqMnNuRExnc016SnhPNjVVcUc1bDBqWWdGaG9xT2NHUVlPcnExbWIwcDI4MW5DQXM4UFRaSjZuWGhBdGxOU1YwSURqS0xwYVRncjlPV1d3SDY0aG81QVBjX3lhZXRIbjFxSUlJbjVma1Jta0FpZk9vV3U4Y1HSAfgBQVVfeXFMT2U2UTNNLUVHZXhDNXFudGNjV29ENUpmUkxwYU1XYmtHaEVJU1Nobm5nRFA0OXNfejlUaHNWbmVQYzA3OVdJZVBpSjJaTWo5bzJzUkJzOWtsY0g4VGV5ZG9kTGlaWURwSHJ5b1Rmc2FMQUhwRHgtcXRJUkNuZzRIcmNQVXVVVkozdjk2aW11aFdYTXVpejA2NGdRTGhfdy0ydHRLd01kUVNpS1NFS2dhWWFrUl9MX2hFcnNKSlJNb2dTT2w0VHBRREZCUzlrakk4NE0tRDl3RVVTeFJTeEwtVDFXX0NuYWhOeXExVVZZMFJqN3Q3cnZxU1c?oc=5",
-    "title": "DVAC raids residences of former DMK minister Senthil Balaji, aides in Tamil Nadu's Karur",
-    "title_ta": "",
-    "summary": "DVAC raids residences of former DMK minister Senthil Balaji, aides in Tamil Nadu's Karur",
-    "summary_ta": "",
-    "date": "July 29, 2026"
   },
   {
     "id": "kar-aug1-002",
