@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug4-001",
+    "id": "coi-aug5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd0JDTzNPWVlZVG13VzE2aXIwRzc1bGYwNExZblJyNU16SFRRa0Z0NDhrYkxVTGd0RTJ5S01IWXRaSy1nZWFBM0ZYbnItWnUzWFQzWkxjQm8wX3ZsdEZSclNfUkdRa0piNy1CdkJMYVo1Q3lrLXh3WnZSQ1BFNHUxSWRtN1pHdzVHOGVUaGxkWXpRamdVM242QW54enk1ZndnODVKTDByZ0Z3aDdiLVdqdHBKYlJxWkF3V0YwaEthOEdUdjR0bERNR1hOUEVUOFRrX1h3SUZPdV9VU1RhVk1zZkJaa21OaFlxWHR0UTRWc29wbVlzT0RERS130gH_AUFVX3lxTE5Cc0ROa1R5UnVYUUVHLVltcU41TEJpMk1ZYkhVQ0hzb3R0UWY5Ti0teHBRRzRoQ3RUUDJ6TVdwQzRqdVRRTHFlampSOC1kZ25YSmxuQUc2dTlVbWhuS2V2NExQcUpDcmc5S2V4WDZDb2I4c0g5aTg3VUV6RmVrX09SenZtbzItWkVxaGlEb1Z6Z2w3THZhcTR1eUV5bm1fVzJXMXhLNU1zMWFPZVhBTlZfY2QyeEdoQ2xzS1RTQVE5VkFHYzBMQ09McjNHWDJwTUlUMjNianJfMWtkTVA2U3VxTkNFX1FxM0hzT0FET0luNEgtcGNWWEcxRUdYQ0ZZUQ?oc=5",
+    "title": "Tirupur exporters welcome Tamil Nadu Budget 2026–27, seek worker housing and knitwearboard",
+    "title_ta": "",
+    "summary": "Tirupur exporters welcome Tamil Nadu Budget 2026–27, seek worker housing and knitwearboard",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "coi-aug4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOa1M4YjU5WXdRNkVYTEI3V1NpLWlqZzgzYUY4WVFUSWRJdmpxUVB2a0E0YU1EX29VTTlFSEdOQnN5cFl5ZkdTaFhNbVloRFp5cmY1a2JfT04wRUpzSFFOa2g0WTFLdURxQlp5bGUxRFpXeUc2V1ItZUlYOTd2S2c4STFmOUlWVmVEYXdmdksyZ1E1TmJYeDhUMlRENmxOSldVRFRGemtnSHRWekU1LWMzMjZVU3RVZ0JMMXFvVFIycndfTFJNN2xXY2l2X1FvaDR2Vm5Jbm1XZ2Q2cGdmWFhDbWZVUEpPN3lHd0E0a2lOOHFlSVN4TUxmeVJfT0FjZFJVaVhCNdIBigJBVV95cUxPbkJsRGxXSGx2UFRxc09CNDltOWk1Q2RSQ1hGaHNEdXRQUlZRQ0RISmdDek9kT2JCdGFfTHNoUFdsVm9oWlZzZzVTQlMxQUVKa3JENGFjd1hxQWtKR01jc1lqSWNQRG03SUFGNk1JMjN5cFNOQ2EwV0luTGl4V29yV1VuZWVULU9welR3T3VWT3dQZi1EV0ZTR3U2R3dEbWV6alFldUUzUnNLdkJsN0lfb3dlalFBaDRPVTNfRHRNMmVlM1VMQ3ZoS2dFeXF6dVpuSmw2WWF2MFdEb1paYUtfV0l5dXZpNEd2eHNZWW9ZeG9LWm5LSEY0RzNpZFk0UUxkSkRQUmJjYlBWUQ?oc=5",
     "title": "Tamil Nadu Power Cut, August 5: Electricity Supply To Be Suspended In Parts Of Chennai And Coimbator",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
     "title_ta": "",
     "summary": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
-    "summary_ta": "",
-    "date": "August 2, 2026"
-  },
-  {
-    "id": "coi-aug2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaERJdkpUeHhnV0NXZDdRd0ZKWlI1dEpYdUNpNzhEbk04S1otRWdIZk5CMk1BaElFUHhGYV9UTkI5Mm9Wb3E1V2dwM3BvRHgtTU1aRlhRM2tWN3FmWTRXTlF3YnZUZzhVa0d6VDNULW03VFhtaXRwNjJYMTZDTlFZNHczRVdua1ZMTWdJYUl0Um5kaWpMTDZNOWVISVR4WklHQ0FKZFB6UUJ4SDcwUFc5OUxYaWxWOEhVX0FiUHVZdThFUkYxR3U5Rl9yYXRZbm9WZGIwYmN2MEVrdnVNZTdvZFRZVnFoQ0ZHN0psN9IB8gFBVV95cUxOLVFVOWc2SWNoN2pMcHV3c3lOaDJlTjVwczEyZzRLVWNOTVJxckdGSllmZHhneWdLMmNpb0tFSzFlRGhOc3BELWhKelBwLVphamx6dV9SQXBCVFFkM2Y0VHZ1amV4YmpEdUFuOGJZeUxZeXF2TWxVM1VxVnBBbU1VV2pvR2t1d0k2dklBTWZJUlhsWlZGZ04zWmxLRTAwZENMLVpYdk43el9HMHJzQmtzaS11LWF4Ukg3LWVhWV9zRDNhV0dheTJBS2EtZ0gtM19CUm45QVBsZnMwdHN2X1ExUmpSelRCYml4aG1JRlpGMTFFZw?oc=5",
-    "title": "5 killed as speeding car crashes into stationary lorry in Tamil Nadu's Pollachi",
-    "title_ta": "",
-    "summary": "5 killed as speeding car crashes into stationary lorry in Tamil Nadu's Pollachi",
     "summary_ta": "",
     "date": "August 2, 2026"
   }
