@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug3-001",
+    "id": "ero-aug5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWldHMy1iUGF3VUFWd3JtbWR2ajd2bkJWbTdjNG1NcC16UXVwaGcyMzFiMmEwb21pWERPdVB3MnZUWTNvdjhDSWYxRGxERlVRWkNsS1lzNFFsRWgycmowT1lvVHVIOXF0enVhSWxjLW1vYUlBSVpPYjltaU1iRVRqbFh5TDlkdEZnZV9fczF2cHdsd2tacW9KQjJPd21ycVhOSDIwaHgzRHR6eFk5VkVlRTBrcWRmeDlSMHZRY0hLb2ZtSTdrUnYyU2R1cGFwUVQtcm85M3Y3TDMzcnJnNElrY3FB0gHoAUFVX3lxTE9HQnpVZm0yc21LckJQYWR4NS1BQVBaWXZidEhxUUVZMWt5aHZvbHJpUXpLNm1OWWJ1ckRqQm9ydmhRMWdlMWlJT1loZVlKcXBpZGc3dEFQOV9xZl8xcURSSmw5OWFoTThZaW9HWm0zVWFzaV9nOWsyaWVtV3JrU3RxZUxDZzAxWnJRYy1EbGhBNV9GRGx3Z0ZvX0xrbG9tZDJ5UnFKRmg3QkdRSEFRNERkaDBueHhNcVFMMV85a21fTzZKRXhWWTI4dG5rM3lZU2s4OFV2M2hfMnVNM1pDRU51MEI1a2JYZFk?oc=5",
+    "title": "Old Hasanur residents seek all-weather road, bridge restoration in Erode district",
+    "title_ta": "",
+    "summary": "Old Hasanur residents seek all-weather road, bridge restoration in Erode district",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "ero-aug3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNjVYYnhBQkNPWTRWR2RRekd5cnpRWjFtMkNiZGZSRngxTks4dWxPWXduSnM1SUZKeldDemZqYWY2MVBoc1BXSVFrYmhISXdTZUpvYzRBWTZ6bml6N2lGcG5QV2FvSk01ZlVQV2RPVFcwazUyS3Z2ZENJZnhZdFRqMlFlNWQ2OGJBc3FtZVM0aFowWWtWQjFpMUlxNmFNbFV6RXFrT2NoTzExOHYwV2hTQ2x1bUlNTzUxdmRnUVlLTGdDUUprSGtrajktSXlSaGNiM2FSSHJtZmhKTHlv0gHcAUFVX3lxTE02NVhieEFCQ09ZNFZHZFF6R3lyelFaMW0yQ2JkZlJGeDFOSzh1bE9Zd25KczVJRkp6V0N6ZmphZjYxUGhzUFdJUWtiaEhJd1NlSm9jNEFZNnpuaXo3aUZwblBXYW9KTTVmVVBXZE9UVzBrNTJLdnZkQ0lmeFl0VGoyUWU1ZDY4YkFzcW1lUzRoWjBZa1ZCMWkxSXE2YU1sVXpFcWtPY2hPMTE4djBXaFNDbHVtSU1PNTF2ZGdRWUtMZ0NRSmtIa2tqOS1JeVJoY2IzYVJIcm1maEpMeW8?oc=5",
     "title": "Dheeran Chinnamalai’s 221st death anniversary observed in Erode district",
@@ -10,29 +22,5 @@
     "summary": "Dheeran Chinnamalai’s 221st death anniversary observed in Erode district",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "ero-jul29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTNzcHIxR0w5NlBVMTQxSkFYd1dyY24yeGwtQmVINF9OeHg0RWViQmwtUTNSTmxDV25wRW9vX08xZFBIRkktYzBfTTZDSnF0VHBDdUQ4T1pKZHkzWGI5ZlBDdEFZNFU2cEFKUUJXUURsV3JXdXRjbnU1WmVQcXBHUGpxMDBfblVfVlFKU0FTd05CWFU1aVBZNUhmbmlhSTA3VXl2b3l3R1VQczBvcGFlVGltYnVQUVZTSmVRUNIBwwFBVV95cUxPeXhVQ0ktLXFTaGlSWVo3ZTR6MURaOE5MbFk5R1hwUERDakJud2RaYkoyMVRQdlZ6OHl6NDd0WV9ubHpNZE1SV3lzMFBLd203X0tSMEZHZWI3MExZNGhudWI0VHllZktQR3BYNnBTQ0twdUJhU2hDSDlLaHhXX2RPRlpHcnR3VnlHLVo2LVdoX1M4Q0NiTFp5UDRKVm83Z282aWxsX1lGN2xJeHNJVTJBLXhZbVg5Ykd6dGNYY052LUx5M28?oc=5",
-    "title": "Local holiday declared in Erode district on August 3",
-    "title_ta": "",
-    "summary": "Local holiday declared in Erode district on August 3",
-    "summary_ta": "",
-    "date": "July 29, 2026"
-  },
-  {
-    "id": "ero-jul28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZTU2JTa041eE04eFZ0YWc5U2pWVVI5M3o4TWxTdWxfaUpXZDRzSmUtNnl1TU82WmU4dngxRDFzVWFNYTZiM0NmQWVDNHZGZUsxS2dQU2IwaUFvOVplajlpb3VicFRMQjlja3Bod0JjY0lxOUN2TGRLWHR0cTQ4WFk2TzVNeWZJcTNtT3VkRDZrVnE5WnRWcnVRdlRuam9GVnZvdW1iMWVoblpGN2lKUVlJY3BiZW1jNFpXTmRTbjFkUC05NjkyQjFVa3NrYzhy0gHXAUFVX3lxTE9OZUVUdF8tWU85amxQOXdGenNIZy05N2wtZXZHOFpEZVFrb3gzQWlWbjgweXdiMnlQenJJRFFYcTF1NXRIRFJKalpZMG1kcTRKQjFwdjJKWUpidWFUSVI1S0xZZFktQ1lNd042SnVzQ3JxOUVYdktqM0hsTFdUSURVR29tSy1ZSnRhTFdTLTJlS2d4Rmd4MTh1VE1JMkJfQWJxSzlwbjJTUHRyQ0s0NEpnWVJ1YjJ6SUlUZXlhRm9pcklRb01SaTRtYnNrUzJJSkpJbUFWM2Zr?oc=5",
-    "title": "Water hyacinth engulfs River Bhavani, farmers seek immediate removal",
-    "title_ta": "",
-    "summary": "Water hyacinth engulfs River Bhavani, farmers seek immediate removal",
-    "summary_ta": "",
-    "date": "July 28, 2026"
   }
 ]
