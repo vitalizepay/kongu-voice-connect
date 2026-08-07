@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-aug6-002",
+    "id": "tir-aug6-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON2lvN1JXdFVLUllMNzZaZkRvWXlvZHBKRHdHUU1vZ0dIM1JyMzAtamlFYzZEekhSWm1ncm80TEoyS00zbGJrMEJIejRSRkM5bnRsalJwYl9FcmZlTTVMVUhHOVlBMTB6SFdPZEZIRlJfeER5V0wwbWJVUDc2aXh6M3kyLXdBMzJlVXMtRC1BZWVNaFlmR3dFVF9abXh6LVh3UGliMFpqaUtIeWJJbmpCV2l4NVBPTFNMSGxpU2trN3hmaWdscjN5RUFYUWswQ3VJdlFhaHY5aHZrak9BNmc?oc=5",
+    "title": "TN Budget: Tiruppur industry welcomes Rs 10 crore allocation for Textile Technology Centre",
+    "title_ta": "",
+    "summary": "TN Budget: Tiruppur industry welcomes Rs 10 crore allocation for Textile Technology Centre",
+    "summary_ta": "",
+    "date": "August 6, 2026"
+  },
+  {
+    "id": "tir-aug6-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX3pfd3VCMzZBY2dyYWk5UVNLZnBMdkwxeEpZT0pxaXhNSTBONV9sYWZZdUx6ZnlVU0YyNndMMEF6RVF3V29lZnhUcy1JajlzalNIaEd4RTlvR2VWOWV0STNvS0J4Qml2eEhnVVNkb011LUF3Q1Eyc1hyM2M1cV95c2ZDVW5EQ0ZWM3A5amUyYnVGTUF5UG0xYTdLRFBjSmNRU2lkbHVqMU9zeEx6RGZEUzliaUNEdjJBMXp2V2QxVFdPeEh0UTQzZU53V3pNbzU50gHeAUFVX3lxTFA3dHoyelQ3Z2hCV1FSdWtVUDNGd0VJVktMcFhaTTZpVTBpRThuUTl0WWNBTnhEU1pTWHFBWUVEUmpKd01rYldUU0JNQ1hId2lnZUY3YWdQWGJlTTZDQ0RVRW96dnNiTndTQUJFOFBYVmk4aWdUaXNCNjhvTG8tNFNwWmtheUVzZ2dpQU5jNXdmVHN2MmVxMGcxTk5MNUFwc2s2dWRJWlJFN0JmSUNhbkRfZTNhOXc4OTlYekFIQTJEc2JJZzdFdFM1VmJyNWNvSUhxVUlKZGVCaVNBT3N5UQ?oc=5",
     "title": "TN Budget 2026-27: Textiles department plans design institute, tech centre",
