@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug5-001",
+    "id": "kar-aug6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUk13ZEFLU2thN21VMlFxeENsWWM3TmZjemp4U0xKOWJrX2x4RWJENjFfQkJFaG85UllmY3hqY3VseWQzUW5VNUtOMkN3SjV6OTZvR2d3MXFSQU5KUmJxbXktMllPaHpZSW1rMFRJLTh2Z2cwaHJrV3Vlb1puQU0tZUZ3RzF3QmhDeTJyWGRoc01kUVBnNEFqWGotdW1hZUlLVTVj?oc=5",
+    "title": "Tamil Nadu BJP chief criticizes CM Vijay over Karur tragedy response",
+    "title_ta": "",
+    "summary": "Tamil Nadu BJP chief criticizes CM Vijay over Karur tragedy response",
+    "summary_ta": "",
+    "date": "August 6, 2026"
+  },
+  {
+    "id": "kar-aug5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUczY192UHhZRDFQSFRJQWh1b3Eyal92bW15OFVETzVNbUxNNVBqSFl5T3NQVUpVMXU4cm5oM0d0aV92ak9VVjZKVGd1czVPbW04NUdmQlRWUklLVlV6SkxtNE5QMWUtamx3OWQzdzRKaDFrYUVwX2NxcE04bmpDUDRLYXdJRGwwb1Rhb2tRQVJqN3RYYjg2TG9iRU9FYjBkcjRrOEtxWXo?oc=5",
     "title": "Tamil Nadu CM Vijay grants jobs to 32 families of Karur stampede victims",
@@ -70,53 +82,5 @@
     "summary": "Tamil Nadu Inaugurates Two New Mini Textile Parks in Karur to Boost MSMEs",
     "summary_ta": "",
     "date": "August 1, 2026"
-  },
-  {
-    "id": "kar-jul31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPazRDU1RSc1pyV3VXc2lzNHVyZk1CRXJLRkU1VXQ2WjQ2Ul9nUm5pTHBpcC1obGtGQmlFUTcwLU51V1hyUjlDa3ZHcnpxUmFXZTBJX2xrRlpCNEZzbi1zVVh4U3A0NUxqQkg5WWVLWFY4N090Nk9kVkRqbDU4WGRtZ01CUGNnR1BpYW5BRGwwNmduSDV4S0gycFJZTmhKTWxFS2tFX1FTQ25YcjZITXY5Z3VjSWtVWlNUYjF4R0IzTWh3SmQ4NEpCa2p1Vm1ZNzNhSHJ6d0Y0VW1CaHVsOTV1ZXJvb3ZLa0FtdVNUYVNR0gH0AUFVX3lxTE1xTFdMWVhKcktZZ0xhNkVDeVhkckZZWUp1cUphVDNBZGhDajB2X2dab1J2Z2RCNEJpV1lkTDJwNm9sa3RDdk1OSlhVTUJDakl5QzN2Q0tCc0NOUmpLYmhaMXNxb3BHQmRWSTk2VjBUa015cW1ub1Z5LVJlc1lra0VoVm1xUm5JVmpBM2R0TE1ia0l5emdYN2lkdFBiVTJtbTc4bFpVOGJ6emxBMFB0N3l6WUhjVmlFTkl0NHhmVTR4dGozLXJBU3hBV1NtYUtfclNQUDJtY2VDa0hDdnJhM0NURXA3dGFCY2kxcjRjQ1FFb3VVQm8?oc=5",
-    "title": "Tamil Nadu government moves Supreme Court against High Court striking down jobs to Karur stampede vi",
-    "title_ta": "",
-    "summary": "Tamil Nadu government moves Supreme Court against High Court striking down jobs to Karur stampede vi",
-    "summary_ta": "",
-    "date": "July 31, 2026"
-  },
-  {
-    "id": "kar-jul31-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQllVNlBoX19WTDJ6TjJ0V1ZHWUYtUDdrZEhnOC1WVmZsRWhJVl94TkRYSFhsRlBRaFpqZ0p1RWsyZ0pVbVJCUVhtRTlyRUhCcUx5anF4R0dPZklmMC1DNmlzVTltbkxNZ1oybnRMSU1MT3B2TzB5amU1c1UxY0hOMmxGdG5JSWtoalE2MXB1RVZZbUxRcWtJd3BQT0hwYmVFVGI4MVRXeFp1THd5ZTdINzMycnF2V2xsR29EVUxHSW1NMnc?oc=5",
-    "title": "Caveat petition filed in Supreme Court against order on Tamil Nadu Karur stampede job scheme",
-    "title_ta": "",
-    "summary": "Caveat petition filed in Supreme Court against order on Tamil Nadu Karur stampede job scheme",
-    "summary_ta": "",
-    "date": "July 31, 2026"
-  },
-  {
-    "id": "kar-jul31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPazRDU1RSc1pyV3VXc2lzNHVyZk1CRXJLRkU1VXQ2WjQ2Ul9nUm5pTHBpcC1obGtGQmlFUTcwLU51V1hyUjlDa3ZHcnpxUmFXZTBJX2xrRlpCNEZzbi1zVVh4U3A0NUxqQkg5WWVLWFY4N090Nk9kVkRqbDU4WGRtZ01CUGNnR1BpYW5BRGwwNmduSDV4S0gycFJZTmhKTWxFS2tFX1FTQ25YcjZITXY5Z3VjSWtVWlNUYjF4R0IzTWh3SmQ4NEpCa2p1Vm1ZNzNhSHJ6d0Y0VW1CaHVsOTV1ZXJvb3ZLa0FtdVNUYVNR0gH0AUFVX3lxTE1xTFdMWVhKcktZZ0xhNkVDeVhkckZZWUp1cUphVDNBZGhDajB2X2dab1J2Z2RCNEJpV1lkTDJwNm9sa3RDdk1OSlhVTUJDakl5QzN2Q0tCc0NOUmpLYmhaMXNxb3BHQmRWSTk2VjBUa015cW1ub1Z5LVJlc1lra0VoVm1xUm5JVmpBM2R0TE1ia0l5emdYN2lkdFBiVTJtbTc4bFpVOGJ6emxBMFB0N3l6WUhjVmlFTkl0NHhmVTR4dGozLXJBU3hBV1NtYUtfclNQUDJtY2VDa0hDdnJhM0NURXA3dGFCY2kxcjRjQ1FFb3VVQm8?oc=5",
-    "title": "T.N. moves Supreme Court against HC striking down jobs to Karur stampede victims’ families",
-    "title_ta": "",
-    "summary": "T.N. moves Supreme Court against HC striking down jobs to Karur stampede victims’ families",
-    "summary_ta": "",
-    "date": "July 31, 2026"
-  },
-  {
-    "id": "kar-jul30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3BlcjZzcjg3dmxMcklmbWlTX0dPbV9uRk1zSFFtaGI5Z01xVmNfdHl6MTBIdDVYeGxyQ2txbnkxWVB4QVFndXQtRE5NVUZlUW9scnFKMHBBb2UwV3hpbmF1SU40ZWdkekMwbGEyNzJuV0c1RF81YVpUSkY3UkNkTGpSdWozNXR5aktPZUpJLXdfSmVGcmYyRW5JVUpJM3ZCODdrNHFaZWVyZXA2Q2RON09WQWdDc0YyeDBmZk1qSzNkZw?oc=5",
-    "title": "Video | Tamil Nadu Government Moves Supreme Court Against Karur Jobs Verdict By Madras High Court",
-    "title_ta": "",
-    "summary": "Video | Tamil Nadu Government Moves Supreme Court Against Karur Jobs Verdict By Madras High Court",
-    "summary_ta": "",
-    "date": "July 30, 2026"
   }
 ]
