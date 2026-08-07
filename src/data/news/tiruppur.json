@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-aug5-001",
+    "id": "tir-aug6-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQmZMYkp0dmtRSmlJd2FmN2g4ZlBHMzlDTDVudm5CYVJaX1VsZWRRNVJtdjJYMzJFSkVLLW5DT0YtelFvTHVCU1lLTkZkQ1VyWl9xbVpkei1HSHNKU0Y5UUJmVU5mTV93OXZFZUs3MTNzYkxfaVlCQmZ3NUVZS1VEUUw3QlJqNnM5dC1kd2NCSW5mUUFENGdhTzg1c1o1bGZINXItbmpDa1dGNE1DY3MwUGlrUVhHM3ZGb1Fkck42QTBjNXdOUHphaUN1OENpVU9leWdmTlFBYnpqeWttTnRwU1hVVkcteEgzS1VTeW14V25SRHFWOV82Q2RseEM5dU9UakZIdkowT3FXNmJx?oc=5",
+    "title": "Match Predictions: Tamil Nadu Premier League - Chepauk Super Gillies v IDream Tiruppur Tamizhans - N",
+    "title_ta": "",
+    "summary": "Match Predictions: Tamil Nadu Premier League - Chepauk Super Gillies v IDream Tiruppur Tamizhans - N",
+    "summary_ta": "",
+    "date": "August 6, 2026"
+  },
+  {
+    "id": "tir-aug5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDZlRVhjME1jRFMydzN1LVlkSkVsYnVITlFxM1JZWFJ5YzNmR2ppaWZhNVpCdjNiTGYzS3ZjOWFQS1pJQWJLTmtpZlpGcG42TUZyc3V1NHpKd2pkTjFzOE1sUDFhakl4R0c0Vy1qUTR5SGlSSnVPRS1ZUF9La2lXVFkweVJkQ3VwV3htellOMnlOUlAxNVRWSk5hSTZfSkVhMU95OWZoLTBtdThId0JfZHVjeDgwZFRvMW5GTlBwOHZyUWlIZVpwTGpwbUVmTGZGUFBPZWQ2SGgyamE2VnR0XzdhZk1VbXFZX2JNZW9fbUpVVDJDMG1uM0pSc0pidjFM0gGHAkFVX3lxTE5fdWFlX0xqNGtUOVFROG5feVBYdmxtUXJDRzFySWxnZkg2Nzl0djMzYTBTM1pUUVhIRXFaUGVlZm9CR0NmcXBRR0YwdFJJVDMtUE1GVXFMSVhWMDNVOHNkZUduYmhFdkFCQjl4ZWhIVnJqX2dnQlZMeWh2SE9MSmFxcUFXRWZiSUFaSlBxdHQwaWhWX0VNckpPbUp4RENQa3BOWG96dzZxVjBzRC1yQzRLZTA1cGpJeVpzZlpmMTJkcmpWMDR2R09UQXZCVmlQUzJPTXM1SHkzNnp4eEhTbWpvRkVjTmhHeTdtaEgwZHpMR0l5cG02eEZ5Q0l5c0ZoVTdzd3ZKT2lN?oc=5",
     "title": "Tamil Nadu budget unveils push with design institute, technical textiles scheme and Tiruppur technol",
@@ -46,17 +58,5 @@
     "summary": "Tamil Nadu Premier League 2026 – Match 1 – Expert Form Guides, Insights & InPlay Match Predictions –",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "tir-jul31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakI2TUl4OTJsSjliVGRNdFlCczF6VGRUSDM2OGZxN2dCZ3NLRjhlNWNhR25GeFNCbGtQSjRZV2phQjlBWGJwNjNubXNHVk5HbWtMRzY3a0xQV1pEaGVNNHIzMVZmR1NCbW5TRG4zR1N4V1hUelNRNEFpN0ZKbmNfLVBtV1JBWW1Pa1N6MHh5N3VndG5sQWJtb0F0OGdvSkNnODZjUThMRUNEQU430gG6AUFVX3lxTE9oWFR5VFJzOFNnOTRaSHR2TnpSRHhGSm5ZT0hSMzVGQ2ZnaHMwZkdOWjc4V25xODVSVFVRcDBNbTFuSXh1TjRpZWJWdTFfZ3dLUUpWRUhOLW5YTmY0UHZ6cDR4RWlTMlp1NzJhVTRNSHdsdTNScXB1eW05SnVxNEVicTlLUTVIc3JNMlcwS2pHRVNoM1VObHo1aE1Ja0t0aTctZGJ4aHNDaENQaXZlSW95X3gwaDFhdkl2UQ?oc=5",
-    "title": "Tamil Nadu: Tender for waste-to-energy project",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Tender for waste-to-energy project",
-    "summary_ta": "",
-    "date": "July 31, 2026"
   }
 ]
