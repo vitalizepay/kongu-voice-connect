@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug6-001",
+    "id": "kar-aug8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2JhYVcycUpIS08tRC1INmxRSlJ4OEd6N1YwdFBOWHRMSVZ6VDlpVVdCOWNxNU9uQVpwZjNxVHAtYWNBQ1NuM3VlTE1WckpsUlNZcUlteEx3MlNPaldNcjZjTjNXYVo0eGVpS2hMOVVZVTM1U19ZSjJocVpvNmtlLW9ITV8tanhsU21OaHRmTEc3STRUOW13NWxHTXY?oc=5",
+    "title": "♦️Breaking News | கரூர் அரசுப்பணி வழக்கு- வரும் 14 ஆம் தேதி விசாரணை | Karur Stampede Case | TVK",
+    "title_ta": "",
+    "summary": "♦️Breaking News | கரூர் அரசுப்பணி வழக்கு- வரும் 14 ஆம் தேதி விசாரணை | Karur Stampede Case | TVK",
+    "summary_ta": "",
+    "date": "August 8, 2026"
+  },
+  {
+    "id": "kar-aug6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUk13ZEFLU2thN21VMlFxeENsWWM3TmZjemp4U0xKOWJrX2x4RWJENjFfQkJFaG85UllmY3hqY3VseWQzUW5VNUtOMkN3SjV6OTZvR2d3MXFSQU5KUmJxbXktMllPaHpZSW1rMFRJLTh2Z2cwaHJrV3Vlb1puQU0tZUZ3RzF3QmhDeTJyWGRoc01kUVBnNEFqWGotdW1hZUlLVTVj?oc=5",
     "title": "Tamil Nadu BJP chief criticizes CM Vijay over Karur tragedy response",
@@ -70,17 +82,5 @@
     "summary": "Karur | Teacher | தலைமை ஆசிரியை மீது இடைநிலை ஆசிரியர் தாக்குதல்..",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "kar-aug1-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVFKVWZQMFA3MDBPU3dwbldaQUthbFgwOVE3UmJJVWZVZVVmVUJ6WUIwd2JNelhCMHBTY0p0dDdOWHJEeWlBVlgtdTRHZFdCU0dVLXBrMmxGbDRGeGN1VHFzT3o1TVZWajc3VHV2b2ZSU3VoQnF0eEpEMDZabFoxX3dGRkFKUU1nT1R4dG10LWlDOGVHX05veDVrR2VlQWFvQ19nRldfV0NHN1lPd2E4Q3VhWl81M1JWV1VBUTJjSGJMakdQeGtfUm91UFN5OEE?oc=5",
-    "title": "Tamil Nadu Inaugurates Two New Mini Textile Parks in Karur to Boost MSMEs",
-    "title_ta": "",
-    "summary": "Tamil Nadu Inaugurates Two New Mini Textile Parks in Karur to Boost MSMEs",
-    "summary_ta": "",
-    "date": "August 1, 2026"
   }
 ]
