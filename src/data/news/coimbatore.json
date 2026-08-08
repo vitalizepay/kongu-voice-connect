@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug8-001",
+    "id": "coi-aug8-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcTl3d0dtX3pCbnUwRWVDQnVpeGEzeUpySExmNWNJbkpLekRISDVCdklHNkRjSmQ2QzRrU1RkOUk0M29PcU5renYtM1dHMWtVaHBGU01KTkx5UUFzMERoaXdXa0hfd0RtczBYR2Jxc1hSaW9aME05RnVtN0lwQ2JHVHRoUG9mb0UtZURXeERjbnhfQVJtY0lzc3cwTl9ySnlZZ01UVnlBVGY1cVNUVVhVcnpPU0dmRlJwRm1ZVDBHSGtLbC1QRU5EdXM1TWtDTUpn0gHWAUFVX3lxTFBydUgzNUlnbk9fVWQ2UmxDMkllaFlsbTNsNjBlR19WWjFkeDM5enJ5U3dKMFh1aTBSN1JMdWs0LXZvQWlDb3psMUhtRnUyb2F6TTFCTjZCcGRGVkNyTFFPZU5OMWhHd2lsU0E2WGVuSlpmUE12NGh3RHluX0l3dXFxRU93ZjEzWW1wS0VKdV8zaUgta18yZ0ExSVlVN083YXA5ZXRURXNOQTZydEFXRGFKZ2gyQ0t5RlJVbGVzV3VtUHF2bUpGQlc0aWVRbTNJWUdlTjAzQUE?oc=5",
+    "title": "TNAU forecasts harvest prices for tomato, okra and brinjal",
+    "title_ta": "",
+    "summary": "TNAU forecasts harvest prices for tomato, okra and brinjal",
+    "summary_ta": "",
+    "date": "August 8, 2026"
+  },
+  {
+    "id": "coi-aug8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd210ZUR0UjdTc24yRldjZ25fYlZMT0tvVGZ5Tk1NT1ZOb1M3Qlh5OFpRaGR4VU9IazFfcGJyRzlwTTJ4THN0WTNhRlp2aW5XcTR6enlfTEdQUzN5QnRiZlBlZXk5SVZpeTdFNFh6Y1YxUjBmMTA5TXZPeTlQYVRGUjEwVUJoQjJ5YWpGQXZjd1lNYjMyeHFCOEZJTWwwUFJwY2VWXzJ6NzQ?oc=5",
     "title": "Vignesh urges Coimbatore to spearhead drug-free Tamil Nadu efforts",
@@ -130,17 +142,5 @@
     "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "summary_ta": "",
     "date": "August 3, 2026"
-  },
-  {
-    "id": "coi-aug4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQXpNZnlBOXZtU21QSkQ3NF9PODNRekdWVHNVNUdMd2N4V1ZIajVJNldjTFhDZ2c3eEMzYlJla2dvaUN0azJDVnRlelBaY3NkVW9Oek5DaG9tWm0yc2IwUkl2clVicW9ZZWg2djU4SzFVM0RWanhvaGIyTU9sMXFVbDk0NzNPNDA5bkRxaTktaTk5VG5DUHhwM095MDNIUDBmWVlZWDJTbVY2VXRVRnJGM0VIOUFmOGJ3TU1ZTHlOWDFLQldhS2pyeTNrRkJ1Rk1fWDgwcjRJNElqbl9nNk5LQmFIZjjSAeQBQVVfeXFMTUF6TWZ5QTl2bVNtUEpENzRfTzgzUXpHVlRzVTVHTHdjeFdWSGo1STZXY0xYQ2dnN3hDM2JSZWtnb2lDdGsyQ1Z0ZXpQWmNzZFVvTnpOQ2hvbVptMnNiMFJJdnJVYnFvWWVoNnY1OEsxVTNEVmp4b2hiMk1PbDFxVWw5NDczTzQwOW5EcWk5LWk5OVRuQ1B4cDNPeTAzSFAwZllZWVgyU21WNlV0VUZyRjNFSDlBZjhid01NWUx5TlgxS0JXYUtqcnkza0ZCdUZNX1g4MHI0STRJam5fZzZOS0JhSGY4?oc=5",
-    "title": "Cauvery inflow from Karnataka reservoirs swells at Tamil Nadu border",
-    "title_ta": "",
-    "summary": "Cauvery inflow from Karnataka reservoirs swells at Tamil Nadu border",
-    "summary_ta": "",
-    "date": "August 4, 2026"
   }
 ]

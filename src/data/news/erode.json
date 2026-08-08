@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug5-001",
+    "id": "ero-aug8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEFmMkpUV1FZR3R2WUNzV1RTSEp3X01ubExOVjRlWWQ1cENPLXFHOUxKaklJT2JRdmFfZFFFczFIdmpTQ1k1eW5DT1NuT0p3b0c5T2lEVDRQdkItLTlQU2F4TG10UTBiWE5GdTFsWmdzcVBzcFJybl9qVXpTVnNqcTNPMUR6T1BicVcyZW5SRXZKXzRBXzlYN2RZNHNjd0ZGbnJhSDV6OEg5Uk9qNjl4My1FMFZYdFR2VWtzSkl3X3pFRFVjUWIyS9IByAFBVV95cUxNZEFmMkpUV1FZR3R2WUNzV1RTSEp3X01ubExOVjRlWWQ1cENPLXFHOUxKaklJT2JRdmFfZFFFczFIdmpTQ1k1eW5DT1NuT0p3b0c5T2lEVDRQdkItLTlQU2F4TG10UTBiWE5GdTFsWmdzcVBzcFJybl9qVXpTVnNqcTNPMUR6T1BicVcyZW5SRXZKXzRBXzlYN2RZNHNjd0ZGbnJhSDV6OEg5Uk9qNjl4My1FMFZYdFR2VWtzSkl3X3pFRFVjUWIySw?oc=5",
+    "title": "Erode schools amongst nine in TN, selected for SHVR award",
+    "title_ta": "",
+    "summary": "Erode schools amongst nine in TN, selected for SHVR award",
+    "summary_ta": "",
+    "date": "August 8, 2026"
+  },
+  {
+    "id": "ero-aug5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWldHMy1iUGF3VUFWd3JtbWR2ajd2bkJWbTdjNG1NcC16UXVwaGcyMzFiMmEwb21pWERPdVB3MnZUWTNvdjhDSWYxRGxERlVRWkNsS1lzNFFsRWgycmowT1lvVHVIOXF0enVhSWxjLW1vYUlBSVpPYjltaU1iRVRqbFh5TDlkdEZnZV9fczF2cHdsd2tacW9KQjJPd21ycVhOSDIwaHgzRHR6eFk5VkVlRTBrcWRmeDlSMHZRY0hLb2ZtSTdrUnYyU2R1cGFwUVQtcm85M3Y3TDMzcnJnNElrY3FB0gHoAUFVX3lxTE9HQnpVZm0yc21LckJQYWR4NS1BQVBaWXZidEhxUUVZMWt5aHZvbHJpUXpLNm1OWWJ1ckRqQm9ydmhRMWdlMWlJT1loZVlKcXBpZGc3dEFQOV9xZl8xcURSSmw5OWFoTThZaW9HWm0zVWFzaV9nOWsyaWVtV3JrU3RxZUxDZzAxWnJRYy1EbGhBNV9GRGx3Z0ZvX0xrbG9tZDJ5UnFKRmg3QkdRSEFRNERkaDBueHhNcVFMMV85a21fTzZKRXhWWTI4dG5rM3lZU2s4OFV2M2hfMnVNM1pDRU51MEI1a2JYZFk?oc=5",
     "title": "Old Hasanur residents seek all-weather road, bridge restoration in Erode district",
