@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-aug7-001",
+    "id": "sal-aug10-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU1IZnd4LUNYY0E5SzJMRXByUlpWVFRtS2RVNVJSbF9QS3VOQ2dfckFTU3pPbFZLcHR3T2NjLWUwUmJBUW1nUUcxNjJHaFJ1NTRWMXBhelFEdHhwTU9OSFZTRFBKdTZSLWJtOTlzR1RYbXA1bldwZE9abjNjNEpYMWZLZkUzM3g5ZjdiUVBGUGxYUHlYbVU0UUtyclMwTlFjRGhfTlF5dUg2MThINnByWFNBb3ZXMWtNUTdqdm9xdlZCNklnTkHSAcwBQVVfeXFMTUdLNzd2QTFZZng0U2lKVUg0VVRFdW9aQjdFNTFRaGZYRy00ZmkwcjJCUm5VTm9iWThMQlAtb3RmUUdhWDQ1ZHVGVFFrNFNiX0Y1dWQ0ZmhkTW5qU2hSdjhYRnlxQzZjS0cwYnBudXppajB2T2YycUxMcVJiTzE0ZkQ0WUZ6YWh5ZHFGeE1GRW5kTHJiVEp0cUd6b3FWcm81NEtBaHdLaXROSXlOZ1gzUUNhNl95ZkNndVc2TDVkSEc2QVRJSEZBaWpwaDlO?oc=5",
+    "title": "Grievances redress day held in Salem and Namakkal districts",
+    "title_ta": "",
+    "summary": "Grievances redress day held in Salem and Namakkal districts",
+    "summary_ta": "",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "sal-aug7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT3BFQW13MUdzWHBNTjdPRjBVMEhrdXBCREtkcmEzcjdZOVJLT1VRbENiLW9ETksxcjAzU3k2ZTRRSlFKQjFUNGstaV8xaENSamRaUlptbEdXTzBwRGM4cGR5eVJPQ3VyRk0yRUZzYVJlM05yN0h1ZkNpVHdKUHZaWWxEU2FTaWdrdkRHNnlMYTNQR1lsTmNJSHA5WGVGbmhubTJXZkQ0V2UwODRXb2xSdGpoQWFranNHc3l6VC1lWWJZbTdYMjB1aEduMTVNclJHejRDZVhOSmtYSlRs0gHqAUFVX3lxTFBhcmt6QXpTVXVkUEVlZ1RVVmxaWi15ODVwNzRIcFpYNmVPX0otYk8wbDQ4NlVuRTFPNE0wSjVFMWZiM3h1TmNJVnRNRnhNN1pXWUx1TVdINEpRZjlMZldlWXJuTlBmc0JZaktDWW1nazN4WTBIa3lqWTg1ZC1ZZU43ZDJkT2ZYRHdrVHp2WXhPWVV6eGhWaE1aYVNFUFRVamt5ejZoaHlkeVRsd2JtMThpN2F6SEZ5OFdRNG13RUxlVjdBbi1GWXpyMDd6MThZVEpXcGNLYm50ZVVVME50VVZvUTF0YThmTWxFUQ?oc=5",
     "title": "Tamil Nadu health officials bust suspected sex determination racket; suspect flees",
@@ -10,29 +22,5 @@
     "summary": "Tamil Nadu health officials bust suspected sex determination racket; suspect flees",
     "summary_ta": "",
     "date": "August 7, 2026"
-  },
-  {
-    "id": "sal-aug3-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVEphWmtQUFd5ZnJvc3VGdkZaSndkU2RBenlpU2JhbW53cXFkeXFyclNzMG05cUlUOUszNURfR2paQ1lxSFhiNGxuU2w1bHVlRjVkdHRvRnpKSmRnZUhjZ2E5c3BjRkhlalpEWXdCQUlkWHg5cGNQNVpJb1ctSkxiU0FhcWt1Q3VRTkV5UjlkU0c0cHpLVFlrdTM2ZXRWZVc0U3ZtWW1Kdk92a0psSktWWklVMkctYUtsUlZNSDkxU3QyQThoUWZGcy1R0gHPAUFVX3lxTE9FRmxOZFF3UU11X0hJWmtLS1FqR1ZRdjhCX3h2Q0MxSHYyLUJZZkFnME9mYnJiX0s0cjFfRlFMSVIwNGhEU2lid3hPYUc4UjFoaUNVQXdnSjVvZFAwQXhUZnpWTlE3UVZfZHNHQ29hVTZUZEpKVVFNTXp1dGpWaFV6c2tvOTVmbWtGYlZ6Q0dKVjV6TnoxMnBNbVFnYUdxQVRwNC1WYnNQZHBvR3VYN210UzJtYXYxdWcxeWtRUTBNME9jQkJyNW9aNkJ5SmJwYw?oc=5",
-    "title": "11 Rushed To Hospital After Inhaling Poisonous Gas At Private Factory In Tamil Nadu's Salem",
-    "title_ta": "",
-    "summary": "11 Rushed To Hospital After Inhaling Poisonous Gas At Private Factory In Tamil Nadu's Salem",
-    "summary_ta": "",
-    "date": "August 3, 2026"
-  },
-  {
-    "id": "sal-aug3-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcjZON204YnpVa25vS2VOd3FKY1RSTjFhclBZZHdzd1JtSHRoM3pOQWhndHByVVhuVHBhTzRJQ3pVODBOR2ZxbUFkM0JJZWRXZ2NWcjNHcEJoOFRZeDNwTU55a3hIejVsUW44VmNDY25sbERveVBQRDZQZFBnWjA2bEpnelZhQzJFMGtqcW9ZMXBhUndQT1lacF94b0lqMkhSSTYxSDJIOFRpbDhTZ2x2c3RVU3BYbkVsdEJwZWZvRFlhNVhaR1lUNUNuZkNkb0VlVWNkUlluS2NfRGdjaFc4cXRndDM5ZEHSAewBQVVfeXFMT3dkcXdKOGQ5dFVVaGlqWnl2RmtNY2JCVzFnanY2LWd1aVRPZUZTQ1FEdHJmMlZRNEpxeExvRmpVQWZiMW94Sm9DUGxqZkl1QjQ4ZDFnVktfSzVPLXZZUGZySkZMV0Z3bXpDeXhZeEhUbm94bmpTUHVlalZfTE9Ic3JfcVVuYXVjYzF0ODh0OWRvNHhxYzJVUGRtNlg5c2ZIZWVjdExrX3pHQnl2QUFLeWFIdm5tVXZRWnlaSFpsWUo0N3BxTVJGWDVoWkxpR3FJRi1GQjZlVGtzUS00NWVleXZOLXdEOVAxRjcyT3I?oc=5",
-    "title": "Salem: 12 Affected In Gas Leak At Private Sago Factory Near Attur",
-    "title_ta": "",
-    "summary": "Salem: 12 Affected In Gas Leak At Private Sago Factory Near Attur",
-    "summary_ta": "",
-    "date": "August 3, 2026"
   }
 ]
