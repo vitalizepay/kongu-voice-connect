@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug4-005",
+    "id": "coi-aug10-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWdUZkZTSDBrSFplX19NdDVWYlhKOVlKckc2dUhuVjhTU1dsWFFUT3gzekl5SHlKQ0tvaFR2TWRvdG85LW1EVVNFdm8xN0FHNmU4TGYwcElNcTdUbHE2MXFyLVJOYjZhdWliU0VtMjRRU0xvVVNjMlZ3S2RzX2F2aVJzZXpPSGtnejc1TTVVTEZNTHo2eE1nWlp4MUZzSkRHN2dDOEEzX3dIRVFPLXRXMkdn0gG_AUFVX3lxTE9TbE0wWjY3MC1NOWY4enljSlpCRW1pNDdqM1JHc3dfelh5NmFaMGFrNlo2YjRibGp4dU1yck5lQTM0czZpcVhpYUNaZ2tLU1ktZFp3Ujk5enlSeW9jcUJCeF9MVjhydWtmeVhpa01uSHpIaE16WnByQ1pLN1F4TlllUGNKcm0tUDhqWkhLU19ncFl6aUI3LXcxcDlyOGZjS2owbDlQWTdWN0JfWkZRVjA3Z3NKM0xLMmxxMFY0blc4?oc=5",
+    "title": "No bar on firms attending Andhra’s investor meet in Coimbatore, say officials",
+    "title_ta": "",
+    "summary": "No bar on firms attending Andhra’s investor meet in Coimbatore, say officials",
+    "summary_ta": "",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "coi-aug4-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOa1M4YjU5WXdRNkVYTEI3V1NpLWlqZzgzYUY4WVFUSWRJdmpxUVB2a0E0YU1EX29VTTlFSEdOQnN5cFl5ZkdTaFhNbVloRFp5cmY1a2JfT04wRUpzSFFOa2g0WTFLdURxQlp5bGUxRFpXeUc2V1ItZUlYOTd2S2c4STFmOUlWVmVEYXdmdksyZ1E1TmJYeDhUMlRENmxOSldVRFRGemtnSHRWekU1LWMzMjZVU3RVZ0JMMXFvVFIycndfTFJNN2xXY2l2X1FvaDR2Vm5Jbm1XZ2Q2cGdmWFhDbWZVUEpPN3lHd0E0a2lOOHFlSVN4TUxmeVJfT0FjZFJVaVhCNdIBigJBVV95cUxPbkJsRGxXSGx2UFRxc09CNDltOWk1Q2RSQ1hGaHNEdXRQUlZRQ0RISmdDek9kT2JCdGFfTHNoUFdsVm9oWlZzZzVTQlMxQUVKa3JENGFjd1hxQWtKR01jc1lqSWNQRG03SUFGNk1JMjN5cFNOQ2EwV0luTGl4V29yV1VuZWVULU9welR3T3VWT3dQZi1EV0ZTR3U2R3dEbWV6alFldUUzUnNLdkJsN0lfb3dlalFBaDRPVTNfRHRNMmVlM1VMQ3ZoS2dFeXF6dVpuSmw2WWF2MFdEb1paYUtfV0l5dXZpNEd2eHNZWW9ZeG9LWm5LSEY0RzNpZFk0UUxkSkRQUmJjYlBWUQ?oc=5",
     "title": "Tamil Nadu Power Cut, August 5: Electricity Supply To Be Suspended In Parts Of Chennai And Coimbator",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu Budget:Textile industry in Coimbatore and Tiruppur districts welcomes announcements",
     "title_ta": "",
     "summary": "Tamil Nadu Budget:Textile industry in Coimbatore and Tiruppur districts welcomes announcements",
-    "summary_ta": "",
-    "date": "August 5, 2026"
-  },
-  {
-    "id": "coi-aug5-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTFCZlE2R3NWRGNiTVA4LXNvQ2l0dTF2UUhlOTJoU25qZFlHNHZMVEpIbmVwalU2UWFqblNKRmgxQnVpZjc2MkJUTGE0TlgtbXk3cFNsUEhRaFpfaWdHcTFfQl8xN2l6VmhXaExfbjZJcXh4bnBhaGFZc0JMcHBNX2RZNV9aMjFrcHM4ajE3M0U3RGlVNEhndklDNnVwVUFaZ2R3TmllT1p4czEwR0NhTk9EalQyaEthQUZGSWpEVWdmUdIBxwFBVV95cUxNMnRsWTVpaEhSQnVCREZsSGpwczlOSEdTNFJFbGJmMGRGcUo2TVJqQzVQTmNzYTN6Z3c0LXhUUVJvWTllVnptY19IdWFVR09TcEpGZmxOUVR4SjduMVYwbnRzcndXXzZ6X2tOcWN0QmRrU1RnS1NjYU5yaWstNGpCN3hkd0lpcmpiWmtvdkFmdkg0ZHhiWW9POFFoSGloa2hUclZtdHBtUTlfcHJQTXJnMUlHQnBsWkFvTjNPaVJoS21vLWJQVlJr?oc=5",
-    "title": "Tamil Nadu budget disappoints MSME associations",
-    "title_ta": "",
-    "summary": "Tamil Nadu budget disappoints MSME associations",
     "summary_ta": "",
     "date": "August 5, 2026"
   }
