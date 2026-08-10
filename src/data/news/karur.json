@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug5-004",
+    "id": "kar-aug10-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclpfNHBlM19sOElPaERGZXNmYkpuVHhTR3k3c3k3d2FZNGlKUUxhWWEyY2dqVExwWVhtZ3NBT1ByZVFzMFBiY2pCZktrWjN6Vm1zX3N1eDQxdHBPT1FWMXhyWUNOX0dUdEFGM2drdVp2WjgzcVhmcDBSLTJtUHJmelk5bVphQW9wZmViMUdLZEh5SnB2bmJfZXZ4QmZKQmhyOE9VdFJXd29GTVppa05LUEl1WEZsZw?oc=5",
+    "title": "Madras High Court strikes down Tamil Nadu job order for stampede victims",
+    "title_ta": "",
+    "summary": "Madras High Court strikes down Tamil Nadu job order for stampede victims",
+    "summary_ta": "",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "kar-aug5-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2R0SFFXLXpnZjkweU05dzd0UXZjQjFmWUIzaUtEM0l2aVlpLVdtYkZCRF9nZU9uTDl1eGJ4SmNCY0FxTlFCSHVNMENKWEU0R2tRalZWZUFLUHc5VXMta3M5N3dSRUFkNEEwdEx2dkFTQ1JLZEtjYW13RWFWbVZhMkdSNENUMlFGVFJzcmZKYUV0bjZ1cWdla0pxYWs3dDdRVVprcURqNWdyVU1C0gGzAUFVX3lxTE5UcDdUckFWV2c4YnlhZTY2akZkQ2w0TjJjM25Ga2F0RXZmcF9yQVlvYk8yTGVPUkpWWFZRZXJfZnpYUDVTTmFGRk16dlRCQk41SzdYX25LQldORVRjb0hVWTRIMk8xS0YwRW1RMkdxWktyVkpQRFRkRk5GVnRVTWFobnNMWDliWTBFcXRDNmZjRG5UR3lfenVPcVA2TzZQZ2V5ZDlJNVVfWW56ZjZhVWFtRkJv?oc=5",
     "title": "Karur exporters welcome Tamil Nadu Budget",
@@ -46,53 +58,5 @@
     "summary": "Tamil Nadu CM Vijay grants jobs to 32 families of Karur stampede victims",
     "summary_ta": "",
     "date": "August 5, 2026"
-  },
-  {
-    "id": "kar-aug2-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1hGWlRadndSNUtHS3U5YTBrbE1UOGtHTFhKQzRVaGwwaFdQNEFhMjlFdEY1Y2hpUHNFb2k4MUFWTW1xaHJ0YmhWbmR5Z1lMcWJ6TnBSOGwxeWlSSmhsNkIyd1RVcWdXMFBOVjIzLUtRbURwRnNQd1ZIcnNVSzJhUjNTSzFzRXBKbW0yTlExaGFTaXZ3aG5PMA?oc=5",
-    "title": "Karur | Amaravati River | தண்ணீர் இன்றி வறண்டு காணப்படும் அமராவதி ஆறு..",
-    "title_ta": "",
-    "summary": "Karur | Amaravati River | தண்ணீர் இன்றி வறண்டு காணப்படும் அமராவதி ஆறு..",
-    "summary_ta": "",
-    "date": "August 2, 2026"
-  },
-  {
-    "id": "kar-aug3-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
-    "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
-    "summary_ta": "",
-    "date": "August 3, 2026"
-  },
-  {
-    "id": "kar-aug3-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0QxTmVQWG9LUFdTQzhzRktYNHYwU2RZWnNDbF9jMzZ4d1JOa0k2c25qX3BQXzg1aE0xLXBRYURpcWs3eDBqdlBLTDlQaVpwQ2xORnViS2ZGc1BYMm9VdW83VEt0UURQdC1ZZkdGajE0ejB4T0t3V2h6MzYtQmJTTzFrYURNTTM5QXFJ?oc=5",
-    "title": "Two mini-textile parks inaugurated in Karur, Tamil Nadu",
-    "title_ta": "",
-    "summary": "Two mini-textile parks inaugurated in Karur, Tamil Nadu",
-    "summary_ta": "",
-    "date": "August 3, 2026"
-  },
-  {
-    "id": "kar-aug3-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1FMTFNaZ2lQNkxEeUJPa2hhUWxlVHpxV2QwZFZwNDBvWVhibXRmZmtVZ2M0SVFEclk1b25kcFgtbnlsOVdKUElUaTNWNzNNbjZnaVAzSGUxREtmRDZqOVlHcWpxTnpjZ25XSDh3NlkzbGpmd3lBRVQ5X1ZfZEJRcjhhb3prSHZTcFBXWXBn?oc=5",
-    "title": "Karur | Teacher | தலைமை ஆசிரியை மீது இடைநிலை ஆசிரியர் தாக்குதல்..",
-    "title_ta": "",
-    "summary": "Karur | Teacher | தலைமை ஆசிரியை மீது இடைநிலை ஆசிரியர் தாக்குதல்..",
-    "summary_ta": "",
-    "date": "August 3, 2026"
   }
 ]

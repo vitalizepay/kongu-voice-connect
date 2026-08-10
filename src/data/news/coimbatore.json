@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug10-002",
+    "id": "coi-aug5-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTFCZlE2R3NWRGNiTVA4LXNvQ2l0dTF2UUhlOTJoU25qZFlHNHZMVEpIbmVwalU2UWFqblNKRmgxQnVpZjc2MkJUTGE0TlgtbXk3cFNsUEhRaFpfaWdHcTFfQl8xN2l6VmhXaExfbjZJcXh4bnBhaGFZc0JMcHBNX2RZNV9aMjFrcHM4ajE3M0U3RGlVNEhndklDNnVwVUFaZ2R3TmllT1p4czEwR0NhTk9EalQyaEthQUZGSWpEVWdmUdIBxwFBVV95cUxNMnRsWTVpaEhSQnVCREZsSGpwczlOSEdTNFJFbGJmMGRGcUo2TVJqQzVQTmNzYTN6Z3c0LXhUUVJvWTllVnptY19IdWFVR09TcEpGZmxOUVR4SjduMVYwbnRzcndXXzZ6X2tOcWN0QmRrU1RnS1NjYU5yaWstNGpCN3hkd0lpcmpiWmtvdkFmdkg0ZHhiWW9POFFoSGloa2hUclZtdHBtUTlfcHJQTXJnMUlHQnBsWkFvTjNPaVJoS21vLWJQVlJr?oc=5",
+    "title": "Tamil Nadu budget disappoints MSME associations",
+    "title_ta": "",
+    "summary": "Tamil Nadu budget disappoints MSME associations",
+    "summary_ta": "",
+    "date": "August 5, 2026"
+  },
+  {
+    "id": "coi-aug10-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWdUZkZTSDBrSFplX19NdDVWYlhKOVlKckc2dUhuVjhTU1dsWFFUT3gzekl5SHlKQ0tvaFR2TWRvdG85LW1EVVNFdm8xN0FHNmU4TGYwcElNcTdUbHE2MXFyLVJOYjZhdWliU0VtMjRRU0xvVVNjMlZ3S2RzX2F2aVJzZXpPSGtnejc1TTVVTEZNTHo2eE1nWlp4MUZzSkRHN2dDOEEzX3dIRVFPLXRXMkdn0gG_AUFVX3lxTE9TbE0wWjY3MC1NOWY4enljSlpCRW1pNDdqM1JHc3dfelh5NmFaMGFrNlo2YjRibGp4dU1yck5lQTM0czZpcVhpYUNaZ2tLU1ktZFp3Ujk5enlSeW9jcUJCeF9MVjhydWtmeVhpa01uSHpIaE16WnByQ1pLN1F4TlllUGNKcm0tUDhqWkhLU19ncFl6aUI3LXcxcDlyOGZjS2owbDlQWTdWN0JfWkZRVjA3Z3NKM0xLMmxxMFY0blc4?oc=5",
     "title": "No bar on firms attending Andhra’s investor meet in Coimbatore, say officials",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
     "title_ta": "",
     "summary": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
-    "summary_ta": "",
-    "date": "August 5, 2026"
-  },
-  {
-    "id": "coi-aug5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaEsxdVJlRF9qeUJ1dVdlNVd0cnktU1AtVWM2TndxNFhEaXVNUTc0Sk4wSmVmb0ZGOW10SlR1am5HYU94dU5rWXY2YlVrUXJnX0sySlNHSUNoQlNYX1lUQzQ4T3UyM0tGRFBXNmcxUm9IQ2VuRTd3ZTZLaGtzSEVLdmgtT1NPUllaVHY1STQ5NVZmdV9OSDlBY0RrNmQ0ZDcteXNLZW9QbjBuM1hISm1KeV9pZkMxZW1TbFhucnY3ZldCS1ZXTE9UWGUxRWM2MGgzZ3V2RWEyNm5QbHgwOEl0WHhCV2JreXR6cWNvQXZ4clJEWHVNdFHSAfwBQVVfeXFMTlA5VnNEZGhBTGFnbTdMWk1ic2Q3Nl9TZVB1aDAtVXFBbFEtRnBONzNPQl84WVY3NVFtYS0zaEhrMU9VX2lFaVdCUEN2WDZHUWN4VjlwVzdveXVZbGFZRGVzR3BleXk4QjZhNHhHazNJZ0NJRzZScjdMSU1CZ3p2TWRFRDdMeERYcmh2Zmx0ZkVCcU9CSGloR2FrMGx5RnR1ekJwNUU2Z1FoSHdHUnhUeXNZMUZTTVc4NGRFX0FiVjcxSHhqNHZGMHRTWW9FLW9nd1FQS3p1M1VrRW1IX2ZrNFd4dVBnV2VhMXI5eFYzc2VfMlI1VWoyQVA0MmR2?oc=5",
-    "title": "Tamil Nadu Budget:Textile industry in Coimbatore and Tiruppur districts welcomes announcements",
-    "title_ta": "",
-    "summary": "Tamil Nadu Budget:Textile industry in Coimbatore and Tiruppur districts welcomes announcements",
     "summary_ta": "",
     "date": "August 5, 2026"
   }
