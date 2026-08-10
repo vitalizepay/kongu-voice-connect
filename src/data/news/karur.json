@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug10-001",
+    "id": "kar-aug3-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
+    "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
+    "summary_ta": "",
+    "date": "August 3, 2026"
+  },
+  {
+    "id": "kar-aug10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclpfNHBlM19sOElPaERGZXNmYkpuVHhTR3k3c3k3d2FZNGlKUUxhWWEyY2dqVExwWVhtZ3NBT1ByZVFzMFBiY2pCZktrWjN6Vm1zX3N1eDQxdHBPT1FWMXhyWUNOX0dUdEFGM2drdVp2WjgzcVhmcDBSLTJtUHJmelk5bVphQW9wZmViMUdLZEh5SnB2bmJfZXZ4QmZKQmhyOE9VdFJXd29GTVppa05LUEl1WEZsZw?oc=5",
     "title": "Madras High Court strikes down Tamil Nadu job order for stampede victims",

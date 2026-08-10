@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-aug5-004",
+    "id": "coi-aug10-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNc3RSV2ZKbWdFOFpNOXF2OEZPVEY2Q2YtcFBlVGxRS3VXeXNLMng5THhmUkZPaENBY0pFc3hxS1ExUTVPNWJaaEQ0MWlVRkhJU09tVk4wSTNtWk1pT25iT3d5QWhKZUh6RXBRLWsySTdKc3FHazVlUmVnQWNRdXRnbXJHZFQxZERUYWxFR1l2d0tSekgxaFdzampoQXVKcVBnYV9OM1BBUjJBOWZLSVRVWlF2YlMtTW1XaXNsQ2ZWcHlEU2paWGt5N293VjVfTjAyazN2Z04zSjU4MVI2eFcteUpwc2VtcjZrbmZTekw5cDF1NUU2ZVQ5dkZQcmwyTURscklicdIBigJBVV95cUxQT2lSWEhYX3lpYmNSZHAyWEdXUFAzRXBUV2pkTTNmdXloZU1WcDR4UzFUSWxHVnVQVlFCYTk0enFrd0VUZENNc2U2SlJkenc3NFhTYVI0OTFGV0NTOHp2U2gtSGdkR0loNFRiUjhnWHFzNXFjcEVMWkFmbjdGNE9yV2xnNTBZOVhMTENyakZfOWpOSGdmMGVFRTQ1b1FDSGJnenpSaW5SbHJnTktrT1AxazludzQ0emN6VUxad2ZMZW92VnJBQ1NKek5YdnJSb1VXMWNuMW1MalNfVkVjNkJOX0tUTWIxRHZ3MGNKTFYxa0Y3U0VTVlUyekNHeGhqSkxTVUpHQnJUQW9SZw?oc=5",
+    "title": "Karnataka activist Vatal Nagaraj calls for Karnataka-Tamil Nadu border blockade over Cauvery row",
+    "title_ta": "",
+    "summary": "Karnataka activist Vatal Nagaraj calls for Karnataka-Tamil Nadu border blockade over Cauvery row",
+    "summary_ta": "",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "coi-aug9-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
+    "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
+    "title_ta": "",
+    "summary": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
+    "summary_ta": "",
+    "date": "August 9, 2026"
+  },
+  {
+    "id": "coi-aug5-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTFCZlE2R3NWRGNiTVA4LXNvQ2l0dTF2UUhlOTJoU25qZFlHNHZMVEpIbmVwalU2UWFqblNKRmgxQnVpZjc2MkJUTGE0TlgtbXk3cFNsUEhRaFpfaWdHcTFfQl8xN2l6VmhXaExfbjZJcXh4bnBhaGFZc0JMcHBNX2RZNV9aMjFrcHM4ajE3M0U3RGlVNEhndklDNnVwVUFaZ2R3TmllT1p4czEwR0NhTk9EalQyaEthQUZGSWpEVWdmUdIBxwFBVV95cUxNMnRsWTVpaEhSQnVCREZsSGpwczlOSEdTNFJFbGJmMGRGcUo2TVJqQzVQTmNzYTN6Z3c0LXhUUVJvWTllVnptY19IdWFVR09TcEpGZmxOUVR4SjduMVYwbnRzcndXXzZ6X2tOcWN0QmRrU1RnS1NjYU5yaWstNGpCN3hkd0lpcmpiWmtvdkFmdkg0ZHhiWW9POFFoSGloa2hUclZtdHBtUTlfcHJQTXJnMUlHQnBsWkFvTjNPaVJoS21vLWJQVlJr?oc=5",
     "title": "Tamil Nadu budget disappoints MSME associations",
@@ -118,29 +142,5 @@
     "summary": "Air India Express adds daily Madurai, Coimbatore services from September 1",
     "summary_ta": "",
     "date": "August 6, 2026"
-  },
-  {
-    "id": "coi-aug6-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdDJMTmRMMUtneDJ5YXdDOGRZTEREZW9Ea09kSXNoSlBFS3FpYVQtVkdOSHdaRGpZMU54ODhkMDhhZEM1MF9zajFsNjdJRXo5QXZIcDctbTdpT1VNZE1ldmNRYXVUVXF3akpMbEFwUjNnaHRTaXVpQzFfUjVIU01Va2VRLXBqbUZYRllUNmYwQmRsVmFOblo3Q2paSHVkYWxfUDdhSHBpUDZsT1ZOcnRoSzVvckNLckZIZW05R1FPbnJsd3JIUExRcmFROXI5SHlqYy1GRGFfeEV5cDZlci13a0pnd1JQU2RXdlHSAfcBQVVfeXFMT3NRd1FtR3hwOFp2bW40TW9obWxjOU9kMmFuNTgxRWZTTGxxYXRIdGVOMHZYcHpnRHVqT0R3dmVXSDZXTnBDeVJWVTg0b0tyVU5xLXB2MTNQNXJtR3hlM0hVak1USUxFZmN2NEdFZW5rcFlORmpHQ2U2cG5wZ0laN0hoNTBBZktvX2VOUmF2bFdWVDg2ZkpsZzlzVWJ4YlJ1aHdQcUY2TkRZb1BaY3JleUpoLTJwMk5rZUhqWjJLWXJFa0xHNWNUQXNDZ21SZDBpRWlVa2lZUXZTcVFNeDZGRmpqVWRXTnBvQlFLUURXdXRxWm5USVhjNA?oc=5",
-    "title": "No reduction in power charges, solar waiver leaves industrialists disappointed in Coimbatore",
-    "title_ta": "",
-    "summary": "No reduction in power charges, solar waiver leaves industrialists disappointed in Coimbatore",
-    "summary_ta": "",
-    "date": "August 6, 2026"
-  },
-  {
-    "id": "coi-aug5-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTM2NUlPb29SaUlpNDg1akdjcEpHZmJBWkFjcDRrN2cyN19MVWpkb1cwMnVnRXFzU0xxaF9wdjV3ZE1RSmpWREJTci03TEFseTJ5clFHcUs0WnVJbTlaNDc2c096WGZlamJieVAzbXlvaFdEeDliRkNSU21lbXJaU0NOUlY3V2tlMjltRE9WT0F4MWhUcTJZQ3ZCNm0xUDg0bExpLW8zOTFqUzFNc1BVVW14eXpCQ3hIRXhRZXhqLVI?oc=5",
-    "title": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
-    "title_ta": "",
-    "summary": "Tamil Nadu minister outlines Coimbatore budget projects and quarrying action",
-    "summary_ta": "",
-    "date": "August 5, 2026"
   }
 ]
