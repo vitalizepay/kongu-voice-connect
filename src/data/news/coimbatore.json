@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-aug10-002",
+    "id": "coi-aug8-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
+    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "title_ta": "",
+    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
+    "summary_ta": "",
+    "date": "August 8, 2026"
+  },
+  {
+    "id": "coi-aug10-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGRnbXR0RnBicmJidFhyNGdpUzJhRHE4M0lEb3hxblo3MEJRRkFvMnlTaUF6d3Y3ck14b21ZajdSM1JLcUZHNjNxUXRkckEwMzR1dTVWU2FSeGhoLVpvdU0zS2JKQW42bE43ZXFqdGRUcU5ERTdDRjhPWERrTmZQakZJQkU2VmhWZ1RuaThURVV4MldXOHE3dXdsSVpHNTlHWE1Tc1ZLeTZKbUJhX1A1LUNkdnhud1JoNXfSAccBQVVfeXFMUG9EREtwekRtY29xUVFuRHppWDRpSVZKZU5XRlcwZklobndyakdrTVpYUUcyNzJfZy11WmtxdmxBVFhzcDhKYW9VZkhLd1dDOFFEWXdoYUNYRmt1cDJHd21FNVhGdTlxZVVxVHVRYklnRndQUEdRa1BnX1pIYUEtRnkwSURFR3hmc0FQemNLYVFzWjdFZXV3SnFXZXFlZG1HcURWbC1McFNsVVliTnZTTDNfSGJZTU5Ba2tPN1g2QzR2Q2hmbUMzVQ?oc=5",
+    "title": "Coimbatore: Daughter contracted HIV after blood transfusion at CMCH, alleges weaver",
+    "title_ta": "",
+    "summary": "Coimbatore: Daughter contracted HIV after blood transfusion at CMCH, alleges weaver",
+    "summary_ta": "",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "coi-aug10-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNc3RSV2ZKbWdFOFpNOXF2OEZPVEY2Q2YtcFBlVGxRS3VXeXNLMng5THhmUkZPaENBY0pFc3hxS1ExUTVPNWJaaEQ0MWlVRkhJU09tVk4wSTNtWk1pT25iT3d5QWhKZUh6RXBRLWsySTdKc3FHazVlUmVnQWNRdXRnbXJHZFQxZERUYWxFR1l2d0tSekgxaFdzampoQXVKcVBnYV9OM1BBUjJBOWZLSVRVWlF2YlMtTW1XaXNsQ2ZWcHlEU2paWGt5N293VjVfTjAyazN2Z04zSjU4MVI2eFcteUpwc2VtcjZrbmZTekw5cDF1NUU2ZVQ5dkZQcmwyTURscklicdIBigJBVV95cUxQT2lSWEhYX3lpYmNSZHAyWEdXUFAzRXBUV2pkTTNmdXloZU1WcDR4UzFUSWxHVnVQVlFCYTk0enFrd0VUZENNc2U2SlJkenc3NFhTYVI0OTFGV0NTOHp2U2gtSGdkR0loNFRiUjhnWHFzNXFjcEVMWkFmbjdGNE9yV2xnNTBZOVhMTENyakZfOWpOSGdmMGVFRTQ1b1FDSGJnenpSaW5SbHJnTktrT1AxazludzQ0emN6VUxad2ZMZW92VnJBQ1NKek5YdnJSb1VXMWNuMW1MalNfVkVjNkJOX0tUTWIxRHZ3MGNKTFYxa0Y3U0VTVlUyekNHeGhqSkxTVUpHQnJUQW9SZw?oc=5",
     "title": "Karnataka activist Vatal Nagaraj calls for Karnataka-Tamil Nadu border blockade over Cauvery row",
@@ -46,18 +70,6 @@
     "summary": "No bar on firms attending Andhra’s investor meet in Coimbatore, say officials",
     "summary_ta": "",
     "date": "August 10, 2026"
-  },
-  {
-    "id": "coi-aug4-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOa1M4YjU5WXdRNkVYTEI3V1NpLWlqZzgzYUY4WVFUSWRJdmpxUVB2a0E0YU1EX29VTTlFSEdOQnN5cFl5ZkdTaFhNbVloRFp5cmY1a2JfT04wRUpzSFFOa2g0WTFLdURxQlp5bGUxRFpXeUc2V1ItZUlYOTd2S2c4STFmOUlWVmVEYXdmdksyZ1E1TmJYeDhUMlRENmxOSldVRFRGemtnSHRWekU1LWMzMjZVU3RVZ0JMMXFvVFIycndfTFJNN2xXY2l2X1FvaDR2Vm5Jbm1XZ2Q2cGdmWFhDbWZVUEpPN3lHd0E0a2lOOHFlSVN4TUxmeVJfT0FjZFJVaVhCNdIBigJBVV95cUxPbkJsRGxXSGx2UFRxc09CNDltOWk1Q2RSQ1hGaHNEdXRQUlZRQ0RISmdDek9kT2JCdGFfTHNoUFdsVm9oWlZzZzVTQlMxQUVKa3JENGFjd1hxQWtKR01jc1lqSWNQRG03SUFGNk1JMjN5cFNOQ2EwV0luTGl4V29yV1VuZWVULU9welR3T3VWT3dQZi1EV0ZTR3U2R3dEbWV6alFldUUzUnNLdkJsN0lfb3dlalFBaDRPVTNfRHRNMmVlM1VMQ3ZoS2dFeXF6dVpuSmw2WWF2MFdEb1paYUtfV0l5dXZpNEd2eHNZWW9ZeG9LWm5LSEY0RzNpZFk0UUxkSkRQUmJjYlBWUQ?oc=5",
-    "title": "Tamil Nadu Power Cut, August 5: Electricity Supply To Be Suspended In Parts Of Chennai And Coimbator",
-    "title_ta": "",
-    "summary": "Tamil Nadu Power Cut, August 5: Electricity Supply To Be Suspended In Parts Of Chennai And Coimbator",
-    "summary_ta": "",
-    "date": "August 4, 2026"
   },
   {
     "id": "coi-aug9-001",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu: ED conducts raids at 15 locations linked to 2022 Coimbatore ISIS-inspired car bomb blast",
     "summary_ta": "",
     "date": "August 7, 2026"
-  },
-  {
-    "id": "coi-aug6-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjB0by1YOUlYblBndFRUeElkdE1WRXJ5eWxLNVVKdWVaT2JGdjRfRnMwU1JoUC04ZU9mYS1CYV9nSjJZU2dLcGFDb2w5RmVrbUliWFZnTlpjQWJFeE53RmxlYXhQZjV5OXpjcG1ub3F4TF9feVFTdDJZSXQ3MEEwVmQzZi11YkNQUjJ3MXRwTTYxRVRHVFBEZUd5TDZtVWlXOVZvM0ZhbEZUbFNBWHlj0gG8AUFVX3lxTE83ak5DVGYybE1nQ3ZuQnV6LV9NNmVNLWlFRS1BYVVrWFhYMUJ4VDF5TmdnZkRvamlRcXNGRUt6WVp6bzYzc21rMlR2WVpfM3dSU3VtMzBQUjFRNVlaQV8xYVRoQzlSUl9YWG5Ob1BOYW1ocEZBSGVXN1RKUEtrcVgzTHN6TVpRTFI4c3diV1NzV3RIUVRVSWwyMEJqWTZDWkpXaGhfdTVQN0RUNkJvZzh5NzNVWG9fWWd1eDdB?oc=5",
-    "title": "Air India Express adds daily Madurai, Coimbatore services from September 1",
-    "title_ta": "",
-    "summary": "Air India Express adds daily Madurai, Coimbatore services from September 1",
-    "summary_ta": "",
-    "date": "August 6, 2026"
   }
 ]
