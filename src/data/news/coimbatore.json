@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug12-001",
+    "id": "coi-aug11-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZzZfRUtZbHFNVWFxNGY2bkQ3U2Y5YTZHbFJucjZBWFJDQ2NDUXVub1NoeGN4QTY4SnNkTUk4TjhtUXBlOFhhMGpoY2dEN1g2N1BYSGtpdGw0VUd4M1BVZEgyQ1hvNk43X0lXWnRoUTBSQlczV0V3WTZvZklXcG41VnczODdhd0V2Q0pOOHNNOXdjdm8wbGkyVy13ZC1LcFVqcF9iOEtVbm1sNzROalh5UzlZX1Y4dFpzaFVhWUtqczBZSWdablBQaDNkTzdvYzc3NnJNRG1kLWdxZzFjRGUyLVpFRF9OT1QwcDlLcG5GUdIB9gFBVV95cUxPc2tIU2xlRGYyYVhyQzhKT0ZseE0yMFNMMmRzN05KaUFRRF9lRDR3d3VsV1VGaDFiTW4xMmVJNjc5ZUctVU9DWWdTWWZnMzRVLWNsS0NRSGhvekt0S2puMWx3Z3FfZGxNWG1kR1VqWG1QRmFiVGxjZUoyb203b0Y1RjJNa2RkWXZZU0ROSm5rTFJjODE1b3RoSzBpOUR4Nmh0Q1cySGdzQk9IN3ctY3UxQzJ5eHlBdE9UbU0xOEFuV3psWGx4eTdTWDIzbTUwOW1LOUQwXzkxemJCQl96aUc0RmVGbWxVdEtZN0dYelF2M2p4Tmk3dFE?oc=5",
+    "title": "College student dies after alleged assault near Malumichampatti in Coimbatore; five secured",
+    "title_ta": "",
+    "summary": "College student dies after alleged assault near Malumichampatti in Coimbatore; five secured",
+    "summary_ta": "",
+    "date": "August 11, 2026"
+  },
+  {
+    "id": "coi-aug12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNEZDVHT1FCaUsyREhnMXRzU01aYTB4Qjh5ZUVWUU5iU3VNcV8zaTMtVnhibFVoSmRJeGFCeng1NHN1SXhTWTNycHAzd1BEQl8xMFFPcGRnSUhJejloZ3Q0cDlXbk1hUm93Qnliek1pQmxoWjZLQ3duQk9iX0REdUw0cm5lbTZJZ09renRQOXBVbkpaV2FTY181MFdiZHB4WGU1bkpDNjlqZ9IBtwFBVV95cUxPRXpkZXE2ZDB2RzNfakNDQ3JidENJMW51dzNBeWh2Ymx0RTZvSU5GbUM2WFl3S2Z5Tks5UU1oWHhJS25jQ3pwRGhVRnBOR3o0QmtJb1pqYUVScUxyVE9haGk1YkFHbHBSTkNtWi1iak9rdnRwc3BuM0tDcTIxVlZZR3dJbmNRb3IzeE9tMnlCQkRDLV9zYXJ3Q1Z5RWlobVBucllZNXl3anBITS1LZzEyZm1rNzVoV1k?oc=5",
     "title": "Tamil Nadu: Engineering student beaten to death; five students held",
@@ -128,18 +140,6 @@
     "title": "Three die as car plunges into gorge on Manjoor – Mulli road along Tamil Nadu – Kerala border",
     "title_ta": "",
     "summary": "Three die as car plunges into gorge on Manjoor – Mulli road along Tamil Nadu – Kerala border",
-    "summary_ta": "",
-    "date": "August 9, 2026"
-  },
-  {
-    "id": "coi-aug9-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUpxbHh5bG8wdVBFNElIbnh2WENtVHV2X0RabnJHaThQaHljSW5hSVZlUFNUS3cxcmJaVGJtTDF3YmJrSjAxVzdWaHQ3UHZnd0U1SHl3U2Zpek1wMktLVjdlWmFHbWw0ZEt3SlJKV2NfQUhZY29OM3g0OUgwYVpUcTc3UnFUTlhhaURBYllSLVY2VGRoYlI4bUln0gGnAUFVX3lxTE1BcERTRUd6RHlSX19MZ1FIaWZySlZVbzIzLXcxM2xQeEVvTkJDY3lScmFFd25tQmVURzBESy1pRDlmMTVjNWI2bDlsSlB4UkdDU0NtTEVKVmNEMExVcUtBUXZLT0g2aEo4dl9PRGpTUy1wM1luRldNaDVJQnBBSzNoXzhUN2Y3Mk5ZclE0WW16N0xCYXQyWDY2M2h2RWxXYUhhdHBtWEVB?oc=5",
-    "title": "Three died as car plunges into deep gorge near Coimbatore",
-    "title_ta": "",
-    "summary": "Three died as car plunges into deep gorge near Coimbatore",
     "summary_ta": "",
     "date": "August 9, 2026"
   }
