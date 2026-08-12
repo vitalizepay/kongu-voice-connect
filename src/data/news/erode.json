@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug11-001",
+    "id": "ero-aug12-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTmNSdUlpSjVDbWR3dnBGQUhXeEVyd2ZlOE5rbUJjMmxpQUJZaDlqS0tkQkNQUXR2aFhjNVVvTXpWQnhSc0wzNTdZWEF3dThLWi1TN1dyejRrUHc5RDY0T2JxSFRSQWlUUmNCdkE2NGJlQXZFYk1taHhVRHB2dEFtekc0cWFwTktHekNPWGx4MXpkeGJQMEdpcFNDZWdKeTYyUkNndlhibHlXYmFxREdWOHIxNmNMdWVSWTczbW5PZUhmOURoQ3RURmxB0gHPAUFVX3lxTFBMSEtqUEVOQW0yMlZ0ODA3a2NHd1NndWxPWHU5TjliOTNjLXR3OFIybmFnd2FqMDZNSS1WWGlnSDUxQVpvd3NXVU9ZS2pxN3JNLUsyOW5mcWdDc1FzZzQ1eDBEM1BPWmx6eDExbXV3bTFsQ08xcHhpSmlpME80RXBfMFJZS21zSkxqUlphZG5LYWxNWS1WcUFaSzBiaExZQmN1YTBKcVVDNjVwb29VMWUxeGhWZEd5R1p4N2FZZ1JJaUJDWmQ3N05qQ1hDTzhsWQ?oc=5",
+    "title": "Boy goes to fill water bottle in school, dies after touching live wire",
+    "title_ta": "",
+    "summary": "Boy goes to fill water bottle in school, dies after touching live wire",
+    "summary_ta": "",
+    "date": "August 12, 2026"
+  },
+  {
+    "id": "ero-aug11-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNTAzRzJmcUc3TmwxOXhpbVdreTQ5NXduSmhoanFqTlctY0U0ZFlQd01XaXVBQnBXV2lXYzhoN2pxOWNfcjRqeUZ1NHNXNHIwb2NZS2w5R1J5U3ItYkVoa3hkQVZiQzJzaWNrRW45NmE1UUpfRzlHZVVZRDJHNl9yc0Y5ZUtBWUpSOE53TWF2SUpEczB4c3hZN084YUJJaldOaGRRZnVGLWpDcjcyVjhWQWYtckxfcnhU?oc=5",
     "title": "Class 6 Erode boy steps on wire, gets electrocuted to death on govt school campus",
@@ -70,17 +82,5 @@
     "summary": "Erode schools amongst nine in TN, selected for SHVR award",
     "summary_ta": "",
     "date": "August 8, 2026"
-  },
-  {
-    "id": "ero-aug5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWldHMy1iUGF3VUFWd3JtbWR2ajd2bkJWbTdjNG1NcC16UXVwaGcyMzFiMmEwb21pWERPdVB3MnZUWTNvdjhDSWYxRGxERlVRWkNsS1lzNFFsRWgycmowT1lvVHVIOXF0enVhSWxjLW1vYUlBSVpPYjltaU1iRVRqbFh5TDlkdEZnZV9fczF2cHdsd2tacW9KQjJPd21ycVhOSDIwaHgzRHR6eFk5VkVlRTBrcWRmeDlSMHZRY0hLb2ZtSTdrUnYyU2R1cGFwUVQtcm85M3Y3TDMzcnJnNElrY3FB0gHoAUFVX3lxTE9HQnpVZm0yc21LckJQYWR4NS1BQVBaWXZidEhxUUVZMWt5aHZvbHJpUXpLNm1OWWJ1ckRqQm9ydmhRMWdlMWlJT1loZVlKcXBpZGc3dEFQOV9xZl8xcURSSmw5OWFoTThZaW9HWm0zVWFzaV9nOWsyaWVtV3JrU3RxZUxDZzAxWnJRYy1EbGhBNV9GRGx3Z0ZvX0xrbG9tZDJ5UnFKRmg3QkdRSEFRNERkaDBueHhNcVFMMV85a21fTzZKRXhWWTI4dG5rM3lZU2s4OFV2M2hfMnVNM1pDRU51MEI1a2JYZFk?oc=5",
-    "title": "Old Hasanur residents seek all-weather road, bridge restoration in Erode district",
-    "title_ta": "",
-    "summary": "Old Hasanur residents seek all-weather road, bridge restoration in Erode district",
-    "summary_ta": "",
-    "date": "August 5, 2026"
   }
 ]

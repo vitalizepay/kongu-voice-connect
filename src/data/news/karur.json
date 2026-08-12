@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug11-004",
+    "id": "kar-aug11-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTN1Vm1KTm1iYVlIUm82amVkVWRpazE5cjBaeXRscTNtM3VBWkF4SDNrMHBycHUxbkdJbUZtbW0wejdZdjVrNXJGWjNQdmtjcFlMQl9GZ1huUk1oSkhyVmhCSEt4ZXRsakpRQ1QxUE9VVTFIVlkyU1JneGZTVlBlWHFZSHNYcFdVYndlSGFkeFIxMXlRVHNkOTcyMVJOdw?oc=5",
+    "title": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM to hand over jobs to kin of Karur stampede victims",
+    "summary_ta": "",
+    "date": "August 11, 2026"
+  },
+  {
+    "id": "kar-aug11-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmwzeWxhdFNHMF9GM0RQVHZ2UGJNa1phOURoOS1JVHhsUjhiUUdGRXZzQk1SbU1odmJPUDBVX0RmWFN4ZUc2TDE1emVkUHg4TDVrbDVCRUdqZ014M25Yc2lHVWlFa2pSUjdnT04yRUFXY1NmSEF6cVVTbGNYdmlvVFZaa2FrZ08xZnFqdUR2SVg0UHktekRTcG5DRk9JQzJHU2J5YWpvNTVDeXZrYUpIaC1sX28?oc=5",
     "title": "Tamil Nadu minister Aadhav Arjuna inspects arrangements for CM Vijay’s Karur visit",
@@ -22,18 +34,6 @@
     "summary": "Madras High Court strikes down Tamil Nadu job order for stampede victims",
     "summary_ta": "",
     "date": "August 10, 2026"
-  },
-  {
-    "id": "kar-aug5-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2R0SFFXLXpnZjkweU05dzd0UXZjQjFmWUIzaUtEM0l2aVlpLVdtYkZCRF9nZU9uTDl1eGJ4SmNCY0FxTlFCSHVNMENKWEU0R2tRalZWZUFLUHc5VXMta3M5N3dSRUFkNEEwdEx2dkFTQ1JLZEtjYW13RWFWbVZhMkdSNENUMlFGVFJzcmZKYUV0bjZ1cWdla0pxYWs3dDdRVVprcURqNWdyVU1C0gGzAUFVX3lxTE5UcDdUckFWV2c4YnlhZTY2akZkQ2w0TjJjM25Ga2F0RXZmcF9yQVlvYk8yTGVPUkpWWFZRZXJfZnpYUDVTTmFGRk16dlRCQk41SzdYX25LQldORVRjb0hVWTRIMk8xS0YwRW1RMkdxWktyVkpQRFRkRk5GVnRVTWFobnNMWDliWTBFcXRDNmZjRG5UR3lfenVPcVA2TzZQZ2V5ZDlJNVVfWW56ZjZhVWFtRkJv?oc=5",
-    "title": "Karur exporters welcome Tamil Nadu Budget",
-    "title_ta": "",
-    "summary": "Karur exporters welcome Tamil Nadu Budget",
-    "summary_ta": "",
-    "date": "August 5, 2026"
   },
   {
     "id": "kar-aug8-001",
@@ -58,17 +58,5 @@
     "summary": "Tamil Nadu BJP chief criticizes CM Vijay over Karur tragedy response",
     "summary_ta": "",
     "date": "August 6, 2026"
-  },
-  {
-    "id": "kar-aug5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUczY192UHhZRDFQSFRJQWh1b3Eyal92bW15OFVETzVNbUxNNVBqSFl5T3NQVUpVMXU4cm5oM0d0aV92ak9VVjZKVGd1czVPbW04NUdmQlRWUklLVlV6SkxtNE5QMWUtamx3OWQzdzRKaDFrYUVwX2NxcE04bmpDUDRLYXdJRGwwb1Rhb2tRQVJqN3RYYjg2TG9iRU9FYjBkcjRrOEtxWXo?oc=5",
-    "title": "Tamil Nadu CM Vijay grants jobs to 32 families of Karur stampede victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay grants jobs to 32 families of Karur stampede victims",
-    "summary_ta": "",
-    "date": "August 5, 2026"
   }
 ]
