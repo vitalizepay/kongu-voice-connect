@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-aug10-001",
+    "id": "dha-aug13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3UtdGR0M1VQNEJLUmhGNFYtMjJvbm1yaGZkTFZVUm1BUzRUS3M0M3ItREFqU01JelBEWXdRUUxlaXBDOUdoSmswT2drMkpwZml0LUhSRkl5Wkl1Ui1OV0hoeUdRbnh6Q0hfaUJ3dUs4RG9Pc3lzTEF3YzAyQkVTR2xObjFfaTBpWFRlQ3FRZEdGRzlhRVJCYTdlNmdyVjBzSl9VV3l6bmxPQ2owV09vWkswOFlidnJMQ09oMjV6SlFKNHBjSjR6eXRmX19VM1kxR2hj0gHYAUFVX3lxTE9kc2pWcHdlQTRnQkIxM1NsOFZYMDNSZ1ZaZDlzQ3J1S3VxcXdxZXZpbVJGbXlLOXVaOEoyRHBzTWRKaEpkV201NHRpSTVIMFRMNzI0NVd2Q0M2d3k0WjFUS2VWZjRnRWh0VDdSRFV1VnMyVTZ2NHViOHhKWEdNU0h5NDUtcUJjaWRoeTN0bmgwalJxWDk3dTV4bV9rWVAwYnM3Ukl0QmliLUlMSE5rZGt1bDVSRGtId0Q3UzBUUDdvaTQxWUxUT3RUNVdsNVZWRnVPd2VjckFOUg?oc=5",
+    "title": "Train Mishap at Dharmapuri Station Kills Child, Father Suffers Fracture",
+    "title_ta": "",
+    "summary": "Train Mishap at Dharmapuri Station Kills Child, Father Suffers Fracture",
+    "summary_ta": "",
+    "date": "August 13, 2026"
+  },
+  {
+    "id": "dha-aug10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPazZZZFhIejF5SXFrRzh6Wm9LMjhZZ1VoVmlxejlHQW05QlFtNE1WUXRRdEJzUC1TN0JuX2lmRmpQaUV6dHk4UTNjTTFGQzlLSDlnYzhwYmhBeXlSWGlaaEFGY1FtSzFQeEdVRmk3VUpPYlI4bDhnamlwZmtOeVVoaTZQbmpaQzkwa0pfNU9mMEZKdkRWZ0ppUGxUTWJ1ZS1ibUNodnI0ci00N3owRlFKY1daRTF1eW1WYlJZcEdlS3NPN1hLRkJ4UVo0bEpNOGZpOGVVQlJFUjF3bVnSAdsBQVVfeXFMT2s2WWRYSHoxeUlxa0c4elpvSzI4WWdVaFZpcXo5R0FtOUJRbTRNVlF0UXRCc1AtUzdCbl9pZkZqUGlFenR5OFEzY00xRkM5S0g5Z2M4cGJoQXl5UlhpWmhBRmNRbUsxUHhHVUZpN1VKT2JSOGw4Z2ppcGZrTnlVaGk2UG5qWkM5MGtKXzVPZjBGSnZEVmdKaVBsVE1idWUtYm1DaHZyNHItNDd6MEZRSmNXWkUxdXltVmJSWXBHZUtzTzdYS0ZCeFFaNGxKTThmaThlVUJSRVIxd21Z?oc=5",
     "title": "Farmers urge TN government to declare Dharmapuri as drought-hit region",
@@ -22,29 +34,5 @@
     "summary": "Dharmapuri residents seek full-time post office at new collectorate",
     "summary_ta": "",
     "date": "August 7, 2026"
-  },
-  {
-    "id": "dha-aug5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTljWmxuc3p1V29xbFhuZk02ZXJlcGZkdExpSmhwREt0aXJ6blF3eUFBWFk5QXJBdk9weUpvVG1pU0UtSUxNMmRfbk93NUFlOHlSbDVUU1ZJU05lT0FLR3gtVjdwYWhqeTNQMWxSbG1jQ1N4UGNnd0FrN3RKSlkwMWE1c3V0YnNiNTE5SlV2RXF6clRKaTBPbHRYLXBuZ2szbXk3TTJJUmpYS1BQ?oc=5",
-    "title": "TN plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
-    "title_ta": "",
-    "summary": "TN plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
-    "summary_ta": "",
-    "date": "August 5, 2026"
-  },
-  {
-    "id": "dha-aug5-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc3dlVlhleGlTU0oyaEdFdVRpdERQQlNxS21XMzNOemRON0xoT0EwRGNhdjhMcWFWZldtdnp0OWNxQ1BJVkZEN2p4eE5KTUtEZ1pVUlZTOS1rTG9qRnlnSDRoQ05GSXA2bWVhLWZYSmNENTVkQU1JaFJ3LWF3TGxkZGs3dVZNay0zc0QxTDROeXRlbDFLRDZLSWxIeU9kNmk3Q2c4bDJic0xQTEpwVFo5YW1PR1ZIWXF3WGZnT2E3TWVmWFNWdlpFY0RPZ3JhNm1ES1RBODhrMXVCTGpOWFE4adIB4AFBVV95cUxNc3dlVlhleGlTU0oyaEdFdVRpdERQQlNxS21XMzNOemRON0xoT0EwRGNhdjhMcWFWZldtdnp0OWNxQ1BJVkZEN2p4eE5KTUtEZ1pVUlZTOS1rTG9qRnlnSDRoQ05GSXA2bWVhLWZYSmNENTVkQU1JaFJ3LWF3TGxkZGs3dVZNay0zc0QxTDROeXRlbDFLRDZLSWxIeU9kNmk3Q2c4bDJic0xQTEpwVFo5YW1PR1ZIWXF3WGZnT2E3TWVmWFNWdlpFY0RPZ3JhNm1ES1RBODhrMXVCTGpOWFE4aQ?oc=5",
-    "title": "Tamil Nadu plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
-    "title_ta": "",
-    "summary": "Tamil Nadu plans mango industrial corridor in Dharmapuri-Krishnagiri; 5 processing parks proposed",
-    "summary_ta": "",
-    "date": "August 5, 2026"
   }
 ]
