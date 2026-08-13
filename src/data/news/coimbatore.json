@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug12-001",
+    "id": "coi-aug13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVWT3E4Y241LUFPSEVJSGxfY29XQVpHM0lxWXZmWWpOUVdIejktaEZBSkpRUnVjbk5nYWRnbG55ZW1NMVVoWldLdnJGM2RTV0ptdjBrZ1lhSWwxYy1OX0dSZExJUU5hUExiODEyMERqTlkxX21SZjIwQjZpbHhYd05QYkFtT2VKcXNkeXBaanh3b0pkVGJzNDk3STBjaDZlMGZIcWx2dkRCQy1yUVNhazBodTgwcjVZTFHSAccBQVVfeXFMUEFvYXUtRU1MbllYYnhtN1JhczY4cVJMSXdEeEtSRUdlSWlVNW5pQ0VRcGxGRFR4UEZrcnBMcVB2SlRJUmFkYTRxWnVkMnRMbXA0cWl4SjJraG5PdzV6N0VNdENkUWZOdVhGcE1DMk45WFAwN29QWDBxMm9VTTdhNDNvZ1A0eFFzRHA5X1BoZlBuVzVPYmhXWWFWRGVqZ21mV0Y0R3c4WUJ2WEVXYnRieDFwS3BuOGJqZVBHVkpwUnpVSGo4TzJpdw?oc=5",
+    "title": "Tamil Nadu: 3 more students arrested in Coimbatore engineering student murder case",
+    "title_ta": "",
+    "summary": "Tamil Nadu: 3 more students arrested in Coimbatore engineering student murder case",
+    "summary_ta": "",
+    "date": "August 13, 2026"
+  },
+  {
+    "id": "coi-aug12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWMzSU9SX3Fxc3NtNHFzTW51Qnk4UTBJTEROVXhOWTIyZFNQY2dmaWx3bTJDQW5ubzh2QjJvZmxxLUY1MG1Wd1dSMlhUZHlPUUtpVXV1QVk0MC1oMWJEZ3JTSU01aXA4dURGTk5KLWhOZzR6RENSSnNzaTBhYVVhYlNqNzk2U0R0TFNfTUk5aHUwV3JxVWY0ekNmWFJDbTZpby1LMUQ3MHhmeFpOQTRwczZpM0l4cXNGZnFrU2NNUGdiYWFhaE1MamF6VGZfXzNuRkRrNVQ3b1Z1R2phNTZ1bGNzTS1EcW10YUFZTTI5RGlVQdIB-AFBVV95cUxNcXIySkxqQmhnRnM5ZFpxeGhTMGo0b0syMHBJQVdWRkI3RG1oUTVVQXlfWXVqNndncG1CY1VrVnVLQWxVR0JxSElVVGxaaW5wbGxjQ19IWUxmVW1pWDcwWC1mdWU3ZXhBMXR1QmtmdkM5bGVOdVBVcHhjQmkxejVnU19LeVZ0cW1OUnhiWGZsSGtIOGZPMERVZ1Nndk1zU2tUZlVMVzdKRVBmX0JpNVJFSW9TU05wcmtncktQZjVIUlFOTHNheDZ4eU1jZzV4cmkwZnRRc3F6RjJabzlSX1VJaGNCc0s0dkUtNUhhVFFWSTJsR0tTMndaSg?oc=5",
     "title": "Coimbatore engineering student's murder: Six arrested, search on for over 10 persons",
@@ -130,17 +142,5 @@
     "summary": "Dhanush expands fan clubs constituency-wise in Coimbatore, reigniting rumours of him entering politi",
     "summary_ta": "",
     "date": "August 11, 2026"
-  },
-  {
-    "id": "coi-aug8-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "August 8, 2026"
   }
 ]
