@@ -1,8 +1,32 @@
 [
   {
-    "id": "nam-aug10-001",
+    "id": "nam-aug14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEpNUjk5SUEzR3dzbVRPMThTdTFlUmNUbVBaS3Q0d1hjM0ZkVjdZRmktNDI0cnhneHNYNVB5U2I3el9nSWNqN28tSGJoaElTUm41cUROVWV6LWg3cEk0VllvNjZvLURDc3YxR3Fnb05JWWowaTczdXI1emZmUnJkVTZsVGR1WkdxQWVoVlE1WWpUZEtpeEJGSDJGZm5rc2ZpaTVIVmJrN0dMVmNxdDRPYjFVei03WlFuNmRSdNIBwwFBVV95cUxOdkVsMjcyRGtTUVFZVWd6ek5sN1lrdVFoYjZRazVXd0lDbG1paERpLW9VMXduTndFQnFJTklxSVE1dHhoUHZEbmZoQmtFTXJtU1BRMXB1NEhWUDcwc2hJeWJoVE1yMHNmWUUzeXd4dGNrLWF5RmFxNlQ5dHpDTTVmNElCYlVRbmZlYkhsY2RFZWJiNHktamVGVTdjdjZmOVJfNTgzdW5Zem55eUxMa21XSVE5bVB6djhSbUVrbzBTUnlBNW8?oc=5",
+    "title": "Supreme Court win for Vijay over jobs for Tamil Nadu stampede victims",
+    "title_ta": "",
+    "summary": "Supreme Court win for Vijay over jobs for Tamil Nadu stampede victims",
+    "summary_ta": "",
+    "date": "August 14, 2026"
+  },
+  {
+    "id": "nam-aug12-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWRlTVFoNXU5Z3NWYXlWNE1nSlNtZW1TdHFuLWlqVldDT0JYU2Nvdm5NQXdUOE9LX2x1VzBzOHZwSHJreTk2OHRuVXlxSmlMdDkwVEkwQlVZNG1zMkkzN2RvUmg1VEM5TFNHMWZxb2xzVThRUmdMRXNicEtnbnRCdUxhSW50eEMyN2dYSGJtWHhIX3JqSWtwaXdYcTVUamVya1FLajUtcDNTdw?oc=5",
+    "title": "From Namakkal to Bombay House: Journey of Tata Sons Chairman N Chandrasekaran",
+    "title_ta": "",
+    "summary": "From Namakkal to Bombay House: Journey of Tata Sons Chairman N Chandrasekaran",
+    "summary_ta": "",
+    "date": "August 12, 2026"
+  },
+  {
+    "id": "nam-aug10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU1IZnd4LUNYY0E5SzJMRXByUlpWVFRtS2RVNVJSbF9QS3VOQ2dfckFTU3pPbFZLcHR3T2NjLWUwUmJBUW1nUUcxNjJHaFJ1NTRWMXBhelFEdHhwTU9OSFZTRFBKdTZSLWJtOTlzR1RYbXA1bldwZE9abjNjNEpYMWZLZkUzM3g5ZjdiUVBGUGxYUHlYbVU0UUtyclMwTlFjRGhfTlF5dUg2MThINnByWFNBb3ZXMWtNUTdqdm9xdlZCNklnTkHSAcwBQVVfeXFMTUdLNzd2QTFZZng0U2lKVUg0VVRFdW9aQjdFNTFRaGZYRy00ZmkwcjJCUm5VTm9iWThMQlAtb3RmUUdhWDQ1ZHVGVFFrNFNiX0Y1dWQ0ZmhkTW5qU2hSdjhYRnlxQzZjS0cwYnBudXppajB2T2YycUxMcVJiTzE0ZkQ0WUZ6YWh5ZHFGeE1GRW5kTHJiVEp0cUd6b3FWcm81NEtBaHdLaXROSXlOZ1gzUUNhNl95ZkNndVc2TDVkSEc2QVRJSEZBaWpwaDlO?oc=5",
     "title": "Grievances redress day held in Salem and Namakkal districts",
@@ -10,29 +34,5 @@
     "summary": "Grievances redress day held in Salem and Namakkal districts",
     "summary_ta": "",
     "date": "August 10, 2026"
-  },
-  {
-    "id": "nam-aug5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0JUb1R4V2xYTTZSSFdmYVJIb1hXdEZGb2N4Y1hYMmN2SGxxeU5LSFlURXpkWXF5NEVWaFJEVVlIbWRfX1F2RU54UEtCT3pJa3AyWmNtS0xOTE43U0ZJMEUwMGx5cTZ0VlB2OVhjNzJ1OHJESzJVYXg3VG1YN1RGa0pGVmtaYU1kcEFubkpyUVV1MUR2ZEZ1MVhiRFphNC1wZHJ6TWFTRTAzQzlTVDkzaEVIa082d3MxYWZYS2RPRzU2M0Q3TFhoa0VsTXByTVpXOS1oVkxaQkNOekVpN1JzZXhaLVI1WDlFSWUtaVp30gH0AUFVX3lxTE5WQ2M4eTJKNFVWV2RFUzc0cTByZVFEc0stSTJuZF9rcDNtMkZ3WEFxSG9ldXRuSm96MFNfVzZzNENxU0o2SE1lMkYxWFp6OUxRUHZ0OTB0czFiM0lFcFJrOEZXanZGSF85dlcySVp6ZW9YZFl3a0NBYUFvcGVWUUxuTHFFUVd6aFRUalhtb3JYTUozMHZSVS01ZkYxam5zeWluMzBMWnJwWXlsSUx5eUhEMGJTVTJ6ZmJSVk9yWW1VZmcwa2xWRGRjVFo5dW41YW54bkRlNUlfSmZDcVFnaWpFX0l6S0FSZDk0VVRVdW9hWGdNWUI?oc=5",
-    "title": "History of Namakkal Kavignar Maaligai that will house Tamil Nadu CM Vijay’s new office",
-    "title_ta": "",
-    "summary": "History of Namakkal Kavignar Maaligai that will house Tamil Nadu CM Vijay’s new office",
-    "summary_ta": "",
-    "date": "August 5, 2026"
-  },
-  {
-    "id": "nam-aug5-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd0JUb1R4V2xYTTZSSFdmYVJIb1hXdEZGb2N4Y1hYMmN2SGxxeU5LSFlURXpkWXF5NEVWaFJEVVlIbWRfX1F2RU54UEtCT3pJa3AyWmNtS0xOTE43U0ZJMEUwMGx5cTZ0VlB2OVhjNzJ1OHJESzJVYXg3VG1YN1RGa0pGVmtaYU1kcEFubkpyUVV1MUR2ZEZ1MVhiRFphNC1wZHJ6TWFTRTAzQzlTVDkzaEVIa082d3MxYWZYS2RPRzU2M0Q3TFhoa0VsTXByTVpXOS1oVkxaQkNOekVpN1JzZXhaLVI1WDlFSWUtaVp30gH0AUFVX3lxTE5WQ2M4eTJKNFVWV2RFUzc0cTByZVFEc0stSTJuZF9rcDNtMkZ3WEFxSG9ldXRuSm96MFNfVzZzNENxU0o2SE1lMkYxWFp6OUxRUHZ0OTB0czFiM0lFcFJrOEZXanZGSF85dlcySVp6ZW9YZFl3a0NBYUFvcGVWUUxuTHFFUVd6aFRUalhtb3JYTUozMHZSVS01ZkYxam5zeWluMzBMWnJwWXlsSUx5eUhEMGJTVTJ6ZmJSVk9yWW1VZmcwa2xWRGRjVFo5dW41YW54bkRlNUlfSmZDcVFnaWpFX0l6S0FSZDk0VVRVdW9hWGdNWUI?oc=5",
-    "title": "A history of Namakkal Kavignar Maaligai that will house Tamil Nadu CM Vijay’s new office",
-    "title_ta": "",
-    "summary": "A history of Namakkal Kavignar Maaligai that will house Tamil Nadu CM Vijay’s new office",
-    "summary_ta": "",
-    "date": "August 5, 2026"
   }
 ]
