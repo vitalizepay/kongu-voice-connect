@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug14-003",
+    "id": "coi-aug13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkRtMVg4Sm5KTjhvejhSVFEzMnR4eHpuUE0wQVdSdWpmMGFGcUxPRXh2UXU2ZnlFMDBtLW1KdERxbjBvY1VSejA0LWx1SXhjUWV0RUw2UHJlazJyN1cweGtld1hsZGdVQmFtSmtlTWxJR0h5RXhYMFd5TF9Ea0RfZldZb05TbEIzN25sb2dTM3hQWHRMUHZQZ3NCR0xZX1hpYlp6T1B4TFBoQ1BXdlN0TTZfTW5EV29iT3Q1UdIBwwFBVV95cUxPR1pxdDY2MjN1Zllfc21EVXVBckVrRG5XZVB5Y3JHOUI1MjVGWkpOS281TnNZQXdudnR0c3hvWkxzeW96WHlXcktMTEpVLUU0UVZyT0ItREVIeDhEbFlOT2VONXBaUFM5OW9YZDNkZ1JJUmljamZPUEhBbWVyNmZBRkt2TWpjVnRMb3V1T0dVVVdYclZneHktN0ROdEV1UlFNd0d0bGYzVFQ3WWtzRi1EQW5yTWpvenJjZkxJSUQ3RlNPWTg?oc=5",
+    "title": "Two women mowed down by speeding train in Coimbatore",
+    "title_ta": "",
+    "summary": "Two women mowed down by speeding train in Coimbatore",
+    "summary_ta": "",
+    "date": "August 13, 2026"
+  },
+  {
+    "id": "coi-aug14-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2ZfS1RvSUtQWkZ5UVFHWlJoWVhGX2Z2bmhlOEl2ams4c2xvcnlkb0V0QkZMQmJFTHhLcFdjcDdSSDZZU04tckt1bzJPc3FlUkFwV1RISEtrM21EYVRYSGhrRzhMcEtVTWNLMF9UMzdJS0d5dXduV0M5ak9iZ2dGZVFHbEpGdVVYOXlLMWtfWWhUS1RjMEhHMjVJMXRhVGVsOXdYelpNQVhkM3U4RGNic2s3NmN4RlRMVGhPdU9KRVpma0JMRmROZ0t30gHMAUFVX3lxTE5fbS1id0dwYjJLVndRVWo4TG1fSlV3cVFZNWpNWEZFT3IwZHpUN0pYRDlvb0wweHYtQmJyT2I0dlFGdjlmWUZqZ09zVTBUV2hBdTRVY3MxTE1ua2Q4SGJXWnd1RDlETjBBeXM1ZVN0T0tCaFFVWVpsSDF3aXJIdGtyTmhhRUQ5bXhxVURSdmVhejZmZmhETjZXQ2FPRjF6S011c01uMktYajViTWROcWVQVWVCdExqUlNoZmZrZUtkRXl2STY3bGZLYXBlQQ?oc=5",
     "title": "TN student's murder linked to exposing campus drug trafficking",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu Power Cut Today: Coimbatore, Mettur, Palladam, Pudukkottai Among Areas To Be Affected",
     "title_ta": "",
     "summary": "Tamil Nadu Power Cut Today: Coimbatore, Mettur, Palladam, Pudukkottai Among Areas To Be Affected",
-    "summary_ta": "",
-    "date": "August 12, 2026"
-  },
-  {
-    "id": "coi-aug12-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRWlHUnktZ0hmZFZEMmRNOFZuZlJ5cFpOb0p1a0owMGJHaGJrcTlmelJ2SjB0LWo3WC1sa3pQQ1gtN21fMV8zeWJBLXpLTUQ1MUg4VUJVbHdhWjJWdmQzZDdMN0F2RXBscW0tYjh1RnUwbklZRXNUSXZNZTVhQUJqNlJkOC0wa0k3YjR6S3BHMXpUOWZqLU9SWWl3X0hPdGRUbVpCZmZPa19TLTZkdVpfTDlGODkzWXJkU2I3MnA1OFBTT0I2MEJnRnJycXE4ekRsVjA5LXVqbTE4RTBBdW04TmtDdmpCX3VQWEJtVUpQdTl3cG1QV1BJd0xwcndPZ2vSAYwCQVVfeXFMUEgtYkhOSnhxeG04QUkwUHp6S3F5MFBTWmJ4bEhwN3htWE50cHFXWXhqbWpWZUgxNlJseHBxMUxKLXBOUGpJX2pjblZabGVzRzhUX09ZalZTNG1SdUVJOXhiQXVLbHdvdWdJSnN1WkhfdVpiSUdpc3I3VnJDTXo2LWNSVFhKVEJ2bTZ1bEhlUmxDYUhHVXRzS3ZIWUIwNUNST3h0MmJQUUJPLTNnZDNIR0tyR1FfOVFUYnNUZXhlMW5yTzUyUEgtZHIwSUdkWVZOWk9lTWo0R0Etb0x4dTJzMGVqRWZFb0tPS1M5bk9sSXBlcG9IRVF1VlFsdzB0NUdMczJsaUV3Q2VKcWJFRg?oc=5",
-    "title": "Engineering student beaten to death after mobile phone snatching clash in Coimbatore; five students ",
-    "title_ta": "",
-    "summary": "Engineering student beaten to death after mobile phone snatching clash in Coimbatore; five students ",
     "summary_ta": "",
     "date": "August 12, 2026"
   }
