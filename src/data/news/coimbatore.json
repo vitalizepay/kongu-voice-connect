@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug13-001",
+    "id": "coi-aug15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVXFMU0xMTGhxei1kdmhUZUtvbkZSc05SRkY2YUNkaUtEUFJVWmxNcmtzQjgtUFA5NFROS2JCZm0tY2NrUGFsa254aHQyejhobFNibGttTWpESG5IZjhvd3hLSldYR01Ca09mVUl4Y2QyNW9aTDBCT0Fzd3A3WXluU2RUVFVCcTU5NmU3X1NRNjdNek40aC02MHpENFlULXlucGk0TTFJUUlsZHlRZEJ6eTllTnA2dzdpc012Tk9zQS1nV3czOE1KS0FWai1zdVkzWktaU2l6Rm9GaWRrR2tuWWl0d3R3XzJkWE5zLUlHZk1SeXPSAYACQVVfeXFMT1BRdTFINWtkN3hGZmZSNjJ3VHYwclhob1VXWTN4T04yQ3gxRHhJeWZuZG5nZXQ0Vjd4UTlja3Nxbm1TMkFEQ1UxOXpHRGh6RWxnYWFTVE1SNkw1cGJFanZ1SXFoanNvMUowLUFvU0tIbXp2UnJEOXE1NGVxOGxXZGNPVVRIaUNzWHNmUldMWlliTFNJT1A2SHlHMHRQVzVFejdPcEdsYUw2UDNhT3VYU3J6aU8yME1yNW9vbGI2dUhSQ0xuWXR2TmRmTlFHb2lNOUtIWGN5MGhPbG5KUXNoMkVNRVRSN0FjQm5nS192Rm5TWml6dFMtR19CWGpRS2w3ZQ?oc=5",
+    "title": "Police arrest one more suspect in Coimbatore engineering student murder, invoke SC/ST Act provisions",
+    "title_ta": "",
+    "summary": "Police arrest one more suspect in Coimbatore engineering student murder, invoke SC/ST Act provisions",
+    "summary_ta": "",
+    "date": "August 15, 2026"
+  },
+  {
+    "id": "coi-aug13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkRtMVg4Sm5KTjhvejhSVFEzMnR4eHpuUE0wQVdSdWpmMGFGcUxPRXh2UXU2ZnlFMDBtLW1KdERxbjBvY1VSejA0LWx1SXhjUWV0RUw2UHJlazJyN1cweGtld1hsZGdVQmFtSmtlTWxJR0h5RXhYMFd5TF9Ea0RfZldZb05TbEIzN25sb2dTM3hQWHRMUHZQZ3NCR0xZX1hpYlp6T1B4TFBoQ1BXdlN0TTZfTW5EV29iT3Q1UdIBwwFBVV95cUxPR1pxdDY2MjN1Zllfc21EVXVBckVrRG5XZVB5Y3JHOUI1MjVGWkpOS281TnNZQXdudnR0c3hvWkxzeW96WHlXcktMTEpVLUU0UVZyT0ItREVIeDhEbFlOT2VONXBaUFM5OW9YZDNkZ1JJUmljamZPUEhBbWVyNmZBRkt2TWpjVnRMb3V1T0dVVVdYclZneHktN0ROdEV1UlFNd0d0bGYzVFQ3WWtzRi1EQW5yTWpvenJjZkxJSUQ3RlNPWTg?oc=5",
     "title": "Two women mowed down by speeding train in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu: Engineering student beaten to death; five students held",
     "title_ta": "",
     "summary": "Tamil Nadu: Engineering student beaten to death; five students held",
-    "summary_ta": "",
-    "date": "August 12, 2026"
-  },
-  {
-    "id": "coi-aug12-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORDlwZlg3V2UwcWZuaU1ZclltLWRpbms1anRnTWk1cXZ6VXlyYlNqRUFPRncyUWFqTXBkYWk0MDJLU1FMRFRyUDhoU1Nvak5SVWduQVR4RlU2WmRkajFDWDVJY2JGWUk0M3BDajc5VGlXdmx6cTBHdEI0WFlaZnFETTJQeDZZc1NQVU43YVBDTFVMSldHUk0wX0tsVFVhUXZoN1E5NlpDdUY1Xy1rd3lwWEl2dXA1WGc2OFpiellzZVotc1FPeTBOQ3BaLXFLbk02bEJ2cDZnRkJYTl9aM2p3SGsyMHZ6Z3R4YmhFNlhtREhmOTJwVG52d3BsQdIBgAJBVV95cUxNNWpFOUIxN05IMzJOd0JQVjJSLVNzSmc1NkVRU3UyUE1QWkItVHRIWXFqR2xhaDlnMV9VeXg4TFRQTEQyMVFKWEFTaEd2NmhKVlk4em92a1hxRnB4Njl6RHZMUF8wdjZyRDBIamJlanltSTlnM29NdVNfQWlzV0dYTG9EQXllT1ptT1ZrUkFlU18wMWhuYkxZS1BGUHJsQ2RRQ090WjY3MEVXVGJ6cGk3RE9Qbnh3eXRtc1E0a3F4akFvam9MUkt2Yk5Hc3pnck5KR2M5elBsal84bkxmR1F5YVY2cXZSSHA2VW82cXltNnBEeFZqNms3MEpDNzJ1OWg1?oc=5",
-    "title": "Tamil Nadu Power Cut Today: Coimbatore, Mettur, Palladam, Pudukkottai Among Areas To Be Affected",
-    "title_ta": "",
-    "summary": "Tamil Nadu Power Cut Today: Coimbatore, Mettur, Palladam, Pudukkottai Among Areas To Be Affected",
     "summary_ta": "",
     "date": "August 12, 2026"
   }
