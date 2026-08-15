@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug12-001",
+    "id": "ero-aug15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWc1eGlEeWFUR25QMUo5WG10YmRESnZxWUFtZzdMcDBUdy1sZzdzVjNLcGd5bFNSLXBWRncxczFPaEVXU2NiQzAwdHNaV3lZNmpVVzM4ZThiT0xLOGkzR19DNVVJRnBsRWtKLWRnVnJ6bWhKN2hxNThBRVgxal9OZFFBS29GSkJmeUQ3WHNhcTJSSU5JN0FwdUNtUEFpaW05d3RsTjA4M0NLZXdhU2FjNTFDMm16SC05MXRxUFVyckdIWUJhckdlVmx30gHQAUFVX3lxTE9aSUNOWV9GOEhFdlotQzlMNWE1NnNMMHJhRmYzOVBhTXNwVWRzWnU4eDVFZkdaYmlYMGU4YmV5T29ITkJ5aWtFeVRpUDNhWkthRUNUZkFYZXd4eC1INndyazJmV1EzNnJHTEhaS1FDdWYzMUxES21BRkZMdU1SV1YtZGgwVndxMTAtb3Etd2RrMEFEdFFST1FNX2NZNzdwUXR2VG12eVU0S2JZVk9OQzZsS2dFYk8zV1o3eExfQ0VvZXY3MlM0b1E3dElqbDluUXE?oc=5",
+    "title": "Monitoring officer inspects development works in Erode district",
+    "title_ta": "",
+    "summary": "Monitoring officer inspects development works in Erode district",
+    "summary_ta": "",
+    "date": "August 15, 2026"
+  },
+  {
+    "id": "ero-aug12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYzV4UENwRHVKOEtyeEROb0YwRUpNYUJ1X2F3RDg2ZV9EMmJvck5CQTd1WDlEa0RUZkN6QkhZcVd5REVpeC1mdFFwYUctOWdZMUU5aGw2TmJVdlRqd1c4WGViSEw0UzMzT0FzUy1BNWZMcTZjZEJ3WjltdloxQS0zejJpN1cwZXdJT1RjNWVqU2xhdklFd1hZNndVdWtFcWpxYTdqVFp3bi1kdzBtWVJva3daYTN0cldNZUtGNmNBMzdwSTh6ODNfMC1CLTRXZ9IB1AFBVV95cUxNbjhoeEpXRmVhaGJUQzhIT2dWclJPNnRYcTNGLUE4VHNfX1pZSEp2VnhUR3NIV296T0F5Z3BYRmEzYWpRMUdDQmdiV1ZMZUprLUtJYlV1bG9KZmFoOE9uekE3MlVrek1RdTRvNzhLYW83UlZOZ0hpbWhWa21aWDhTX09XTFI5SzVLekxkb1pVT3p0d28xQXUtc1Z4NThsUjcxeUtKR3VpWEZxRnpOQm1DbGoxdlBtQkdqLUVjcnFQYWFNQ0FCM0htTldsMWhTOFdxR2FHRg?oc=5",
     "title": "Canara Bank scholarship distributed to 312 girl students in Erode",
@@ -72,18 +84,6 @@
     "date": "August 10, 2026"
   },
   {
-    "id": "ero-aug7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTJCY2Y3TExIRmd5R0RoZTN6QTVoQkRKUkVVYlBhc3Ywa3N1VDhUWHMwN2NDZnlwVWdBekhTZXNtMVpKU3ZTZnoxT2ZiekUtalhKSWVrWjBFSVJ0V2tXcjhzM1FEMFBTQVpabzBpT2c4ZURCV0x1YmxtMnRzZmdCejZHbUFFcjFETXlyNHJxZ3p5eXF3UHBDdWZZVTVob3JpT2MtdTFnZ1NYZVBLRlVmV3U0OHNMZEFqbkHSAcABQVVfeXFMTndmbFFOTU9hMGtUem5zSHpVM1NpRjNmT0ZvZDFVQVc3MzNzZk9sRnVpbmFFNUEtZFljM0RfTzJxTmkxYW1CYk5jalNacWM3MTNMYTdxYXg2Z2VBNmpqTmlWMjlkai1teTBDTV90blBTTG42RUJoR3EtdmZQQ3k1bVZZVExMbjdXT1FrS1FqNWR1RHRaRU1SMF9pNF84N2lFdE9TU1N2aTBBUkE1UlBwNUZtdlRBZmRKd3pSYkRjRHZN?oc=5",
-    "title": "Gram Sabha meetings on August 15 in Erode district",
-    "title_ta": "",
-    "summary": "Gram Sabha meetings on August 15 in Erode district",
-    "summary_ta": "",
-    "date": "August 7, 2026"
-  },
-  {
     "id": "ero-aug9-001",
     "category": "News",
     "featured": false,
@@ -94,17 +94,5 @@
     "summary": "Farmer trampled to death in Erode; man-animal conflict back in focus",
     "summary_ta": "",
     "date": "August 9, 2026"
-  },
-  {
-    "id": "ero-aug8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEFmMkpUV1FZR3R2WUNzV1RTSEp3X01ubExOVjRlWWQ1cENPLXFHOUxKaklJT2JRdmFfZFFFczFIdmpTQ1k1eW5DT1NuT0p3b0c5T2lEVDRQdkItLTlQU2F4TG10UTBiWE5GdTFsWmdzcVBzcFJybl9qVXpTVnNqcTNPMUR6T1BicVcyZW5SRXZKXzRBXzlYN2RZNHNjd0ZGbnJhSDV6OEg5Uk9qNjl4My1FMFZYdFR2VWtzSkl3X3pFRFVjUWIyS9IByAFBVV95cUxNZEFmMkpUV1FZR3R2WUNzV1RTSEp3X01ubExOVjRlWWQ1cENPLXFHOUxKaklJT2JRdmFfZFFFczFIdmpTQ1k1eW5DT1NuT0p3b0c5T2lEVDRQdkItLTlQU2F4TG10UTBiWE5GdTFsWmdzcVBzcFJybl9qVXpTVnNqcTNPMUR6T1BicVcyZW5SRXZKXzRBXzlYN2RZNHNjd0ZGbnJhSDV6OEg5Uk9qNjl4My1FMFZYdFR2VWtzSkl3X3pFRFVjUWIySw?oc=5",
-    "title": "Erode schools amongst nine in TN, selected for SHVR award",
-    "title_ta": "",
-    "summary": "Erode schools amongst nine in TN, selected for SHVR award",
-    "summary_ta": "",
-    "date": "August 8, 2026"
   }
 ]
