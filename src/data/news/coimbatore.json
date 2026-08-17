@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-aug15-003",
+    "id": "coi-aug17-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1JUN3dJdURTNU0tRzQ0d25IOUh1aURYRUFMYVQxVGREYzNraTdibzhLTk9LdXR5MDZ4OGF6SVZMSXBvcEpLSEdsVW5ER0pMaWlsT3VMTjVORm5TalRrSVFTSmptX1VGRFFHV0NONFBNd1BKWURxLTBpMmJKNk1ndmFWLWlUMGpEVGUxM0pLeW5FczEtRzFHQnBJMGZzaXZDdzJOTnJnVEtYWEEw0gG6AUFVX3lxTE5CTUR3N2VPTEdoTWgyQWtwWUF3LUNteGVXNEZQbkpmVjFTT3I4UGJuM2FVTnIxbWw5SWxiVnY4ck4yNHFZTms3TENjdlBKWGNRc1hKLUtYT3Jmbk5IcURJcl85TUs2T2U4SzFSZVA5S1hKTm5HN2NBaDNuZXlCcXNHZHNHY1VWMDJ2QmEyd0JEc0dRSFlPYjRpd19OcjdIR1VpRHh0aW9QN0MtcGhJNS1fX1hfVG9rVE1fQQ?oc=5",
+    "title": "3 ‘poachers’ shot dead in Karnataka believed to have had Coimbatore roots",
+    "title_ta": "",
+    "summary": "3 ‘poachers’ shot dead in Karnataka believed to have had Coimbatore roots",
+    "summary_ta": "",
+    "date": "August 17, 2026"
+  },
+  {
+    "id": "coi-aug14-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaUdWVW01YmRreUxaNEJuYWVpejZvYnFnM2RtSnI5SWpZM1ZaWGtsTDdOdUxfdDB6SmMxUDhyMHdMTmxxM0N5OE4yaEN2WGNpY3AyeDRsMk1CUS1IUjVVRXlpeGRrOUVZdUtpQk52WGlzZzlldVd6LVBxTmtzQTBaMkMxNV9ZMGdiNGxOUm1xaFZWcUMxSXN5VlBUMFZtUzVhX3Y2UkFKUXBnTzB0UnBoZTNWQUhwSHlCYjVWZlFUQlh5VGpVRndaYklXOU5weWtMQUNUbXFR0gHbAUFVX3lxTE9LQWI0d1lPenJ4SHZCVngyNkRldWlDVk5MYVZGR0V5WjdUcjg4eVpTVEdvNjlqWGhnanR5b1owMHJ0RkZrMU83akVNU2w4ZFZHQ3BrTmNLUDNOMGsxNUNtRWxaRVdkWlowcFRhOVJsaU1YSzl5SmozcGc2UHN0N1BZWDVYM2hxVDJLaThTV0d0Q2tlNFQ1Yl9tVkF1Y2gzSzRvS0FDQ2ZrUFg0d3djVHcyTUFodzBsZ2tDb1NqZGphSGs5VEJDOUFjbzdna284eG9CREpobTNtVElPZw?oc=5",
+    "title": "6-year-old killed in road accident in Coimbatore, two arrested",
+    "title_ta": "",
+    "summary": "6-year-old killed in road accident in Coimbatore, two arrested",
+    "summary_ta": "",
+    "date": "August 14, 2026"
+  },
+  {
+    "id": "coi-aug15-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOFozbENtOXdhN05rWU1Bc1RHcXhOZTNFWWhqQmtuWS1RcWxwcWhtTmVJQi1hYUtYcDNiV09EYkhWcjFqbkZkbE1sZ1ljQUlLMXRaajBkUHBNRzZNY0JKVXJqcWMyekZkZDRQbnd2QWd1UGtKMVFRRjUwVjJIaGNvUFJiLUdCdG5NT2tNczA2Q0llYkhMT2x4bXRLQ0h3eXp2UFJfaG1BX1dIcTVESmdlV0ZWTEQxcC01dkpiYTZuMmhiMjhYaWtHQXhYa1pNOGhNazFQUVBtODk2WVNYNnhPV29WdGxSSFRkQldF0gHwAUFVX3lxTE5tZEpzUHhjallaaTlSdTVkWjlNdk9obFI2N0stZFZGcC1zLWRaUVd0QjF1dUV2eVNaYm14M1ZUWFZFRHlSeVFIUGkzMkZQRUZ3QlBOVGRZWlNtRmZzLWFXdUgzQ3VkcVdCbjdQa0tCTDY2cG1TMkI3ZGZ5SFlYRHRLOURST2FnanE2T0VpMjM5djdxYWNBQTJuRkFUTXo1MHplazJiTE9wb3BKX25sUTd4VHZiMTdxeHp4NlN1UmhId0JkeHZ6M2NNTzNsNlZxSS1Cb1JVd2E5MUo0ZjJIZjV2ZHhRdlI2VXNwWXVJQS1qdQ?oc=5",
     "title": "Coimbatore district police arrest man for derogatory posts about Lord Murugan",
@@ -116,30 +140,6 @@
     "title": "Tamil Nadu: 3 more students arrested in Coimbatore engineering student murder case",
     "title_ta": "",
     "summary": "Tamil Nadu: 3 more students arrested in Coimbatore engineering student murder case",
-    "summary_ta": "",
-    "date": "August 13, 2026"
-  },
-  {
-    "id": "coi-aug12-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWMzSU9SX3Fxc3NtNHFzTW51Qnk4UTBJTEROVXhOWTIyZFNQY2dmaWx3bTJDQW5ubzh2QjJvZmxxLUY1MG1Wd1dSMlhUZHlPUUtpVXV1QVk0MC1oMWJEZ3JTSU01aXA4dURGTk5KLWhOZzR6RENSSnNzaTBhYVVhYlNqNzk2U0R0TFNfTUk5aHUwV3JxVWY0ekNmWFJDbTZpby1LMUQ3MHhmeFpOQTRwczZpM0l4cXNGZnFrU2NNUGdiYWFhaE1MamF6VGZfXzNuRkRrNVQ3b1Z1R2phNTZ1bGNzTS1EcW10YUFZTTI5RGlVQdIB-AFBVV95cUxNcXIySkxqQmhnRnM5ZFpxeGhTMGo0b0syMHBJQVdWRkI3RG1oUTVVQXlfWXVqNndncG1CY1VrVnVLQWxVR0JxSElVVGxaaW5wbGxjQ19IWUxmVW1pWDcwWC1mdWU3ZXhBMXR1QmtmdkM5bGVOdVBVcHhjQmkxejVnU19LeVZ0cW1OUnhiWGZsSGtIOGZPMERVZ1Nndk1zU2tUZlVMVzdKRVBmX0JpNVJFSW9TU05wcmtncktQZjVIUlFOTHNheDZ4eU1jZzV4cmkwZnRRc3F6RjJabzlSX1VJaGNCc0s0dkUtNUhhVFFWSTJsR0tTMndaSg?oc=5",
-    "title": "Coimbatore engineering student's murder: Six arrested, search on for over 10 persons",
-    "title_ta": "",
-    "summary": "Coimbatore engineering student's murder: Six arrested, search on for over 10 persons",
-    "summary_ta": "",
-    "date": "August 12, 2026"
-  },
-  {
-    "id": "coi-aug13-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX3ZpV3dBNU1SUEpWdndfZXN6YXd2ZlprTngwNGhiUGRwTUNMaTVUSEVnbWMyUWt4aXJhbVFpMVd2b0VxS2U2LW0waTBOSUxWZHh5MVotWDBIZHExTHc0Q1RfRVZmUjA3eGJzQnk4akhLVEFHaHBEYk40NTZodlJIdDhFcWNBOXhxZHVLNlVpTDc3ZW9xRXR1V0NoNXB3bVhMX1BmZEdMcktJc3RHZW9zYkxsQUl6MmxEbDktU0JDb1lNcUpZUFFIOTU0SnRHQ3RSZnRPaTBEZ2dpWkVMbmluVFJHdlpDZmR0N3ZGMnBB0gH7AUFVX3lxTFBpNVFDWXJncWVzZXJTM0FtMEExanA4WnF6RGozeGFCRVdMQnZEcmRWOWJ1NkNsalJqR04ySTdqUmhlR05GazJ3WGl2VDZaVE9pc0U3Tjl2UnVNb1N4RWR6U1otd0M5Vk9LbWNnelp1SmVOaG1RUjRTSE1IbU5VeldubGN5eFh6amFabzRnU1FhVThsS1NVWGVBSWtKckdsTjJPQkFOUXdnMmVreVppajY5VENPUG0yVUxmc3NZaHJTVVhNUlZvbHJnQ1l1LU03cEJibHpjLU9UTEc0SXpNcGxWZVR0MHVKal9iUFRUQ3gxVGdCNm5XWmE4UmNN?oc=5",
-    "title": "Coimbatore engineering student murder: College hands over details of 15 more students to police",
-    "title_ta": "",
-    "summary": "Coimbatore engineering student murder: College hands over details of 15 more students to police",
     "summary_ta": "",
     "date": "August 13, 2026"
   }
