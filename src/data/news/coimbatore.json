@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug12-005",
+    "id": "coi-aug12-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORDlwZlg3V2UwcWZuaU1ZclltLWRpbms1anRnTWk1cXZ6VXlyYlNqRUFPRncyUWFqTXBkYWk0MDJLU1FMRFRyUDhoU1Nvak5SVWduQVR4RlU2WmRkajFDWDVJY2JGWUk0M3BDajc5VGlXdmx6cTBHdEI0WFlaZnFETTJQeDZZc1NQVU43YVBDTFVMSldHUk0wX0tsVFVhUXZoN1E5NlpDdUY1Xy1rd3lwWEl2dXA1WGc2OFpiellzZVotc1FPeTBOQ3BaLXFLbk02bEJ2cDZnRkJYTl9aM2p3SGsyMHZ6Z3R4YmhFNlhtREhmOTJwVG52d3BsQdIBgAJBVV95cUxNNWpFOUIxN05IMzJOd0JQVjJSLVNzSmc1NkVRU3UyUE1QWkItVHRIWXFqR2xhaDlnMV9VeXg4TFRQTEQyMVFKWEFTaEd2NmhKVlk4em92a1hxRnB4Njl6RHZMUF8wdjZyRDBIamJlanltSTlnM29NdVNfQWlzV0dYTG9EQXllT1ptT1ZrUkFlU18wMWhuYkxZS1BGUHJsQ2RRQ090WjY3MEVXVGJ6cGk3RE9Qbnh3eXRtc1E0a3F4akFvam9MUkt2Yk5Hc3pnck5KR2M5elBsal84bkxmR1F5YVY2cXZSSHA2VW82cXltNnBEeFZqNms3MEpDNzJ1OWg1?oc=5",
+    "title": "Tamil Nadu Power Cut Today: Coimbatore, Mettur, Palladam, Pudukkottai Among Areas To Be Affected",
+    "title_ta": "",
+    "summary": "Tamil Nadu Power Cut Today: Coimbatore, Mettur, Palladam, Pudukkottai Among Areas To Be Affected",
+    "summary_ta": "",
+    "date": "August 12, 2026"
+  },
+  {
+    "id": "coi-aug12-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNEZDVHT1FCaUsyREhnMXRzU01aYTB4Qjh5ZUVWUU5iU3VNcV8zaTMtVnhibFVoSmRJeGFCeng1NHN1SXhTWTNycHAzd1BEQl8xMFFPcGRnSUhJejloZ3Q0cDlXbk1hUm93Qnliek1pQmxoWjZLQ3duQk9iX0REdUw0cm5lbTZJZ09renRQOXBVbkpaV2FTY181MFdiZHB4WGU1bkpDNjlqZ9IBtwFBVV95cUxPRXpkZXE2ZDB2RzNfakNDQ3JidENJMW51dzNBeWh2Ymx0RTZvSU5GbUM2WFl3S2Z5Tks5UU1oWHhJS25jQ3pwRGhVRnBOR3o0QmtJb1pqYUVScUxyVE9haGk1YkFHbHBSTkNtWi1iak9rdnRwc3BuM0tDcTIxVlZZR3dJbmNRb3IzeE9tMnlCQkRDLV9zYXJ3Q1Z5RWlobVBucllZNXl3anBITS1LZzEyZm1rNzVoV1k?oc=5",
     "title": "Tamil Nadu: Engineering student beaten to death; five students held",
@@ -130,17 +142,5 @@
     "summary": "Coimbatore district police arrest man for derogatory posts about Lord Murugan",
     "summary_ta": "",
     "date": "August 15, 2026"
-  },
-  {
-    "id": "coi-aug14-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHZXMS1YM1d3NGd6VTBHSndlRHE2anRTbDJfMktKSVhKb092RFRtbUczQ3MyclNLVzMxamYxM3pvSUFTZWd1cXVZZGs1UERIMGV4RWlaVHM5dWxXaW1DQ1YwTldEeUdtNE5TM0ZXa3M2TXh2aVJZaFFsQkF2OFlhbmd0dTRrc3Q5aHJlOVNSUUotVzRDMFpvM1B0Xzl3TncyN1dub1RjWWpvRmZ1S0c5X1VweHdISXpGWGF6amxzTEpqcGF1REZr0gHOAUFVX3lxTFBGNHdyek8wd1dDdjdkeXBtUW5pMXd1WWx3aE5nZDNlSE5OSDgtU1pTcHhyeVhrTEdrOUVFbmFZLWdBVHFxdzdYYkswMkJtbnlOQ0VOYTVFX3NtcmF6ZzViUkcyZDR5WnZwTkJBX3AzTF9UWHF4YzBURVVJajFWZWdzb0lrU0JhcnJIZ2hmYlU2V2hqMGdiWU5sVUtpeDdYNm1rVWttSmdJYWVCdk9Xb1BYMUgwcDBtYmRKNmEtMEswN2RQeFNOZWozdTBGVEl3?oc=5",
-    "title": "Evidence demands CBI probe into Coimbatore SC youth murder case",
-    "title_ta": "",
-    "summary": "Evidence demands CBI probe into Coimbatore SC youth murder case",
-    "summary_ta": "",
-    "date": "August 14, 2026"
   }
 ]
