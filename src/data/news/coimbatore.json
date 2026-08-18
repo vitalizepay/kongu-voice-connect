@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug16-006",
+    "id": "coi-aug12-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNEZDVHT1FCaUsyREhnMXRzU01aYTB4Qjh5ZUVWUU5iU3VNcV8zaTMtVnhibFVoSmRJeGFCeng1NHN1SXhTWTNycHAzd1BEQl8xMFFPcGRnSUhJejloZ3Q0cDlXbk1hUm93Qnliek1pQmxoWjZLQ3duQk9iX0REdUw0cm5lbTZJZ09renRQOXBVbkpaV2FTY181MFdiZHB4WGU1bkpDNjlqZ9IBtwFBVV95cUxPRXpkZXE2ZDB2RzNfakNDQ3JidENJMW51dzNBeWh2Ymx0RTZvSU5GbUM2WFl3S2Z5Tks5UU1oWHhJS25jQ3pwRGhVRnBOR3o0QmtJb1pqYUVScUxyVE9haGk1YkFHbHBSTkNtWi1iak9rdnRwc3BuM0tDcTIxVlZZR3dJbmNRb3IzeE9tMnlCQkRDLV9zYXJ3Q1Z5RWlobVBucllZNXl3anBITS1LZzEyZm1rNzVoV1k?oc=5",
+    "title": "Tamil Nadu: Engineering student beaten to death; five students held",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Engineering student beaten to death; five students held",
+    "summary_ta": "",
+    "date": "August 12, 2026"
+  },
+  {
+    "id": "coi-aug16-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUJHWDZmZHpxa3NndnhLSVREY1BOVUNIZklScHkwcU1WX3VBSzlSTzNBUDZyb0VPOXdqbF9ZOHVVSlZzSXdtbVc0UHZFeGJWbm5wNUV5ZnZaN29qMEJ6cWZwd3p0ejdiaERYSFhyOUs2VVZxNzQ0QkxhQzRienh2WGZRNmJIaXI5b0k3SGRoV0oyeG1rZlhjdTRBMlFvS3pxdnoxbTBlZUJrblpfTlN1Q3NWOXBJd9IBvAFBVV95cUxOdko1VHFJNmFSNnZXTmVDUVF3QUZqTDJsZ1NpVTdWSG1zYnVrcjE0T0hNbF94dDZZQWZDdjh2ZDBQczc2TWY0X3M5NHFLbWRUcXNmZWFEbzF0eXZzN3BIRXlEZHVEZXNuVFJzY2U2X3A0RWkxTzNhOUptQUdFZENMczhDeFhEenVzdjBBVXVoLVRMZ1YzMGZfZmNwMXY5N1pXSTRBZU9URDJublVOem5tS0Q3aEtyaFVudmUwZA?oc=5",
     "title": "Amuthan murder: 14 students arrested in six days",
@@ -130,17 +142,5 @@
     "summary": "Evidence demands CBI probe into Coimbatore SC youth murder case",
     "summary_ta": "",
     "date": "August 14, 2026"
-  },
-  {
-    "id": "coi-aug15-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUNKRUtEOTlaZzM4a2lSaFVWQWhjbl9jTEI3WmRya0JFZURNX3JIZVhMMndyb0RpbW4wTklrQkVaRGRUTWxKbXVPQVRqUUs5YUgyUFQ1V3RHTG8yNGtmNFpOMF9JRG1ZWU8yNzFxblRXVkgxTGdjTlItUGpFRDhTNjV6azluR3hYbkxSdU92ODhkQzVmcHVqWVdCNEE2WU1PWE9jOVU3bzcteUE1X1I5UkxCdHpIeFo4Q2xHdU1Na9IBxgFBVV95cUxNM0ZvVXdiTnkyWFhtbjhYekhVWGRSR1Q5VGd0WjRHX0hIbkdnRElRMWlfanlOenV5TjVMOFIybUpnb3B5VGlsR3VpTkRLcW9NczEwR3Z1ZVgzRTNON3k2dUJVdjVoZjRaWjAwU3RaTHpDMm5fQTNrSjdHU0ZQUnFsWWxZQ0FqSlBQN2RHWTVPZVU3WmFJd2FGd2dXcXhTc0d0eFV4M2hBY1l5QURrZkNZUExLVHhaa2sxNFRCdHFTM1AxcHZrZFE?oc=5",
-    "title": "Dhanbad-Coimbatore Amrit Bharat Express: Check train number, route, stops and timings",
-    "title_ta": "",
-    "summary": "Dhanbad-Coimbatore Amrit Bharat Express: Check train number, route, stops and timings",
-    "summary_ta": "",
-    "date": "August 15, 2026"
   }
 ]
