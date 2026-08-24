@@ -4,15 +4,27 @@
   "updated": "2026-08-24",
   "hero": {
     "id": "main-hero-auto",
-    "title_en": "Blood Quits Blood - EPS's Own Cousin Walks Out of AIADMK, but Who Held the Door Open?",
+    "title_en": "After Mangaluru transfer, demand grows for ‘regional’ railway division rejig in Tamil Nadu",
     "title_ta": "",
-    "summary_en": "Blood Quits Blood - EPS's Own Cousin Walks Out of AIADMK, but Who Held the Door Open?",
+    "summary_en": "After Mangaluru transfer, demand grows for ‘regional’ railway division rejig in Tamil Nadu",
     "summary_ta": "",
     "category": "News",
-    "date": "July 8, 2026",
+    "date": "August 24, 2026",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80"
   },
-  "trending": [],
+  "trending": [
+    {
+      "id": "main-trd-001",
+      "title_en": "After Mangaluru transfer, demand grows for ‘regional’ railway division rejig in Tamil Nadu",
+      "title_ta": "",
+      "summary_en": "After Mangaluru transfer, demand grows for ‘regional’ railway division rejig in Tamil Nadu",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "August 24, 2026",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80"
+    }
+  ],
   "districts": [
     {
       "slug": "coimbatore",
