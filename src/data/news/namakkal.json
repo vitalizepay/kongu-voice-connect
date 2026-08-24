@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-aug18-001",
+    "id": "nam-aug24-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTM4TEpQTUxfcHNyT3d4QjFLMThRcXFRRm5tZzJTRVZXTXhNa1A5dWU0OUh2Y3dSR3REdHRSY0FVSzQ3WTYyS1Y2RGZfUjNfNHdnR3A4SkZnWmYxUTZramJVdVhQdzFydEJ4Z24tMXBHQzFYaXRyajJjdnNRd3R2SV9hQ21pY0lJaG4yczFLTkVtUE91cG5heDBJTkZ4WEdMQ2FieDJWTWFHejJFNmY5MHFuZjPSAboBQVVfeXFMT2ZxVVp6SzFLcXQ0MWdkSFVjSTZMUjlOS3lWZjItQVJHdnY0VS1LaVBaekxPYVpIVWtjUVJKWVN3NTZlRmJ5aFBPa2F3QzZrSktuOTJGWDBvdWdmWWVTUlJDeG56T1NTQUdOZk94N0tnelR6cjFPTXh1VTZoWmhtcW1KTTBBM2hCZW1TVks5aGdYd04tQW1BNnJaZEpWejc5Wm0zVmNTVEdpd25QdW5vRmJSamhRMHlPNEd3?oc=5",
+    "title": "Two men die in Namakkal car accident",
+    "title_ta": "",
+    "summary": "Two men die in Namakkal car accident",
+    "summary_ta": "",
+    "date": "August 24, 2026"
+  },
+  {
+    "id": "nam-aug18-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNVpJb3NfN1pqLWlLcEpwcWh5ejZFU3BGVmtBaTNCUU9TVERQazVqRDAzdGFFLW9NSmZnWnBxT0J3eG9oS1pCWS11VnBPLVY2b0JMNHhmQWJIX3RIY2tySlZNRDZCbjVlTTQwZkhFaXM1d21RN1FiTVVPdFdtNmw3UU5CUDZJeTk0MmJzSlJOZlFVakJWa0hLdG54R1lfeGNPLWVyOGV4VWdDeWpjSWhPcnpEd2FpX1I0S3hEVElnNElYRUhxRUxoNUcxM3lJN0NlZmczWlZMVzhWdnhkenBfbWNaMWJMMUxpSlBoNjhuNUlQNWlzbGxscnZHWkdtbEhiR2pJNG5NVdIBjgJBVV95cUxPVV9ldEozMnl1Z2Vac0s4dFAwczIzTHYzNkxBaXJ2WjBYeHV5azd5OTI4X1MwcnYtRmJzNk00UmRWTV9ZS2VjWUxJdnJTWExadnAxbGpmdXZ2ajhTMzJrN1Boa1BrQVF0X1NPc1hwMHVLSUR4RkhZZ0FyaXpNb1AzN3BaTGlldWlvU2ZFMWxkTGFlR08wTUNFZVFQV0RZMzd6MEM5amEtbkhvQkIzSVJpdjdzWHVOMHA0RmpMQWNZRGtNNllGTUYtVTEtdm5hcURWSnhCakllSllROVVxeGo3d1ZtTGxPWklpTjJ5SlNpLTNhWGJwODhKeGxFQUZoTnhHalF6OXBsXzFsb0luSlE?oc=5",
     "title": "Tamil Nadu CM Vijay shifting office to accommodate secretaries, visiting dignitaries: Minister Aadha",
@@ -22,53 +34,5 @@
     "summary": "CM Vijay to shift office to provide better facilities for officials, visiting dignitaries: Aadhav Ar",
     "summary_ta": "",
     "date": "August 18, 2026"
-  },
-  {
-    "id": "nam-aug15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUNMa3JXdG5YWnpuUzdUc2ZUZnkyODZvNF9CTHBxN1M2SklVYnRPenBzQjNtQTdVamZMUG1ZVndNT0QxVE9yeE5LZllpTlNyenRhX1dyTUdlNFJMVGxCUjk1aUNXQndUaDZTeTBhcXNXOHBKamNXSGpET1VrOHZMX3ItbGd6bkxnQ3FaQVZnMEZsQU11LUpMZTlselhrWmRKR0xaTXFza1gxaWRCcmZacU0wZmJoSVRfUEdSeWRzOEY4VVFlVzU4anZEU2E2QdIB0wFBVV95cUxPcGpfWUFfTVlsUXM2YVg4bnJCUnNSYW1LNDNsMDZGRy1NU1Rob21rNHl0SHRxczBoLUVfU0wyN195UnpZM18tZU8zN19Gdi1nLXdhN3lUR0R6SXl0amNRY013TGNqMXJtM2ZrN2FsT1FqQ1ZDYlktM2tHM0JjSUdidGhvc0tfMndsTncxQVc0UTJDaHpqV1h1SVItMi1BUHVvOGk3MWVpYUh0bkFPU3d1TTZGbWFHWnZab19MbmZCdVpoN1RWNV9iOU9FMUxMSkF0RzRZ?oc=5",
-    "title": "Photography Banned at the Namakkal Anjaneyar Temple From August 15",
-    "title_ta": "",
-    "summary": "Photography Banned at the Namakkal Anjaneyar Temple From August 15",
-    "summary_ta": "",
-    "date": "August 15, 2026"
-  },
-  {
-    "id": "nam-aug14-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEpNUjk5SUEzR3dzbVRPMThTdTFlUmNUbVBaS3Q0d1hjM0ZkVjdZRmktNDI0cnhneHNYNVB5U2I3el9nSWNqN28tSGJoaElTUm41cUROVWV6LWg3cEk0VllvNjZvLURDc3YxR3Fnb05JWWowaTczdXI1emZmUnJkVTZsVGR1WkdxQWVoVlE1WWpUZEtpeEJGSDJGZm5rc2ZpaTVIVmJrN0dMVmNxdDRPYjFVei03WlFuNmRSdNIBwwFBVV95cUxOdkVsMjcyRGtTUVFZVWd6ek5sN1lrdVFoYjZRazVXd0lDbG1paERpLW9VMXduTndFQnFJTklxSVE1dHhoUHZEbmZoQmtFTXJtU1BRMXB1NEhWUDcwc2hJeWJoVE1yMHNmWUUzeXd4dGNrLWF5RmFxNlQ5dHpDTTVmNElCYlVRbmZlYkhsY2RFZWJiNHktamVGVTdjdjZmOVJfNTgzdW5Zem55eUxMa21XSVE5bVB6djhSbUVrbzBTUnlBNW8?oc=5",
-    "title": "‘Who are you to question policy?’: Supreme Court on jobs for Tamil Nadu stampede victims",
-    "title_ta": "",
-    "summary": "‘Who are you to question policy?’: Supreme Court on jobs for Tamil Nadu stampede victims",
-    "summary_ta": "",
-    "date": "August 14, 2026"
-  },
-  {
-    "id": "nam-aug14-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEpNUjk5SUEzR3dzbVRPMThTdTFlUmNUbVBaS3Q0d1hjM0ZkVjdZRmktNDI0cnhneHNYNVB5U2I3el9nSWNqN28tSGJoaElTUm41cUROVWV6LWg3cEk0VllvNjZvLURDc3YxR3Fnb05JWWowaTczdXI1emZmUnJkVTZsVGR1WkdxQWVoVlE1WWpUZEtpeEJGSDJGZm5rc2ZpaTVIVmJrN0dMVmNxdDRPYjFVei03WlFuNmRSdNIBwwFBVV95cUxOdkVsMjcyRGtTUVFZVWd6ek5sN1lrdVFoYjZRazVXd0lDbG1paERpLW9VMXduTndFQnFJTklxSVE1dHhoUHZEbmZoQmtFTXJtU1BRMXB1NEhWUDcwc2hJeWJoVE1yMHNmWUUzeXd4dGNrLWF5RmFxNlQ5dHpDTTVmNElCYlVRbmZlYkhsY2RFZWJiNHktamVGVTdjdjZmOVJfNTgzdW5Zem55eUxMa21XSVE5bVB6djhSbUVrbzBTUnlBNW8?oc=5",
-    "title": "Supreme Court win for Vijay over jobs for Tamil Nadu stampede victims",
-    "title_ta": "",
-    "summary": "Supreme Court win for Vijay over jobs for Tamil Nadu stampede victims",
-    "summary_ta": "",
-    "date": "August 14, 2026"
-  },
-  {
-    "id": "nam-aug12-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWRlTVFoNXU5Z3NWYXlWNE1nSlNtZW1TdHFuLWlqVldDT0JYU2Nvdm5NQXdUOE9LX2x1VzBzOHZwSHJreTk2OHRuVXlxSmlMdDkwVEkwQlVZNG1zMkkzN2RvUmg1VEM5TFNHMWZxb2xzVThRUmdMRXNicEtnbnRCdUxhSW50eEMyN2dYSGJtWHhIX3JqSWtwaXdYcTVUamVya1FLajUtcDNTdw?oc=5",
-    "title": "From Namakkal to Bombay House: Journey of Tata Sons Chairman N Chandrasekaran",
-    "title_ta": "",
-    "summary": "From Namakkal to Bombay House: Journey of Tata Sons Chairman N Chandrasekaran",
-    "summary_ta": "",
-    "date": "August 12, 2026"
   }
 ]
