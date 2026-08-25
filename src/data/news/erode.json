@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug24-001",
+    "id": "ero-aug25-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUhXYTlNdGJJRm9YWHJDWHFMdzhvUFNRNzA0blQyb1ZHSG5YVUN4YUxQMmxQb2hDTDFjSzdiREZRelRsbnJLWWVBWnNhRWs1NFJtcHIzRjlERUlmcUVEclB3VVZvb3RMUUZzUFZMNmhRd3BDX21TM2NKLVFjZjBXeGY5X0duV3A4TXBWUjJxQzRnTncxR2lGb3puRzJzc01fUEp5MzR2Q0l5VGxtVkQ4MW9jSG9MVVZOTU5ZY0hObTZ5bUZGWV9mZFVUdkFkbVltNjREc1JOX0l4aXFKV0t2Y1ZWNHA0d0HSAe4BQVVfeXFMT3pGSFgzeHJISWlNS040ai1BdWszdFpkdnl5QUcxTkhpM3hycUFJQ1ZHQkk3UGUtV2s3RG83OGx0NzB1dUpxTWFGT1YxcjNpXzNPNk11eXdvNkl3M0VxNkZ0azB1VllvNHVic0JERC1FMWZMX1M4NHI1ZHYwbjJuQkpBck5Mb1ZxUWZoMjFQY0k4QXZRN1B5dE1Qd1VTOUxtN082Y1ZxS0pzUlBJTUNvU05BdDE5c3FvRGJQSXpNUGozbFRUNDRKTmNJQlpYaEFCS0hJMTN0bXNZWlExYzJZSFJFVkdNU2lHTkt2OUh3UQ?oc=5",
+    "title": "Farmers in Erode protest against alleged illegal water pumping from Bhavanisagar Dam",
+    "title_ta": "",
+    "summary": "Farmers in Erode protest against alleged illegal water pumping from Bhavanisagar Dam",
+    "summary_ta": "",
+    "date": "August 25, 2026"
+  },
+  {
+    "id": "ero-aug24-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckhTckIxUkhvV2h0NjY5c0tjdzJ2OVVteEtDWVR4WmdFbFFiQVhhYXVvclcyVjI4Z1ZmbFB3WF9ObDgwVE8zdF9jdnhBS3Zidzd2VlBCaDZXaThNa1BfanFfRWRDN0c2NDVvczJtQTloVFdtUHZoeGtzcEJOTUdueTdqVkJLd1BmVlQ0eE9VLVF3M3VvTF90X0lZZDZDN3ZBOU5wbTBiYXp1QnBzdUc2MWpRQUEya3hKVTBPUXROd2JnT3hwUVI00gHMAUFVX3lxTE1pTUlFMEI3YmVIc0k1UXg4a1NDQXhDT1Bnb1B4U1lBR2FMNnBkMENSTDJGVURReXhTcnRZMmxIdk84WXBaVkg5M09hRE1VcVFfRTJQSDNKWjlOc2RsMmpMT2hkOHBSRzc1V0RYYkZtWHNveVNBY3ZwS2lJbE5aZERvUi1vM0d1VjVVOXFSY2w1eTR6N2UtOTItSWY4dFBhRk9RdHBjNHhjemUtc09kUVpDN0VLVi1EaVViZEdfUFhHOHZ1SkJNbHp6Q0wxcg?oc=5",
     "title": "Leopard Creates Flutter at Park Near Temple in Erode District",
@@ -10,18 +22,6 @@
     "summary": "Leopard Creates Flutter at Park Near Temple in Erode District",
     "summary_ta": "",
     "date": "August 24, 2026"
-  },
-  {
-    "id": "ero-aug18-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTh5ZllYcGwzTTdZcFFIOFktUXJuYi15TjlvaUFuMDdrVnFKa19JeFo5SUE0NkkyNzNYVlhFNXFmTnFkY0lXcjBCUDk5OWhzbkZoSmRYemVyNml0MDRScXBfZ0xqaFhTZndTb295T0NDVkxvYjVjNGp0X25zX1ZUT3ZhNXRMWmJMMUEzT0pYZTlMRlFtZlhuLUI3aXFNMU9YSHlyWWcyZ0xLS296RXk4TmdqZFUxWVByMWhsdjRISFlLc0lOT0JsR2dmcUZmcTDSAdYBQVVfeXFMUGVFbXlQcV9LOHlkSjhyZENfMHljMmpMbjBfa2NTRW1heGhINm9aM2R1RDJhbzJXWEJrSmlLM0VaUnJPbFF4X3RTZUg1X1hoOXl6aE9WVld4YXU0MjhlTlVvMmFfbXJOUmg4SjJaUjJXX0RheGNIc1Y2TXNzT29qaE1UV2YwUW83UWtwdWNtMWdhVjdlUUdvZTlBaHJXNDF2dnA4dnIxOHdybzl5aFJlcTRKNzRXSTVJZ0NEay1BN0YwZXpTaHhuWUF2dDR2QXhuQUJDVlB2QQ?oc=5",
-    "title": "Handloom workers seek steps to protect Bhavani Jamakkalam industry",
-    "title_ta": "",
-    "summary": "Handloom workers seek steps to protect Bhavani Jamakkalam industry",
-    "summary_ta": "",
-    "date": "August 18, 2026"
   },
   {
     "id": "ero-aug19-001",
