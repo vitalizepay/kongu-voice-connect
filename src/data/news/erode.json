@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug25-001",
+    "id": "ero-aug27-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGlaX25tSzlEX0FYME9TMTg4THdEN184Q3hjUHF3TFN5VFEyQUtXVEZISndEYnVXWUkzUTRqTzRDN1Rxc3prMEJsYlRramcwYkY2T21CSWk4anVnTEVrdkFqMnczbTNlNlVPeTJIVXpReDE3QnpGV2t6T3ZseXZVbFZDenB0NWRO?oc=5",
+    "title": "Erode couple missing in Nepal amid deadly flash floods",
+    "title_ta": "",
+    "summary": "Erode couple missing in Nepal amid deadly flash floods",
+    "summary_ta": "",
+    "date": "August 27, 2026"
+  },
+  {
+    "id": "ero-aug25-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUhXYTlNdGJJRm9YWHJDWHFMdzhvUFNRNzA0blQyb1ZHSG5YVUN4YUxQMmxQb2hDTDFjSzdiREZRelRsbnJLWWVBWnNhRWs1NFJtcHIzRjlERUlmcUVEclB3VVZvb3RMUUZzUFZMNmhRd3BDX21TM2NKLVFjZjBXeGY5X0duV3A4TXBWUjJxQzRnTncxR2lGb3puRzJzc01fUEp5MzR2Q0l5VGxtVkQ4MW9jSG9MVVZOTU5ZY0hObTZ5bUZGWV9mZFVUdkFkbVltNjREc1JOX0l4aXFKV0t2Y1ZWNHA0d0HSAe4BQVVfeXFMT3pGSFgzeHJISWlNS040ai1BdWszdFpkdnl5QUcxTkhpM3hycUFJQ1ZHQkk3UGUtV2s3RG83OGx0NzB1dUpxTWFGT1YxcjNpXzNPNk11eXdvNkl3M0VxNkZ0azB1VllvNHVic0JERC1FMWZMX1M4NHI1ZHYwbjJuQkpBck5Mb1ZxUWZoMjFQY0k4QXZRN1B5dE1Qd1VTOUxtN082Y1ZxS0pzUlBJTUNvU05BdDE5c3FvRGJQSXpNUGozbFRUNDRKTmNJQlpYaEFCS0hJMTN0bXNZWlExYzJZSFJFVkdNU2lHTkt2OUh3UQ?oc=5",
     "title": "Farmers in Erode protest against alleged illegal water pumping from Bhavanisagar Dam",
@@ -22,17 +34,5 @@
     "summary": "Leopard Creates Flutter at Park Near Temple in Erode District",
     "summary_ta": "",
     "date": "August 24, 2026"
-  },
-  {
-    "id": "ero-aug19-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQb1hBNVlmVE5XUk5Zek9QVEtDN3RVVndYd2lCZ2k1aFNKd0xpWmpiYlBLZTVidWZCa181SndESXM5TGlQSllUbmViLWhTWFB4QXdZNm1hRmdMWmF1dXR0T194Tkw5M2xPSjg5Q1dSRV9QTjk2aFlIY3RFWVFWRF9ISWExYWN0aTFtN3Q5Y3N5YmZvWWFTbFZBU0EzdXdhRks1d3ZRemdKWnJyRUFOZmVOcldsZl9yOGJnWjVUTVVLOTJtSndsaDQ1azRXUzVBak0xeS1uZC1Wb2NlWjVwOHlmdzdVMkUyVGR5NkFQZTJzMVZKZ2ExdEFzcGV6SXRIVFA1SzZTa3BUT1VZckRSc05QeDF5c3NaQlZh0gGcAkFVX3lxTE8yTURtenhPai1XVkdma1JFdEYwMExwNDRXa25vU0ZIMlExTG5SUUcxSmhpLUxqUU1DR3BBMFlkbzBFWVRwZkdhYWxhN05JM0x6NFU1T0lMTmI2X2FNcHUwTHh1YXJiYVdyekxfQ0o3RURscl9DTFZLTm5tSUFYSWhGOS0xdjdIZVhvVHpIbHhRNEZsRTd0OWVucFZFRnBVRFRoaGFvOUFRUEVTSUJ1ckNQY05MTXZBRjVadXdtQ0FueUhKNFZiQzdRVlJrNGFxOWF6elEweW5ncUNCdzQ5eG1lVzUzYWdiQ2ZoUS1ERUdpaWU3Z1JwTUtmNzRTeVd2bEl1WnI2cUNCRG5vWEZtN3hGN29lZkJxV1FwTHFu?oc=5",
-    "title": "Erode District Creates Historic Elite World Records with 2,06,760 Participants Reading Books across ",
-    "title_ta": "",
-    "summary": "Erode District Creates Historic Elite World Records with 2,06,760 Participants Reading Books across ",
-    "summary_ta": "",
-    "date": "August 19, 2026"
   }
 ]
