@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-aug23-002",
+    "id": "tir-aug27-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdV9URmpjWkwzZ2pneGRLdDlkZVd4LXlXYUVZWGZieFRNRy1SbVlsbFF0T0IyT1hlQzUxOUxqR1dkN21iRE1EMkQ0LWp1elBGUjJLeUhQU1VMemFLRVFSZmMyX212OFJGZWstMnFZckVsdk5abDRDeXdFNW9uajktX20xXzV5cGdham5HSWVzLVJCNWlDcXdKR290MUtLX3lXWGtLUmFja1B5NnZfOUlvOWFQZEg0VVg1bGtQSEdKXzZCMjl6S0l6SjFlT1ZOZ1lwZTN0eTBKQ1ViSVY2VWVsbndDRDNjcDN0VVlJN1VLRjdYbUw1NTRIRjJYMjZkSWl4MElPR3lXWdIBhwJBVV95cUxNdV9URmpjWkwzZ2pneGRLdDlkZVd4LXlXYUVZWGZieFRNRy1SbVlsbFF0T0IyT1hlQzUxOUxqR1dkN21iRE1EMkQ0LWp1elBGUjJLeUhQU1VMemFLRVFSZmMyX212OFJGZWstMnFZckVsdk5abDRDeXdFNW9uajktX20xXzV5cGdham5HSWVzLVJCNWlDcXdKR290MUtLX3lXWGtLUmFja1B5NnZfOUlvOWFQZEg0VVg1bGtQSEdKXzZCMjl6S0l6SjFlT1ZOZ1lwZTN0eTBKQ1ViSVY2VWVsbndDRDNjcDN0VVlJN1VLRjdYbUw1NTRIRjJYMjZkSWl4MElPR3lXWQ?oc=5",
+    "title": "Tamil Nadu: Tiruppur garbage crisis resurfaces as corporation turns to stone quarries for waste disp",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Tiruppur garbage crisis resurfaces as corporation turns to stone quarries for waste disp",
+    "summary_ta": "",
+    "date": "August 27, 2026"
+  },
+  {
+    "id": "tir-aug23-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNendLX08zOUVST0lQaEpaYW5JZXdwV3BBaVlUOWFwVEZxWTFqQVBGOWo3Zkw3M3hoWTRlLThtaldhZ0k5bjBWalJmVGFIcDJNaEU1Q3dkaEUwZDVzaWdhTkNPRUoxaGx4TTVpUDl4WS1CblJOaUtKSm9ySkJVMDNoMUpnZFpqbWRXTjhhRVROTkZvemdRR0NvNDBBMlNQSVZwTW5nWHlCbw?oc=5",
     "title": "VKK vs ITT, Eliminator, Tamil Nadu Premier League 2026 - Commentary",
@@ -46,29 +58,5 @@
     "summary": "ITT vs SLST, 27th Match, Tamil Nadu Premier League 2026 - Commentary",
     "summary_ta": "",
     "date": "August 21, 2026"
-  },
-  {
-    "id": "tir-aug19-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjVQeW5IZmNIVmFWay1OUjVsUG53aU5UckVJMTRRbkJVeWFNMDZJY002empOQkdrOGt5WTNrRmJFdEcxa1FOb2VXcWt6RWh4SDFlaFJrVnZfVVhEYkFuakQ3SmNrRXhrQkRQcURteHEzdk5iWWFmNmNDVjZXd2l0MzMwS3dSSUxhRDJEX3NVYzJjV3l5UVdvT0xRMXNvaGxXVUZTV1lVUlNCOUs3NXVrS1hsWDItQ3hVSXhRSGtHNE9UM0I3Y2s3cC1XY0d6cno3dEpQNDNFdVZORVhNYkNJQzNBc2c0ODF4Rk1tRlV6M0xFRlJrVmpXeU80eEJSU1JVcnhIRlVB?oc=5",
-    "title": "Match Predictions: Tamil Nadu Premier League 26 - Siechem Madurai Panthers v IDream Tiruppur Tamizha",
-    "title_ta": "",
-    "summary": "Match Predictions: Tamil Nadu Premier League 26 - Siechem Madurai Panthers v IDream Tiruppur Tamizha",
-    "summary_ta": "",
-    "date": "August 19, 2026"
-  },
-  {
-    "id": "tir-aug17-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTJOMWZmVVVuRW1jN2pHRllJay1BRUllcks1MUlsMWs2cmYzNU9uZnNJWTNZc1F6a2UyTmoydWt3eVFyb3hXcmdUdmdCbU14UDQyOU5uLUNveGhTaFhtWGd2RmxMRlk2cXRiMG03SkhQNGtLWGJ0R0F3SlhBMndyNW9FeU5LakhfQm9ubkExSlNqS05YZU5NQlpLSjRiMFNmV3RaN1pTbHgyR3ZKMFlrZURCUdIBswFBVV95cUxNNTJOMWZmVVVuRW1jN2pHRllJay1BRUllcks1MUlsMWs2cmYzNU9uZnNJWTNZc1F6a2UyTmoydWt3eVFyb3hXcmdUdmdCbU14UDQyOU5uLUNveGhTaFhtWGd2RmxMRlk2cXRiMG03SkhQNGtLWGJ0R0F3SlhBMndyNW9FeU5LakhfQm9ubkExSlNqS05YZU5NQlpLSjRiMFNmV3RaN1pTbHgyR3ZKMFlrZURCUQ?oc=5",
-    "title": "Farmers demand DCCB in Tiruppur district",
-    "title_ta": "",
-    "summary": "Farmers demand DCCB in Tiruppur district",
-    "summary_ta": "",
-    "date": "August 17, 2026"
   }
 ]
