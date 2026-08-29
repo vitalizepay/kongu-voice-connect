@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug28-001",
+    "id": "coi-aug29-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3RQRGRfOWhoTnRuUllxX3MyMy1kNzRCNklMQ2trUDFyXzNDeEFhdkcwT2FIYXBsNEJxU3NNMEl1RGNPSGFNMzhTLXhZSWl6SVlJMnNZZGxzNVNoY3BZbFEwN285MDlCVG9EdGJKRHFWTDJ4Z0c4aXJib3dkT1ItWTZSb9IBkAFBVV95cUxNS2I3TW5qbUNvTHE2TFdIS0Q3aFRwalB0TlJyZGpNaDh5X1MwdGtnWk9xTEZUVS1ZemR1WE9WQWNWdjk2aEtGSWtXQU1rNzZQd3I0dmozWUwtV1N2NVJrVDBOdEgzeWRMMWROUURzM2JMU3ZRZ0JNejRhaEltYVp4TGE5ZEFEYlVKSXhyNjFSUGM?oc=5",
+    "title": "DMK worker hacked to death in Coimbatore",
+    "title_ta": "",
+    "summary": "DMK worker hacked to death in Coimbatore",
+    "summary_ta": "",
+    "date": "August 29, 2026"
+  },
+  {
+    "id": "coi-aug28-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGlWYTNwbXBYNlNqQkh6Skl3ZDFJSFpTZ3VJRkVqV25PajlrZmQzanhqYnZsQm04b3dtMU9FSzhtXzhnRzdmc2JUN0FXelFuZnIxMGFmR0VKUERtMmtjcm5IT0hDU0JOd0pUUkl0ZE1BdXhYRXlFRzJocGhoTjg5c2JGQUM0YVd1SlpHMzFDRENFOW9mX2lYd2poVnl0TDBZeXp1T2syVjYzdk1MV1RjUnlBYUtQVzJUdWF3ZnlleHZKTkZyZDNTcDRoN3lxbk12NUhtR3BhOUhfenNLN0E?oc=5",
     "title": "Nepal Flood: Harrowing wait for 85 Tamil Nadu pilgrims missing in Nepal flash flood | Chennai News",
@@ -130,17 +142,5 @@
     "summary": "Rs 3,500-cr development grant for Coimbatore and Madurai corporations",
     "summary_ta": "",
     "date": "August 26, 2026"
-  },
-  {
-    "id": "coi-aug24-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlFqTTV6b0U0UDBZQk5DYmpuMm5OWVlTUlE0WjZubjN2dTBlQVlzTUdKcmsxR19MUmJyMGVTOW1aTDhrM2tNVXBfWHZhZmRhbmJDak1wN09RZXNZX2VBcFlCMVduekpEOVF2YnVOd25HSFgxb0xJTmE0Z2hLdENHb1BfdEFxTWxnQVBHMDBGdDFmS0RmQmxmTDVsRFBvaVV10gGuAUFVX3lxTFBWUHpXeGhQMDFkTUJ6QVRFLWFlZjFjMnM4ZTZoZGZINmxjX1ZwVWZXX3N1ZVJaOXExY1JDemhKaFdjelhNOFZoM2ZkRGxydzVfZUgtUERueVdRSy10djhBcUtQWVY0QnhHLVBGRF9zV2tYQW1ZajlNZ1pPVUswTnpUUk9hd1czR3pCMjdYMWJlNlcyVmtwWHVXWDF5a2p4WjYzcEJQS2F6QzVPZHd1dw?oc=5",
-    "title": "Fix Coimbatore's issues relegated by DMK government: SP Velumani",
-    "title_ta": "",
-    "summary": "Fix Coimbatore's issues relegated by DMK government: SP Velumani",
-    "summary_ta": "",
-    "date": "August 24, 2026"
   }
 ]
