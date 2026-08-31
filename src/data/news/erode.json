@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-aug27-001",
+    "id": "ero-aug31-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajVCTkpFeWdVb2wzdjhLMGhEWXBEZ3NUQmRmZUhKaGxLT045RkZ1WDBwUk93RGE5RHJNOUI5QUFRTDRoNHdUV09BV3dPSEhXWnM4ZzZsLUhQcDVWZGNDV243YjVqdUt2QU1fTmFHcU0zeXRoTDVpZVo1a1NqdHB4WldSUHlISWxjdzV4dVl4Rk1iaXdtZ0HSAaMBQVVfeXFMTWVmTjRVenlVM25Ya3ZuZnBUOHpJLUlNdzl2SHFnc2tIUDRNMFoxbm0xdG5jdGtfWkxQREtQYjFWYlhCbWtDY2xjeDRhRTMtTUtrNlJ6NllUTm83THp3OXFTaGlLczA1TS04X1cyZlphZU5ZbVJiZGZKZDg2U05qYWg3cG1iRDVkRHNZcGhrSXNFRUw4VzRuMUFrelNWc1pPRVFPbw?oc=5",
+    "title": "Erode: 30-ft mud stands between son and missing parents",
+    "title_ta": "",
+    "summary": "Erode: 30-ft mud stands between son and missing parents",
+    "summary_ta": "",
+    "date": "August 31, 2026"
+  },
+  {
+    "id": "ero-aug27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGlaX25tSzlEX0FYME9TMTg4THdEN184Q3hjUHF3TFN5VFEyQUtXVEZISndEYnVXWUkzUTRqTzRDN1Rxc3prMEJsYlRramcwYkY2T21CSWk4anVnTEVrdkFqMnczbTNlNlVPeTJIVXpReDE3QnpGV2t6T3ZseXZVbFZDenB0NWRO?oc=5",
     "title": "Erode couple missing in Nepal amid deadly flash floods",
@@ -22,17 +34,5 @@
     "summary": "Farmers in Erode protest against alleged illegal water pumping from Bhavanisagar Dam",
     "summary_ta": "",
     "date": "August 25, 2026"
-  },
-  {
-    "id": "ero-aug24-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckhTckIxUkhvV2h0NjY5c0tjdzJ2OVVteEtDWVR4WmdFbFFiQVhhYXVvclcyVjI4Z1ZmbFB3WF9ObDgwVE8zdF9jdnhBS3Zidzd2VlBCaDZXaThNa1BfanFfRWRDN0c2NDVvczJtQTloVFdtUHZoeGtzcEJOTUdueTdqVkJLd1BmVlQ0eE9VLVF3M3VvTF90X0lZZDZDN3ZBOU5wbTBiYXp1QnBzdUc2MWpRQUEya3hKVTBPUXROd2JnT3hwUVI00gHMAUFVX3lxTE1pTUlFMEI3YmVIc0k1UXg4a1NDQXhDT1Bnb1B4U1lBR2FMNnBkMENSTDJGVURReXhTcnRZMmxIdk84WXBaVkg5M09hRE1VcVFfRTJQSDNKWjlOc2RsMmpMT2hkOHBSRzc1V0RYYkZtWHNveVNBY3ZwS2lJbE5aZERvUi1vM0d1VjVVOXFSY2w1eTR6N2UtOTItSWY4dFBhRk9RdHBjNHhjemUtc09kUVpDN0VLVi1EaVViZEdfUFhHOHZ1SkJNbHp6Q0wxcg?oc=5",
-    "title": "Leopard Creates Flutter at Park Near Temple in Erode District",
-    "title_ta": "",
-    "summary": "Leopard Creates Flutter at Park Near Temple in Erode District",
-    "summary_ta": "",
-    "date": "August 24, 2026"
   }
 ]
