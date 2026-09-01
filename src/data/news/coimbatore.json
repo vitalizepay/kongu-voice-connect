@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep1-002",
+    "id": "coi-sep1-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVzNzMVVsaWZYWUpwanp0S2ozQUhfVTZIOXFGSVBFY084alZXdWxzOU1ZWkRHUTBvMk0xMVBKci10eDd5WjhPM0NEb3d5SkJUMXQ4dUJhSjRhRHZCeGN4bXVVbXVMWWVvMm8ydXpKWl9DQ1FIMGpYdDhQLTJENTZFQkZDdklfblpYRjhaQjUydXZJV1h3MFN3R1lUUWpXeVk3azBaNU9hSmRNWnpEbFNPSnRQN0JJMWNGSkhFSV95SVJsNVlMSXV4N1pjTnM4TGJpLVFjZThEUzhrUDIxQ0tqT3NpRi1MTGxiYzg3Z0g1UjNZU0tjTUE?oc=5",
+    "title": "Tamil Nadu: 28 pilgrims return safely from Kailash Yatra after Nepal flood, receive emotional welcom",
+    "title_ta": "",
+    "summary": "Tamil Nadu: 28 pilgrims return safely from Kailash Yatra after Nepal flood, receive emotional welcom",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "coi-sep1-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVFp5dU5ZT1hkN0tBc0ZBMng2S2FfOTliRjgyVVlfR2FpY244bGpDdklvU2pUbTh5WXhtc2QwWHFYaEdpdUk3c2x2TnRlcmU0RmFtVDRINVdoeW9HVmVnVUctVjUwSGJabWJXN1lVRE0yVHBGbElpS3NWU1RXbFZaZ0lsWUxYbnc2SmUyc1kxRlV1eWl6aUZjdlJWUFRwSGowV1R4aDhmSFA0cnpxQkNPN3FRcFNOT1BuSk1MZ3NrZ0tjWWdTbDZJdEtkWjN6dmIzMVNyOFlCNFpxb0JhWUY4YjM3R2ZHdzhxdlpTZ0MzSXlRUU05aEp0V1BxWld6c1BEYW92V1diRdIBjAJBVV95cUxPRnhhVHo4SVNTbDJrTlBDYlkxT3YwSDZ0VEozazZ4Q3N3OHFudXJhY0s2bDNzakJUVVIwUE1DRklYdld2SXc1QVlDZXVFMzg0LTBTOENMOV9HMXRuOWR1SGRKRGhNaWx4RThOOF9CX0hubnNSdmFVckJCS0t0QVp6MzRZRnAyeHBGNW5hN2QwVkx5RDQzMU54bEJyQVZXQlliVTc1Q3FiTUQzTFdyNVA2LWk1LWR0Uk9MMGQwZXVjeUlGNUkzbzMtd1VOcTU0eDdDTVF4cEF5SkJYNEVkS1YtNi1Cczh3cjlRaUlKbnptY2o5SHp0dE1xVzR6S0x4VUJuY3A5ek95QWtVak82?oc=5",
     "title": "I am constitutionally bound to accept voluntary resignation of MLA, TamilNadu assembly speaker tells",
@@ -128,18 +140,6 @@
     "title": "Vice President C. P. Radhakrishnan Receives Warm Welcome In Coimbatore",
     "title_ta": "",
     "summary": "Vice President C. P. Radhakrishnan Receives Warm Welcome In Coimbatore",
-    "summary_ta": "",
-    "date": "August 29, 2026"
-  },
-  {
-    "id": "coi-aug29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObzM3VmZOWUtrdGgzdENQSkhQTHY3bVl5cXdwZGZ2eEE5bWhpQmpub29LeWRVNzdyUk5UNTRNaHMyR2lFeDdZVXJDRFFpbjVfYXVRUFpFY2NJZTBDSENPUGM4R2JmMFlJMXBMM212Y2k3M21DSjhhRXZXa1oyVl81cTBwT2lkUkdnb1FEVkFnT0E4bURpMWdsNHhGa2dCeGVob0hsNVA4V005Q2RBcVBVZnhsTXk1M1hoUWRTVTJaY24xT0lyczktN1luRW1WUFc2Uk1DZWgtSmNuNFXSAeABQVVfeXFMTm9wc1F4c2o2TGxtM3VmOFNMT0FvOG5EUXJSM2NyeTBiUTEyalJrZFpRMWVCMWtlcmt1WTZDWEZVcU5RbC1mTmNiXzhSSGFhR0I3aVp5Rl9hVGpVN0tOY2lRakFuck92b1g3NjVSY1AySFl4bGNuYzRCWmFDWm42R2t1WEJvdzZaOENvR3VQU3JSSW82b0hJQk9ob1E4ZDJZQVJ1NUR2TDdwNVF6ZUpEZjZNYk8xTWZ5UHNVbzBTY25PV0dVdVlXY3IzMVRNanlFb2p0MWVydkhxRF9rRS11T0g?oc=5",
-    "title": "Kerala Police seize 12.8kg MDMA near Coimbatore, bust interstate racket",
-    "title_ta": "",
-    "summary": "Kerala Police seize 12.8kg MDMA near Coimbatore, bust interstate racket",
     "summary_ta": "",
     "date": "August 29, 2026"
   }

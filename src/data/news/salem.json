@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep1-003",
+    "id": "sal-sep1-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVUYweXI4RUNyczZpSnkyRVRqVU0zNTh5NDlrRlpKOGt2UkFWcVp3VjZ6MGJwVzI1RnF6ak1FQXFTOHNLUW9LZVFsSEdZZFA3YTdPbnVYOE53TVVJYndaNkRkOHV0dWZQLWNrVXlZN3hwckkybEw4VUVtak5Fdy1Sc051aE5VWnhBUjNDbTYtdDJPQmJXYW1vb1Zfa1dZRno3NWRGbU9QYi1icy1XMWJxNnI4bTJueC1EU1U5dzY1ejl4YnZqWmswZTVTTDlKRlp4cUZudXB4SkRCZWFxRWlqMGRGNzRDYXZCNlpFaNIB7AFBVV95cUxOVUYweXI4RUNyczZpSnkyRVRqVU0zNTh5NDlrRlpKOGt2UkFWcVp3VjZ6MGJwVzI1RnF6ak1FQXFTOHNLUW9LZVFsSEdZZFA3YTdPbnVYOE53TVVJYndaNkRkOHV0dWZQLWNrVXlZN3hwckkybEw4VUVtak5Fdy1Sc051aE5VWnhBUjNDbTYtdDJPQmJXYW1vb1Zfa1dZRno3NWRGbU9QYi1icy1XMWJxNnI4bTJueC1EU1U5dzY1ejl4YnZqWmswZTVTTDlKRlp4cUZudXB4SkRCZWFxRWlqMGRGNzRDYXZCNlpFaA?oc=5",
+    "title": "Tamil Nadu horror: Woman’s body chopped up, parts hidden in water tankers",
+    "title_ta": "",
+    "summary": "Tamil Nadu horror: Woman’s body chopped up, parts hidden in water tankers",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "sal-sep1-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmw0V3VUbm9QMHlZa05sQ09OMmJTdHlUWnpUU3hmbTdUd1ozQ1ZYVTBINGJ4WEg0cnNmYzVBVFNXc0xmZThHTWc2SHQ2cUhEVTZRTW92Z0hCTmp6bjFoSGNobTlLcVJlUUJDTmhYdWVVRTV4TEhMQ2RIQ3k2YjBTekN5RTZkaWQwQy0wNXFWUmdPN09UOF9YX3VySFNMdUxMS291MVYxczhob2pNZnVUdndn0gG0AUFVX3lxTFBWRUhsTllXTWZtdTZfQTJPYjlmZFZRSHJfUG56ZzlBWThyM0dMNzNzOTlWbUc4UnZ4bG5pdXNUR0EtTHRvTWREcm9XMERWZWJtVXhuMWU3TUFndkhCS01rRmxCSm04czdFQkVDUEU5cmFwblE2U1ppWHJ0QjRCaWV2WUlGUFVtZDJvUGNyRkUwSUJ1eWYzWGJHVmwwODJ2TC1XTkpJTE9CNmh0Mmtnb3hIdmt6Zg?oc=5",
     "title": "'Felt like winning a crore': Vijay's gesture moves elderly farm worker",
@@ -130,17 +142,5 @@
     "summary": "Salem district administration issues guidelines for immersing Vinayaka Idols",
     "summary_ta": "",
     "date": "August 30, 2026"
-  },
-  {
-    "id": "sal-aug28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWG84UERFcW56aHhsNld0WWctak5xTzE2ZlRZeS1KMkpSak5qT1kxR1BYNFpsUTA0VVdKaWFhZ1VlX1MxR25Rem14Q3FCVHJHS3hMT1pMNmxPcTlSMU1VM2JoWUxlVVRUVEVyeEl1MF8ya1FHV2UweDhhdHp2QlBSM05PZ0hrYm1kNEswSFFZS254X1g3UjVjb3RpODh0QzJnQ1BYSEZzMEppWEpVU1UzTHlOejAwZU5HakZuS3ppcXZKcTR5TlEzYzMwc1ZlZkpyUnNTdXBfcmtRaGV1TVJUYS1aV0VsdG5QOUZKZnp0ZklKZGVrWnQxT25B0gGAAkFVX3lxTFBOUXc0b2daLV92Q3JGU1llOGVyQW40WS1LemFzN0J0OG5NY2ZFMXZhZ3Y0NXQ1bDJzQTgySnJ6LTVhMFVpYzR3S19hbWl5UTFaa2xVbU5MRjZPalFhOFlfYllwTzN6TTZTaXFrNVAxWk1PQnFTWDNCZXppbkZjODhjT2hIRGxfNlk0SjgySUtfdXViXzZlMldmMExNWS00ZXh3ZXo2Tlpmd21faXlJR2NWU0dLV1g5emViOUFhZzh4OUhtMnFnZ3E2ZWpHOWUxQ2haQUFSNWlNbEdmRVM5djFycGhjR2EzbmR3WG4xQW1EcWgtRzFINUFwVnRUTWFnVW8?oc=5",
-    "title": "Devotees protest district administration’s order to remove pandals at Rajaganapathi Temple in Salem",
-    "title_ta": "",
-    "summary": "Devotees protest district administration’s order to remove pandals at Rajaganapathi Temple in Salem",
-    "summary_ta": "",
-    "date": "August 28, 2026"
   }
 ]
