@@ -1,8 +1,32 @@
 [
   {
-    "id": "sal-sep1-001",
+    "id": "sal-sep1-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmw0V3VUbm9QMHlZa05sQ09OMmJTdHlUWnpUU3hmbTdUd1ozQ1ZYVTBINGJ4WEg0cnNmYzVBVFNXc0xmZThHTWc2SHQ2cUhEVTZRTW92Z0hCTmp6bjFoSGNobTlLcVJlUUJDTmhYdWVVRTV4TEhMQ2RIQ3k2YjBTekN5RTZkaWQwQy0wNXFWUmdPN09UOF9YX3VySFNMdUxMS291MVYxczhob2pNZnVUdndn0gG0AUFVX3lxTFBWRUhsTllXTWZtdTZfQTJPYjlmZFZRSHJfUG56ZzlBWThyM0dMNzNzOTlWbUc4UnZ4bG5pdXNUR0EtTHRvTWREcm9XMERWZWJtVXhuMWU3TUFndkhCS01rRmxCSm04czdFQkVDUEU5cmFwblE2U1ppWHJ0QjRCaWV2WUlGUFVtZDJvUGNyRkUwSUJ1eWYzWGJHVmwwODJ2TC1XTkpJTE9CNmh0Mmtnb3hIdmt6Zg?oc=5",
+    "title": "'Felt like winning a crore': Vijay's gesture moves elderly farm worker",
+    "title_ta": "",
+    "summary": "'Felt like winning a crore': Vijay's gesture moves elderly farm worker",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "sal-sep1-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyY3F6RUdsa0dHb3hEcjZnRzNJZGR5N05rY2lPQ0VLN3F2Y0ozN0phcm9aR2VuU01fNHFmWWdreXdVSk4zaGVmSTltU29DTGVjakY0WXp3?oc=5",
+    "title": "After a delay of over 80 days, water has finally been released from Mettur Dam. Chief Minister Vijay",
+    "title_ta": "",
+    "summary": "After a delay of over 80 days, water has finally been released from Mettur Dam. Chief Minister Vijay",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "sal-sep1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0pwcjVBU3YySi15WnFYNVN3T2xjMWE5MG9CbG9UakZnQVdIeV9Yel9hMFVQNDQ3Rmw2c19LMEpseXZWbnExMHQ4MUdDd1FiMnJ0WWhXOVdHYldMQmg1bEpraTZEZE5Ja3VSaDR6Y1NZOE55eXRXa2dUUWgtNUdlam5Gd0djR1Z5U196WGJKOXBKZHJLUFJzcndFcjg4Vi1yZWVpemVjaTJKVXZta0xaZFZGMy1VNWJQYXlCZ2dVLWxtLXFIWi1zR2FlWHZUZVhLMVZnOGdYeWFwWnNscENSbWRR0gHoAUFVX3lxTFAzSzJpSVN0WkxoY2s0cmtGeTl0eTEzUXlFZ0xqZ2JhOWNkYUR1SHBOcTVZd1V6VU9MR2FsSXl5ZDI5dUdic25objNHOC01MHV0WU5EdGR0TnVPbkVSM0JxcWlzY0ZLRGx5VVprQjh6S0tzYVRrd2FjYzZUaFgtSDk3ZVhiUHA5ekN5M3NPZEo5S18wS0wwUEE5c29CZVh5ZmJCUlEyZVZBdV9lbTlGNXBYSWhfZXBqcnJuNUstYThQWTJKZUZsdl9XemV0cFVqSEdaQlVSZFFFZklkdHdjTTV0dnZ2QUNxMDI?oc=5",
     "title": "With Tamil Nadu CM Vijay opening the Mettur dam, focus turns to longevity of water release",
@@ -118,29 +142,5 @@
     "summary": "Devotees protest district administration’s order to remove pandals at Rajaganapathi Temple in Salem",
     "summary_ta": "",
     "date": "August 28, 2026"
-  },
-  {
-    "id": "sal-aug26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3VPQjI3OWtfeU1oMVdzM09XbGNydDZkMTVXUURJYUhabEd6T1pYRWtDUWJteW4zSGprUHRTWTNyMDRFdmMyN1Q3UEQwN0YtelRwS2tqenR5elNKal9Lc0cyeHZPSHRQbnlpbU52cUFMcGM1dnh5dTQ2NFZPY1BNem51cWxnWHd4YVdYNXVmRFVrMVZQajhST055RWl3eWk3WTdtX3czNGVhdjlaZVE4VXNsSDBjaUExc3lqSWVtZk85VHhXZ2ZQWDQyTW52TEFmaUtoTEV0NW4xdTlmRDJFUE4tTXBhVG5OdkNDSjZiV2Z4UGlUV0dCN2FhYkFrUdIBhAJBVV95cUxNRTlldHVoZURMQ1VMWW1kLXAtLUtCWG1UaklqQ3pCTUNhLUwtUjY5MUsyczh5SDBvSUNDaWEtcS1wZVcyX0tCcDd4TTcyd0t2SWF4emF4YUFmeDZFRFVJTERQU05jbWVTX3hWSVJqYUJMSFdiUUk0RDBsbzRVQ2phRUNWWkJKMjBxNE5BT2RmejZSU05MU2k1TjNLNUhOUFRfV2N3UDN6aG42SFFNYk1RcUpEWmxTUUJzS082elptZ3M4OHdlcDBGbEFKc2VyejhkcjZ5VFBDUWxTLVRRNWtsQXlCelYxcWVnWEh6RFlUcUVaRUxQUnU3TnZkaTNiaS1kUnNiSg?oc=5",
-    "title": "Salem Collector inspects Mettur Dam ahead of water release for Delta irrigation",
-    "title_ta": "",
-    "summary": "Salem Collector inspects Mettur Dam ahead of water release for Delta irrigation",
-    "summary_ta": "",
-    "date": "August 26, 2026"
-  },
-  {
-    "id": "sal-aug26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3VPQjI3OWtfeU1oMVdzM09XbGNydDZkMTVXUURJYUhabEd6T1pYRWtDUWJteW4zSGprUHRTWTNyMDRFdmMyN1Q3UEQwN0YtelRwS2tqenR5elNKal9Lc0cyeHZPSHRQbnlpbU52cUFMcGM1dnh5dTQ2NFZPY1BNem51cWxnWHd4YVdYNXVmRFVrMVZQajhST055RWl3eWk3WTdtX3czNGVhdjlaZVE4VXNsSDBjaUExc3lqSWVtZk85VHhXZ2ZQWDQyTW52TEFmaUtoTEV0NW4xdTlmRDJFUE4tTXBhVG5OdkNDSjZiV2Z4UGlUV0dCN2FhYkFrUdIBhAJBVV95cUxNRTlldHVoZURMQ1VMWW1kLXAtLUtCWG1UaklqQ3pCTUNhLUwtUjY5MUsyczh5SDBvSUNDaWEtcS1wZVcyX0tCcDd4TTcyd0t2SWF4emF4YUFmeDZFRFVJTERQU05jbWVTX3hWSVJqYUJMSFdiUUk0RDBsbzRVQ2phRUNWWkJKMjBxNE5BT2RmejZSU05MU2k1TjNLNUhOUFRfV2N3UDN6aG42SFFNYk1RcUpEWmxTUUJzS082elptZ3M4OHdlcDBGbEFKc2VyejhkcjZ5VFBDUWxTLVRRNWtsQXlCelYxcWVnWEh6RFlUcUVaRUxQUnU3TnZkaTNiaS1kUnNiSg?oc=5",
-    "title": "Mettur dam likely to be opened by Tamil Nadu CM Vijay on August 28; Salem Collector holds inspection",
-    "title_ta": "",
-    "summary": "Mettur dam likely to be opened by Tamil Nadu CM Vijay on August 28; Salem Collector holds inspection",
-    "summary_ta": "",
-    "date": "August 26, 2026"
   }
 ]

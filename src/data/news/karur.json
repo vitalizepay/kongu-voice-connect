@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-aug31-001",
+    "id": "kar-sep1-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnNBclgyck5ua0VwelgyMkE1RHFicXh2RGVfZ1RDZEI2TVc5Wk5OcmRNSjdGWTltbjFGM3pqczZkaEdUZjFmOTYwQVdBenRaX1kyYWltOWsyRzMyUDl5TW0zUHg3Zzl6eG84Y1ZRS29JaFVkV0tlUldQeEltRjg5cHRfbWxZS01peHZzak03WS1TbGExYmY5cy16b0LSAaoBQVVfeXFMTXQ3a2otMzllbS1kWWh0bFl2TmdmTm8yamNJMWhMaDRESDItZXYxRG9rOURqNXgzQjZLanJ4WWQ3blNSVVNnaDdsMlB0al9RaldRamozWTkxQVl2aGRMaWl0NDA2U1dXZDBfNldIWHVmWlJ3VmdKc2lFY2ZFWkZmaDh6bHRBUHNWdTVVbUczaDNIaWdNYS1RaWZqa2dPNE9HZFU3UkYtRnlnT3c?oc=5",
+    "title": "Karur residents plan protest against proposed ethanol unit",
+    "title_ta": "",
+    "summary": "Karur residents plan protest against proposed ethanol unit",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "kar-aug31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3JNZ0pZbGRRWmw0NHBRUm5mVjFZcXpJdVBwaXZxY3ZlbjFIUFM5U3hPbzRfMVppSmwxdnBMSHYwQ0pZaGNTSXRLY2JtYzEwY2RoVlhzdk56RGJCZTc4Njh6ZXc2dEFCYTVacU5PTFlsV2VLcGZ2VnFEVFdqTXh5d29NNUFJSzdrQWdMd25yUHNYbnd6TGh4aU1WMFU3ZThTdXY3dk9keUY4anVNUXZNWlQ3dDJGd9IBwwFBVV95cUxNQ1VwMFoxT0VfOWgxV2lZN3FuOVBZbENSbzdVUHcyVUV6ZVpjM3lWYmdOR2xCYzNNWGo4eHdtM0ZlUzRZMEJNT3NEUmNJRXp0MG1OemxMSl9iUXN6bUNZUzBib3BsZXNiaTRuemt5d3VPcjNJYUFaMWhHb1p1VEJoQ1hMV0tJVlV0VXhsTU9jTldFa1VpZUVUbVZhYmhmb0JJRjZiWEJaQUZkYnZmZURraGVtbl94VGRrS18xMzZ1NE1fYlk?oc=5",
     "title": "Tamil Nadu: Green activists oppose proposed ethanol manufacturing unit in Karur",
