@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-aug31-001",
+    "id": "coi-sep1-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFF2QkNncWZfQ01Qb3htTWZrQWFFRlB6T0ktS3dzZDdzVWlpRkIzRDRNOTI1QjRaYmVTTXI0YnNsVExOYUNSN2tGT0FrR2NpZnpYWWFkNlloRjFwR2ZoNDRJWF96dklUNDNQMXJlcG9FYktYWGIwTXIzTDQzTUVZTmJNVlFEQllyaW1OeGlXT0FNTXpfWkQ5RldXVHNtZDJIYXlYaVdHbldoZ2kwbFNfRHpqNFZJNTlHakQtSHhpc0RHMVhwbWdr0gHUAUFVX3lxTFBxVXFKOFFUVjh4MHFqRy03MDc5YzVTeENWckkta1FqOThmS3JoaUJabi12a0cwb3BfeU95eUVJNW1zdHJjc1FXTmNLU1ROSExFUzRIRHVSdGpkTzNGa3g1Ny1LU2tubm9WbmwtWEFiV0M3ZTk0LTdNcnc0MHBFVEI2YUxxX2RRV3RZd0Q2YVYzdHdiRVoxbTF5Qnp3c2M0RkZRSkhsMlBoMG1Sd3dNakJvSFMtTDYzbmVGMDJHbzczSUxvdlVvUE0yRWVORno4TFQxNTRI?oc=5",
+    "title": "29 Nepal flood survivors reach Coimbatore, no word on former judge",
+    "title_ta": "",
+    "summary": "29 Nepal flood survivors reach Coimbatore, no word on former judge",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "coi-aug31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNenFyY2UzeFVqQXBGQWxra1J3LTFqc29rS3haZUlOY2N3SzBTNldwSGVYekVTVjdIQjRDeFpDNm5pd3lWaWFMZkFSLU1XU0RwVmZubjhWeVloUkxBd3ZqU0pBZGNQdjZ3OVRsVS1NSWh4aWlxSmxfdnBIM0gwYmVBWG52YzU2OHZKZkZsdlBON0RfdzJLcFVGaWwtWGc4ZWI0YnhoaDFpOG51OGEtczBJa2VvRGowODYtMk9OTWNURDloZUt0eVRfcHdxZGlkT1XSAdYBQVVfeXFMTWphUDBsSHY5ak9zZ2s1Rm5XM0ZNVkwxQ3hCeHRleW52RkFuWnV0eHQ1RXRkNVhMcVlfcjBkT19kLUUyOE5jYVh2NmdGOFB0T2xYZGZFRzhqc3d0a1Y5RHk0VS1PRExYcmxHRUp5anZFd19oV1NadXFfRU9hUW4xQ1BzTUx2V21sZEpKM2x4ZmNnZDZMUTdfRG1LZHVPWmxWUy1RaFA1T01adTNiZGVYdDJuXzFaQVFJc1REN0JHN3ZLUk9FRG5UVXFnVnJUWjNiZXVsRkpZdw?oc=5",
     "title": "Tamil Nadu CM Vijay announces Semiconductor Park at Kancheepuram",
@@ -130,17 +142,5 @@
     "summary": "DMK worker hacked to death in Coimbatore",
     "summary_ta": "",
     "date": "August 29, 2026"
-  },
-  {
-    "id": "coi-aug28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZGlWYTNwbXBYNlNqQkh6Skl3ZDFJSFpTZ3VJRkVqV25PajlrZmQzanhqYnZsQm04b3dtMU9FSzhtXzhnRzdmc2JUN0FXelFuZnIxMGFmR0VKUERtMmtjcm5IT0hDU0JOd0pUUkl0ZE1BdXhYRXlFRzJocGhoTjg5c2JGQUM0YVd1SlpHMzFDRENFOW9mX2lYd2poVnl0TDBZeXp1T2syVjYzdk1MV1RjUnlBYUtQVzJUdWF3ZnlleHZKTkZyZDNTcDRoN3lxbk12NUhtR3BhOUhfenNLN0E?oc=5",
-    "title": "Nepal Flood: Harrowing wait for 85 Tamil Nadu pilgrims missing in Nepal flash flood | Chennai News",
-    "title_ta": "",
-    "summary": "Nepal Flood: Harrowing wait for 85 Tamil Nadu pilgrims missing in Nepal flash flood | Chennai News",
-    "summary_ta": "",
-    "date": "August 28, 2026"
   }
 ]
