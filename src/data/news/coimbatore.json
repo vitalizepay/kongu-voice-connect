@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep1-004",
+    "id": "coi-sep2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObklqZVpnMkFzXzFZNnRZbHBzbmI3TDJGX2hnaFRTaktoeGN1YWdxUUpNYndyZ1ZGU1lGUFBOd2drT20xZXFHbDFFVjRha09mSjFHU2o1WFNibGpzRi1Qa2VCVG5xWDNtQzE5RHVyLVl6M2NOaGEwY3A3MjZOUzN6cEtrRmI1N3hlbzJQZ2lvODZoTjJESHJ0MGc3OUpDclMtVDhsRFJGUHFxbUU1dHRVVG84cEFCRk9GSzNUN1UzeGo4SHV4N1hkRzdDcHNXTzBfcldYUUtIdFh4aVotanRRaWVQOVlGaDFLWEo3N1JHVGRhT1hs0gGCAkFVX3lxTE5aRGlGd1ZVZjAySkduOExzQzdDUUhIN0RtRUpsU1UySDBFRTZoYmM4Sm1hNDFxWlhGc3d2VzZKVmNGcVZkeVlKRlA0ckFyaXg5R09TSUR0dDUxU2tVcl81aURNdTVkOC15WnNNdDI5cjhTWG51NW1jblBDTzVaQTNBQmpaM01SUEdRWkVsbktiaGJZYm9sQmlrc1YyWjV3a1NHWUl3NzRpeUR4MHZSSnVjLUM1SmkzUVVMRkE2cWdsSGRkQ2N2VFNXOE5HcEhWS0dGdUVJNlFtQ2sxUDJ2NkFGTXlvbUhXUDhvbWNETUhldTlHQW1FTzNJOXFoYm52eFRWUQ?oc=5",
+    "title": "Nepal tragedy: 28 Kailash Yatra pilgrims reach Coimbatore International Airport, receive warm welcom",
+    "title_ta": "",
+    "summary": "Nepal tragedy: 28 Kailash Yatra pilgrims reach Coimbatore International Airport, receive warm welcom",
+    "summary_ta": "",
+    "date": "September 2, 2026"
+  },
+  {
+    "id": "coi-sep1-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVzNzMVVsaWZYWUpwanp0S2ozQUhfVTZIOXFGSVBFY084alZXdWxzOU1ZWkRHUTBvMk0xMVBKci10eDd5WjhPM0NEb3d5SkJUMXQ4dUJhSjRhRHZCeGN4bXVVbXVMWWVvMm8ydXpKWl9DQ1FIMGpYdDhQLTJENTZFQkZDdklfblpYRjhaQjUydXZJV1h3MFN3R1lUUWpXeVk3azBaNU9hSmRNWnpEbFNPSnRQN0JJMWNGSkhFSV95SVJsNVlMSXV4N1pjTnM4TGJpLVFjZThEUzhrUDIxQ0tqT3NpRi1MTGxiYzg3Z0g1UjNZU0tjTUE?oc=5",
     "title": "Tamil Nadu: 28 pilgrims return safely from Kailash Yatra after Nepal flood, receive emotional welcom",
@@ -130,17 +142,5 @@
     "summary": "Chennai Bulls win equestrian champions league title in Coimbatore, bag ₹15 lakh",
     "summary_ta": "",
     "date": "August 30, 2026"
-  },
-  {
-    "id": "coi-aug29-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZTl9OaG9sSFVpelhGcHB6Nm9iclFpeUpveGZoTXUyOWU1SmhhOWQ0cXAxNnE5RFgyeGhPNHpXVi1tTGxuVUY0YzlNWHVRenFJbjN6Tw?oc=5",
-    "title": "Vice President C. P. Radhakrishnan Receives Warm Welcome In Coimbatore",
-    "title_ta": "",
-    "summary": "Vice President C. P. Radhakrishnan Receives Warm Welcome In Coimbatore",
-    "summary_ta": "",
-    "date": "August 29, 2026"
   }
 ]
