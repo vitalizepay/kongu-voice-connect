@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-aug27-001",
+    "id": "tir-sep1-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaWdaZXdGSDdkc1dwZXFzTGxoaW96RDY1d3RTNmszNnhsUEQ3QkxXeTNRcWMxeTItTkJfQkN0OVl4cDlfYkh6QkdFLU5zZUxNOTRrYVp6dXhndm54aXhTVm1BOGkxVkQwUDRrQXJMbDhmMnpvM1lncE5WbjlONDBRTHNUS0tfOU9YcUxLM2oyX3JQZS02ZUhHb3I4RU5LZDBqUF83cktoSTdCZHEtSkxnd3A2MWswdFlXckVLcGhFTkNJMXkyWmMydzYyLVVpWW1qbGpJTllWYmZ5cmJIQVhMZTdUc3U2TnJRdEwzX2tVSjJ6TC0zWmtB0gH8AUFVX3lxTFAzdW9UT2EzZXJCYWR1b0w2cGhtcFdxcGprRzRTZWxEYWQzQkhDaG9Rdkk4REVnTm5FWHFaMEw2bzIwMVZRcmo4eTVoV3Y4S3RBZWRIQ2hVWjNjbTBNNDlOU2JyWndMZVBPRTJmQmhuMkJRc3AwSkpBYUxPUTRWTmEtYnVLSnJOaG0yZ2dIUE92S2tJT1BvNDZ4M0lJRlcweDhROWZfNEZPWlpfaUtVeFdLWnBqb2VNeWtYRHlpRlhjMThSQmJ3RVduWkNIc09tRWdtTEUwajFjak1zQVo1Vmc0NjB1clJudm9FRG5ZWVIzWEVWLWcwZlEwNDJDQw?oc=5",
+    "title": "India News",
+    "title_ta": "",
+    "summary": "India News",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "tir-aug27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdV9URmpjWkwzZ2pneGRLdDlkZVd4LXlXYUVZWGZieFRNRy1SbVlsbFF0T0IyT1hlQzUxOUxqR1dkN21iRE1EMkQ0LWp1elBGUjJLeUhQU1VMemFLRVFSZmMyX212OFJGZWstMnFZckVsdk5abDRDeXdFNW9uajktX20xXzV5cGdham5HSWVzLVJCNWlDcXdKR290MUtLX3lXWGtLUmFja1B5NnZfOUlvOWFQZEg0VVg1bGtQSEdKXzZCMjl6S0l6SjFlT1ZOZ1lwZTN0eTBKQ1ViSVY2VWVsbndDRDNjcDN0VVlJN1VLRjdYbUw1NTRIRjJYMjZkSWl4MElPR3lXWdIBhwJBVV95cUxNdV9URmpjWkwzZ2pneGRLdDlkZVd4LXlXYUVZWGZieFRNRy1SbVlsbFF0T0IyT1hlQzUxOUxqR1dkN21iRE1EMkQ0LWp1elBGUjJLeUhQU1VMemFLRVFSZmMyX212OFJGZWstMnFZckVsdk5abDRDeXdFNW9uajktX20xXzV5cGdham5HSWVzLVJCNWlDcXdKR290MUtLX3lXWGtLUmFja1B5NnZfOUlvOWFQZEg0VVg1bGtQSEdKXzZCMjl6S0l6SjFlT1ZOZ1lwZTN0eTBKQ1ViSVY2VWVsbndDRDNjcDN0VVlJN1VLRjdYbUw1NTRIRjJYMjZkSWl4MElPR3lXWQ?oc=5",
     "title": "Tamil Nadu: Tiruppur garbage crisis resurfaces as corporation turns to stone quarries for waste disp",
@@ -10,53 +22,5 @@
     "summary": "Tamil Nadu: Tiruppur garbage crisis resurfaces as corporation turns to stone quarries for waste disp",
     "summary_ta": "",
     "date": "August 27, 2026"
-  },
-  {
-    "id": "tir-aug23-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNendLX08zOUVST0lQaEpaYW5JZXdwV3BBaVlUOWFwVEZxWTFqQVBGOWo3Zkw3M3hoWTRlLThtaldhZ0k5bjBWalJmVGFIcDJNaEU1Q3dkaEUwZDVzaWdhTkNPRUoxaGx4TTVpUDl4WS1CblJOaUtKSm9ySkJVMDNoMUpnZFpqbWRXTjhhRVROTkZvemdRR0NvNDBBMlNQSVZwTW5nWHlCbw?oc=5",
-    "title": "VKK vs ITT, Eliminator, Tamil Nadu Premier League 2026 - Commentary",
-    "title_ta": "",
-    "summary": "VKK vs ITT, Eliminator, Tamil Nadu Premier League 2026 - Commentary",
-    "summary_ta": "",
-    "date": "August 23, 2026"
-  },
-  {
-    "id": "tir-aug22-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVHRvSERvZS1zaTVZSnJKSFM0dkU4UWRIMUVxNFEzSGlHRmE4VnU5YkltbFpIMWFLWkNhcVlKeGVlcENTb2wtV0N2aGstNkpEdkZxTXlMd19JRWltUjJOdlJXZHhaZzdqUG5vbFh6OGx6NG5xTE5pS2tUUU55ajhYTjRvWXFVOENCemcxUXI5MmNiOTdYaGI3NUFYN0c5VmFYNDIwemVnMFM2RU8wNzd6Sjl4OVRkb2tLM2JMNmZFVHdZUl9EN19uQXFubk1UQ3R6bWtjVUE0cGktc2xVZVExb2V3?oc=5",
-    "title": "How to watch Tamil Nadu Premier League 2026: Live stream, TV channel, start time and schedule for TN",
-    "title_ta": "",
-    "summary": "How to watch Tamil Nadu Premier League 2026: Live stream, TV channel, start time and schedule for TN",
-    "summary_ta": "",
-    "date": "August 22, 2026"
-  },
-  {
-    "id": "tir-aug23-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1YzWmVKVTNqSGdSRVFzTnlEY08tVS1oSklhTmNPaWxkcGpHZEtpTGRQRE9RcURTc05PNmtCcG5QNFB4VGN1NVctY1NtTUJjV09ELVV5eHd6cUxkWDduNEQ0SjV1LWI3SHByS2F5aU5qMXlsVjJSREVWXzd0QUFoRHh0YkV0NFZSV3pRajNjaWZVUzllTGllN09BdER5N1BoajctdmhQc0ZRdXYyaUNpa0Y5YjJQMlVLR2w4aVBMVUZsbXNuMUJ3ZFJvNnoyRmVHOWFaWkdyUDRFcjM2UENRZkxPRTZJRjNTWk10MnQ5LVZ3Y05MZExfc0lrWi0?oc=5",
-    "title": "TNPL 2026 Eliminator Predictions: Lyca Kovai Kings vs Tiruppur Tamizhans",
-    "title_ta": "",
-    "summary": "TNPL 2026 Eliminator Predictions: Lyca Kovai Kings vs Tiruppur Tamizhans",
-    "summary_ta": "",
-    "date": "August 23, 2026"
-  },
-  {
-    "id": "tir-aug21-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg4a0N0LUV5RXpDcEt5ai1mYW5tQUtfZGRVQ0hIaDBMRmRMQjd6MWhTY1k1cTFuMG1OdndORTJlbkNQMWlGbEdvN091TmtxT2szUlJBR2dNZ0p6cjVYSWlqSUZrcXhaVWNCTk1CMDdrNjVSYVpoZkM0cWdrVWJRM3JpdGlKRGt5aS1R?oc=5",
-    "title": "ITT vs SLST, 27th Match, Tamil Nadu Premier League 2026 - Commentary",
-    "title_ta": "",
-    "summary": "ITT vs SLST, 27th Match, Tamil Nadu Premier League 2026 - Commentary",
-    "summary_ta": "",
-    "date": "August 21, 2026"
   }
 ]
