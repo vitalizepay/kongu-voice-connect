@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-aug29-001",
+    "id": "dha-sep2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYnV1cjZqa0Q5MnNGRlo4QVZFZUdtckxhQUg4YV9SYXZPdWJ5bi1saGo4VDd6Y19RN1lUeS1FNlNIcUpzT1FqdF9JQWtKbk1EOWJkN2ZKNUVHbERPWEt4T2hSVzMwRDhrb3RqQkg2Sm1pMFhpa0lYVG1oN1RJODdjcXFGeFFKZEJYYXdwc0V4QW1SZE11Qjh2bFVXdG9hcEFSRlRHN3FLNUpLWGtsUnBJWDBieEZTZzlNdHRUODk4T21TYmlKcExqcUF0MjhjeDJ6ZE9tOFU0NE5VS1M0RzJnZA?oc=5",
+    "title": "TNSTC bus driver killed, seven inured in road accident near Dharmapuri",
+    "title_ta": "",
+    "summary": "TNSTC bus driver killed, seven inured in road accident near Dharmapuri",
+    "summary_ta": "",
+    "date": "September 2, 2026"
+  },
+  {
+    "id": "dha-aug29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVJnbE82TU9UV0hKbnVsSXM4UlFfNmpIRWI3SERvTVh1UnRWUjlPZGJiSENyU2tYNFNOVWoyV2VnUDNwWUVQNWJrS1pKNDVTQ1lXYmh6eW5TTkhRZW5ibkdzdE9oaWh6SC1MOWpkRGRQemVpZDVjQnN0VHlISTdzTjNGZVdMMHFTUkZqczZqT2V3YXhxYnc0N3dZQTF5YlRqVk9ZaGkxcVBwM0JEZURxTDE0aFBQUlZiVDRLQW5lNW5YQThxY0tKVWRvZkxGQzhrRjUwamlxaUtsXzMzdWFmQmpIYmdjNFNWVWU2eGtfTlJBTnJjVlHSAfYBQVVfeXFMUGVSZ2xPNk1PVFdISm51bElzOFJRXzZqSEViN0hEb01YdVJ0VlI5T2RiYkhDclNrWDRTTlVqMldlZ1AzcFlFUDVia0taSjQ1U0NZV2JoenluU05IUWVuYm5Hc3RPaGloekgtTDlqZERkUHplaWQ1Y0JzdFR5SEk3c04zRmVXTDBxU1JGanM2ak9ld2F4cWJ3NDd3WUExeWJUalZPWWhpMXFQcDNCRGVEcUwxNGhQUFJWYlQ0S0FuZTVuWEE4cWNLSlVkb2ZMRkM4a0Y1MGppcWlLbF8zM3VhZkJqSGJnYzRTVlVlNnhrX05SQU5yY1ZR?oc=5",
     "title": "Dharmapuri-Morappur railway line awaits land acquisition, passengers urge speedy completion",
@@ -10,41 +22,5 @@
     "summary": "Dharmapuri-Morappur railway line awaits land acquisition, passengers urge speedy completion",
     "summary_ta": "",
     "date": "August 29, 2026"
-  },
-  {
-    "id": "dha-aug25-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMk5jOEF3TFA2bWhsNkNmaGc2b0w5dm9ybXE1TkxkS2RJUVJyMGd1eDhybEdBTFd0dHlqQ2xNbFdBbnJ0c2RxNk1WZHJGdXoySWtxeGxHNFl5UzJzYkN0Yko4cFQyNG9pbC1SOFZ6VGtXSGpET0lHZXB0bWpDR3UySmI5b21iRDlWVWs0RzZRMGZEd3FOaFB5OXIxbjhaSEhvXzMxVnhsVHhNMnV3Zkh5RWhOYkVqd0lWQ0dPYUVieC1ORlJSOU9fTGFn?oc=5",
-    "title": "Tamil Nadu’s Rayakottai Bypass Opens on NH 844: Hosur-Dharmapuri Travel Time Could Drop to Just 1 Ho",
-    "title_ta": "",
-    "summary": "Tamil Nadu’s Rayakottai Bypass Opens on NH 844: Hosur-Dharmapuri Travel Time Could Drop to Just 1 Ho",
-    "summary_ta": "",
-    "date": "August 25, 2026"
-  },
-  {
-    "id": "dha-aug25-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3RpQTNNMEZlMDFsRGRza1RZY0lrb29LSnc4cnNOZnl1cGlxdjlkUGVsOTdkYmNKM2pOMmhTdEpNcnJwbzRlQ1puVGVSZlN4Slo0a2M3Z2t3aEhXT21vZkdZQjhtYTR2YXRWMkk0Z1BHZVU4ZmNHbW93N2M0VmZqUXlITnUwTC1sVGdDNk1XbGVSYVBtWHMzbTFtb1JhMFQ1dFhSLQ?oc=5",
-    "title": "BJP MP Arvind Dharmapuri alleges surveillance; Telangana DGP denies it",
-    "title_ta": "",
-    "summary": "BJP MP Arvind Dharmapuri alleges surveillance; Telangana DGP denies it",
-    "summary_ta": "",
-    "date": "August 25, 2026"
-  },
-  {
-    "id": "dha-aug23-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZVA2N0FQaHpxOV9lUzBnNDgxNzV2T2FnSWdfbWU4ZndzVUhjclBqcm9fZGZOU3M2MWUxTFF3bDZEWE9uTXNUTzRURWVIUWpySDBzTkVVd1Q2TTNzUmhESUhkRkI3UmNLY0w4di1fMXduRUxNcXhPUDBpbEhCSXIxVjNOX0xaNkM1cWxLeWhtT3Bta1V0aUprT3RuLTNLdUo5VWpOdVpxNmdiNnU4TWxUQnRacEhMNkJETEJsdnJPX21LRG9SMlpQdjduX3k3SW4zZlZ5QjhHR19qREZNaHNr0gHsAUFVX3lxTE9ZVmZBbzlVZ3R1NkNNU3lmS3RFTnFUVk52OVVCLXllbnRoYUpPVGl3dERkTllDRzFMb0lqWm05dmM1U0R2QkpXejN0ZTBWd0dubFpJcENHeDZpSEhrOFRHcG55U012aFp4dUZ4QWQ4YUFhOC1Kc2xhT1Z4MmJNQ0syQy05QWoyT2JBTXRyb3lXVXQ0S292Yy0tV0E4eGdOOVpMRE1LRVM2MGNoSXpmaXg2cnhwRHRfSS1BSmhuWEozOWYzOV85UGlXOXkyNHF5bllDUjRVbkt4b2ZkZnp5R1hOd1YzSkh0UExYeU5h?oc=5",
-    "title": "Hay prices almost double as scanty rain, record heat bring down supply in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Hay prices almost double as scanty rain, record heat bring down supply in Tamil Nadu",
-    "summary_ta": "",
-    "date": "August 23, 2026"
   }
 ]
