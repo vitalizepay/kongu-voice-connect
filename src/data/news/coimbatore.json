@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep2-001",
+    "id": "coi-aug31-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2NaOTI1NV95R0xoYjl0emFXTmIzMXEtYlU5cHdnckxjZmNPX3dicExpdTIyQUpiY2VEa3NVR0MxQ1d1RE03SmRNcTNCUS1iYWxwWU53N1VyaUhRUjV5dG1oTHZtc1pCd2hQVHdCOXVCNDhjUjE1OVJUWU9LRHZwUVMydlM0aFlTd0VXbnBPa29yRGF5YWdUQUtoSk1ZdnphMVc1UjBHZHVOTmFlS2RCTmNEODRpejlKZFVRRXNmcWtIc3pWQVNMWDBTb09CbENGRDQyWlZR0gHbAUFVX3lxTE9adE41cmFiYjFnd25nX1psWmE4eThKM0ozYllkLU95TFNWc0pJam5POTNDMGNJQlNjeXRUV2RfbEh4SWE0alJQbWF2MnJIOTBoSzBIXzAySzJCdk5nMDZIQkdfaVdGV0lsMDFQVlp0Q1ZydUdUdXNNMjhuZ0pGQ01LbnhSbHgxUkFYRE1ESEtJdy1mVzhHRXRSMnhQN1V1OWd0LVhhLXNwUlpub1BaY1NVMnZ2UGF6M3J0Z3ZuRW5zR2VWdm1pUVAyQlRmN2ttbnZ4ek9TOTZqS2h4WQ?oc=5",
+    "title": "Brigade Enterprises forays into Coimbatore housing, eyes ₹600 cr revenue",
+    "title_ta": "",
+    "summary": "Brigade Enterprises forays into Coimbatore housing, eyes ₹600 cr revenue",
+    "summary_ta": "",
+    "date": "August 31, 2026"
+  },
+  {
+    "id": "coi-sep2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPXzdMZzRqal92akcxaHJlc00tc3Zoamg1c0psMkhBTWRiT3ZVNmtVVXBFekRQbmpUSGc3UEdQUU5kMWJWR0Y2ZHA3TkxwZzdBR1RUeEJqWXptTXJ5Y2owSVhObE5WNzh3Wmh3dzNjcGg3VEg5R3NLTE03eDh3bkUySk16NWk0b0h3ZkpNNE5ab1lFS2h0S3REVExJaHdyV3pBaDNFUk1mWXdEMU9WeUFZSHJUaHljQUk2N3J0M2FuRUthZzF0cDZ4WlRmV3B6b3PSAdQBQVVfeXFMTWlMbVJmWWk4eVlMeTZrSFVfZFNNVHc0endpTXZUXy1vU3ZBRVpoYjl4YlhNN3JmWFFhQnF5MWRCM3JGbHZzbWlpeUdsaGhFVkFPTEYxOWNOaWlGaGQyWWw1TGxiV0tobTFacEdjTURabXhoeUdUZUV2eS15eFd4cTZHVUdwQ0I4M29rSVRQd2JRSGVVZF9RTVFCaElHcWdwZy1sN3FCWEEteUFQUXdzMDRvU2FiVGZMRXJqMmR6OExKeVlXZmQyaG9scDVSWjBEUjQtQTY?oc=5",
     "title": "Coimbatore gets its first transwoman TNSTC bus conductor",
@@ -130,17 +142,5 @@
     "summary": "Coimbatore Jewellers Seek Priority in TN Government Gold Ring Orders",
     "summary_ta": "",
     "date": "August 31, 2026"
-  },
-  {
-    "id": "coi-aug30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUhKdWcxamtjTERXbnlFRFhSM2tna3FISGxYdkVrZzRxTXAtZjBfcTVDMWhrWVM3V1ZQcy1SSHRSVTNLY0ZfcHpZREJEdkl3bTNuYzNiVUtIQmhCQ3FMOGwweE1YdWNldjhjeVBRb2tjVzlOeHMwUkk3N1NlTFFRa2FzOEQ4Ui1yb3VzZTVPQkNhbDNaZi1nRVUzU1hNbVRjOFhmZll5UTdiYU9tNXhhaEROb29yLVNQNGJPSnhqLUZaRTY5cnVIUnpmSkRFclVJRlFTMnE1YXpEUFhuQXhnUjAxanhlcHlQYTJJ0gHwAUFVX3lxTFBINndBX0MtSm5BMzN4R2E4bGZPTE1FRl84Z29zSGFYeDFoR1pDbWZab0JudWEzenNwOGU5QzRxUDB6N1VUZ1JlQzM1X1VIODJjcGQ5bHJOTko1bU80S012NXVQbWF4UDA4YUtrX200c3RVcUtZR29ReUtDcDRZOHh3RVppbUU0VzNfTGFEOWJTajFleW1FVGVad3hBVGo5VUgwUmQxWkxIaHlMaUV1TGdZNDFQcnl6N3pVTzdJQ1poOVU0ZFBEWFdTb2VwbGVlT1ZJaWZzWE01ZnZLUzN2MXFqLVVpWUJzVkRaQTZITFNUYQ?oc=5",
-    "title": "Chennai Bulls win equestrian champions league title in Coimbatore, bag ₹15 lakh",
-    "title_ta": "",
-    "summary": "Chennai Bulls win equestrian champions league title in Coimbatore, bag ₹15 lakh",
-    "summary_ta": "",
-    "date": "August 30, 2026"
   }
 ]
