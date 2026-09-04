@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep3-001",
+    "id": "sal-aug31-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXF1aThra1B2WGNFbmhiM2tFN2N1MWdsOVNJWEdwRDhjMjdwTk9JNXRsUXFRcUkwMV9UWWNVTWc2OHREYXltWGEzV2pKdHNkWkJ6ODFzZGFZWU9EYzJLdDBVN2lQU3Rmd0ExR3RIN09ydHJUczI4c2VjZk5oamtjZDNsU0dxY3NFanZGZ1hTOVZ4R3RTYm5uc3VaSDBpb3RTallJYV9Yd3RTZGJUVHBXeUltS2Z6QnZ3RjlucERLcDTSAccBQVVfeXFMUDkzSks4UmZ6OFBuOE5YTzE3RW92Q0ZlQU5IcjYzcTFJcW1ZT1lyTHB3TUlNQ2szZnJZRjhjRXQySjBrVV8wNUxZZHBfXzRhWERZazA1Qnlqc21EdmNjR1RVNlIxV0dEOENTX0RiazJXVFFIN2l6VzhFa2oxV3Vadi1WaGtGNEZSNURrSzlSUGR0ck9lRjlWd3IwcVpDeHdwWEJiS1Vmb3psX0tvNUNqaUlseWlMU2ZHXzJmUkNNSHJkc3BhUl9HUQ?oc=5",
+    "title": "Mettur Dam: the water source for Tamil Nadu’s rice belt",
+    "title_ta": "",
+    "summary": "Mettur Dam: the water source for Tamil Nadu’s rice belt",
+    "summary_ta": "",
+    "date": "August 31, 2026"
+  },
+  {
+    "id": "sal-sep3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbzlGNmVkckJJQmliN25hcmxaZGE1SnF2SHctczhOcFhvQW5xYUpWZmQ3R2dEck9vdG9OOUx0M0dtUXNWbTJ0QTRRWmV5dERya2tGTi1hOF9kcXJBS0c3VmhrOFlpTGdGOWJoZ0dySVV5Q2RrbkI1MEJrcW0zMkdMdW5fd2g4TUNxTVFJY251V3EyZTRycUJHYXB3eTA0T1ZMc254X2FrTm8tWXZ2NzdGYl91THNvbTEwV0d2X2czZDk1bXBKcnFjVjBzeGJ6Q1NPV1JXZnZpbl9KMVpyRzZFNGc5NTNzNmJjOTV6ei1QSdIB9AFBVV95cUxPTFZYaml2dmxlQVl4WVBwbFBDRFA4bEdEb09saG94UFhCRDlYR3FvLUFRanFGN2lEV1luaUlVZzZ3ZElXajhqRDRtU3A3Ql81WnBCVHpLNm1VaU8xUUxEVWVobTBoT0ZXSlhYOXdDWXhxbmt4bU02cHlNVVZIVHFYUkFTNEdEaUdWcnRIRHJ5NFB0cXVYNThZS1ZfeFNvTmV0WTZZa0d1SjN0VkNIRWVwWXNpNUdJRmFqVUhqWUtRZ1ZtY1JMR2VxaHJsaFp1MFhwVHg4ZnVvQ2pKS2VhTlpibzlPWmJlRmlxVEJvSTNwQ2ZHMFZL?oc=5",
     "title": "Salem district administration facilitates Rs 408.67cr loan to women’s self-help groups",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
     "summary_ta": "",
     "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-aug31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON0NaUUpJUlRvblAyVkZpWE5WelJuYVU3LVJMR1EwUVkzTHJtZ1psclYyWTg3WFMzdUZPbWxhRjlwZUdCWTN1MjNIT2xYbUgxc1o1VjV4WHNBMXRrQXQ3MGhrWU55Vi0wWTM1anotYVFJRzhHSVU0aUpUbWc1RWE1cTI1bjdJeXhwWnMyMlVMLTg5bktIYktCeDB4d3VNRkU5YVdEcTFaNTRLdGJWcGh5ZjYwbmExSFl0YkNqYVVaN3pQUVRVUU5pTnpObi1UUFhERm5OZUE3T2_SAd8BQVVfeXFMT05jdGhfWm55aDFmSXpmQVAweUtLbC1jNHJFMDdSLVREOWdaeG9hNDdOS1o2d3FXc09aSDE2VmtadjhrTmpWSm5RQTdaVFctR1ByZlZWSjRiN3pLZWs4Ymd3VGY5TjduQWhlMlZrR0hLUjBlcjE1T3FFRlZmbllHOHFDbnlUek5Sb0U2MGpOUUNlbktRY3dZRExNTWt5bjRKTUUtTnVCZDJuVXJia2V1Wnl1cmpqZEhYZ1VtNmQ5NlpVVzBfYVNJeGg1TW1vVXB0dVp3TzV2aVBOTWFXbnhfbw?oc=5",
-    "title": "Security tightened in Salem ahead of Chief Minister’s visit on September 1",
-    "title_ta": "",
-    "summary": "Security tightened in Salem ahead of Chief Minister’s visit on September 1",
-    "summary_ta": "",
-    "date": "August 31, 2026"
   }
 ]

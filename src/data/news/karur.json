@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep1-001",
+    "id": "kar-sep2-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXZ2V2JGdzYtQlhmazA1eFRaVEQ3QW5rR2VUZkdqSlJLUjFUQTZuWFlIWm1QbVR3bnE1VGE1NHRIalpwSzR5cmpIUTRYcVR1SmJmOUZpS0pYcF93YU5kMkdKeWdCaXd0dm14SS1ZS2luSVFNVjVJWjNHdUNuZVE0Z2V3a0xxMm1CU19PZk8wRdIBnAFBVV95cUxObkVCY3NyZlNMMFJNQWdGM1FJRDhlVG5zTS1jU2I1NDlnRXpGWFBTZDFJYml4TjgyXy0zejRiZlV1M2gydGhoMHpVVEpGRG5SRjNOMVF0TnliT2FkNGxUZm84YlpldHJ5RG9qd0ZpV3hSdXNBWVJ3NkZTU2liRVRJOWIzeVMtbTZMV1c4MXRfeXVvVGFsazVjbVJ2dm4?oc=5",
+    "title": "Karur Vysya Bank opens 16 branches in a single day",
+    "title_ta": "",
+    "summary": "Karur Vysya Bank opens 16 branches in a single day",
+    "summary_ta": "",
+    "date": "September 2, 2026"
+  },
+  {
+    "id": "kar-sep1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnNBclgyck5ua0VwelgyMkE1RHFicXh2RGVfZ1RDZEI2TVc5Wk5OcmRNSjdGWTltbjFGM3pqczZkaEdUZjFmOTYwQVdBenRaX1kyYWltOWsyRzMyUDl5TW0zUHg3Zzl6eG84Y1ZRS29JaFVkV0tlUldQeEltRjg5cHRfbWxZS01peHZzak03WS1TbGExYmY5cy16b0LSAaoBQVVfeXFMTXQ3a2otMzllbS1kWWh0bFl2TmdmTm8yamNJMWhMaDRESDItZXYxRG9rOURqNXgzQjZLanJ4WWQ3blNSVVNnaDdsMlB0al9RaldRamozWTkxQVl2aGRMaWl0NDA2U1dXZDBfNldIWHVmWlJ3VmdKc2lFY2ZFWkZmaDh6bHRBUHNWdTVVbUczaDNIaWdNYS1RaWZqa2dPNE9HZFU3UkYtRnlnT3c?oc=5",
     "title": "Karur residents plan protest against proposed ethanol unit",
