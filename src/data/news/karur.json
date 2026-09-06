@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep4-001",
+    "id": "kar-sep5-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjhMQXZXSmJRek5jRC1nTDMxaW5xNmJaMmhvSVRpUjJoR0ZmODZNOVZvXzMzaWdoZ0xJOFR0aWxWZm0zSUZDM1JIVjFObmtVMDZrazE4WmpVR1RNNVZSZFhCaUJZbGhrVC12RGZJTy1HNWVlSnVCTmtHb1pFd3h0eGpGZlU4RGR0Z1FqZ2p0R1FpT3FkV1V0aHZUNWN3UF9YMUZRekMxMmYwZ9IBrwFBVV95cUxOWkxtaC10bW1scUJqbDQyeHFSQlUyVW45bndKZU1WdTVvS09kQnAyRkZwR1ZMendqcnNFbWx1UXNKeGdfdHUwT2UtN21Ya2Fud01kQ25Lbk9IOUg0eWJLS0NGd2FUcHhCWFlzbXFCSUx6OWc2emMyUHV1Rm9vZ2NhZlgxSHpnM1ZvMlYyWnJEbHZUUnlqVDdZdTdQWXdnYkdMZGswT0dPYmZOcHBwVXlV?oc=5",
+    "title": "New Karur collector takes charge",
+    "title_ta": "",
+    "summary": "New Karur collector takes charge",
+    "summary_ta": "",
+    "date": "September 5, 2026"
+  },
+  {
+    "id": "kar-sep4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUFDX2thQmtwbHZITVhuRGtpQmJXNGlSV0dWdEZKNGtoeGsxZ0dacVhXSVBfaFA5VVNWZTZvRnNNd1poaXRVbXNFWjlQRkhwbHV1X0NDLU1idFRQeHJ4U2s5Vlg1MllfS0ZVYjdWOWplb3lXX2xfeTJZTy1Fa0xmS0tfZTNXbkXSAZQBQVVfeXFMT0JwZmNELW5ad1J6VkgwOEJXcXpIQ1VPTGxxTUcyWV9JQjlJN0V5RU1UZkFzaDNBM05mb2xXc0M2Z3FueXkyMzVmUFA5VG5XT3FFbGlKZExLRGRPYzZBNEFuaDRaczEyLWtXRFM0R0RNVzhFcVJrOFNaQ2xDSXJvLXJXN0lOQnRoVlJaRXA2MUljeGFFTA?oc=5",
     "title": "5 guest workers attack cops in Karur, 3 held",
@@ -58,17 +70,5 @@
     "summary": "Karur Vysya Bank opens 16 new branches across five states",
     "summary_ta": "",
     "date": "August 31, 2026"
-  },
-  {
-    "id": "kar-aug29-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYU1HQUItaDhGYXprVE9ockFQSk9pMzdPN0xHTXdNWldWYkoyWjN1U182TThad0tsMUpXMWgteG9OZ1NmMVRZU0NTcWlfaHEtcHhhRHMyNlpyMUlIbFVYaTd2V1VfZGRrSzYwR2syNTAyYWdhRC1nSTU4QkM0dkxxUU4wcV8wNy1uMGR0ZUZ2dmtKaGhhQXFkWUFMbV9yV1hQNWswYTF5S0J4VWdFLTFmb2dFVmNoRU14VWpnSm43R0NqeGVLUFHSAcsBQVVfeXFMTTBIbmYtOEJucXNNdDdQQk5ZRDV2U1hObXNvTVpvXy1PR0xRdnhKdmo2MGQ0dDNFeHpjczIwOWp5TGpuNEE1aFpDS3BVRWVNaU1RMnF2d0U3eHFYMFlKNlZKNnZtNnBQR0FyaTJUTVFuaDFVckNjVEhHM01veEtnb2hWWFhaWGdrTWhwNnRWN1kyYWpSNFUxMEgtWUxyZlZGdUUxTUtLYWp3b0xEZmRoYVJCRHZuYnM0d3NjS0JpQjQwOVpKQWpNSThObjQ?oc=5",
-    "title": "Kin Distressed as 4 Persons on Nepal Tour From Karur Missing",
-    "title_ta": "",
-    "summary": "Kin Distressed as 4 Persons on Nepal Tour From Karur Missing",
-    "summary_ta": "",
-    "date": "August 29, 2026"
   }
 ]
