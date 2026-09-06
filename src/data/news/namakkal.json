@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-sep3-001",
+    "id": "nam-sep6-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1RNUTBkMmNJSExTMTRaaHBld0tRTm84eG1CYTFmT182R29mWlBuUXJUYlFZVmxOMTlZWjl2SlA5MHJiVXNFVEN4cVJEN2pSRGVOX2FUWndhdFdtWEdHTGZjWVVPSWtaN2ZXS2FYVXZpNlV1dGhOam02OUhFWTlfSE5TTFVyYm00?oc=5",
+    "title": "Namakkal | தவறான சிகிச்சை.. பறிபோன பிஞ்சு உயிர்! - கதறி துடிக்கும் உறவினர்கள் | Child | Tamil News",
+    "title_ta": "",
+    "summary": "Namakkal | தவறான சிகிச்சை.. பறிபோன பிஞ்சு உயிர்! - கதறி துடிக்கும் உறவினர்கள் | Child | Tamil News",
+    "summary_ta": "",
+    "date": "September 6, 2026"
+  },
+  {
+    "id": "nam-sep3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVJZQm55NXZVbjh3QmVXS1hyVVNaRjZENUNpR2sxb1lqbE0wSmhMMkdvaXZJSmJIaGhuV0MxeE1rQ1dJS0QtazZRcWZWYTFLZkt5aGU5SVBpMlUyZjF4Q3NTVkk0Zy1oM3dJODh1SmNaWG5DY0hnR0daLUpzY0hTMklZdXIzSmdacUhtdWpteTg5VGdsb3Z5cG80bzBPQm1qT243alAwOWJ5Vk9C0gGzAUFVX3lxTE1BSjRsZEo5a2ppcHljS0I5emdkVkxYczRiY1dOUkQxdzNvYzEza0lnLXd5dXhpSXdsVm5qU3RhbmNlbi03QmtvTUoxcnlmaGRVS3Rnb2EtZk1IbmUwS1lrMkFBRGVPZWR2VzFiZDJvVHNqLUtBbXpmZUR1ck90dWt3LVlTNGxlM3o1VUZ0dnVRQnFhdTlMUXBCNEJackJseEFvTU9lNkhtY21XOW53R3FpQmJz?oc=5",
     "title": "Four students die in accident in Namakkal",
