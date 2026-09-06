@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-sep5-002",
+    "id": "nam-sep3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVJZQm55NXZVbjh3QmVXS1hyVVNaRjZENUNpR2sxb1lqbE0wSmhMMkdvaXZJSmJIaGhuV0MxeE1rQ1dJS0QtazZRcWZWYTFLZkt5aGU5SVBpMlUyZjF4Q3NTVkk0Zy1oM3dJODh1SmNaWG5DY0hnR0daLUpzY0hTMklZdXIzSmdacUhtdWpteTg5VGdsb3Z5cG80bzBPQm1qT243alAwOWJ5Vk9C0gGzAUFVX3lxTE1BSjRsZEo5a2ppcHljS0I5emdkVkxYczRiY1dOUkQxdzNvYzEza0lnLXd5dXhpSXdsVm5qU3RhbmNlbi03QmtvTUoxcnlmaGRVS3Rnb2EtZk1IbmUwS1lrMkFBRGVPZWR2VzFiZDJvVHNqLUtBbXpmZUR1ck90dWt3LVlTNGxlM3o1VUZ0dnVRQnFhdTlMUXBCNEJackJseEFvTU9lNkhtY21XOW53R3FpQmJz?oc=5",
+    "title": "Four students die in accident in Namakkal",
+    "title_ta": "",
+    "summary": "Four students die in accident in Namakkal",
+    "summary_ta": "",
+    "date": "September 3, 2026"
+  },
+  {
+    "id": "nam-sep5-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbk9DR1U5dmR4ejN0bkdaR2dxc3FHR3ZVYzFRYUx5bnRoSC1Lb1JESmUxZjlReHV2ZFFBWmJETjNESkVJRnR3RHlicDFlNXBySGRxY2xaNGd5M2swQ2N4ZTVaZXVsMEpvZlpnZkExSW5sZ01XSnJBNFNQX1Z0cXJNRzJXa0R4clo2UEJfMkZZbXR0S2owRXlTelNncTV1N2tKUWtPYmIzMElwV1RfalNqdUdlLXE0WmRYaWcwcWE4WHl1UVJvVTd1UHFTZ3VwNEJydEl1OEI0eUpFWHo3TjF4WUZiN0tPRUNlUGVNeVFYa25Ud9IB_wFBVV95cUxPQTU3OEtKMERnTDRjTzlyWXNzSjhWRTA3OTQycnFFOTc4cDdjMHc5ci1aMDcxeGRHTklfSGtMcEtYTm9rLUQ2ZlhNR0dSZ2pZQ0p3OXFuY1ktVGtHX3RuZ1QzUnlZMWhmdXZRYkI3TU1IZndFX3JGVVhjWXlaaEJlTmZWcmxWcFJPQ0d3bVhvY2VjRnhVWndCcnVoWGdtQl94aktFUmJyQVdmX3ZwZWJuenhiTTZwYVNOdWlRY2J2OTRmR2R2WkotUXRTZVM4clZTa0h0a19oNFEtV3RyUzZkUV9PZmxtamdVdXl0dWp0SW5iTERBMEduX2VHYWhaNGs?oc=5",
     "title": "TN government announces ₹3 lakh aid for families of four students killed in Namakkal road accident",
@@ -70,17 +82,5 @@
     "summary": "4 Namakkal girls, 3 of them sisters, killed after bus rams their two-wheeler",
     "summary_ta": "",
     "date": "September 4, 2026"
-  },
-  {
-    "id": "nam-aug30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWHh0OEdVRHljcEQwcmczSXRtN0puUi01LUx3TG9GUjhfYkN6eC1ka0pRWU1MM2l2YzNsTHlFaXM4bUZmVnkzWXRLbTgyZ3BCVTBJcHFWcWJOOXhnYTBoTTg1YlVFanhHdFdxQmJ0UGRoQzFybDBFclFCRXpmQl8xWG8xanl2SnJYaDA5UFN0UnZ6WUhvWk9lWkF5d0NhR3FrNXFUUXRpVzQ4T094M0ZZSHVBc3EyaTBTa0h1LXJFeGpGV2hqejNoTTA1a1R6dURZUVMwMExzMjZwSFFJbEHSAeMBQVVfeXFMTlNWeExNVGphX2dXQ3dEMmduN05Ea0pLSUhoWlZackVCTWRIRWJfS2ZPUTZtZE5jSzlBUG44QnVVOWV6d3RVZl84X09jWTV1WGpSR3pkS1JuZnBPMzUtRUd5SWFhX2M4OTFkYXVUQUN2UjM3QXhLNTA1cFdQV1dCSHFnajhaYTN6MFJJUmNEWnFNUk5vUVFoRll4RXcyM000dWF0bElySzRoRHplVW1iQTA4MGhlU1NJWEVRRUxCNno1Umptc1BRaFc2UUZYWklkTmtvdjB6TlVBcHNPSGdxeWk2TVk?oc=5",
-    "title": "Namakkal SIPCOT Relocated After Protests; TVK Govt Scraps DMK Projects In Tamil Nadu - India Today",
-    "title_ta": "",
-    "summary": "Namakkal SIPCOT Relocated After Protests; TVK Govt Scraps DMK Projects In Tamil Nadu - India Today",
-    "summary_ta": "",
-    "date": "August 30, 2026"
   }
 ]

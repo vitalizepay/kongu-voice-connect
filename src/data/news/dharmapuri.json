@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-sep3-002",
+    "id": "dha-sep6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHNNYUdMZ050YnFKcmtfMS0xTGNxNXAxUm5iTndkZjhTajNERXBsQzBpSkJZNHJoTWp5T2l3dHdtQ0FXQVpVWGpoRVZtMnVOWXpfRmU0SGNLbHI3THJYZkl2cV9xdlEwUzZmX1V5eU1IRUhCWXU4aHY5SmZDMzN3ekhONE9EcVlFQWJONkdTZE0teTNHMkVkVm9xZ3g1Vmp6SWtNdzNZejRJMUF4U3BOSEVIWmQzLTZ3ank4Rk81UThCREswMmVFMnozSzNqUW5aV2NMS3FzN2xJVlV30gHcAUFVX3lxTE9sc01hR0xnTnRicUpya18xLTFMY3E1cDFSbmJOd2RmOFNqM0RFcGxDMGlKQlk0cmhNanlPaXd0d21DQVdBWlVYamhFVm0ydU5Zel9GZTRIY0tscjdMclhmSXZxX3F2UTBTNmZfVXl5TUhFSEJZdThodjlKZkMzM3d6SE40T0RxWUVBYk42R1NkTS15M0cyRWRWb3FneDVWanpJa013M1l6NEkxQXhTcE5IRUhaZDMtNndqeThGTzVROEJESzAyZUUyejNLM2pRblpXY0xLcXM3bElWVXc?oc=5",
+    "title": "‘Erratic parking hindering access to Dharmapuri Medical College Hospital'",
+    "title_ta": "",
+    "summary": "‘Erratic parking hindering access to Dharmapuri Medical College Hospital'",
+    "summary_ta": "",
+    "date": "September 6, 2026"
+  },
+  {
+    "id": "dha-sep3-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjhSTW5pSzJzWTQ3cXo2RXVNOGl0RmNtUXhyakVhLUtfVjdwQXBfOHVPN3FWdmhsUl96RnZFTi0zaGpHTWZ4bzZmaXVkNXl5OE9RX2g1dHQtc2U3bkctQ3ZyQ0VMNUxycFpKSWVfZmMwMzktTGVyMHVNT0JaNXZRck1lb3c5eElvVnREQ1R0dWJ3cG1iODl3QVhPc2ZGTURNaFczam5IekRUVTlEb0FYTA?oc=5",
     "title": "TN Assembly | \" தருமபுரியை தாண்டி கொஞ்சம் வாங்க..\" | Minister Aadhav | Sowmiya Anbumani | TVK Vs PMK",
@@ -22,17 +34,5 @@
     "summary": "TNSTC bus driver killed, seven inured in road accident near Dharmapuri",
     "summary_ta": "",
     "date": "September 2, 2026"
-  },
-  {
-    "id": "dha-aug29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVJnbE82TU9UV0hKbnVsSXM4UlFfNmpIRWI3SERvTVh1UnRWUjlPZGJiSENyU2tYNFNOVWoyV2VnUDNwWUVQNWJrS1pKNDVTQ1lXYmh6eW5TTkhRZW5ibkdzdE9oaWh6SC1MOWpkRGRQemVpZDVjQnN0VHlISTdzTjNGZVdMMHFTUkZqczZqT2V3YXhxYnc0N3dZQTF5YlRqVk9ZaGkxcVBwM0JEZURxTDE0aFBQUlZiVDRLQW5lNW5YQThxY0tKVWRvZkxGQzhrRjUwamlxaUtsXzMzdWFmQmpIYmdjNFNWVWU2eGtfTlJBTnJjVlHSAfYBQVVfeXFMUGVSZ2xPNk1PVFdISm51bElzOFJRXzZqSEViN0hEb01YdVJ0VlI5T2RiYkhDclNrWDRTTlVqMldlZ1AzcFlFUDVia0taSjQ1U0NZV2JoenluU05IUWVuYm5Hc3RPaGloekgtTDlqZERkUHplaWQ1Y0JzdFR5SEk3c04zRmVXTDBxU1JGanM2ak9ld2F4cWJ3NDd3WUExeWJUalZPWWhpMXFQcDNCRGVEcUwxNGhQUFJWYlQ0S0FuZTVuWEE4cWNLSlVkb2ZMRkM4a0Y1MGppcWlLbF8zM3VhZkJqSGJnYzRTVlVlNnhrX05SQU5yY1ZR?oc=5",
-    "title": "Dharmapuri-Morappur railway line awaits land acquisition, passengers urge speedy completion",
-    "title_ta": "",
-    "summary": "Dharmapuri-Morappur railway line awaits land acquisition, passengers urge speedy completion",
-    "summary_ta": "",
-    "date": "August 29, 2026"
   }
 ]
