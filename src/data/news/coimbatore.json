@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep3-006",
+    "id": "coi-sep4-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNel92dGxVZk5CYkVPdzlGNnE3QzdlRUNkLUR2ejUxMEZwcnVaa3dES3UtTjZIczBWLXlyTlRJVGN4cGx2QkhXVHdVUkxWYlVtRW9DOUJUMkRSV1FjM3VIM1F1Q0xTLXBFbXA0ZlAxVFc0NzV2VkdvaDMyaG9oM0ZMdTdVanVIVEJ0QzBmOGpfZzdpTG9zNmNYTFhjOTkzZWZDR0YzUWQ3b0xuWVNjUF90dDFFMlR0NmhDNWNwV2NzNXRrNkVlSW53RWZCQTQ5QjEyeDlmYnlwR21HaUppV3BhT1RkdkRvMGNBeHZLb2dncTlPd9IB9wFBVV95cUxOSHZ3LUZRMG5KRU5XdVd3QWVSX1ExVi1yNVdFbF9jMm9NUDZuYmp5ZkxKNVpHZTlsUHJkb3hRTTIxekxiYzVpemsyTXpzZEFVRlpJVHdGbGpRS3RFUEc1UkNJMFNiYnFFOTl6SWQxbnQySy1hMWZJeEo3d1pENzJaSVdoSmJUWmJOajJzWVZBbE96a2V6V09SUDlzaW1EcU5wX2FSOEpldWZGd1V5Z2VoLXNiSk1uRDN6ZVV6ZkI0LUxkS2M5Szl6NFNwMVB0UkpHTUROcml5aE1YTTB4RnFqdWxtZWZBbFF2cWxOREt0WG1fUmxvTzc0?oc=5",
+    "title": "Watch: Stray dogs foil drunk boy’s bid to sexually assault mentally ill woman in Coimbatore",
+    "title_ta": "",
+    "summary": "Watch: Stray dogs foil drunk boy’s bid to sexually assault mentally ill woman in Coimbatore",
+    "summary_ta": "",
+    "date": "September 4, 2026"
+  },
+  {
+    "id": "coi-sep3-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaDVuaHltbWFHbWotdllGanYyeXVfZVVncVg0TWhITFhRLWlGOUNOcG4xSkd1QkxTNGJWbGo3WDd0TVM2aVdBOVFpSzBfWFItTUxmOTBKbVQxQnNyczBDdXJFRGVLTTMweTVnWktYZTJ6WFRtak1VdEE3U3RxZHM5a1l5MjVXdHU3OTBsRk5fbmItTHdwVGNvWXhOSVdtNU9hMWlsREJDeExOeUpibjRhUEJ0cTRFektZeG9HTEhjMnRIeElTZmV4NUN3alJadnJHRUE4SndlSHdmczZHbXVQYW5lb1BtVTRLUnVIUlJ4U3bSAfYBQVVfeXFMTl8tZmF4Y1pkSzZ2dnNMMGdPQzFCWlNoMHRHOU1zVnkxMDlaZjhkcHd2TVFxZWdFdWJDNnRkVE02YWpVdlBuSTJXSUNfb1hfMGcxeTIyV1o1WmNRcHFtNnJOWUZXTGJZMkg2NlpKam9lZnJ2bG5rUlFkLVVsektwVkRON2o0aGhpODdGenZZS2pLTjJLeTdwemk1ZHdpbERJQWZFTTRPNUhIcUI4bEwzUWE0d0tKcjdoYTVMOHpkSjJZdklxSWtxbjhXODNKSEdqMG9JOVRIdDB4Mml0Y1VCSmk3Rm9wVGFzdmd4VTV1QVdsS0xGUjh3?oc=5",
     "title": "Three young sisters, cousin die as bus collides with moped in Tamil Nadu",
@@ -128,18 +140,6 @@
     "title": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
     "title_ta": "",
     "summary": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "coi-sep4-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOV9fUC1BYWNPamFMSDRYSEpxcG9fbDVxY3F5NHgtS2tuYUZLeWRvcERyMTJZbzlYWFNLVGdabGtkWFM1eEVCTU85RlE5VUZiSXIwU0Z4dlo2VFpvUExkRFBTVl9Ib0M3OVVtWURjZC1nWm9RdnBCQm9haVJEMm1RRjRXTWhmRER6NWZLYWRsYTQ3Q0JqRGRER2h0YlJpUTF0dzdFeFZTcmhPa2lhcFRnSG5jTzNMaFJJcFNUalo3Y2tXT0I5MFZ4dG9sNTRXOFJBUnNHTE95ZWNHUG90ekNUTXczQUtFQVJGcWowOVlB0gHzAUFVX3lxTFBCMzJnVUVtS1A1YjZhOEFqN0VxRGtXaDdyYlAzZlpHQm4yYUM4MmY1WlFiRXZyclBTQ2JhZjhyZ1YtN2pjQ1R6SW84ZlVZY0h1RUJjeUNpc0sybGdKdFlvWVA2RVJnVlN6Wjd6U2cxdGpsaXJxNVdsVDlLR2JRR2JVWFFfRjYwT0FXR1M1WTJFNE9IRFNfeml5RTM5ZERBRVIwaE9XN0tJWVJyR0YyQjdiMTgxRTBQUmtRZkg5b1RuZ3NzZlpTNEZyTDVFOUhYT2ZILTZKbnFVUlJraWJuU2VvMFVsa3NmMUZQbEo2czMzV2dROA?oc=5",
-    "title": "Coimbatore: Woman With Mental Disability Allegedly Assaulted, Stray Dogs Chase Away Attacker",
-    "title_ta": "",
-    "summary": "Coimbatore: Woman With Mental Disability Allegedly Assaulted, Stray Dogs Chase Away Attacker",
     "summary_ta": "",
     "date": "September 4, 2026"
   }
