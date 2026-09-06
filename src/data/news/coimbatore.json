@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep4-004",
+    "id": "coi-sep2-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ1VUQkFHWlZsS1RHOHJSaERySlBES3ZvdE1EVWxjRGw5NlIzai0xY3lhNjR5U2NHQnI2UmcwQ3ZadzJXYVdWbFZJVnFfdVhWQ3pXM09WLTd4ZnBhYktiaHBMSEJBZUNWTk1fS3BFdHFGaHhDVUpBbDVwdW9ldjdfY2Y4aWlZbUN2MG5mWVQ0bUtOdnloOWVOVERYNFNUTkVYRFhGWTF2ZVdpT1kzY2pyWjc0eW1zNHNBRHM5clQyNExBYWI3U1djbXp6T2ZEYWozVFByMHEwZVZnY0NRSXRnT3ZOZURrcUdZTERKN2xmUGdfSnhBb2E0NzJSTW4wQmfSAYYCQVVfeXFMT3hxX214ZHM4VVZRbXdWUkdFeF84SmxHVUpDVXZSdFVwMDZ1UmNvdjRweWN0SzVkdTdObUgwRXFXYVlGZlBLa3lXbm0yWEtfa2ZWM0p2M3NYaW5oeURFQ2R1akRBVWtlZWZhTnNvWEhmTV9PclM1TEYyOWNhOWFqemoxNG14cGRmY3NpUkJNOHpfYXpRVTZKZ21pdEdjZUwyTlBmNTVJWUFJaFBKUDVxbzVOOWx0aVJJV3MtV0ZYXzFyVjhLVzJ2OUlWbU5yMmFkNXJoRW1GVWM3WXp5Z0lkUWF3dUxnLU12dlF2Xzg5VWhuY2U2Z2VEdEZuY2Zod1RuNkdmS2VxUQ?oc=5",
+    "title": "Wetland-friendly tree to boost avian habitat in Coimbatore’s Periyakulam under Green Tamil Nadu Miss",
+    "title_ta": "",
+    "summary": "Wetland-friendly tree to boost avian habitat in Coimbatore’s Periyakulam under Green Tamil Nadu Miss",
+    "summary_ta": "",
+    "date": "September 2, 2026"
+  },
+  {
+    "id": "coi-sep4-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNel92dGxVZk5CYkVPdzlGNnE3QzdlRUNkLUR2ejUxMEZwcnVaa3dES3UtTjZIczBWLXlyTlRJVGN4cGx2QkhXVHdVUkxWYlVtRW9DOUJUMkRSV1FjM3VIM1F1Q0xTLXBFbXA0ZlAxVFc0NzV2VkdvaDMyaG9oM0ZMdTdVanVIVEJ0QzBmOGpfZzdpTG9zNmNYTFhjOTkzZWZDR0YzUWQ3b0xuWVNjUF90dDFFMlR0NmhDNWNwV2NzNXRrNkVlSW53RWZCQTQ5QjEyeDlmYnlwR21HaUppV3BhT1RkdkRvMGNBeHZLb2dncTlPd9IB9wFBVV95cUxOSHZ3LUZRMG5KRU5XdVd3QWVSX1ExVi1yNVdFbF9jMm9NUDZuYmp5ZkxKNVpHZTlsUHJkb3hRTTIxekxiYzVpemsyTXpzZEFVRlpJVHdGbGpRS3RFUEc1UkNJMFNiYnFFOTl6SWQxbnQySy1hMWZJeEo3d1pENzJaSVdoSmJUWmJOajJzWVZBbE96a2V6V09SUDlzaW1EcU5wX2FSOEpldWZGd1V5Z2VoLXNiSk1uRDN6ZVV6ZkI0LUxkS2M5Szl6NFNwMVB0UkpHTUROcml5aE1YTTB4RnFqdWxtZWZBbFF2cWxOREt0WG1fUmxvTzc0?oc=5",
     "title": "Watch: Stray dogs foil drunk boy’s bid to sexually assault mentally ill woman in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "Auto driver attempts self-immolation outside Coimbatore collectorate",
     "title_ta": "",
     "summary": "Auto driver attempts self-immolation outside Coimbatore collectorate",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "coi-sep4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejJqUlRySWNXUW1fUC0xeENqSS03SDBtQ1pZN1FOOThsZ3AtSnZQdEhnR3BwMDVwaFRSRGlZVHVUdHY5bU1wZzVyWlNHbXhPSl9KNG41dlIyR2ZDTTJsQ25QZ2o3S085eWhhSDh4ajkyamo5RVdRVzFQRTdDcm1OZk5Qb09TdUxORC0yUVZZNW9rM1NHWkJFWmY1OThPT3ZsdjNLdFhNSGZlZEJOUWdSdG9vMFF0bFZueVJaMkptam9USVNjRFE3UHhuTHRFazV5MzZiLXpkNFNKUU4tU3fSAeMBQVVfeXFMTzV6TWNlSWJGRUhXVnIyMWNCUnRQckJXc1BUV1JEX0RNNWpoMUtUSmphUC1ia2hkOWZnZlhiblBOQzdaT0VCWjFjZENuMnRUSFp3RXprOGp4R200U09pN1M0MnlzdVUzb0FpRXhtWVg5OTI1R2hXRHk0NndTMjNYQl9NNkdhakt4bnY3QVJBYUtUUzFNWmVBTUZqYkVVTjZhR1Y3NVRWMHNEMm5OckpBbFdSRXFnTS1qdmVXUHZtMnhzYXNLVi1WOEFpbDZxenlXZ0pLRXAzZnlGYjcxVTdyUFAtQ2s?oc=5",
-    "title": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
-    "title_ta": "",
-    "summary": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
     "summary_ta": "",
     "date": "September 4, 2026"
   }
