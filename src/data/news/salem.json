@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep6-001",
+    "id": "sal-sep1-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFYbHU5RW11d2pnNVRadnlPWWlwSXlRSlFOX0VHd0MwY2hDOVNjVVNld29nZUQ5bWFhTk1fajY3SFZybkN0VWxwb2VYUnJxZDRBVFNuSWhNaXRzcV9iamhMYUgyM21ZWEp3a2VyQm9yVFE2d2xrSEU0NkRzdWw0elFCRkI2MFVOUHZES2Eta3M0QVNTaFg4WkJ1UG5LWDhsXzJKazhacW5BU252SXNtWnRFbWhKZm1sRklKMdIBwgFBVV95cUxNaFVjMTd0bHd0RnloY01oOGstcmRjMUdENDlXcU5CNU5ObnZTRmVBNDJlSzZvX1l5eHFwblAzQkkzVHNuYi1wdmF0dEN2R01Mc00zZXBHeTE2SW1rcTBpY1ByV3BvdnFkS3NkM2J5NTFiSXJWV1pBQlU3ZWV0QnkyNjhXYzEyc1ZyY3BOMXFva0tOUlVIQUZHZzNKUnVadGFIaGw2OUlEZllCajFDejVDVkhNazcxNU1qbnFKSU83NndxQQ?oc=5",
+    "title": "Salem woman arrested for murdering husband",
+    "title_ta": "",
+    "summary": "Salem woman arrested for murdering husband",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "sal-sep6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2IyRUM4VlpTZmRyZDdiZW1GT2hlbDBFNFRra0tUXzNLSk04ZGx1akJsN2UtblFNaTlKWUFBdmRfN2Jrd1hlUEdCS2tpbU1TMXM5cWZnNmJZVkZqRV95VjkwRWVzcnZaNHZnNHg3T05QWWY3ZHJRNkhQWVo4YW5DTGZLWHZvdlprekh6cmp1ZFFRZzNqTVJPdktrLWliUlFLLXRtWmJDVURYc3NBZXFaN0RPSS1aeGIwVUpIamxPWVVlM0nSAdABQVVfeXFMTmpvVXI1ci03SEllcm9qQjBZRlpZMWx4NFhIODhsU2ZOb3RsRk9mRTJmZ2Rsa1Noay03emZPQy0zNXBHc3dkczJsWnh3cDYwN0ZSRmM5dmxJb3VjYktOUGZVcTEwbW4zVmZOUUprbzQtZmUxenU2S2w5WTh1Y2NnMktMeldSUkt6ci0wQzlualdhdHh3QWFOcHdNQ056TjJxNDd5cFdFMGc4U01jN1VJSnA4X0lFQm53VEtoT0l6bkJZakVaTVdRUlQ0ZDZyUWRsWQ?oc=5",
     "title": "Tamil Nadu farmers flag poor quality of subsidised maize seeds",
@@ -10,18 +22,6 @@
     "summary": "Tamil Nadu farmers flag poor quality of subsidised maize seeds",
     "summary_ta": "",
     "date": "September 6, 2026"
-  },
-  {
-    "id": "sal-aug31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXF1aThra1B2WGNFbmhiM2tFN2N1MWdsOVNJWEdwRDhjMjdwTk9JNXRsUXFRcUkwMV9UWWNVTWc2OHREYXltWGEzV2pKdHNkWkJ6ODFzZGFZWU9EYzJLdDBVN2lQU3Rmd0ExR3RIN09ydHJUczI4c2VjZk5oamtjZDNsU0dxY3NFanZGZ1hTOVZ4R3RTYm5uc3VaSDBpb3RTallJYV9Yd3RTZGJUVHBXeUltS2Z6QnZ3RjlucERLcDTSAccBQVVfeXFMUDkzSks4UmZ6OFBuOE5YTzE3RW92Q0ZlQU5IcjYzcTFJcW1ZT1lyTHB3TUlNQ2szZnJZRjhjRXQySjBrVV8wNUxZZHBfXzRhWERZazA1Qnlqc21EdmNjR1RVNlIxV0dEOENTX0RiazJXVFFIN2l6VzhFa2oxV3Vadi1WaGtGNEZSNURrSzlSUGR0ck9lRjlWd3IwcVpDeHdwWEJiS1Vmb3psX0tvNUNqaUlseWlMU2ZHXzJmUkNNSHJkc3BhUl9HUQ?oc=5",
-    "title": "Mettur Dam: the water source for Tamil Nadu’s rice belt",
-    "title_ta": "",
-    "summary": "Mettur Dam: the water source for Tamil Nadu’s rice belt",
-    "summary_ta": "",
-    "date": "August 31, 2026"
   },
   {
     "id": "sal-sep3-001",
