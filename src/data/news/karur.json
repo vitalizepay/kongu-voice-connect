@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep5-001",
+    "id": "kar-sep7-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ktM3JaWWEwSWNvZWQ2aFNWbkdVeFVvVmFUTm1QUGlmYTU3VzdMTEcwMHliZlMwM1dRdU94QjhGdktrZC1mdDFpb2ZEVlRieU0xc2xJa19Fa1dMdmhsOFN3RE9pbmNvaWhiTndRYW1IZjFPWFNoSEVPU0sxQi0ySEJyMDdIMXE0M3NaSVhUVUs2X0JzODRpX3k2RklnOXlzenBwMVlNSV93MXlqV3paN0RYYkpRWTREOUJaNWNpcTAxdTM0ZTFMc1JwV2ZmaHlsRVFhU2NVaVQ3c3lzc0FlUHJXUmFoNG1acEhGdVpLdnZSYWJOTnfSAfsBQVVfeXFMT2h2V09hTXdwbUhuZVB3bThseEtDSmtkQUhBT1cwb18tcUhtajkyNy1KUEZSN1NzZ2pMZGxEcDRTTVd0RjNvcGswa2ZJNWM0WFV3bVJnUzUzLUV2V2YyOEdZcHBuc21lVGpFQ2c3ajBHUGNVZUprQkhCNHpnekhaQ2Z1U0hQNkJSU2ctRmI3SEk0a2NqV0dodzdyR3ZDakNVNERRYWQySVBFTmF6ZXhxOHZKVVM0bEFiM21PTVg5TGpmcWxSNWFCR0ZMc3hua3VNcWZ6Nm9rdTVOZnNXbFZ5RU0wVGVyM2tzSlgwMmhRckNZZWxRelhoZlZtS3M?oc=5",
+    "title": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
+    "title_ta": "",
+    "summary": "Karur gang: CM Vijay's all-out attack on DMK in Assembly, alleging corruption",
+    "summary_ta": "",
+    "date": "September 7, 2026"
+  },
+  {
+    "id": "kar-sep5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjhMQXZXSmJRek5jRC1nTDMxaW5xNmJaMmhvSVRpUjJoR0ZmODZNOVZvXzMzaWdoZ0xJOFR0aWxWZm0zSUZDM1JIVjFObmtVMDZrazE4WmpVR1RNNVZSZFhCaUJZbGhrVC12RGZJTy1HNWVlSnVCTmtHb1pFd3h0eGpGZlU4RGR0Z1FqZ2p0R1FpT3FkV1V0aHZUNWN3UF9YMUZRekMxMmYwZ9IBrwFBVV95cUxOWkxtaC10bW1scUJqbDQyeHFSQlUyVW45bndKZU1WdTVvS09kQnAyRkZwR1ZMendqcnNFbWx1UXNKeGdfdHUwT2UtN21Ya2Fud01kQ25Lbk9IOUg0eWJLS0NGd2FUcHhCWFlzbXFCSUx6OWc2emMyUHV1Rm9vZ2NhZlgxSHpnM1ZvMlYyWnJEbHZUUnlqVDdZdTdQWXdnYkdMZGswT0dPYmZOcHBwVXlV?oc=5",
     "title": "New Karur collector takes charge",
@@ -46,29 +58,5 @@
     "summary": "Karur residents plan protest against proposed ethanol unit",
     "summary_ta": "",
     "date": "September 1, 2026"
-  },
-  {
-    "id": "kar-aug31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3JNZ0pZbGRRWmw0NHBRUm5mVjFZcXpJdVBwaXZxY3ZlbjFIUFM5U3hPbzRfMVppSmwxdnBMSHYwQ0pZaGNTSXRLY2JtYzEwY2RoVlhzdk56RGJCZTc4Njh6ZXc2dEFCYTVacU5PTFlsV2VLcGZ2VnFEVFdqTXh5d29NNUFJSzdrQWdMd25yUHNYbnd6TGh4aU1WMFU3ZThTdXY3dk9keUY4anVNUXZNWlQ3dDJGd9IBwwFBVV95cUxNQ1VwMFoxT0VfOWgxV2lZN3FuOVBZbENSbzdVUHcyVUV6ZVpjM3lWYmdOR2xCYzNNWGo4eHdtM0ZlUzRZMEJNT3NEUmNJRXp0MG1OemxMSl9iUXN6bUNZUzBib3BsZXNiaTRuemt5d3VPcjNJYUFaMWhHb1p1VEJoQ1hMV0tJVlV0VXhsTU9jTldFa1VpZUVUbVZhYmhmb0JJRjZiWEJaQUZkYnZmZURraGVtbl94VGRrS18xMzZ1NE1fYlk?oc=5",
-    "title": "Tamil Nadu: Green activists oppose proposed ethanol manufacturing unit in Karur",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Green activists oppose proposed ethanol manufacturing unit in Karur",
-    "summary_ta": "",
-    "date": "August 31, 2026"
-  },
-  {
-    "id": "kar-aug31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekllelVOSFVSSm5rN2c3R0t0ek9ESjJIVjNZWEV4amJkWlBWOVpvcFNwVjROMWZ5SkJrc2JVaTZaN2UzUTBZX0JWYndJbjFMSG9uanAyWURnc0xDYWlIVklCMXhhY1ZlQTVyeW1ZMWVzaV9kX2dma3FQb3FRU3Bac2lrQU5icFBhVFlCOVZWT0dpY3FEOVl4ZW44YTh6XzZOOHc?oc=5",
-    "title": "Karur Vysya Bank opens 16 new branches across five states",
-    "title_ta": "",
-    "summary": "Karur Vysya Bank opens 16 new branches across five states",
-    "summary_ta": "",
-    "date": "August 31, 2026"
   }
 ]

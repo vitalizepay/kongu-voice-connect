@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep1-006",
+    "id": "sal-sep7-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHpmN19uRk1aTWEzVEpXTzVKVjJZMmNCbW5rUnZKakdxRjJsNURzMEhNUWQ1MWQ3bTFiX2NWMWJ1bnRBdHRxdG5FUzdOTEZ6OVhFbVFPb3FvZG8wejctaHdvNzhOSmx0OEJkTldEdGY4MzBTaXBVM1V4VlUxYUZmOEJXRzV6R1FTaEZ5ZEJWc2xUeWpmTkJOMGdCRy1wREtPZnAzcmpnUFRFVDJDc3pPaENNSlBzTVllcFVaaDFjUGZ4TGdnOTZJNjlPZ184VGFIV3hUY1lMd9IB3AFBVV95cUxQQWk4VE9xYURZRkF3OHB4aTJpR1l5YUo4cVc2bjhEam1uUTVWSkZnZFV4dk1veUJuOU1kTjdsaFJKUTBnWjdhNVM1bnNGemlrUW12U0xkRXg0WVVDODRqb0ViUXlzc01xMHE5MTJreEE0eF95dFZ6RDJyYkZjaURHOGtic1poYXFzVGtyWENiSk5ZekViOFVKYUlObUNCRHFrc19vbG83dkpnazNYLVhNc0lPZVdHUXJsQXBaamdCZmJPU2k0OTYzQkhZRzF2d3hiNmV2T3ozOGdVa2F4?oc=5",
+    "title": "Disabled people hold protest outside Namakkal collectorate, detained",
+    "title_ta": "",
+    "summary": "Disabled people hold protest outside Namakkal collectorate, detained",
+    "summary_ta": "",
+    "date": "September 7, 2026"
+  },
+  {
+    "id": "sal-sep1-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFYbHU5RW11d2pnNVRadnlPWWlwSXlRSlFOX0VHd0MwY2hDOVNjVVNld29nZUQ5bWFhTk1fajY3SFZybkN0VWxwb2VYUnJxZDRBVFNuSWhNaXRzcV9iamhMYUgyM21ZWEp3a2VyQm9yVFE2d2xrSEU0NkRzdWw0elFCRkI2MFVOUHZES2Eta3M0QVNTaFg4WkJ1UG5LWDhsXzJKazhacW5BU252SXNtWnRFbWhKZm1sRklKMdIBwgFBVV95cUxNaFVjMTd0bHd0RnloY01oOGstcmRjMUdENDlXcU5CNU5ObnZTRmVBNDJlSzZvX1l5eHFwblAzQkkzVHNuYi1wdmF0dEN2R01Mc00zZXBHeTE2SW1rcTBpY1ByV3BvdnFkS3NkM2J5NTFiSXJWV1pBQlU3ZWV0QnkyNjhXYzEyc1ZyY3BOMXFva0tOUlVIQUZHZzNKUnVadGFIaGw2OUlEZllCajFDejVDVkhNazcxNU1qbnFKSU83NndxQQ?oc=5",
     "title": "Salem woman arrested for murdering husband",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu CM Vijay to open Mettur Dam gates for Cauvery Delta irrigation today",
     "title_ta": "",
     "summary": "Tamil Nadu CM Vijay to open Mettur Dam gates for Cauvery Delta irrigation today",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemxuOXBqQ0hhM1dhQ2tRSkR5YUVDOWRvSG5hbi10VHNtV3E1QzZjY2JoN0lnbGFFU3NsRnk5dDctN2wxRjctbXlLYjB2dnI3WGRCUTNNNzV3b0l0ZjNXVlRobTB2UzAtSmZMU3ZhdG1mREtxcDl5c0REdGh2N1I1MDdZcURwamdhMmtmN29pd2tLRkNwUE5hREFEcG1vR0tNWHdlaGpPQmRzTDltZzkxUy1rdWtlaXlsSm5lM3NITXk5WGhnYlE4Rnpwd2NBV1I0c0tTbWZlZWU4RnpwdlVtZzl0QW9yUE9WbGfSAfABQVVfeXFMUFJwRnR1OE1CVWxBcThBSEQ1Y1ZuVHRYMDFqc2d2R0dtYzdXQ3FRd0VMM3poaXpnLW5YdmFKZ2RYQWdYZTZFUzVSbkhCOEc1Tm5XTDBpbzNzNUg4NmVfb2I5ZkhuVUs3THE5cWYtak1lYjRPR2VzS1Y3MTlEWEU4Tkc3WHNYaXFzckw5US01bDJ3N1lvbXNfWmp1OVRwLXFvWXA5WEgtODVqYzgtQjlRSzd2Q09KblVXQTBwTXplc1ZwekczQlUxZ1YySUVZaFF4bGhJN3V6am5PTGx4aFRsTDZRaXktXzZOYmRIdnNWdlNm?oc=5",
-    "title": "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
     "summary_ta": "",
     "date": "September 1, 2026"
   }
