@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep4-002",
+    "id": "coi-sep8-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWxmVUFtYVM1QnRsUUlHbW0xX0VzV1QxT2FHdUhwbk9OM0hhcXFWeEVYZHhYR3d4S3lOM3ZTY2hKbUR5bjlQb05pb01rQTdZV0NpOFR2dmxSd3dwR2RobnRPRzZhUFlMNnlDNTNZd3QwWlNwcU1iWXpKclUxM2p0QmlKMTRiOHR3TkpET2hBMDhCaXJ2cE1sZE5hSmRRaHFnNWwtWHQzSlhoX2dSNkJ3MWRMb2NVb01sekxQNWlPOExLZlpkM2taclpzOWU?oc=5",
+    "title": "Address Coimbatore's 10 murders in a month, don't turn Assembly into film studio: Nainar Nagenthran",
+    "title_ta": "",
+    "summary": "Address Coimbatore's 10 murders in a month, don't turn Assembly into film studio: Nainar Nagenthran",
+    "summary_ta": "",
+    "date": "September 8, 2026"
+  },
+  {
+    "id": "coi-sep4-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXJaT3haRG8xanoybE9HaTZCZXBNVTdUeXZ1MUthaFRibW04RG1ZbEE3YXpGNTJFcElEQUVtRkNFOVA1QXY1V1A4Si1sT20yd0hXNXNoU0hjNjZzanhCNjhFTVVULXp2TGRuX0o1TUthak5PYm9RTTI3NEl2ekNjQlp1bEdmNXVpTWZJay1WRG95N24zcXFBcTJEakFPeHNlVXlWNHRCZjV1MVIxQTFMNGtZVS13Sk1SWU55MjN3R3c2ZkFGX25B0gHOAUFVX3lxTE9EOUs4cDl1Xy1ZQzFueHJ2MmF2elRBWTNKRDh2RHcyaTg2REN1WEVIbVBmbHY1MmV6aEcwbHduOThEVTBlZFhoOV80ZXAtV2lrTmdGd0FJOHZodGlsWEdZMVZNVVhzaVNVZnlfNXRQdTUzbTBBSEtWcmxYTTFvci1XeE5qWkU2SzJxSEVVdndfOWFHZkFWYU4tc1dhdjItODNlVTNlNlV2VHc4S3ZhRldxWEwzLXdGVXR2Z1NtXzl1c28yZW9PMGxLV3MyWm9R?oc=5",
     "title": "Dogs save woman from molester in Coimbatore; minor boy held",
@@ -130,17 +142,5 @@
     "summary": "Drunk Minor Molests Woman In Coimbatore, Stray Dogs Chase Him Away",
     "summary_ta": "",
     "date": "September 5, 2026"
-  },
-  {
-    "id": "coi-sep1-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFF2QkNncWZfQ01Qb3htTWZrQWFFRlB6T0ktS3dzZDdzVWlpRkIzRDRNOTI1QjRaYmVTTXI0YnNsVExOYUNSN2tGT0FrR2NpZnpYWWFkNlloRjFwR2ZoNDRJWF96dklUNDNQMXJlcG9FYktYWGIwTXIzTDQzTUVZTmJNVlFEQllyaW1OeGlXT0FNTXpfWkQ5RldXVHNtZDJIYXlYaVdHbldoZ2kwbFNfRHpqNFZJNTlHakQtSHhpc0RHMVhwbWdr0gHUAUFVX3lxTFBxVXFKOFFUVjh4MHFqRy03MDc5YzVTeENWckkta1FqOThmS3JoaUJabi12a0cwb3BfeU95eUVJNW1zdHJjc1FXTmNLU1ROSExFUzRIRHVSdGpkTzNGa3g1Ny1LU2tubm9WbmwtWEFiV0M3ZTk0LTdNcnc0MHBFVEI2YUxxX2RRV3RZd0Q2YVYzdHdiRVoxbTF5Qnp3c2M0RkZRSkhsMlBoMG1Sd3dNakJvSFMtTDYzbmVGMDJHbzczSUxvdlVvUE0yRWVORno4TFQxNTRI?oc=5",
-    "title": "29 Nepal flood survivors reach Coimbatore, no word on former judge",
-    "title_ta": "",
-    "summary": "29 Nepal flood survivors reach Coimbatore, no word on former judge",
-    "summary_ta": "",
-    "date": "September 1, 2026"
   }
 ]
