@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-sep6-001",
+    "id": "dha-sep8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWGpNbExnU0dkSlV5alhqQ3YtM282WVdQWGhtYUp6RlRMWDVBbVJUR01zOVZDN25EYkZwNWdVYms0X1ZIYkVQSmN3ckVxV0R3Ukwwems4Y3BoYmgtTTZiZWlVTmw4bGtwbTJfZnU3bENhRjN5THA1Z2xaVjRQYkYwNzdOZV95cEEyWDN2TTlnWWZxTmREbDRMSHlFSHBKcEU3b2RvR2VrLTFka3VEQm5QRFlKWTNMYXp6OEZBcWhvSWZMSnRFdXdvVHNuZjZZY0h5Y3JPaU5vZ2tRU1Q2Q0NtRVprOGlZWG9VUUdEMGVR0gHuAUFVX3lxTE1Yak1sTGdTR2RKVXlqWGpDdi0zbzZZV1BYaG1hSnpGVExYNUFtUlRHTXM5VkM3bkRiRnA1Z1ViazRfVkhiRVBKY3dyRXFXRHdSTDB6azhjcGhiaC1NNmJlaVVObDhsa3BtMl9mdTdsQ2FGM3lMcDVnbFpWNFBiRjA3N05lX3lwQTJYM3ZNOWdZZnFOZERsNExIeUVIcEpwRTdvZG9HZWstMWRrdURCblBEWUpZM0xheno4RkFxaG9JZkxKdEV1d29Uc25mNlljSHljck9pTm9na1FTVDZDQ21FWms4aVlYb1VRR0QwZVE?oc=5",
+    "title": "Dharmapuri residents block road, demand closure of pits left by halted expansion work",
+    "title_ta": "",
+    "summary": "Dharmapuri residents block road, demand closure of pits left by halted expansion work",
+    "summary_ta": "",
+    "date": "September 8, 2026"
+  },
+  {
+    "id": "dha-sep6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHNNYUdMZ050YnFKcmtfMS0xTGNxNXAxUm5iTndkZjhTajNERXBsQzBpSkJZNHJoTWp5T2l3dHdtQ0FXQVpVWGpoRVZtMnVOWXpfRmU0SGNLbHI3THJYZkl2cV9xdlEwUzZmX1V5eU1IRUhCWXU4aHY5SmZDMzN3ekhONE9EcVlFQWJONkdTZE0teTNHMkVkVm9xZ3g1Vmp6SWtNdzNZejRJMUF4U3BOSEVIWmQzLTZ3ank4Rk81UThCREswMmVFMnozSzNqUW5aV2NMS3FzN2xJVlV30gHcAUFVX3lxTE9sc01hR0xnTnRicUpya18xLTFMY3E1cDFSbmJOd2RmOFNqM0RFcGxDMGlKQlk0cmhNanlPaXd0d21DQVdBWlVYamhFVm0ydU5Zel9GZTRIY0tscjdMclhmSXZxX3F2UTBTNmZfVXl5TUhFSEJZdThodjlKZkMzM3d6SE40T0RxWUVBYk42R1NkTS15M0cyRWRWb3FneDVWanpJa013M1l6NEkxQXhTcE5IRUhaZDMtNndqeThGTzVROEJESzAyZUUyejNLM2pRblpXY0xLcXM3bElWVXc?oc=5",
     "title": "‘Erratic parking hindering access to Dharmapuri Medical College Hospital'",

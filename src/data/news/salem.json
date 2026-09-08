@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep7-002",
+    "id": "sal-sep1-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemxuOXBqQ0hhM1dhQ2tRSkR5YUVDOWRvSG5hbi10VHNtV3E1QzZjY2JoN0lnbGFFU3NsRnk5dDctN2wxRjctbXlLYjB2dnI3WGRCUTNNNzV3b0l0ZjNXVlRobTB2UzAtSmZMU3ZhdG1mREtxcDl5c0REdGh2N1I1MDdZcURwamdhMmtmN29pd2tLRkNwUE5hREFEcG1vR0tNWHdlaGpPQmRzTDltZzkxUy1rdWtlaXlsSm5lM3NITXk5WGhnYlE4Rnpwd2NBV1I0c0tTbWZlZWU4RnpwdlVtZzl0QW9yUE9WbGfSAfABQVVfeXFMUFJwRnR1OE1CVWxBcThBSEQ1Y1ZuVHRYMDFqc2d2R0dtYzdXQ3FRd0VMM3poaXpnLW5YdmFKZ2RYQWdYZTZFUzVSbkhCOEc1Tm5XTDBpbzNzNUg4NmVfb2I5ZkhuVUs3THE5cWYtak1lYjRPR2VzS1Y3MTlEWEU4Tkc3WHNYaXFzckw5US01bDJ3N1lvbXNfWmp1OVRwLXFvWXA5WEgtODVqYzgtQjlRSzd2Q09KblVXQTBwTXplc1ZwekczQlUxZ1YySUVZaFF4bGhJN3V6am5PTGx4aFRsTDZRaXktXzZOYmRIdnNWdlNm?oc=5",
+    "title": "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
+    "summary_ta": "",
+    "date": "September 1, 2026"
+  },
+  {
+    "id": "sal-sep7-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHpmN19uRk1aTWEzVEpXTzVKVjJZMmNCbW5rUnZKakdxRjJsNURzMEhNUWQ1MWQ3bTFiX2NWMWJ1bnRBdHRxdG5FUzdOTEZ6OVhFbVFPb3FvZG8wejctaHdvNzhOSmx0OEJkTldEdGY4MzBTaXBVM1V4VlUxYUZmOEJXRzV6R1FTaEZ5ZEJWc2xUeWpmTkJOMGdCRy1wREtPZnAzcmpnUFRFVDJDc3pPaENNSlBzTVllcFVaaDFjUGZ4TGdnOTZJNjlPZ184VGFIV3hUY1lMd9IB3AFBVV95cUxQQWk4VE9xYURZRkF3OHB4aTJpR1l5YUo4cVc2bjhEam1uUTVWSkZnZFV4dk1veUJuOU1kTjdsaFJKUTBnWjdhNVM1bnNGemlrUW12U0xkRXg0WVVDODRqb0ViUXlzc01xMHE5MTJreEE0eF95dFZ6RDJyYkZjaURHOGtic1poYXFzVGtyWENiSk5ZekViOFVKYUlObUNCRHFrc19vbG83dkpnazNYLVhNc0lPZVdHUXJsQXBaamdCZmJPU2k0OTYzQkhZRzF2d3hiNmV2T3ozOGdVa2F4?oc=5",
     "title": "Disabled people hold protest outside Namakkal collectorate, detained",
@@ -10,18 +22,6 @@
     "summary": "Disabled people hold protest outside Namakkal collectorate, detained",
     "summary_ta": "",
     "date": "September 7, 2026"
-  },
-  {
-    "id": "sal-sep1-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFYbHU5RW11d2pnNVRadnlPWWlwSXlRSlFOX0VHd0MwY2hDOVNjVVNld29nZUQ5bWFhTk1fajY3SFZybkN0VWxwb2VYUnJxZDRBVFNuSWhNaXRzcV9iamhMYUgyM21ZWEp3a2VyQm9yVFE2d2xrSEU0NkRzdWw0elFCRkI2MFVOUHZES2Eta3M0QVNTaFg4WkJ1UG5LWDhsXzJKazhacW5BU252SXNtWnRFbWhKZm1sRklKMdIBwgFBVV95cUxNaFVjMTd0bHd0RnloY01oOGstcmRjMUdENDlXcU5CNU5ObnZTRmVBNDJlSzZvX1l5eHFwblAzQkkzVHNuYi1wdmF0dEN2R01Mc00zZXBHeTE2SW1rcTBpY1ByV3BvdnFkS3NkM2J5NTFiSXJWV1pBQlU3ZWV0QnkyNjhXYzEyc1ZyY3BOMXFva0tOUlVIQUZHZzNKUnVadGFIaGw2OUlEZllCajFDejVDVkhNazcxNU1qbnFKSU83NndxQQ?oc=5",
-    "title": "Salem woman arrested for murdering husband",
-    "title_ta": "",
-    "summary": "Salem woman arrested for murdering husband",
-    "summary_ta": "",
-    "date": "September 1, 2026"
   },
   {
     "id": "sal-sep6-001",
@@ -58,89 +58,5 @@
     "summary": "Vijay’s sweet Dior sunglasses gesture for elderly woman goes viral",
     "summary_ta": "",
     "date": "September 2, 2026"
-  },
-  {
-    "id": "sal-sep1-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkVIbE5ZV01mbXU2X0EyT2I5ZmRWUUhyX1Buemc5QVk4cjNHTDczczk5Vm1HOFJ2eGxuaXVzVEdBLUx0b01kRHJvVzBEVmVibVV4bjFlN01BZ3ZIQktNa0ZsQkptOHM3RUJFQ1BFOXJhcG5RNlNaaVhydEI0QmlldllJRlBVbWQyb1BjckZFMElCdXlmM1hiR1ZsMDgydkwtV05KSUxPQjZodDJrZ294SHZrembSAbQBQVVfeXFMUFZFSGxOWVdNZm11Nl9BMk9iOWZkVlFIcl9QbnpnOUFZOHIzR0w3M3M5OVZtRzhSdnhsbml1c1RHQS1MdG9NZERyb1cwRFZlYm1VeG4xZTdNQWd2SEJLTWtGbEJKbThzN0VCRUNQRTlyYXBuUTZTWmlYcnRCNEJpZXZZSUZQVW1kMm9QY3JGRTBJQnV5ZjNYYkdWbDA4MnZMLVdOSklMT0I2aHQya2dveEh2a3pm?oc=5",
-    "title": "'Felt like winning a crore': CM Vijay's gesture moves elderly farm worker",
-    "title_ta": "",
-    "summary": "'Felt like winning a crore': CM Vijay's gesture moves elderly farm worker",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVUYweXI4RUNyczZpSnkyRVRqVU0zNTh5NDlrRlpKOGt2UkFWcVp3VjZ6MGJwVzI1RnF6ak1FQXFTOHNLUW9LZVFsSEdZZFA3YTdPbnVYOE53TVVJYndaNkRkOHV0dWZQLWNrVXlZN3hwckkybEw4VUVtak5Fdy1Sc051aE5VWnhBUjNDbTYtdDJPQmJXYW1vb1Zfa1dZRno3NWRGbU9QYi1icy1XMWJxNnI4bTJueC1EU1U5dzY1ejl4YnZqWmswZTVTTDlKRlp4cUZudXB4SkRCZWFxRWlqMGRGNzRDYXZCNlpFaNIB7AFBVV95cUxOVUYweXI4RUNyczZpSnkyRVRqVU0zNTh5NDlrRlpKOGt2UkFWcVp3VjZ6MGJwVzI1RnF6ak1FQXFTOHNLUW9LZVFsSEdZZFA3YTdPbnVYOE53TVVJYndaNkRkOHV0dWZQLWNrVXlZN3hwckkybEw4VUVtak5Fdy1Sc051aE5VWnhBUjNDbTYtdDJPQmJXYW1vb1Zfa1dZRno3NWRGbU9QYi1icy1XMWJxNnI4bTJueC1EU1U5dzY1ejl4YnZqWmswZTVTTDlKRlp4cUZudXB4SkRCZWFxRWlqMGRGNzRDYXZCNlpFaA?oc=5",
-    "title": "Tamil Nadu horror: Woman’s body chopped up, parts hidden in water tankers",
-    "title_ta": "",
-    "summary": "Tamil Nadu horror: Woman’s body chopped up, parts hidden in water tankers",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmw0V3VUbm9QMHlZa05sQ09OMmJTdHlUWnpUU3hmbTdUd1ozQ1ZYVTBINGJ4WEg0cnNmYzVBVFNXc0xmZThHTWc2SHQ2cUhEVTZRTW92Z0hCTmp6bjFoSGNobTlLcVJlUUJDTmhYdWVVRTV4TEhMQ2RIQ3k2YjBTekN5RTZkaWQwQy0wNXFWUmdPN09UOF9YX3VySFNMdUxMS291MVYxczhob2pNZnVUdndn0gG0AUFVX3lxTFBWRUhsTllXTWZtdTZfQTJPYjlmZFZRSHJfUG56ZzlBWThyM0dMNzNzOTlWbUc4UnZ4bG5pdXNUR0EtTHRvTWREcm9XMERWZWJtVXhuMWU3TUFndkhCS01rRmxCSm04czdFQkVDUEU5cmFwblE2U1ppWHJ0QjRCaWV2WUlGUFVtZDJvUGNyRkUwSUJ1eWYzWGJHVmwwODJ2TC1XTkpJTE9CNmh0Mmtnb3hIdmt6Zg?oc=5",
-    "title": "'Felt like winning a crore': Vijay's gesture moves elderly farm worker",
-    "title_ta": "",
-    "summary": "'Felt like winning a crore': Vijay's gesture moves elderly farm worker",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyY3F6RUdsa0dHb3hEcjZnRzNJZGR5N05rY2lPQ0VLN3F2Y0ozN0phcm9aR2VuU01fNHFmWWdreXdVSk4zaGVmSTltU29DTGVjakY0WXp3?oc=5",
-    "title": "After a delay of over 80 days, water has finally been released from Mettur Dam. Chief Minister Vijay",
-    "title_ta": "",
-    "summary": "After a delay of over 80 days, water has finally been released from Mettur Dam. Chief Minister Vijay",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0pwcjVBU3YySi15WnFYNVN3T2xjMWE5MG9CbG9UakZnQVdIeV9Yel9hMFVQNDQ3Rmw2c19LMEpseXZWbnExMHQ4MUdDd1FiMnJ0WWhXOVdHYldMQmg1bEpraTZEZE5Ja3VSaDR6Y1NZOE55eXRXa2dUUWgtNUdlam5Gd0djR1Z5U196WGJKOXBKZHJLUFJzcndFcjg4Vi1yZWVpemVjaTJKVXZta0xaZFZGMy1VNWJQYXlCZ2dVLWxtLXFIWi1zR2FlWHZUZVhLMVZnOGdYeWFwWnNscENSbWRR0gHoAUFVX3lxTFAzSzJpSVN0WkxoY2s0cmtGeTl0eTEzUXlFZ0xqZ2JhOWNkYUR1SHBOcTVZd1V6VU9MR2FsSXl5ZDI5dUdic25objNHOC01MHV0WU5EdGR0TnVPbkVSM0JxcWlzY0ZLRGx5VVprQjh6S0tzYVRrd2FjYzZUaFgtSDk3ZVhiUHA5ekN5M3NPZEo5S18wS0wwUEE5c29CZVh5ZmJCUlEyZVZBdV9lbTlGNXBYSWhfZXBqcnJuNUstYThQWTJKZUZsdl9XemV0cFVqSEdaQlVSZFFFZklkdHdjTTV0dnZ2QUNxMDI?oc=5",
-    "title": "With Tamil Nadu CM Vijay opening the Mettur dam, focus turns to longevity of water release",
-    "title_ta": "",
-    "summary": "With Tamil Nadu CM Vijay opening the Mettur dam, focus turns to longevity of water release",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVFI0aVlGWlg3NFprNHEwZ2pCMmIwR1JBeExsN1hQSlVWd3FDYWduNy1PREhMYjlaOXBqTzd0U2xNN2J1OTFiRHI2OHE2a2JSQ0hfRWh6UlJiMC1tT01Hd01DQ0FnelNaNFB4WGpvNGpvVUVpUF81cUFSenV5bXNIc1h5SnNQV0NGMnkzTjluU0RtRHVaYmdzM3ZYejBtdk83MnlfcTNrZnU0TDBmT1dHbG1oQXl1SjZTMV9KdlF1czNpMVVGVVdqb0ZhYlN6VzZxR19qeFNrUkdEUGFRSk5CV2ZGXzZaXzJlcHo2RDB0ME5uUdIB9wFBVV95cUxQbGpiMS1qdUllZEVsNmR3aEpBdGdubzdkeTZzcjQ2c3N3T0xWTXhQY09qYTN6aUNqcTJFaERYVy1pRWVTal9RTUdTV2ZaNnluaHJNOVotZFlVS0owalJsa1BSV0ZUUFdxRHl2U0VKRUp3S0pRdzc3bUpCcVVXOGc3Uk01eWhpTi1QTGV3Skl0X0ZFVlZzQ0NPN0laaVp0SG9YX2xVbVhQRkhyR1hJYktfaXdlUncwb185WE1nTEZrVFBpTUhMZEVGRExiZDFzR2ZsSVo4V1FfdWotdGpvRDFIdWg5OE95WG5ad0lCSU81dnVNand3U2lN?oc=5",
-    "title": "Relief for Tamil Nadu farmers as CM Vijay opens Mettur dam amid Cauvery row",
-    "title_ta": "",
-    "summary": "Relief for Tamil Nadu farmers as CM Vijay opens Mettur dam amid Cauvery row",
-    "summary_ta": "",
-    "date": "September 1, 2026"
-  },
-  {
-    "id": "sal-sep1-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWGpldFpVVUNqVExIMHlsYmRzcVdRNWdvLUxNcHdpUUh3SDFhQ3VnNm1ORFJkbi01Ui1Ma3BkcG9hNWJpNlQ0RnZsa0F2ZUxFY2tYYTdpendGYzZhckNmVU9nRkNGMU5lOEJDRVRhRnI2a3VYS01xZlJOYlp3SWxpY1hSemFldUItZkdmWklQdlR4TzFzNjhOcUcyLWdDaktQMjhUYXpUd1Yycm1STTlzVGprZEUwY1owTDRpaWhZNG14bHJmckYzdTRqalFJdmPSAdQBQVVfeXFMUEg0SVdJWjFTc2I0dmNmSC14NTJ3b21VUkVhcm9HXzdjZ3lmeUJjR3JmSG9WeUpnclhOU2hkZW1RMmE5MVZibmdvdVVNb28wejRObWZNYWtud2lVUTBuWkFGMWVtMFpJNDExMjQ1S2RMRkRHWjRZVkwwUV8zQzY5UnBGYTRkUDlOWERDYkhhaHNYOF8za2RScDBrTEV5OU9xWW5NaUEzd3BraDBpWlp6aVQ2QmZEOEgxZlZzSlZHT0M1b19kNW1qeUd1SDk5ZFlzZUtDUEk?oc=5",
-    "title": "Tamil Nadu CM Vijay to open Mettur Dam gates for Cauvery Delta irrigation today",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay to open Mettur Dam gates for Cauvery Delta irrigation today",
-    "summary_ta": "",
-    "date": "September 1, 2026"
   }
 ]
