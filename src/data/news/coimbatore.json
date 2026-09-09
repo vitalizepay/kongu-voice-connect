@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep5-004",
+    "id": "coi-sep5-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3hwZy1EWEhEWXVNV1l5WUFyN2EtVlhIcDVmeDUxcmN5TzcwVk5LR2RpdVBkbDRxUlNyY1R1aTlNZTIxbmI0WXd3blFLUTZLMmU4eVRZa2dpVzF2T19MNDFqbGR5Rnl4R0l2cnF5S1lLNDdBbEVxMlpHdGxnUU03QVVObS1NU3hwS2tGd0RuUkFYanMxX2ZVODhyd1lwMzkzYlVKZmJRdGdRZ0RPY1RESUF3ZDVOVEpTOUU2QkQ2QW9zQWtxaFFDLU1qaG5SOXBrUlVwa20yNE8zSmVtT3fSAeMBQVVfeXFMT2VuU1AxeHpPOWV0dnNweVF6ZmFmeTZIaTcxNnZnT042M3FVMW43Sm1SZjVrbE9vY01MaFNRMU8tR3luVnRSNVNtdTVNVTJkSF9LN1F1anlIaU5lXzBVMnlJaXE0bVRjZ3R3UV9OREV1UFEzTFpIYm9yX2VqNmpJSVk4VUY0LWRPZ0tuV2dlYnY2SU5YTUR3M2pDc2xaWDNtY0lwZ2xfYkJ3U0RwU2syVmhNaEJoTzM4N2tXZDZoOGdnUERua1dBVHFoTE9udXZ6TFdWTzk4QlRWbWRhOE5LSi1PUW8?oc=5",
+    "title": "Tamil Nadu excise minister justifies suspension of Tasmac employees",
+    "title_ta": "",
+    "summary": "Tamil Nadu excise minister justifies suspension of Tasmac employees",
+    "summary_ta": "",
+    "date": "September 5, 2026"
+  },
+  {
+    "id": "coi-sep5-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkpBM1FvWWRMODk3Y3ZObnowTDZ4N2c2TlF5SC1hZUg1ajZMWVlMT3pqR3FkZC0xa1ZGRGF0eWR2YUlWM05iVWxSQ3Y1UTdvM3NyZ0JjYjV5MUNJNmd2enZhQ2RVWFB1NjJsV3oweTc0SEtMNm9oZlFzSXdoaXEyU0ZGMDRGN3VrLVFhNF9RWktIcEFDejZsdEFHVWNPM3RYRnFEV3REcE1LQdIBsgFBVV95cUxQVFNwX0JOOUR4cmNMM1hrRGN3TDlrLUV1alVUcFhUYVBLT2ptT3B6X01kMF9lMjNqRnhHNVFlRWpvQ3JkcUpUTGFCT043VG8tX0MxTkFFSmVRcTl0RVVHWi1neEJqTlZXOEJodG9ySVYySlZkbmFqVS1WbTdOVXV5eVV5MU4tZV9IQTFvVFNIVm9UeEVGMWxXWlBlSFVrd1lXZjhGYURTdkR2ZUhwVktHSHlB?oc=5",
     "title": "Drunk Minor Molests Woman In Coimbatore, Stray Dogs Chase Him Away",
@@ -118,18 +130,6 @@
     "summary": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
     "summary_ta": "",
     "date": "September 4, 2026"
-  },
-  {
-    "id": "coi-sep2-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ1VUQkFHWlZsS1RHOHJSaERySlBES3ZvdE1EVWxjRGw5NlIzai0xY3lhNjR5U2NHQnI2UmcwQ3ZadzJXYVdWbFZJVnFfdVhWQ3pXM09WLTd4ZnBhYktiaHBMSEJBZUNWTk1fS3BFdHFGaHhDVUpBbDVwdW9ldjdfY2Y4aWlZbUN2MG5mWVQ0bUtOdnloOWVOVERYNFNUTkVYRFhGWTF2ZVdpT1kzY2pyWjc0eW1zNHNBRHM5clQyNExBYWI3U1djbXp6T2ZEYWozVFByMHEwZVZnY0NRSXRnT3ZOZURrcUdZTERKN2xmUGdfSnhBb2E0NzJSTW4wQmfSAYYCQVVfeXFMT3hxX214ZHM4VVZRbXdWUkdFeF84SmxHVUpDVXZSdFVwMDZ1UmNvdjRweWN0SzVkdTdObUgwRXFXYVlGZlBLa3lXbm0yWEtfa2ZWM0p2M3NYaW5oeURFQ2R1akRBVWtlZWZhTnNvWEhmTV9PclM1TEYyOWNhOWFqemoxNG14cGRmY3NpUkJNOHpfYXpRVTZKZ21pdEdjZUwyTlBmNTVJWUFJaFBKUDVxbzVOOWx0aVJJV3MtV0ZYXzFyVjhLVzJ2OUlWbU5yMmFkNXJoRW1GVWM3WXp5Z0lkUWF3dUxnLU12dlF2Xzg5VWhuY2U2Z2VEdEZuY2Zod1RuNkdmS2VxUQ?oc=5",
-    "title": "Wetland-friendly tree to boost avian habitat in Coimbatore’s Periyakulam under Green Tamil Nadu Miss",
-    "title_ta": "",
-    "summary": "Wetland-friendly tree to boost avian habitat in Coimbatore’s Periyakulam under Green Tamil Nadu Miss",
-    "summary_ta": "",
-    "date": "September 2, 2026"
   },
   {
     "id": "coi-sep4-004",
