@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-sep7-001",
+    "id": "tir-sep10-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOREN0N3E5b1p0ZjhDSWsweVU1VzZtbG1PeHAtNmN2SXVjaUhBTVlNd3ZPMmVVeEJENTdFbXExNkZLRmdfSmJnN092RDdYcGpYTmM3alRTTVVETUFPLTZEbDF1dl9MMXAwWEc0QmtiVGRNZF9DN1ZwdFNNSHVtUFhaZmFNelNqaUpfXzh5c0ZWa0txVGVTWFY2c0JvMk8wbjBLUXNMdXozd3FfSHVrNWh0ejczY285OVJsWlBCSXVoeWhZOHBWLUctTlVrRWJ3N0lsRFVoZXJ5dV90RGMxQ1dpdGJWMENCaWZvR2lZ0gHyAUFVX3lxTE5vTHpPZ3dtcHl4V3lFaXEtM3Jvd0YzaTZJbEt5XzREZXg3eEtmZDU1cW5LTVpjZDl4MUNadGxqN05DS3dvcHZ6VFFCajFRdk9fbm1VZVBtMTNsTGxDVGphUFhPVXNiYlFCRFBvRFhNbC1kVzZNR1BGY0VjOC1fYllPS2lDSk12azZVaVFidnd3ZEJaRHJieVpEaTdsUkg3UW5SNXFlUjVXVHJYOTk3NHk1WVYyd1R3QV9IdzBRSkN1SndSbFJUTk1sYU9CN0VlSlBmY0RHYTVBLWtCTGNlTV9xbUVYeVF0MFU1WlZZM2FLc3hB?oc=5",
+    "title": "Chairperson of Tamil Nadu State Commission for Women inspects textile units in Tiruppur",
+    "title_ta": "",
+    "summary": "Chairperson of Tamil Nadu State Commission for Women inspects textile units in Tiruppur",
+    "summary_ta": "",
+    "date": "September 10, 2026"
+  },
+  {
+    "id": "tir-sep7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YUU1WdjNyWmlrWmZuQmpNZHlacGlheHlaXzc4QkxUejU2Nnl2ei1xVkk3c1JtUzk4Sm1SaE1GNFp6NkowSkVMeE81bVg4QWdNVG42ZmpvbEtGREt5VENOYnZVbF9VTS11OENjb05oMmVBZ21Yc1Nr?oc=5",
     "title": "Moodbidri: seven years on run, temple theft accused nabbed in Tamil Nadu",
@@ -10,29 +22,5 @@
     "summary": "Moodbidri: seven years on run, temple theft accused nabbed in Tamil Nadu",
     "summary_ta": "",
     "date": "September 7, 2026"
-  },
-  {
-    "id": "tir-sep3-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWmpYNk9iVG04M1A3VDB0OGpTbndmTnZvLUI0eGN3d3lzZVJna1dEa0JvSmpKUjR2ZmcyVTBFT3YxdHViTXJNQ3hhNEZ2LXc4aWZSbTZKOHdaUmhNS1pORUFiVzhhVzBTN0x4dnl4YnM3SnMxbnFpNXVFS2lXZ1RRZlYwcG1zcjVnMmx0ckNOcjF4RmdlbHBvVjJBSUFhOTBpUmhSRTVHV3V3LWlvQkhyaEc0UzF1enJ6aTN3TkphbWpCazZ3bHR6MDBqaWc3dVNOY1l2S2dxQ1ZlZ0ptak43Y3FyY3k0NWZOYWdGbWdFZktiWDdXTGFNUmQ3TEzSAfwBQVVfeXFMUFpqWDZPYlRtODNQN1QwdDhqU253Zk52by1CNHhjd3d5c2VSZ2tXRGtCb0pqSlI0dmZnMlUwRU92MXR1Yk1yTUN4YTRGdi13OGlmUm02Sjh3WlJoTUtaTkVBYlc4YVcwUzdMeHZ5eGJzN0pzMW5xaTV1RUtpV2dUUWZWMHBtc3I1ZzJsdHJDTnIxeEZnZWxwb1YyQUlBYTkwaVJoUkU1R1d1dy1pb0JIcmhHNFMxdXpyemkzd05KYW1qQms2d2x0ejAwamlnN3VTTmNZdktncUNWZWdKbWpON2NxcmN5NDVmTmFnRm1nRWZLYlg3V0xhTVJkN0xM?oc=5",
-    "title": "Garment units in Tiruppur plan meeting with textile mills on Sept. 9 to address yarn price issue",
-    "title_ta": "",
-    "summary": "Garment units in Tiruppur plan meeting with textile mills on Sept. 9 to address yarn price issue",
-    "summary_ta": "",
-    "date": "September 3, 2026"
-  },
-  {
-    "id": "tir-sep1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaWdaZXdGSDdkc1dwZXFzTGxoaW96RDY1d3RTNmszNnhsUEQ3QkxXeTNRcWMxeTItTkJfQkN0OVl4cDlfYkh6QkdFLU5zZUxNOTRrYVp6dXhndm54aXhTVm1BOGkxVkQwUDRrQXJMbDhmMnpvM1lncE5WbjlONDBRTHNUS0tfOU9YcUxLM2oyX3JQZS02ZUhHb3I4RU5LZDBqUF83cktoSTdCZHEtSkxnd3A2MWswdFlXckVLcGhFTkNJMXkyWmMydzYyLVVpWW1qbGpJTllWYmZ5cmJIQVhMZTdUc3U2TnJRdEwzX2tVSjJ6TC0zWmtB0gH8AUFVX3lxTFAzdW9UT2EzZXJCYWR1b0w2cGhtcFdxcGprRzRTZWxEYWQzQkhDaG9Rdkk4REVnTm5FWHFaMEw2bzIwMVZRcmo4eTVoV3Y4S3RBZWRIQ2hVWjNjbTBNNDlOU2JyWndMZVBPRTJmQmhuMkJRc3AwSkpBYUxPUTRWTmEtYnVLSnJOaG0yZ2dIUE92S2tJT1BvNDZ4M0lJRlcweDhROWZfNEZPWlpfaUtVeFdLWnBqb2VNeWtYRHlpRlhjMThSQmJ3RVduWkNIc09tRWdtTEUwajFjak1zQVo1Vmc0NjB1clJudm9FRG5ZWVIzWEVWLWcwZlEwNDJDQw?oc=5",
-    "title": "India News",
-    "title_ta": "",
-    "summary": "India News",
-    "summary_ta": "",
-    "date": "September 1, 2026"
   }
 ]

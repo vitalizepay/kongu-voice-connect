@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep5-005",
+    "id": "coi-sep10-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSm5vRnNVcGlhdWhYVHpWVlNiTjlka24tRHRLa2FJS0c2TlYtMFJrVzJncTg0eVFhY0M2NFZBSnEtWm9QUXBiMTlXQzVVSWFRSjdUaWFLVzAxRmJEYTV4ZmNCVUd0dDZyX0R5alBOYjB4aW0tY2VqRFd0eFdtS01iUzlRZURmc0VYb3RQOGRoOWlpZmNqRl94SGFYdUFCUENDUHNVZ21mTlI0WWVPcFFMclRUVXhFSzYwWXFUek1jTlNDZE1TYTJJQzJRdmo5UTBJcmxkQU1NQmt3blHSAeIBQVVfeXFMTmRqa1c1a3VGU055dTJOUE04TWl2X2hrNHhoZGRDUE5kZlJUMkJsdFQzVDJ3cDhxbUFvTkJpYXpSYnVCSDNaXzVRTzBSQ2RCdWV3YXdIYkhpRndPTDRxYXl1YUpDZjZiUENYbl9CX1c4bEJtWVVTcXVmNjZkNmJhZGdkbGt4RWtiX3FJVzVGREl0WGktZllwdVNVVWtaSEs4NlJTUm5sNFM2eE9oNkx5cGdPX2pBaWpqUk9yVTFjbENtNE02LUhnenBzWVJUMHRMbktKejhVeVNNeTZlcF9PY2hwQQ?oc=5",
+    "title": "Police issue directives to FL2, FL3 bar operators across Coimbatore district",
+    "title_ta": "",
+    "summary": "Police issue directives to FL2, FL3 bar operators across Coimbatore district",
+    "summary_ta": "",
+    "date": "September 10, 2026"
+  },
+  {
+    "id": "coi-sep5-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3hwZy1EWEhEWXVNV1l5WUFyN2EtVlhIcDVmeDUxcmN5TzcwVk5LR2RpdVBkbDRxUlNyY1R1aTlNZTIxbmI0WXd3blFLUTZLMmU4eVRZa2dpVzF2T19MNDFqbGR5Rnl4R0l2cnF5S1lLNDdBbEVxMlpHdGxnUU03QVVObS1NU3hwS2tGd0RuUkFYanMxX2ZVODhyd1lwMzkzYlVKZmJRdGdRZ0RPY1RESUF3ZDVOVEpTOUU2QkQ2QW9zQWtxaFFDLU1qaG5SOXBrUlVwa20yNE8zSmVtT3fSAeMBQVVfeXFMT2VuU1AxeHpPOWV0dnNweVF6ZmFmeTZIaTcxNnZnT042M3FVMW43Sm1SZjVrbE9vY01MaFNRMU8tR3luVnRSNVNtdTVNVTJkSF9LN1F1anlIaU5lXzBVMnlJaXE0bVRjZ3R3UV9OREV1UFEzTFpIYm9yX2VqNmpJSVk4VUY0LWRPZ0tuV2dlYnY2SU5YTUR3M2pDc2xaWDNtY0lwZ2xfYkJ3U0RwU2syVmhNaEJoTzM4N2tXZDZoOGdnUERua1dBVHFoTE9udXZ6TFdWTzk4QlRWbWRhOE5LSi1PUW8?oc=5",
     "title": "Tamil Nadu excise minister justifies suspension of Tasmac employees",
@@ -128,18 +140,6 @@
     "title": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
     "title_ta": "",
     "summary": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "coi-sep4-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNel92dGxVZk5CYkVPdzlGNnE3QzdlRUNkLUR2ejUxMEZwcnVaa3dES3UtTjZIczBWLXlyTlRJVGN4cGx2QkhXVHdVUkxWYlVtRW9DOUJUMkRSV1FjM3VIM1F1Q0xTLXBFbXA0ZlAxVFc0NzV2VkdvaDMyaG9oM0ZMdTdVanVIVEJ0QzBmOGpfZzdpTG9zNmNYTFhjOTkzZWZDR0YzUWQ3b0xuWVNjUF90dDFFMlR0NmhDNWNwV2NzNXRrNkVlSW53RWZCQTQ5QjEyeDlmYnlwR21HaUppV3BhT1RkdkRvMGNBeHZLb2dncTlPd9IB9wFBVV95cUxOSHZ3LUZRMG5KRU5XdVd3QWVSX1ExVi1yNVdFbF9jMm9NUDZuYmp5ZkxKNVpHZTlsUHJkb3hRTTIxekxiYzVpemsyTXpzZEFVRlpJVHdGbGpRS3RFUEc1UkNJMFNiYnFFOTl6SWQxbnQySy1hMWZJeEo3d1pENzJaSVdoSmJUWmJOajJzWVZBbE96a2V6V09SUDlzaW1EcU5wX2FSOEpldWZGd1V5Z2VoLXNiSk1uRDN6ZVV6ZkI0LUxkS2M5Szl6NFNwMVB0UkpHTUROcml5aE1YTTB4RnFqdWxtZWZBbFF2cWxOREt0WG1fUmxvTzc0?oc=5",
-    "title": "Watch: Stray dogs foil drunk boy’s bid to sexually assault mentally ill woman in Coimbatore",
-    "title_ta": "",
-    "summary": "Watch: Stray dogs foil drunk boy’s bid to sexually assault mentally ill woman in Coimbatore",
     "summary_ta": "",
     "date": "September 4, 2026"
   }
