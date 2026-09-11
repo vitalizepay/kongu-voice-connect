@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-sep9-001",
+    "id": "nam-sep7-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHpmN19uRk1aTWEzVEpXTzVKVjJZMmNCbW5rUnZKakdxRjJsNURzMEhNUWQ1MWQ3bTFiX2NWMWJ1bnRBdHRxdG5FUzdOTEZ6OVhFbVFPb3FvZG8wejctaHdvNzhOSmx0OEJkTldEdGY4MzBTaXBVM1V4VlUxYUZmOEJXRzV6R1FTaEZ5ZEJWc2xUeWpmTkJOMGdCRy1wREtPZnAzcmpnUFRFVDJDc3pPaENNSlBzTVllcFVaaDFjUGZ4TGdnOTZJNjlPZ184VGFIV3hUY1lMd9IB3AFBVV95cUxQQWk4VE9xYURZRkF3OHB4aTJpR1l5YUo4cVc2bjhEam1uUTVWSkZnZFV4dk1veUJuOU1kTjdsaFJKUTBnWjdhNVM1bnNGemlrUW12U0xkRXg0WVVDODRqb0ViUXlzc01xMHE5MTJreEE0eF95dFZ6RDJyYkZjaURHOGtic1poYXFzVGtyWENiSk5ZekViOFVKYUlObUNCRHFrc19vbG83dkpnazNYLVhNc0lPZVdHUXJsQXBaamdCZmJPU2k0OTYzQkhZRzF2d3hiNmV2T3ozOGdVa2F4?oc=5",
+    "title": "Disabled people hold protest outside Namakkal collectorate, detained",
+    "title_ta": "",
+    "summary": "Disabled people hold protest outside Namakkal collectorate, detained",
+    "summary_ta": "",
+    "date": "September 7, 2026"
+  },
+  {
+    "id": "nam-sep9-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXZlLXJBZWZYUW9MUHFDd0pNQWIzRW4zcXlqeXNCRkd5SHNYcXJxY2FqekdtRVZoMGN1R2FrNDhUMkdSLUNGSWg1alcyX3Bkck5CYTRFTTBST0R4N240NV9aS0NyVW1xVEMzY3NmSVJ2WWlrNG9yV0pzVHJNZFNOVnd4OC1PUHZGRUVyWVk5TnNPd2FOTnVqdkV0bFV0NGIyWUNnUExIaURneWF4U2hsUWgyVF9WLXhUNF9YMEE5SVpsd3RqREoybXY5ODZESGhYazIzY9IB4gFBVV95cUxQRGM3M0ExOS1oWkhvM0ZJZi1DaGNLLWszUXdHYm9WY2NxV0lTMnVwZmZiaTl1SWhNWkN1bWpUZXBJemVpWE0zbmlXcFlaNlpScFp3TnNZVDdXSHNrYUdjSkUzaGl3dmRVVUpKV1p6X3RWb2toU0kzVHJwWnRzdlFvUlp2Z2p4NFA1cHhjdHl1c21DdFNmLTQxZ2lyQUhfZFdKR3NjMVdOZmU2dGxJM2NUa2phYjZDVTBUUzZ4R0c1Z0taY3VacFY3akk2dFVUSzBnY1pVZGdSYmRNdElZcVZiaFp3?oc=5",
     "title": "InDepth | DMK’s Opposition To Delimitation Has Given Way To A More Practical Position Post Poll Setb",
@@ -10,18 +22,6 @@
     "summary": "InDepth | DMK’s Opposition To Delimitation Has Given Way To A More Practical Position Post Poll Setb",
     "summary_ta": "",
     "date": "September 9, 2026"
-  },
-  {
-    "id": "nam-sep3-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaDVuaHltbWFHbWotdllGanYyeXVfZVVncVg0TWhITFhRLWlGOUNOcG4xSkd1QkxTNGJWbGo3WDd0TVM2aVdBOVFpSzBfWFItTUxmOTBKbVQxQnNyczBDdXJFRGVLTTMweTVnWktYZTJ6WFRtak1VdEE3U3RxZHM5a1l5MjVXdHU3OTBsRk5fbmItTHdwVGNvWXhOSVdtNU9hMWlsREJDeExOeUpibjRhUEJ0cTRFektZeG9HTEhjMnRIeElTZmV4NUN3alJadnJHRUE4SndlSHdmczZHbXVQYW5lb1BtVTRLUnVIUlJ4U3bSAfYBQVVfeXFMTl8tZmF4Y1pkSzZ2dnNMMGdPQzFCWlNoMHRHOU1zVnkxMDlaZjhkcHd2TVFxZWdFdWJDNnRkVE02YWpVdlBuSTJXSUNfb1hfMGcxeTIyV1o1WmNRcHFtNnJOWUZXTGJZMkg2NlpKam9lZnJ2bG5rUlFkLVVsektwVkRON2o0aGhpODdGenZZS2pLTjJLeTdwemk1ZHdpbERJQWZFTTRPNUhIcUI4bEwzUWE0d0tKcjdoYTVMOHpkSjJZdklxSWtxbjhXODNKSEdqMG9JOVRIdDB4Mml0Y1VCSmk3Rm9wVGFzdmd4VTV1QVdsS0xGUjh3?oc=5",
-    "title": "Three young sisters, cousin die as bus collides with moped in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Three young sisters, cousin die as bus collides with moped in Tamil Nadu",
-    "summary_ta": "",
-    "date": "September 3, 2026"
   },
   {
     "id": "nam-sep6-001",
@@ -48,18 +48,6 @@
     "date": "September 6, 2026"
   },
   {
-    "id": "nam-sep3-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVJZQm55NXZVbjh3QmVXS1hyVVNaRjZENUNpR2sxb1lqbE0wSmhMMkdvaXZJSmJIaGhuV0MxeE1rQ1dJS0QtazZRcWZWYTFLZkt5aGU5SVBpMlUyZjF4Q3NTVkk0Zy1oM3dJODh1SmNaWG5DY0hnR0daLUpzY0hTMklZdXIzSmdacUhtdWpteTg5VGdsb3Z5cG80bzBPQm1qT243alAwOWJ5Vk9C0gGzAUFVX3lxTE1BSjRsZEo5a2ppcHljS0I5emdkVkxYczRiY1dOUkQxdzNvYzEza0lnLXd5dXhpSXdsVm5qU3RhbmNlbi03QmtvTUoxcnlmaGRVS3Rnb2EtZk1IbmUwS1lrMkFBRGVPZWR2VzFiZDJvVHNqLUtBbXpmZUR1ck90dWt3LVlTNGxlM3o1VUZ0dnVRQnFhdTlMUXBCNEJackJseEFvTU9lNkhtY21XOW53R3FpQmJz?oc=5",
-    "title": "Four students die in accident in Namakkal",
-    "title_ta": "",
-    "summary": "Four students die in accident in Namakkal",
-    "summary_ta": "",
-    "date": "September 3, 2026"
-  },
-  {
     "id": "nam-sep5-002",
     "category": "News",
     "featured": false,
@@ -70,53 +58,5 @@
     "summary": "TN government announces ₹3 lakh aid for families of four students killed in Namakkal road accident",
     "summary_ta": "",
     "date": "September 5, 2026"
-  },
-  {
-    "id": "nam-sep4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRHBlajkzSU0tZGs4WTNTdkQtejViLTdPaUIzd1h0VWkxVldqMUNVMk5Ia1U1TmxJZnpyRkdrd19xcHY4bXdBbnItNXVBWTdyTU93bWYzdDdibjc5alpFNGVkTDE0R1liTkh6NFBCM3F1WHJrZ1BCZDFQNTNFRGhqYkp0TWhaektrQXQ4MFNHZXdfbmdabXhsMGVfVmFzNnpvblpyc2hEblhaMTIxeHpkcGRKWjJHc0ZRN195c0JNYWp1OUdxNk0wQ3J5amhvcExramNfN0lkdUZkZFpCZVlxRWlGcDNwXzNqNXNKTzRPZ9IB7wFBVV95cUxQRHBlajkzSU0tZGs4WTNTdkQtejViLTdPaUIzd1h0VWkxVldqMUNVMk5Ia1U1TmxJZnpyRkdrd19xcHY4bXdBbnItNXVBWTdyTU93bWYzdDdibjc5alpFNGVkTDE0R1liTkh6NFBCM3F1WHJrZ1BCZDFQNTNFRGhqYkp0TWhaektrQXQ4MFNHZXdfbmdabXhsMGVfVmFzNnpvblpyc2hEblhaMTIxeHpkcGRKWjJHc0ZRN195c0JNYWp1OUdxNk0wQ3J5amhvcExramNfN0lkdUZkZFpCZVlxRWlGcDNwXzNqNXNKTzRPZw?oc=5",
-    "title": "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium",
-    "title_ta": "",
-    "summary": "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "nam-sep4-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEJwaHFudnhTUUtnd1c5aVBfdVVFNVhLQjhLa2JuMThVazhfbWhhaEo5b0pKQkpPRU4xdmVJOHhJR0x0ejBielA0TXpheEN6NUV4Wm9RQndqcVdwMklLTE9VdTM5c0lLMUhYdEpxRE5LN2FGY3lSZm03TUs3YXJ5Nzg4cUZwRFd5NXFrcU5Mbkg2aW9kSGdyeTlQeVI?oc=5",
-    "title": "Breaking News | காலை உணவில் சாணி பவுடர்.. \"தனிப்பட்ட விரோதம்\" | Namakkal",
-    "title_ta": "",
-    "summary": "Breaking News | காலை உணவில் சாணி பவுடர்.. \"தனிப்பட்ட விரோதம்\" | Namakkal",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "nam-sep4-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdFhOMjlZcU5LckhGS3Y0a3EzMnc5dy1qWVAtT0dET1RiM05uamJZRVhNdmlGSnZOMlQ4a2Qwdk5TUDA4MHgyeW1FUnRpVW5YTl9tOV9yY3VqUEN1SmRlM0tmaUNobGVwS2VidnVqa3hqRy1CdEIzdzdLY1hsTUFSbXNoZmF0aC1oMVNQUVFDVHZYNld6NWtHZGpwcE5HSlVZdzY3VWFoc3c5WWV4X3h6X0w1eUVQXzNfalpod3lONkJwbmY3Y2FtZDhOMEVid1NqeXJmVi1Td1U4el9tU0VxQ2F3U0RnZXBUbFZFV0Q5X01iOXJDd2ZRZURIaUJuSllvOFp2N1hLVmV3UdIBjwJBVV95cUxPTENZMHlhNFpQSDdUOG5RUGtSMEY3WU5MMll4SjhUYmtiSmZVYndReDBLQm1EWWtvWWlqRVQ5Y3lKY1VhTjduWUxscXZhWFFuODYteTFpcGp3Nko5UTZUcVlLVEdQUVVFQlREdkJzWXY5cTBndE5MNi1yRlF5S0ZMTVQzMTI4WFJVbUxxTVBpbW9HZDhVOUVKNkZyMTA3dmRtNkpyYlB0OTRuRUNaOWVJejRZMFdzZmtNUjhfLXVjSVZLTDJMd0lwMlRtUHgtMlQwYXNWU1h3WVd6cDRmVGJCdjZPalBYX1FOd21nSndIOVZhZzdVaXVhSGV0S3NydE5kbk9PeXFNWnFXTW5tRXFV?oc=5",
-    "title": "4 Sisters Killed After Moped Collides With College Bus in Tamil Nadu's Namakkal, Crash Video Surface",
-    "title_ta": "",
-    "summary": "4 Sisters Killed After Moped Collides With College Bus in Tamil Nadu's Namakkal, Crash Video Surface",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "nam-sep4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS180eUtJc00xT2FkWkNJSGYzS2Q2RkxVbEVKT2Y0dk1zMlZwcFd4a1FCWFMyalRsYzhCM2VLMDhaVVpyVGVwTm1UY19DZUZnUGc0dWt0NWE4cHlqSlpoSjJKY1g0RFlkRXkxTGQzN2YwQmtGalZyRnJCNlBxTzRacU5CNkJGSUtVQTlLRmZiSjdVZmtDZGVmWWl2VThBbVAzOTdEczNjZTVSYUltWEl3MzlyVGdvdmp1NTRBLUpR0gG-AUFVX3lxTE9LXzR5S0lzTTFPYWRaQ0lIZjNLZDZGTFVsRUpPZjR2TXMyVnBwV3hrUUJYUzJqVGxjOEIzZUswOFpVWnJUZXBObVRjX0NlRmdQZzR1a3Q1YThweWpKWmhKMkpjWDREWWRFeTFMZDM3ZjBCa0ZqVnJGckI2UHFPNFpxTkI2QkZJS1VBOUtGZmJKN1Vma0NkZWZZaXZVOEFtUDM5N0RzM2NlNVJhSW1YSXczOXJUZ292anU1NEEtSlE?oc=5",
-    "title": "4 Namakkal girls, 3 of them sisters, killed after bus rams their two-wheeler",
-    "title_ta": "",
-    "summary": "4 Namakkal girls, 3 of them sisters, killed after bus rams their two-wheeler",
-    "summary_ta": "",
-    "date": "September 4, 2026"
   }
 ]

@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep10-001",
+    "id": "coi-sep10-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTVKRWwzS0s2c0FkVVFIUV9MVmNVRXZfTGJ4MF9nZEdlWWltVUNJRmRpc3Q0dTZUYXBOT0xSdGN6Y3lwOHBpLXBXYTB4SEF5N21WZWY2OFZnN3BOS29obkNhTmprbUk2ZGQ5OFFrOHlSU0Nyd0ZDN1hCdlFGOGM4ZkZBTXQ1eVRzaE1oM2NGX0h0RGxWbXRlSGNDSUF1RVpQeTZ4M0lmTHE5YVlBZXfSAbQBQVVfeXFMTzZLb1dIdUM0SjdZdHNRN1NzaS1GQmhMZ3VpeWJ6ZGEzb2JDZXo5d3lha3RjQ1REY0pMX2xRNjZaMU9qLVYtSnVuUXpSdFZBWkZlXzhMbDE2UVcxdzVDZFFqVzZtZ3JMV01oSHVVUTd5OG9CdFZsNDdQZFJ5dUs5VzNtRVRkRl9mUlhHV2lxdDgtTHhUWXJVTllyaVhCenl0U0phZ1FQMFQwYm9xdHdrbUJaYXFN?oc=5",
+    "title": "Temporary ban on DJ parties in Coimbatore",
+    "title_ta": "",
+    "summary": "Temporary ban on DJ parties in Coimbatore",
+    "summary_ta": "",
+    "date": "September 10, 2026"
+  },
+  {
+    "id": "coi-sep10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSm5vRnNVcGlhdWhYVHpWVlNiTjlka24tRHRLa2FJS0c2TlYtMFJrVzJncTg0eVFhY0M2NFZBSnEtWm9QUXBiMTlXQzVVSWFRSjdUaWFLVzAxRmJEYTV4ZmNCVUd0dDZyX0R5alBOYjB4aW0tY2VqRFd0eFdtS01iUzlRZURmc0VYb3RQOGRoOWlpZmNqRl94SGFYdUFCUENDUHNVZ21mTlI0WWVPcFFMclRUVXhFSzYwWXFUek1jTlNDZE1TYTJJQzJRdmo5UTBJcmxkQU1NQmt3blHSAeIBQVVfeXFMTmRqa1c1a3VGU055dTJOUE04TWl2X2hrNHhoZGRDUE5kZlJUMkJsdFQzVDJ3cDhxbUFvTkJpYXpSYnVCSDNaXzVRTzBSQ2RCdWV3YXdIYkhpRndPTDRxYXl1YUpDZjZiUENYbl9CX1c4bEJtWVVTcXVmNjZkNmJhZGdkbGt4RWtiX3FJVzVGREl0WGktZllwdVNVVWtaSEs4NlJTUm5sNFM2eE9oNkx5cGdPX2pBaWpqUk9yVTFjbENtNE02LUhnenBzWVJUMHRMbktKejhVeVNNeTZlcF9PY2hwQQ?oc=5",
     "title": "Police issue directives to FL2, FL3 bar operators across Coimbatore district",
@@ -34,18 +46,6 @@
     "summary": "Drunk Minor Molests Woman In Coimbatore, Stray Dogs Chase Him Away",
     "summary_ta": "",
     "date": "September 5, 2026"
-  },
-  {
-    "id": "coi-sep4-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOV9fUC1BYWNPamFMSDRYSEpxcG9fbDVxY3F5NHgtS2tuYUZLeWRvcERyMTJZbzlYWFNLVGdabGtkWFM1eEVCTU85RlE5VUZiSXIwU0Z4dlo2VFpvUExkRFBTVl9Ib0M3OVVtWURjZC1nWm9RdnBCQm9haVJEMm1RRjRXTWhmRER6NWZLYWRsYTQ3Q0JqRGRER2h0YlJpUTF0dzdFeFZTcmhPa2lhcFRnSG5jTzNMaFJJcFNUalo3Y2tXT0I5MFZ4dG9sNTRXOFJBUnNHTE95ZWNHUG90ekNUTXczQUtFQVJGcWowOVlB0gHzAUFVX3lxTFBCMzJnVUVtS1A1YjZhOEFqN0VxRGtXaDdyYlAzZlpHQm4yYUM4MmY1WlFiRXZyclBTQ2JhZjhyZ1YtN2pjQ1R6SW84ZlVZY0h1RUJjeUNpc0sybGdKdFlvWVA2RVJnVlN6Wjd6U2cxdGpsaXJxNVdsVDlLR2JRR2JVWFFfRjYwT0FXR1M1WTJFNE9IRFNfeml5RTM5ZERBRVIwaE9XN0tJWVJyR0YyQjdiMTgxRTBQUmtRZkg5b1RuZ3NzZlpTNEZyTDVFOUhYT2ZILTZKbnFVUlJraWJuU2VvMFVsa3NmMUZQbEo2czMzV2dROA?oc=5",
-    "title": "Coimbatore: Woman With Mental Disability Allegedly Assaulted, Stray Dogs Chase Away Attacker",
-    "title_ta": "",
-    "summary": "Coimbatore: Woman With Mental Disability Allegedly Assaulted, Stray Dogs Chase Away Attacker",
-    "summary_ta": "",
-    "date": "September 4, 2026"
   },
   {
     "id": "coi-sep7-006",
@@ -84,30 +84,6 @@
     "date": "September 8, 2026"
   },
   {
-    "id": "coi-sep4-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXJaT3haRG8xanoybE9HaTZCZXBNVTdUeXZ1MUthaFRibW04RG1ZbEE3YXpGNTJFcElEQUVtRkNFOVA1QXY1V1A4Si1sT20yd0hXNXNoU0hjNjZzanhCNjhFTVVULXp2TGRuX0o1TUthak5PYm9RTTI3NEl2ekNjQlp1bEdmNXVpTWZJay1WRG95N24zcXFBcTJEakFPeHNlVXlWNHRCZjV1MVIxQTFMNGtZVS13Sk1SWU55MjN3R3c2ZkFGX25B0gHOAUFVX3lxTE9EOUs4cDl1Xy1ZQzFueHJ2MmF2elRBWTNKRDh2RHcyaTg2REN1WEVIbVBmbHY1MmV6aEcwbHduOThEVTBlZFhoOV80ZXAtV2lrTmdGd0FJOHZodGlsWEdZMVZNVVhzaVNVZnlfNXRQdTUzbTBBSEtWcmxYTTFvci1XeE5qWkU2SzJxSEVVdndfOWFHZkFWYU4tc1dhdjItODNlVTNlNlV2VHc4S3ZhRldxWEwzLXdGVXR2Z1NtXzl1c28yZW9PMGxLV3MyWm9R?oc=5",
-    "title": "Dogs save woman from molester in Coimbatore; minor boy held",
-    "title_ta": "",
-    "summary": "Dogs save woman from molester in Coimbatore; minor boy held",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
-    "id": "coi-sep4-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVBESFlaMExyc1hhRzQ3c1lzT3djelhEOXhNNjY4RldYdzVmS1FITTBkTHdvQTlLam00a2FPY29IVkl2NjlTRjlIUVg0eGc5eUdiczVMbTlDdThjOFNFdlRHNDllbEQzMnpGRUtDMVRtRGpVYlVsY3E2dTZfcVhXNC15WVc3MGoxNnk0MzBrdllMOXNxUFk3d0VkaW5lMVNZajVaQXdFMXktckVfLURkZHh4Ul9ETzZjZlZTNm9Sa3k1VXRCU1o2OWNGRVE1MVAwc2NMU1pEbzUzVUZueVUw0gHkAUFVX3lxTFBCeEticDNqYTUwYnkzbHFJWkpDQ2x4RURwUzBSQ3BXSnA3MEhnWTVFeVQxc21GUENZX2NmQTRyLXFYVlJ5U2RXRmVvR1p6QTBMSmF6bS1hQmptNmR2UEl0eHBfRUdrUlU2S3pCOTdxRHlxYXFSYkY5OW9RMS13ZE0yWVBNdUxlOE5lTlZVOWJxc2xPeUxMbHZWYV91SmRtUFZOWElPNkRyMDVBWU5FOFNVTktpY1VhYVdYSHNEdENpWEpLQ0FwWGdZWmxvVG96XzhCS0Z4VlZHdWROQjlDeWNCcUFNUQ?oc=5",
-    "title": "Auto driver attempts self-immolation outside Coimbatore collectorate",
-    "title_ta": "",
-    "summary": "Auto driver attempts self-immolation outside Coimbatore collectorate",
-    "summary_ta": "",
-    "date": "September 4, 2026"
-  },
-  {
     "id": "coi-sep7-001",
     "category": "News",
     "featured": false,
@@ -130,17 +106,5 @@
     "summary": "Wild elephant with iron snare caught on its leg treated in Tamil Nadu",
     "summary_ta": "",
     "date": "September 7, 2026"
-  },
-  {
-    "id": "coi-sep4-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejJqUlRySWNXUW1fUC0xeENqSS03SDBtQ1pZN1FOOThsZ3AtSnZQdEhnR3BwMDVwaFRSRGlZVHVUdHY5bU1wZzVyWlNHbXhPSl9KNG41dlIyR2ZDTTJsQ25QZ2o3S085eWhhSDh4ajkyamo5RVdRVzFQRTdDcm1OZk5Qb09TdUxORC0yUVZZNW9rM1NHWkJFWmY1OThPT3ZsdjNLdFhNSGZlZEJOUWdSdG9vMFF0bFZueVJaMkptam9USVNjRFE3UHhuTHRFazV5MzZiLXpkNFNKUU4tU3fSAeMBQVVfeXFMTzV6TWNlSWJGRUhXVnIyMWNCUnRQckJXc1BUV1JEX0RNNWpoMUtUSmphUC1ia2hkOWZnZlhiblBOQzdaT0VCWjFjZENuMnRUSFp3RXprOGp4R200U09pN1M0MnlzdVUzb0FpRXhtWVg5OTI1R2hXRHk0NndTMjNYQl9NNkdhakt4bnY3QVJBYUtUUzFNWmVBTUZqYkVVTjZhR1Y3NVRWMHNEMm5OckpBbFdSRXFnTS1qdmVXUHZtMnhzYXNLVi1WOEFpbDZxenlXZ0pLRXAzZnlGYjcxVTdyUFAtQ2s?oc=5",
-    "title": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
-    "title_ta": "",
-    "summary": "1,547 apply for Tamil Nadu govt’s civil services examination incentive scheme in Coimbatore",
-    "summary_ta": "",
-    "date": "September 4, 2026"
   }
 ]
