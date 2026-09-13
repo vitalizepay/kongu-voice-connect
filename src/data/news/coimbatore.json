@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep13-001",
+    "id": "coi-sep8-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWxmVUFtYVM1QnRsUUlHbW0xX0VzV1QxT2FHdUhwbk9OM0hhcXFWeEVYZHhYR3d4S3lOM3ZTY2hKbUR5bjlQb05pb01rQTdZV0NpOFR2dmxSd3dwR2RobnRPRzZhUFlMNnlDNTNZd3QwWlNwcU1iWXpKclUxM2p0QmlKMTRiOHR3TkpET2hBMDhCaXJ2cE1sZE5hSmRRaHFnNWwtWHQzSlhoX2dSNkJ3MWRMb2NVb01sekxQNWlPOExLZlpkM2taclpzOWXSAdoBQVVfeXFMUENSQkZpUFRiQjBfM1MyaTZWczYxR1M2OGVTVXJ3UXVWWWhuVjA3S092LVF0d2w0Z3Nyc0dycGEzZDlMZm81NEpSLVFIcUQyMmJaV0hyWURRRzlDLXI4QTJ5ai1NUk1KM3NpaXRTck9qbkpwbFBzTFlpVVQxcC1VN2FzUzZvUTZUQy1tZWI3VEh4WEJWMXpqbERKdWQxRjF1NkJTMk95eXhhMnlhZVE1eW5CYllYZ0lWTHg3cHV3NHdzTEpfcUsydHNjcDlscGR1LXY1XzUzWEZaUlE?oc=5",
+    "title": "Address Coimbatore's 10 murders in a month, don't turn Assembly into film studio: Nainar Nagenthran",
+    "title_ta": "",
+    "summary": "Address Coimbatore's 10 murders in a month, don't turn Assembly into film studio: Nainar Nagenthran",
+    "summary_ta": "",
+    "date": "September 8, 2026"
+  },
+  {
+    "id": "coi-sep13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEx0QzJWajU3dmlFUl8yNS1nWEgtUDVxeE1aQ2ZEdUlOWmExZ1NvcDAxWUlEbTJLWi1DY1EwYW9MVVFIbHRBbGRMSWRCaS1YUm1GRXVEZmxHLWtBUmNEY3FFREpJTVdYNFVyVFlWa0JvTHlkUlFnSkVmZUFQX1ZYXzlZM01IcWtVSG8xVEktTlFmWEJDYTBJNHg4TXlObzNqV3ZCQjFBZmVlLWVhWVF4NEM2ZVh3Y2hyTUVwam5Zc0RKSnlsQ3lJUVBBTG5aY0xtVEtkX2xQU3BpSm1UQjVv?oc=5",
     "title": "CPI(M) State Secretary P Shanmugam inaugurates party’s new building in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Foresters treat injured wild jumbo in Coimbatore",
     "summary_ta": "",
     "date": "September 7, 2026"
-  },
-  {
-    "id": "coi-sep8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGN2UGIyZlRHckJvZFNvejBVQXJJMGZETVNmWnRGeE5yQXlnenVhdDhURzYxY2tDcVhRNy1PSEJlWWluVWcxcUtwN3gxbG1kRE5Idy1WZk9tcDV6SzNGbDVremVuNzVnaE9MSFRXaXp1aUExbmNIU21DbHRlcVN3djBDTWk1SENJT0J1Z09feFpIanctRjRGaW52UXZtZXhlNjNuRzF4M1lnUjlTYVNzSFQ3QzlpbURJaHprMW9yenFsRWQxWkJv?oc=5",
-    "title": "From Chennai to Coimbatore, Six Teams from Tamil Nadu Make Samsung Solve for Tomorrow National Top 4",
-    "title_ta": "",
-    "summary": "From Chennai to Coimbatore, Six Teams from Tamil Nadu Make Samsung Solve for Tomorrow National Top 4",
-    "summary_ta": "",
-    "date": "September 8, 2026"
   }
 ]
