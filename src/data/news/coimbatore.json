@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep8-005",
+    "id": "coi-sep14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkR3czNSV205bzQ1RlNVanVNV2pyVXdqcUZsaVNOYzZ0NWdyYzA0c2FHdTNKNTd2ZFE2a3NPb2RVbnpVbURaMlFCMWJiNTVaYzkwY3B4ZVdWUW5BWlBydHU2Wl8tY0Rodkk4eVBqQzVvUjZaUlFfUmpfT1hieFk0RUQ0R2wxRndXY1BQODgyTHVwcWxOMERHdVk5X3VOZFlrOExjbUNOblQ2NGRWa0NvaURESlJoU25FSzRmdlBhaUx3WnJiM3hZSmFZc1F3QWdR0gHWAUFVX3lxTE43M045TWl1Q2RtZFBsWVY4WlMxdXpRUHoxRVBWcnlMY3ZZUVNwaGgyWXp4OGJ6NVNYT0JQa0dJVGRDSkEyU3ZpNjRoRzBwb1NUeldQREt1WWFPUDlMbHFhOXRjT1JlbWhPVDAyRy1MY2lJdFV5M1Y4LW05bS10RVdqOS1vNGxRNVdOQmhqZWxxN0pKNHRNNUphUUlqQ09UX0Nmck1JYWE3WmlVeU5yR2NmdzNudEg2RTV3Uzg3bXRWSEt2clMtUzBTRHRGVVpnMThwcjFSV0E?oc=5",
+    "title": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
+    "title_ta": "",
+    "summary": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
+    "summary_ta": "",
+    "date": "September 14, 2026"
+  },
+  {
+    "id": "coi-sep8-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWxmVUFtYVM1QnRsUUlHbW0xX0VzV1QxT2FHdUhwbk9OM0hhcXFWeEVYZHhYR3d4S3lOM3ZTY2hKbUR5bjlQb05pb01rQTdZV0NpOFR2dmxSd3dwR2RobnRPRzZhUFlMNnlDNTNZd3QwWlNwcU1iWXpKclUxM2p0QmlKMTRiOHR3TkpET2hBMDhCaXJ2cE1sZE5hSmRRaHFnNWwtWHQzSlhoX2dSNkJ3MWRMb2NVb01sekxQNWlPOExLZlpkM2taclpzOWXSAdoBQVVfeXFMUENSQkZpUFRiQjBfM1MyaTZWczYxR1M2OGVTVXJ3UXVWWWhuVjA3S092LVF0d2w0Z3Nyc0dycGEzZDlMZm81NEpSLVFIcUQyMmJaV0hyWURRRzlDLXI4QTJ5ai1NUk1KM3NpaXRTck9qbkpwbFBzTFlpVVQxcC1VN2FzUzZvUTZUQy1tZWI3VEh4WEJWMXpqbERKdWQxRjF1NkJTMk95eXhhMnlhZVE1eW5CYllYZ0lWTHg3cHV3NHdzTEpfcUsydHNjcDlscGR1LXY1XzUzWEZaUlE?oc=5",
     "title": "Address Coimbatore's 10 murders in a month, don't turn Assembly into film studio: Nainar Nagenthran",
@@ -130,17 +142,5 @@
     "summary": "Police issue directives to FL2, FL3 bar operators across Coimbatore district",
     "summary_ta": "",
     "date": "September 10, 2026"
-  },
-  {
-    "id": "coi-sep7-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkdpNFVZRGFLa3h3V1R5SE92aUdDcmVqZEhRR2xRM05iR2JpRXFvaGltUTN2Wk5YQWR2TEFaWU1PSzYtblRXVjJXbTZzR3BBbFZDTVhSUVNNek9vUFJJR1l5bHJPRlZYYno1elAzYTBnRVJmRC1tenlEVGJBaUtVdHVFaTE5LURPdTJ2RXJ30gGbAUFVX3lxTE5oTEotYll1UFktUy05ZWxHRElrNFpNWVd4bVFqV1Y2N09kYkdtRlFIOG9FdEhOZzlpVU5uNlRDQmpQTG9CT1ZBUlhkeDZjVFZLQ1hPNk4tTExQUGs1REZQbUdJVUJVeVQzMW0wdEJ2NFBvUXgxNGV5SHI5dU5MMjNGUloxbHRCc296cGZVeWs5SUtNX2pNRHZLQ0Y4?oc=5",
-    "title": "Foresters treat injured wild jumbo in Coimbatore",
-    "title_ta": "",
-    "summary": "Foresters treat injured wild jumbo in Coimbatore",
-    "summary_ta": "",
-    "date": "September 7, 2026"
   }
 ]

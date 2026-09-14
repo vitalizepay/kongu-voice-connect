@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-sep11-003",
+    "id": "tir-sep13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1RaYldsaFRqQ1RnS21YOEhIZVNHcUNkR2tuRW9sbHJlbkxLem9ld3R2TnpqUmxQV1h3cERodldEcUxjYWxJbGpGbkM5RE5Ka2xwb0otNHBZVEYxaVVPaS1JOElFV19lODNyUDJ1ZXRmY1RmLTBIODh2TDhTU0hHb1g4ZE5UaXVFUG05ZHUwT0FRSFFTM25JR0tWWTFyRWtzN2pOTFdLbVdBM3FpLWc0dnJLeGl6QnBpWjZuYUpic3Yyc2xsUjBrWHFQbDg?oc=5",
+    "title": "Tiruppur knitwear exporters face cost squeeze despite booming US and EU orders",
+    "title_ta": "",
+    "summary": "Tiruppur knitwear exporters face cost squeeze despite booming US and EU orders",
+    "summary_ta": "",
+    "date": "September 13, 2026"
+  },
+  {
+    "id": "tir-sep11-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWxOM2VwUmZnZUtEYjRRdGVxSVpjVl9yZDUxUUtienBGTU1NV096dFcxenM2dlhPWXVyRHlpMUZLdzcxTjhfTXVET1VTRldZeTVJLV9zM0VCQ3p4SEFrSUdKNDRrWDh6Z0tSWk1mTzZVYmZrQlpaMmNoWnV5RGVmdUpUTFJELXc3QXIxSW9tLWFJQUt1?oc=5",
     "title": "State panel for women inspects textile units in Tiruppur",
@@ -46,17 +58,5 @@
     "summary": "Chairperson of Tamil Nadu State Commission for Women inspects textile units in Tiruppur",
     "summary_ta": "",
     "date": "September 10, 2026"
-  },
-  {
-    "id": "tir-sep7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YUU1WdjNyWmlrWmZuQmpNZHlacGlheHlaXzc4QkxUejU2Nnl2ei1xVkk3c1JtUzk4Sm1SaE1GNFp6NkowSkVMeE81bVg4QWdNVG42ZmpvbEtGREt5VENOYnZVbF9VTS11OENjb05oMmVBZ21Yc1Nr?oc=5",
-    "title": "Moodbidri: seven years on run, temple theft accused nabbed in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Moodbidri: seven years on run, temple theft accused nabbed in Tamil Nadu",
-    "summary_ta": "",
-    "date": "September 7, 2026"
   }
 ]
