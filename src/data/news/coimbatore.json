@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep13-001",
+    "id": "coi-sep15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbmptN1hMbFpZUzJwWWFPMXVjLVJoSk9WdjgzdVJiUm1XaEtzOXkyLW1SXzlZSjl0YUZpV1JQdW5CaTZ0bHZNNUZyczY5VDFZcmZRM3dqdDBiQWlFSE1oaVVIS25mOXlSZ1dFN1lfMG9Bc1Q1czdJZlVWOVk1N3FUZlVkNERKUWVJWmJNejVFM2FCLVJLQnlNeVlLLXhaWmlwV3h5ajZJWnhLZmhtdjRNTEF0T3gzakhnbG55Vy1KTGV4amRtQy1UNm1pMER5ZDJfZ2lhNlVMU3M5U2VmZ2ktX1BKV1pfVHRTRUJlME0xM0tDcHZy0gH6AUFVX3lxTE5uYTB3Uk5lUG1zVnZQeFNrQk96MDRvaHFuX1IzNEdLZk5OTFZYNTBNMVZCSm80bnZ5bEZieHVVVkVlQzhhdUxqZ29nQ2ZtYmZaRVV1UGktWlJ1Zms2OWpvT2RvRHBqWjlvVDJsLXU3VzRxZVJvRmx4QUdVV2N0OGUtVUNSaWtfTUxLVDgxTzJkOXJXTzhqS0J3RXU3WFZ4OE9MdG13UkxWdG1zVzlsX2FWa1gxOVE2TzBQaDhYaFRlbE5sTUFhUDhvVW5NRWctRkh4VGxFMk9BZWtGUHo5bmFybl9mTzAyZWVOUTBScEg0cEF0Y0JIbTc2dlE?oc=5",
+    "title": "Tamil Nadu RTO officials crack down on overcharging omnibuses, impose Rs 25 lakh fine",
+    "title_ta": "",
+    "summary": "Tamil Nadu RTO officials crack down on overcharging omnibuses, impose Rs 25 lakh fine",
+    "summary_ta": "",
+    "date": "September 15, 2026"
+  },
+  {
+    "id": "coi-sep13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVXE1b1daUVJBQTA5ckJlcnBpLUV1V005V2I4c1ByNENwVlE3Wl9ySG1CTW5yTVdtY2ZRU3AtVTZ2anNPNEVCX2U0MEZuTW1jall2NEVvN1pieXlKeHdCWWxFdENPWlVkakEtWk1DckhHc3dZYmNyaHQ4YlctdkJka3c1U05PaVh6ekpZSjRBclVTN0IwN000S0dqUG9FUlpDdHRhem14OVlza1ZUQm1jeUVmdnV6OE9PSnhyUGdmNzlSNjI5bFdKTVZOaHMydVg5S3JRWG9MaEE5TXpEeDRoYmF1VlgxRGNkbm9ENU5kZ0NqclBEaURUbjBrbWbSAYMCQVVfeXFMTkE0NlhlVXJkeUhtUFJRM1dKT2xyT0huZ3p4aTNCcm9OaFhwZEN0dU1pbW1XT055bkZ2LVFMbWZYYkJVUExnR0gyaXZSVTUzU1ZVa3I5REZWci1RUlRSMjZQbkZ2MW1PQWI4Yy12UVpSLUJhRzZPLWp0dXlNNVlsNGd2emY1dlN2VWh6WUNmbTRSUWtreFhyaFZETXpLaTJvbmxwQnFuZXN0akhHSi1MYmN6OGJ6bXRobmVnVFdyaEVmRXc3MWpXckVJbnVYNThxckR1R2JocUhTSnBfZ2tVbXJRVVFJVkdxcTFzY2g3cHdQZEVVN2lTNm9xS2FhdU5SYUlHUQ?oc=5",
     "title": "Minor girl abducted, sexually assaulted by two in Coimbatore; police shoot in the leg of one accused",
@@ -130,17 +142,5 @@
     "summary": "Coimbatore’s INR 35 crore Gandhipuram bus stand redevelopment awaits government approval",
     "summary_ta": "",
     "date": "September 11, 2026"
-  },
-  {
-    "id": "coi-sep10-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTVKRWwzS0s2c0FkVVFIUV9MVmNVRXZfTGJ4MF9nZEdlWWltVUNJRmRpc3Q0dTZUYXBOT0xSdGN6Y3lwOHBpLXBXYTB4SEF5N21WZWY2OFZnN3BOS29obkNhTmprbUk2ZGQ5OFFrOHlSU0Nyd0ZDN1hCdlFGOGM4ZkZBTXQ1eVRzaE1oM2NGX0h0RGxWbXRlSGNDSUF1RVpQeTZ4M0lmTHE5YVlBZXfSAbQBQVVfeXFMTzZLb1dIdUM0SjdZdHNRN1NzaS1GQmhMZ3VpeWJ6ZGEzb2JDZXo5d3lha3RjQ1REY0pMX2xRNjZaMU9qLVYtSnVuUXpSdFZBWkZlXzhMbDE2UVcxdzVDZFFqVzZtZ3JMV01oSHVVUTd5OG9CdFZsNDdQZFJ5dUs5VzNtRVRkRl9mUlhHV2lxdDgtTHhUWXJVTllyaVhCenl0U0phZ1FQMFQwYm9xdHdrbUJaYXFN?oc=5",
-    "title": "Temporary ban on DJ parties in Coimbatore",
-    "title_ta": "",
-    "summary": "Temporary ban on DJ parties in Coimbatore",
-    "summary_ta": "",
-    "date": "September 10, 2026"
   }
 ]
