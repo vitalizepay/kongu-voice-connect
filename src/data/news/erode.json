@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-sep13-001",
+    "id": "ero-sep15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzFNc0duNUJOUHd5bXZjcElsdlozSnpWU21IeUxBdXBkQ19aOVBVbl9qcmZLT0M1SDk4d0F0M0hxaDFzb1B1SkRjVkpjaWFVOHVyS0dXMURMS19pc09DWVE4dEZCdEZCdExJMW1tTm1JdEhnNnBxc3JGUVJoeFBteXFjaXJmNGM5NTVRZEFRbnjSAZABQVVfeXFMUFMxTXNHbjVCTlB3eW12Y3BJbHZaM0p6VlNtSHlMQXVwZENfWjlQVW5fanJmS09DNUg5OHdBdDNIcWgxc29QdUpEY1ZKY2lhVTh1cktHVzFETEtfaXNPQ1lROHRGQnRGQnRMSTFtbU5tSXRIZzZwcXNyRlFSaHhQbXlxY2lyZjRjOTU1UWRBUW54?oc=5",
+    "title": "No denial to Periyar rally in Erode: Cops",
+    "title_ta": "",
+    "summary": "No denial to Periyar rally in Erode: Cops",
+    "summary_ta": "",
+    "date": "September 15, 2026"
+  },
+  {
+    "id": "ero-sep13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdnFmSng0c29oMkVUc2Z1a3VaMmNFa1JtajNlRld0amNHdmJlQjZtaHA1WHBiN0VweEh5SkdLbEdTVnpLS0NqSkVsUVNOMjJ5YnNTb1J2RG9PNmdiNnd0cEhmMmVpOVBSTzAyQVRUSGM5TkY1dVpWVVg0eTVCQV80TVQyTU9rRXpSSDNpeVdwdFhEelVSdHg3QXZXaXRObnNkdU9DZms2WU5XMWxseC0tQ3h6VWFiMEJ0cnVKbm9Gc3ZySkZq0gHKAUFVX3lxTE5kMWdfbGxxcm9HU0dvXzhqRlFNS29CdXhtSlBUU1FRSWJLNEJzRVpaQ0RXNU1PSXZTbHRNeWdZa3pxS2FNakJhX0g3TGNaQ2w4VHlTbExBM2VaT3YwREVKZ25aWE44Q0t0bWp2cUVkN2ZPemYxTkM3bTVXVno5Q0k4ajhEQ0lOUWtKanI3R3Y4NGdCTWpkQWk0RVZNaW91N1ZaY0t6aXhvTnZON1BHOWE0ZzRWMGZEenRtTURDc0FQbkFLekh4TlllS3c?oc=5",
     "title": "Leopard Spotted on Retaining Wall Near Bannari Amman Temple",
@@ -34,29 +46,5 @@
     "summary": "Man arrested for stealing five goats near Erode",
     "summary_ta": "",
     "date": "September 9, 2026"
-  },
-  {
-    "id": "ero-sep7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObThtaHVMZGdUdk8wX2RDaENfVGwzTENXM0FRcnl5eG9kSWwycl9mVy1MaU1BQWFVSDdxQ1NodmhLRjVNQ295MUNhS1I3T0Y0OTJldEVKdlJPSm13VExoNzZ2RS1SODdVbWhrUTNHZWVzY1hxM1pCOFZCSmRqM0F5S1UyUU5lVWlkR1VUU0VtS2hxaFpNT3dJRktIZlRfNGtVdDZOaXBicnhqbmNiZFkwMHBBS1ZDZ3JMMzFKUWF6VUllcWPSAcgBQVVfeXFMTUlrYl9jREF2Nm0tNjAtVFpKbmYwMWZxZjVDWVRpQmpHcEQyd1U3X3JNdVZYTTVVV0hNOElWZ0VSeVBWb2pXMy1lZEZkekphVWo4UExDUmtDenR6bHp3dXMtWFAxRHFndFVPdHBsa19WOGZ3LU9nTHk4VjlSaFRjV2tnelB0VkM4ZkhIRFNlY3QySFZ2WjVjbFliM0J1Ui1PTHc1YnE0VGxhQ1FRUzVkbU9hZEFOb2IxaTZkMml4dGNwVlNKbHVEcXg?oc=5",
-    "title": "Firecracker explosion injures newlywed in Erode",
-    "title_ta": "",
-    "summary": "Firecracker explosion injures newlywed in Erode",
-    "summary_ta": "",
-    "date": "September 7, 2026"
-  },
-  {
-    "id": "ero-sep7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSmxCcmoyazZTMlVFbmJuOFhwSmdJNWk0Y09NRlRTbXdOSzZMS1oyYm9fMGV1bUJwdzhLUVJDZ1hqVjN6d1VOcjE0eXBIMkZEVFVubVdiU3Z3a29BcHRPVURjdWVCRE9lYlJJYnViN0hPQktrWnNiWkxpSUJsaG81cmZPTGdQbWFiUi1lNjBXZDBFaGRfYk9KeE83aEZpcG5Qb2VRdjd1bkZyQzNweTd4RVRqVk9IYkl2RDJDUmZRTlpVRkVpQzRmc3Rpdkg2ZHU0bUU2aHIxWjhzMXE4Q21EbnlnVlpRR0JSRFN3WDZn0gH0AUFVX3lxTE82QjBNOTJ0ZWVTV0JxMHFSOXg2Ym42aTFHaXRnVzVCbWJERERTVUtqVnJHdktKanhncGRfYTBrSUlYdHB5eU9GXy1ob2kxX2hzQXU0X1FvVEpkWXlacnBOWXd0cDk0R296aWFweG1XREk0MlJFQnN6ZjJCT1Y3MDExUGsyaXVBR2pXcWRjYnpzd3dqWkgzV05DNnZzZEsyNGh2S1ZHczZnb3lrS2NpaEc4MFlmLUVZTVAwT29NVmdfcUJhOEVPbWE2NXpfRUtzVk1wRkQ4cHpiZjlULVAwYnhkYmxELXJ0ZkR2NHNKYVc5OVJUclI?oc=5",
-    "title": "Residents of Malliamman Durgham in Erode district seek road connectivity and power supply",
-    "title_ta": "",
-    "summary": "Residents of Malliamman Durgham in Erode district seek road connectivity and power supply",
-    "summary_ta": "",
-    "date": "September 7, 2026"
   }
 ]

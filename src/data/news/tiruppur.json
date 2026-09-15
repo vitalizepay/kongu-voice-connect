@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-sep13-001",
+    "id": "tir-sep14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVhlRWJUd0JfVXhZX1Bya05FdjhtS195YldOa1ZQQVdWYmFzaUVweFc3d2gzTF94ZDlJZkxRZG83c19jTUlUd3d2YU9kNm1tTDg2Rks4NUp4QkVnel9wbXdYX0FWNk9ZVkFCcktROGkxUVo2ZnZzejlScF9MRDlsc3dwYWxKUTQ2a3JMelJVcUdVMVh2d1NUUV83Q0Vya1dMd0lUWGhIMHdlWkZ0UjFTYlhGUG1LMnQyWm96RnppOGtQNEdOTG9aand1YlVQSEpX0gHWAUFVX3lxTE16aUJGN2hJc09ZS2lDVmI2Z3BKblZOR1MySy1EdHN3UVo4XzdnQk93UVVPbFR5N01maWN4RU1UN0FpaVV2RV9UZmdiMkhQYXRRUGM4ODFCT00zczNMMUNfd2liWmpTal90QlZaa0cxRF9QUjlvOXlyTXlycFhXR01Bd3RBNG9ocXV6THN1UjlaTHdYOHZzLTRrYWRHS3Q0bjItaTJkdU1vR2dnWmJmYWlxOFVHS2Z0WXhXUTgwVHUwWkM5Q1V5QUpITEQ2T29WM01vMFZoQkE?oc=5",
+    "title": "Tiruppur: How a small cluster turned into a textile export powerhouse",
+    "title_ta": "",
+    "summary": "Tiruppur: How a small cluster turned into a textile export powerhouse",
+    "summary_ta": "",
+    "date": "September 14, 2026"
+  },
+  {
+    "id": "tir-sep13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1RaYldsaFRqQ1RnS21YOEhIZVNHcUNkR2tuRW9sbHJlbkxLem9ld3R2TnpqUmxQV1h3cERodldEcUxjYWxJbGpGbkM5RE5Ka2xwb0otNHBZVEYxaVVPaS1JOElFV19lODNyUDJ1ZXRmY1RmLTBIODh2TDhTU0hHb1g4ZE5UaXVFUG05ZHUwT0FRSFFTM25JR0tWWTFyRWtzN2pOTFdLbVdBM3FpLWc0dnJLeGl6QnBpWjZuYUpic3Yyc2xsUjBrWHFQbDg?oc=5",
     "title": "Tiruppur knitwear exporters face cost squeeze despite booming US and EU orders",
