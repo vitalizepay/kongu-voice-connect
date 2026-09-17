@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-sep14-001",
+    "id": "tir-sep17-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2IwN1BER2NVMWVXanFaTFZ6VUxfOTg0V0FFOGpyN3E0VmIxQWlRQWV0anFPTlNURnNlN3BzTXhhRXlZSm5LUmhTM3BNTDFaeDdQYTVnZXdXOXdtRkMxZXB2d0hhV2h3WTZLYnM3ZVpmUXpHM1FVLUUyQXlVd05aZkJHUExIWG5fQUJiaDFlZ0ZuVVF3eUd5R3lONGZRUjgzTUlwaWthS3ZVSk9HWl9zMTBhT3NwZHJYRWduTkpR0gHDAUFVX3lxTE16VkJieHFVT3lpNXA5LVVVVmRCYnpQTkVrU3psekR6QjVXWW1qZ1ZNR3ZkSHBDSmQ4ZjBLZXZ6ek0xWmNLT09hOTFvZFBIdDdXOHg5czV4TmY2dTg5NUx2NlpQdUJLcl9aSHp6cWdSekFMb3FZTjNsRHpTcC0zNTJldkNqQ1UyajZvenJuUDhJT2tzVFU3Q3JKVU5LZVN5MV9Cc0htdk5EUF9INXRsbi01OTlQYXVWcWRWMmc3d0ZBdVVvOA?oc=5",
+    "title": "15,000 Saplings Planted on 100 Acres in Tiruppur Limits",
+    "title_ta": "",
+    "summary": "15,000 Saplings Planted on 100 Acres in Tiruppur Limits",
+    "summary_ta": "",
+    "date": "September 17, 2026"
+  },
+  {
+    "id": "tir-sep14-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVhlRWJUd0JfVXhZX1Bya05FdjhtS195YldOa1ZQQVdWYmFzaUVweFc3d2gzTF94ZDlJZkxRZG83c19jTUlUd3d2YU9kNm1tTDg2Rks4NUp4QkVnel9wbXdYX0FWNk9ZVkFCcktROGkxUVo2ZnZzejlScF9MRDlsc3dwYWxKUTQ2a3JMelJVcUdVMVh2d1NUUV83Q0Vya1dMd0lUWGhIMHdlWkZ0UjFTYlhGUG1LMnQyWm96RnppOGtQNEdOTG9aand1YlVQSEpX0gHWAUFVX3lxTE16aUJGN2hJc09ZS2lDVmI2Z3BKblZOR1MySy1EdHN3UVo4XzdnQk93UVVPbFR5N01maWN4RU1UN0FpaVV2RV9UZmdiMkhQYXRRUGM4ODFCT00zczNMMUNfd2liWmpTal90QlZaa0cxRF9QUjlvOXlyTXlycFhXR01Bd3RBNG9ocXV6THN1UjlaTHdYOHZzLTRrYWRHS3Q0bjItaTJkdU1vR2dnWmJmYWlxOFVHS2Z0WXhXUTgwVHUwWkM5Q1V5QUpITEQ2T29WM01vMFZoQkE?oc=5",
     "title": "Tiruppur: How a small cluster turned into a textile export powerhouse",
@@ -58,17 +70,5 @@
     "summary": "Tiruppur | Government Bus | சரக்கு வாகனம் மீது மோதிய அரசுப் பேருந்து..",
     "summary_ta": "",
     "date": "September 12, 2026"
-  },
-  {
-    "id": "tir-sep10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOREN0N3E5b1p0ZjhDSWsweVU1VzZtbG1PeHAtNmN2SXVjaUhBTVlNd3ZPMmVVeEJENTdFbXExNkZLRmdfSmJnN092RDdYcGpYTmM3alRTTVVETUFPLTZEbDF1dl9MMXAwWEc0QmtiVGRNZF9DN1ZwdFNNSHVtUFhaZmFNelNqaUpfXzh5c0ZWa0txVGVTWFY2c0JvMk8wbjBLUXNMdXozd3FfSHVrNWh0ejczY285OVJsWlBCSXVoeWhZOHBWLUctTlVrRWJ3N0lsRFVoZXJ5dV90RGMxQ1dpdGJWMENCaWZvR2lZ0gHyAUFVX3lxTE5vTHpPZ3dtcHl4V3lFaXEtM3Jvd0YzaTZJbEt5XzREZXg3eEtmZDU1cW5LTVpjZDl4MUNadGxqN05DS3dvcHZ6VFFCajFRdk9fbm1VZVBtMTNsTGxDVGphUFhPVXNiYlFCRFBvRFhNbC1kVzZNR1BGY0VjOC1fYllPS2lDSk12azZVaVFidnd3ZEJaRHJieVpEaTdsUkg3UW5SNXFlUjVXVHJYOTk3NHk1WVYyd1R3QV9IdzBRSkN1SndSbFJUTk1sYU9CN0VlSlBmY0RHYTVBLWtCTGNlTV9xbUVYeVF0MFU1WlZZM2FLc3hB?oc=5",
-    "title": "Chairperson of Tamil Nadu State Commission for Women inspects textile units in Tiruppur",
-    "title_ta": "",
-    "summary": "Chairperson of Tamil Nadu State Commission for Women inspects textile units in Tiruppur",
-    "summary_ta": "",
-    "date": "September 10, 2026"
   }
 ]
