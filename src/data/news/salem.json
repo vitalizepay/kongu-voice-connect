@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep15-001",
+    "id": "sal-sep17-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWFQ1V3F4UllSSElmNGpEcFUtN1o0Y29ncWU4bmRoYzhzUG1WRXBwbk9Ycy01YTNfQWtJWDVSTDJ5UldWQldCcmJkVE9jeGwwUEZpanZUOG9lRzhUazNiVGFFVmoyTTlmSmcwR3BVQVNuZUN2T1BpZHQtZjRjTVVQZXJPUGl1OVhhWkNrQUpMcUxpSnRvNEE4ZW5tX1hEM19aQnRpbm40UlYzVVVtNkJRS3oydWhsVFpwQVdoaHJXa3UyUmxRUy1GdE5FNjV0VHVYY2E0eFY3RzI0N3U2MTZQRzVoY9IB4wFBVV95cUxOWFQ1V3F4UllSSElmNGpEcFUtN1o0Y29ncWU4bmRoYzhzUG1WRXBwbk9Ycy01YTNfQWtJWDVSTDJ5UldWQldCcmJkVE9jeGwwUEZpanZUOG9lRzhUazNiVGFFVmoyTTlmSmcwR3BVQVNuZUN2T1BpZHQtZjRjTVVQZXJPUGl1OVhhWkNrQUpMcUxpSnRvNEE4ZW5tX1hEM19aQnRpbm40UlYzVVVtNkJRS3oydWhsVFpwQVdoaHJXa3UyUmxRUy1GdE5FNjV0VHVYY2E0eFY3RzI0N3U2MTZQRzVoYw?oc=5",
+    "title": "‘91% of students who cleared Class XII in Salem district joined higher studies’",
+    "title_ta": "",
+    "summary": "‘91% of students who cleared Class XII in Salem district joined higher studies’",
+    "summary_ta": "",
+    "date": "September 17, 2026"
+  },
+  {
+    "id": "sal-sep15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRjc4cVNNeUVURUNCWGZDaTl0Y0V2YmgzMzNUTUd1SjcwdXhRMHlIQXFWbXk0czlVZ214N3llNFdhZURwbzJlaXE2QlJuV0RyR1ZXakRMM1VTRVlLMHE3cmJJeU1xS0JJdDhKeTM3TFF3Z3hVVDdMV211Y29YTXBtWWg5ZjhIRU1MdHJnVGZxWndKYUs3NjRXVnd3UmlPSlNjU2VuSWZNWE1SQmFCNktaT0NaRVRrTHRl0gG4AUFVX3lxTE1GNzhxU015RVRFQ0JYZkNpOXRjRXZiaDMzM1RNR3VKNzB1eFEweUhBcVZteTRzOVVnbXg3eWU0V2FlRHBvMmVpcTZCUm5XRHJHVldqREwzVVNFWUswcTdyYkl5TXFLQkl0OEp5MzdMUXdneFVUN0xXbXVjb1hNcG1ZaDlmOEhFTUx0cmdUZnFad0phSzc2NFdWd3dSaU9KU2NTZW5JZk1YTVJCYUI2S1pPQ1pFVGtMdGU?oc=5",
     "title": "Salem district faces Aavin milk shortage",
@@ -10,17 +22,5 @@
     "summary": "Salem district faces Aavin milk shortage",
     "summary_ta": "",
     "date": "September 15, 2026"
-  },
-  {
-    "id": "sal-sep9-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdElZdGFxOHowQ01hVVBFZnNWbWxJTjNBa2dIUjFTS0NibXZhRm5UdUhQbHYwUjVYc1RudUtHZkg1d2ZuWTRGc2pzbmxVbzlGQmJDUUZwcEJTYXcwRUxuN2hwWHl2VFllLUlYOE5NQXZzNGRIRFo3RWRIQ2N3UlNRajZEUGZjTDRRbnVOUjFQSEljZ1VXWnFUeHFpbkw3M2ZrS2ZtZWNyVEVNOXBzcXR4RXNzNDBvUlZ1cGV5anlUX1k2M0N0N0g3LW1fWWh6TnNacnVzSXBvT0lZTTNubFl5UDUxMWF5ei11Mm1DSWNHY9IB9AFBVV95cUxNNFFZMnV1SGU2MlJKM1FmbnMxUXFHT1FEM01yZFo2OW9zVkhmTUl4c1oybTZCa3RWRklJZzRWTGZJdUhKQTVxeVNiNXBVUmRYS2M3dlpSTlIzakNPUm9ibWdYLXc3VWRMdGt4UmFidEc0dF9CRzZyN2dOeHc5MXNrMlpTcnpnTTdXODZ2S3FLSXRWUHJHSVM2NG9KbWt2Y0hvZnR2NFU5d2dHWDMybk5rc18zVFJ3bGUzeWNDTTFjdElIMC1BZHNCSjlub0xKeEJLS3FZSElwUXgyV1JyWldsb0FRZUVIdVY3czVsbE1Ed3VCU1A0?oc=5",
-    "title": "Salem District Lorry Owners’ Association voices concern over rising thefts on highways",
-    "title_ta": "",
-    "summary": "Salem District Lorry Owners’ Association voices concern over rising thefts on highways",
-    "summary_ta": "",
-    "date": "September 9, 2026"
   }
 ]
