@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep17-001",
+    "id": "sal-sep17-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWNBYTk4WHZzUHpQd0V5LXhSckIwcENtNXVZakVvdGhEWkQtMDVPc1pUWWIwRmdiSFJsQXVwUjMtNzZ0YmVTQmZUSWg1cjM4VFMxY1JoU19FRjR0T01seGVhQXVrNkpIak5LUjhhbEpQWDVwTkUtd3RaZ1J5ZjI5ekMwQXMyU3VsVTNLZTlra2hDNmxKS2Y3aHh1cVd1cjJWbUJkYW1hWXJkVERnREdhR3E5b3nSAcIBQVVfeXFMTWY2V1dDOWkwTGZkN0VoaGQwTzc0Tmk2cXgwd3lGSFNkYTNiaWZZT2l2MWFzZU9VNC13VWk5WWRuZXlMVE1HMHFyb1BISktMcHYwSmdsZmg4VmhIR0Q5SHhZRms2NjNLd3BwVzc5d1R6bF8zTEI2S0M2VXQzZ2txREZMNmQ3TUxWZ3JPSkFpbDFfYjhWbTlFbnpuNHBHVk9kLUxuTjFkQWxhTS11bEtRN1hzX3RsT3psT25IMm9GTm8wZnc?oc=5",
+    "title": "Monsoon failure leaves crops to wither in TN's Salem",
+    "title_ta": "",
+    "summary": "Monsoon failure leaves crops to wither in TN's Salem",
+    "summary_ta": "",
+    "date": "September 17, 2026"
+  },
+  {
+    "id": "sal-sep17-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWFQ1V3F4UllSSElmNGpEcFUtN1o0Y29ncWU4bmRoYzhzUG1WRXBwbk9Ycy01YTNfQWtJWDVSTDJ5UldWQldCcmJkVE9jeGwwUEZpanZUOG9lRzhUazNiVGFFVmoyTTlmSmcwR3BVQVNuZUN2T1BpZHQtZjRjTVVQZXJPUGl1OVhhWkNrQUpMcUxpSnRvNEE4ZW5tX1hEM19aQnRpbm40UlYzVVVtNkJRS3oydWhsVFpwQVdoaHJXa3UyUmxRUy1GdE5FNjV0VHVYY2E0eFY3RzI0N3U2MTZQRzVoY9IB4wFBVV95cUxOWFQ1V3F4UllSSElmNGpEcFUtN1o0Y29ncWU4bmRoYzhzUG1WRXBwbk9Ycy01YTNfQWtJWDVSTDJ5UldWQldCcmJkVE9jeGwwUEZpanZUOG9lRzhUazNiVGFFVmoyTTlmSmcwR3BVQVNuZUN2T1BpZHQtZjRjTVVQZXJPUGl1OVhhWkNrQUpMcUxpSnRvNEE4ZW5tX1hEM19aQnRpbm40UlYzVVVtNkJRS3oydWhsVFpwQVdoaHJXa3UyUmxRUy1GdE5FNjV0VHVYY2E0eFY3RzI0N3U2MTZQRzVoYw?oc=5",
     "title": "‘91% of students who cleared Class XII in Salem district joined higher studies’",
