@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep19-001",
+    "id": "coi-sep14-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkR3czNSV205bzQ1RlNVanVNV2pyVXdqcUZsaVNOYzZ0NWdyYzA0c2FHdTNKNTd2ZFE2a3NPb2RVbnpVbURaMlFCMWJiNTVaYzkwY3B4ZVdWUW5BWlBydHU2Wl8tY0Rodkk4eVBqQzVvUjZaUlFfUmpfT1hieFk0RUQ0R2wxRndXY1BQODgyTHVwcWxOMERHdVk5X3VOZFlrOExjbUNOblQ2NGRWa0NvaURESlJoU25FSzRmdlBhaUx3WnJiM3hZSmFZc1F3QWdR0gHWAUFVX3lxTE43M045TWl1Q2RtZFBsWVY4WlMxdXpRUHoxRVBWcnlMY3ZZUVNwaGgyWXp4OGJ6NVNYT0JQa0dJVGRDSkEyU3ZpNjRoRzBwb1NUeldQREt1WWFPUDlMbHFhOXRjT1JlbWhPVDAyRy1MY2lJdFV5M1Y4LW05bS10RVdqOS1vNGxRNVdOQmhqZWxxN0pKNHRNNUphUUlqQ09UX0Nmck1JYWE3WmlVeU5yR2NmdzNudEg2RTV3Uzg3bXRWSEt2clMtUzBTRHRGVVpnMThwcjFSV0E?oc=5",
+    "title": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
+    "title_ta": "",
+    "summary": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
+    "summary_ta": "",
+    "date": "September 14, 2026"
+  },
+  {
+    "id": "coi-sep19-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFlZb2htYVJSNV84RXZiaDluTXJDQndWUDhWZ0VRamN5MHNmR3ZDaTVxWDVNNWkzRjl3Q2h4bnIyTkNVcUw3X1NRMWFpV2UzRnhETTZzaE5LTmNWYTA0SEwwYTFOdFktMTFRR0JuZTJYNWdmRnNyWWczWGtOLXdaZTJMN3BHSTlYS1EtS2JNbjRRZ1lCd09xUjJfaU9mZnd4eTBlTGEwUzVoVzlQNEp3?oc=5",
     "title": "Blueband Sports Rally of Coimbatore to host Round 2 of INRC 2026 with 64 cars",
@@ -130,17 +142,5 @@
     "summary": "Minor girl abducted, sexually assaulted by two in Coimbatore; police shoot in the leg of one accused",
     "summary_ta": "",
     "date": "September 13, 2026"
-  },
-  {
-    "id": "coi-sep15-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMDdCd3ZHRmsxYTUyNWc0REtzV2w1c2pPSWQ0blhpQ2VIVnB3Wi15NGZXOWxhZWJvOElJa0NsdXNZY0FKSEs2MDFlQXU1bFJQU2NHX2RYa3RwS0pSUENCaFFZTXJEZVF4WTREMUgxX0hubDNRNy1iTDhNNHZrUnowc1d5UUVqeXgzOTgwVGdLaXNJOFFCd2hBTmNpUTVRWENCLTU0NzVzTlBuSE1ucS1tVU5RU0tYOVJCZm5Ka1Bn0gHLAUFVX3lxTE11TFM2YVpvMkVnTTJnM0hiLXJCRkh2MlVNa2E2c3BONlVWOXhJRlh3MmYzcDFlckZIMlJiNnh0S2JoWHdvbU43Z2RqYjJiLVRTTjI4MDRCU0lJZmd4WEhNa0ZHYVNfTUY4dHZiWUUwdlFwTlVISGFEU0Zjb2lPQW42T09tZlBucjJiaVltbzZzaHhRY3BjclBNRUFlNjRyVks5aExoUjNrUzd1OGhzMFhObllrUVR4X096RXJuTTV5bS1UVXFSalZUWmlr?oc=5",
-    "title": "TNPDCL orders safety audit as nine elephants electrocuted in 10 months in Tamil Nadu",
-    "title_ta": "",
-    "summary": "TNPDCL orders safety audit as nine elephants electrocuted in 10 months in Tamil Nadu",
-    "summary_ta": "",
-    "date": "September 15, 2026"
   }
 ]
