@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep18-002",
+    "id": "coi-sep18-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ0NwOFFORkRUMk9IZFhNYlpCWlJHZWE3eE53ZUdlMGZNYlo0SVNsWXFLZHhEem4waG1PN2hvVXEtZW5IZjlndUFzeVBYWDdCTmM0UUZwRC1GR3lXcmVsLUhXLUVaSXAzUWFOMl9vY3cxOS1xSk50MXBlTGw4LWgxaGxGZ2tla09EMlpHeFk2dFJYSGVDZGQyZlk4U29abjZ5dnR0RnRpT0NPRzlwU29QakVRYnBFVWo2Umw0NEhrdUU2N2VEM0h0RndyNVZQZ0g1WDV5TENIUHdndzBQamQzYkd2VDkxY3F4SC1oc3Q2Nmc2YkNZYUNCX3dWRlJOWG5HMkM3cjVWbGI?oc=5",
+    "title": "\"Art should unite people without discrimination\": Actor Ranjith participates in Vinayagar Chathurthi",
+    "title_ta": "",
+    "summary": "\"Art should unite people without discrimination\": Actor Ranjith participates in Vinayagar Chathurthi",
+    "summary_ta": "",
+    "date": "September 18, 2026"
+  },
+  {
+    "id": "coi-sep18-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbkVqNTljTlRIQ2N3RnVxd2kwX1BaTk1mNFVBMzlsZ1ZpbkhCUkljRmFpeUx3YTlfTzZhYWdtcTJ4SzJiaS1HZEpWSkZrenRTRzNVbHdieHp2YWtTeVBQYmNaU1Z5MDVzemk5dUlsbEdsQXU0WlBOeHR0UVZCUVNLZmF6cjRLd2R3V1c5LUtHSjgwVXpFaWZWX1BUdHZpQVVDbWp5RlBfTHpkMEV4M19LLUVTd0szVV80RFJ0dWR4R2RUNUI5VWtIdmpjdUNHOG9LV3RYRUxjSFEyRjRfWXc40gHkAUFVX3lxTE1TdVFTMjk5bkFvNFg5MEpvTnlKbHo2UHR5TnBPbEJldXdLUjNjZ2k3c0RGNnV5ZVZvUzRQaGg3c3habWh1VTMtSTI0VUtZWFh4cThqY2hGMk9HbXRnbS1XckRwVExId1JONnJ2QzlMNkEtWHE2MmhLR0F3R1AyY242N193bjNMUDdGZWpxN3JYcFVCR1g0MGgxUENra0NyemZyVGdvTWNsckZKbXI1eUNVRGdTRlR2eEdJdm1KNWxUQTZhdEdMQ1hJd1c4UXFfV25QODBoaHV5T3FsWWxpd3RoRU9ITQ?oc=5",
     "title": "Tamil Nadu ATS, UP ATS arrested 19-year-old Maqsood Ali linked to Al-Qaeda module from Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
     "summary_ta": "",
     "date": "September 14, 2026"
-  },
-  {
-    "id": "coi-sep13-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEx0QzJWajU3dmlFUl8yNS1nWEgtUDVxeE1aQ2ZEdUlOWmExZ1NvcDAxWUlEbTJLWi1DY1EwYW9MVVFIbHRBbGRMSWRCaS1YUm1GRXVEZmxHLWtBUmNEY3FFREpJTVdYNFVyVFlWa0JvTHlkUlFnSkVmZUFQX1ZYXzlZM01IcWtVSG8xVEktTlFmWEJDYTBJNHg4TXlObzNqV3ZCQjFBZmVlLWVhWVF4NEM2ZVh3Y2hyTUVwam5Zc0RKSnlsQ3lJUVBBTG5aY0xtVEtkX2xQU3BpSm1UQjVv?oc=5",
-    "title": "CPI(M) State Secretary P Shanmugam inaugurates party’s new building in Coimbatore",
-    "title_ta": "",
-    "summary": "CPI(M) State Secretary P Shanmugam inaugurates party’s new building in Coimbatore",
-    "summary_ta": "",
-    "date": "September 13, 2026"
   }
 ]
