@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep17-002",
+    "id": "sal-sep17-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHhPNnhSQml1aGFwckJReFZOSmkydG9fbWs5LW1SdWRNWmRmb1VQR1JPekRfSEVHNUJpNUpPVV9OdDNYblRoRXhmQXhrVFg3c3YyeThHcnJ6R3FfdWdRV0FsZUtQVi1yVzM2TGhkbjBhOXVkM2RJUFZtTnhtMWJQbktaWU81U1NOclUzelFGa2FvTkpLTlZjTGFzdGxDR1pyejdjYXFUM0JfWmM1VXVlOXh4a0QtYUZOZzBHb1VGa25TdzFW0gHKAUFVX3lxTE1RakNIZVN6Q2htaVNnUGxxUFJUbnFhNDA1V1JVOXVjLTNaNnlNTFk3emZRNkhKUDAzQVlfR3ZMems5Qm1MZmdjNnM4SzlVUXBjS2tUdzNSQ2FSNDNrNzlIZEk1R3NMaXhFbHpEUERYTEM4bzU5aXJrblZvWnFLWm5vYlNLbGM2cnhjZ3dOaGNweEkwZUVEZnBZd2c0S24wc2JkUXdyWENkUHN2d01FRmpvU25FUTJtM01DdFpmUVIyNThvSGhQOFpoelE?oc=5",
+    "title": "Youth Drowns In Cauvery River After Immersing Vinayaka Idol",
+    "title_ta": "",
+    "summary": "Youth Drowns In Cauvery River After Immersing Vinayaka Idol",
+    "summary_ta": "",
+    "date": "September 17, 2026"
+  },
+  {
+    "id": "sal-sep17-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWNBYTk4WHZzUHpQd0V5LXhSckIwcENtNXVZakVvdGhEWkQtMDVPc1pUWWIwRmdiSFJsQXVwUjMtNzZ0YmVTQmZUSWg1cjM4VFMxY1JoU19FRjR0T01seGVhQXVrNkpIak5LUjhhbEpQWDVwTkUtd3RaZ1J5ZjI5ekMwQXMyU3VsVTNLZTlra2hDNmxKS2Y3aHh1cVd1cjJWbUJkYW1hWXJkVERnREdhR3E5b3nSAcIBQVVfeXFMTWY2V1dDOWkwTGZkN0VoaGQwTzc0Tmk2cXgwd3lGSFNkYTNiaWZZT2l2MWFzZU9VNC13VWk5WWRuZXlMVE1HMHFyb1BISktMcHYwSmdsZmg4VmhIR0Q5SHhZRms2NjNLd3BwVzc5d1R6bF8zTEI2S0M2VXQzZ2txREZMNmQ3TUxWZ3JPSkFpbDFfYjhWbTlFbnpuNHBHVk9kLUxuTjFkQWxhTS11bEtRN1hzX3RsT3psT25IMm9GTm8wZnc?oc=5",
     "title": "Monsoon failure leaves crops to wither in TN's Salem",
