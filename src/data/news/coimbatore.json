@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-sep21-001",
+    "id": "coi-sep21-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUjlyVGtSYjU3aURld1NqRGhLTllMNVR0U1pwREs0ZmxYXzlmRWk2T2doVkRLVFc2UUFVNUwzZVNDa29rU1l6RF9DdV9yd1ZGclhtUEpGalByelN0clhKSkwwYU0wcFQ5aklNNEpWN0lITnJmLUhDbUZkdThicU4zRTRRYWFxZDJPUXh6c1BhdUZkN2FsTnUtVE1QQkhIVnY1MEhnWF8zXzZuQlljSlEzbTA4MU9MSkRQRWpsczBrZkNjSlVnaHdXR1N3ZlRVcXRtWG51MU40N3owNzRnby1rOUtrRGFLSHdxZnlGUmxQNkI3d2hCNzdtMHFIRjZfWDkxYzJJMTN4dmxtclljVlRB?oc=5",
+    "title": "\"Take flight to Coimbatore, instead of London\": Annamalai slams Tamil Nadu CM Vijay's foreign trips,",
+    "title_ta": "",
+    "summary": "\"Take flight to Coimbatore, instead of London\": Annamalai slams Tamil Nadu CM Vijay's foreign trips,",
+    "summary_ta": "",
+    "date": "September 21, 2026"
+  },
+  {
+    "id": "coi-sep21-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxMNlpjeHVZSnZfQWE4TDJxb1RjcVJxTi04bXdsNXpkNmp2N2owTnB1V040ZU1vTEJpRkVlN0xHT1hNNklsLUZPYnBBUGJUeTZ1LXh1THFXeXN4RUg2dGEyeWRfcnJGZFBZNHZxLTNhZTlWVy0yclpPTE9QWFl4OXNnY2lYNjJDdnFaQ3dHeEN1ZFVBR2lRTHdnNUZCMHpUWW1ROWN5dEhnM2FaMzZhSFRGRUtqb0JKejNRRXB1RdIBzAFBVV95cUxQN0k3Slk0OXdtSUpvbzg5VDhoVlF3QkVoN0RKR3VyR3ppdk53c3B5SkpUelh3Ujk2N1pLY05MeTdwa0FHOHdkYmlYR0l3UGZlQ0dmNmR6ZHFFTzdFWTVFaEFhZllkTUk1ZnZpbTdTRVRQcVlENlEyc3Uxbl94ZzVUbmxxSTFrbUF1NUxFRkJ5NjhEbEhBZXhKVWlRSWVhZkl0N1ZuQVlJa2JBQnJrYjNZUm5TTERTNEtFS2tjR0haNnd1ZjNzTTNPT0JDUWY?oc=5",
+    "title": "Three days, Rs 30 crore: Power cuts cripple Kovai’s MSME units",
+    "title_ta": "",
+    "summary": "Three days, Rs 30 crore: Power cuts cripple Kovai’s MSME units",
+    "summary_ta": "",
+    "date": "September 21, 2026"
+  },
+  {
+    "id": "coi-sep21-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOTJDSGJQSWs5eE1sYVhOVVUyZU16TWFzRjBEbDlNSWVWWE04TVpoTXYzcnU5NXQxRTRDaDNBRkR6Z2l1UzI1R202el9QVWFIWTNFejdpVldlZlhTRlFtb3ltMEY1b3d4T3RNcXJQMkxXbEdWcS1YalBqN0Y5TjZZaV9fbTduVGxaU2tnQXdtMGU5dWtYRzZJd2dMcldmY3VrN2dicWVQZ2F1M1I3QkJGdXU2aEg3QUg5WUdKX05CYk9YbTZ5WXJNQWhxTlc2eXRTZ3fSAdcBQVVfeXFMT3ZzSGt3VUdHaG9oWWoyR2N0NlNxUU5icGZ0bTNlVlBkUWJrQWc5Rmx3OGRMcVNUSGpxUTVWTE1xYUdlR1BKbmJpYTBtZ2RfYjcxY2xrQlhmLUtrdUFuYm95RmpLWmlQcXFfckVKSXZNTFRVOXdvN1l6cjR6X1FUTml3TjZtbUFWRzItQkRiUC1wcXRhd3ctV3NPYlRvb0ZXZGRRSVpDZnpyVWlkYVNJdXNJX2F1MzI2Vnc0ZmtWQVRlc2prandqNWNtRXZ5LXJaSlFxVlVBbEk?oc=5",
     "title": "‘Travel to Coimbatore, Madurai’: Annamalai takes swipe at Vijay’s UK trip",
@@ -118,29 +142,5 @@
     "summary": "G Square issues clarification denying allegations raised in Tamil Nadu Legislative Assembly regardin",
     "summary_ta": "",
     "date": "September 16, 2026"
-  },
-  {
-    "id": "coi-sep16-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVGYwalRoZDFHTmFmV1dQNXZNeVNMN1dYSUNOME9JMVhQZVJRLWJZNmdQRDVXWEw5MXduN3hDTVFWcU5SQ2kxSHJVQTQ0d1k0NDZQWVRrTUVkREd0Q1ozQkdpbTNhalIzQ1haSDduSmdvdTJTQXQzT3FzYXE5cE5DTW9xQWRmWEJaZUd6VEpPclRiVFhyamptbDhnWE05NzJFWDliYTNxR3VLa3VHaExzTGZ1eG9sUWdudmdaQ3ZEZ21mMG1pYVFEQ3NJcmxLYnpnS2xFLUVTZklIdTNQOGdEcmtFci1CUXJTTEHSAe8BQVVfeXFMTW1rZjU4TUVrVWplY3AzVnNPbzcyanpmR3RnVUNqVjhTbFM3UUR2LVQtWkljTS1neENjb0dNeXZjZVlzdG5SbDZHd0hzdEE4T0JDem9rNEhuRlE5b3YyaHBaaHFrYlh0ZWNpWkhLRkplQVJKMkhKMUt5SzFzMHg5YWNpREV5Sm52Z05fMVdBdFJvWEM2VUxHSVRDYWFDV1FxTktrclZYY1VZRE1peVlEc0xkTVlHVHZ3T1hmbDZVY1FLWl9Xd0ozR0pNblVRc2tCVXRvZkpiQ3BHNFVxUTVIb1lEM3J2S292eW9zOC1IYVE?oc=5",
-    "title": "'Captain M Network': How al-Qaeda-linked Coimbatore teen's Java, Python skills caught UP ATS's eye",
-    "title_ta": "",
-    "summary": "'Captain M Network': How al-Qaeda-linked Coimbatore teen's Java, Python skills caught UP ATS's eye",
-    "summary_ta": "",
-    "date": "September 16, 2026"
-  },
-  {
-    "id": "coi-sep15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbmptN1hMbFpZUzJwWWFPMXVjLVJoSk9WdjgzdVJiUm1XaEtzOXkyLW1SXzlZSjl0YUZpV1JQdW5CaTZ0bHZNNUZyczY5VDFZcmZRM3dqdDBiQWlFSE1oaVVIS25mOXlSZ1dFN1lfMG9Bc1Q1czdJZlVWOVk1N3FUZlVkNERKUWVJWmJNejVFM2FCLVJLQnlNeVlLLXhaWmlwV3h5ajZJWnhLZmhtdjRNTEF0T3gzakhnbG55Vy1KTGV4amRtQy1UNm1pMER5ZDJfZ2lhNlVMU3M5U2VmZ2ktX1BKV1pfVHRTRUJlME0xM0tDcHZy0gH6AUFVX3lxTE5uYTB3Uk5lUG1zVnZQeFNrQk96MDRvaHFuX1IzNEdLZk5OTFZYNTBNMVZCSm80bnZ5bEZieHVVVkVlQzhhdUxqZ29nQ2ZtYmZaRVV1UGktWlJ1Zms2OWpvT2RvRHBqWjlvVDJsLXU3VzRxZVJvRmx4QUdVV2N0OGUtVUNSaWtfTUxLVDgxTzJkOXJXTzhqS0J3RXU3WFZ4OE9MdG13UkxWdG1zVzlsX2FWa1gxOVE2TzBQaDhYaFRlbE5sTUFhUDhvVW5NRWctRkh4VGxFMk9BZWtGUHo5bmFybl9mTzAyZWVOUTBScEg0cEF0Y0JIbTc2dlE?oc=5",
-    "title": "Tamil Nadu RTO officials crack down on overcharging omnibuses, impose Rs 25 lakh fine",
-    "title_ta": "",
-    "summary": "Tamil Nadu RTO officials crack down on overcharging omnibuses, impose Rs 25 lakh fine",
-    "summary_ta": "",
-    "date": "September 15, 2026"
   }
 ]
