@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep20-001",
+    "id": "coi-sep21-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOTJDSGJQSWs5eE1sYVhOVVUyZU16TWFzRjBEbDlNSWVWWE04TVpoTXYzcnU5NXQxRTRDaDNBRkR6Z2l1UzI1R202el9QVWFIWTNFejdpVldlZlhTRlFtb3ltMEY1b3d4T3RNcXJQMkxXbEdWcS1YalBqN0Y5TjZZaV9fbTduVGxaU2tnQXdtMGU5dWtYRzZJd2dMcldmY3VrN2dicWVQZ2F1M1I3QkJGdXU2aEg3QUg5WUdKX05CYk9YbTZ5WXJNQWhxTlc2eXRTZ3fSAdcBQVVfeXFMT3ZzSGt3VUdHaG9oWWoyR2N0NlNxUU5icGZ0bTNlVlBkUWJrQWc5Rmx3OGRMcVNUSGpxUTVWTE1xYUdlR1BKbmJpYTBtZ2RfYjcxY2xrQlhmLUtrdUFuYm95RmpLWmlQcXFfckVKSXZNTFRVOXdvN1l6cjR6X1FUTml3TjZtbUFWRzItQkRiUC1wcXRhd3ctV3NPYlRvb0ZXZGRRSVpDZnpyVWlkYVNJdXNJX2F1MzI2Vnc0ZmtWQVRlc2prandqNWNtRXZ5LXJaSlFxVlVBbEk?oc=5",
+    "title": "‘Travel to Coimbatore, Madurai’: Annamalai takes swipe at Vijay’s UK trip",
+    "title_ta": "",
+    "summary": "‘Travel to Coimbatore, Madurai’: Annamalai takes swipe at Vijay’s UK trip",
+    "summary_ta": "",
+    "date": "September 21, 2026"
+  },
+  {
+    "id": "coi-sep20-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUlMLUxQVXhyU1dRdnhJLUJuUVU4VGNEMEwwYkZnSFJpTG5FNXp2b2RkWFZCQkMwWTRBM0VXS0dsb3VRVncwbVlUeHZpZFFCTXFoZkpVUmhuRzZfVEo5STloeURDd2hWcnZWMWhkZDVWZkJRTHMtR1UwUVFxUk54X2F5c2l6MEZjUDZxSTBnenhmdw?oc=5",
     "title": "Dean Macarenhas wins Round 2 of INRC 2026 in Coimbatore",
@@ -22,18 +34,6 @@
     "summary": "Blueband Sports Rally of Coimbatore set to host Round 2 of INRC 2026 with 64 cars on the grid",
     "summary_ta": "",
     "date": "September 19, 2026"
-  },
-  {
-    "id": "coi-sep14-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkR3czNSV205bzQ1RlNVanVNV2pyVXdqcUZsaVNOYzZ0NWdyYzA0c2FHdTNKNTd2ZFE2a3NPb2RVbnpVbURaMlFCMWJiNTVaYzkwY3B4ZVdWUW5BWlBydHU2Wl8tY0Rodkk4eVBqQzVvUjZaUlFfUmpfT1hieFk0RUQ0R2wxRndXY1BQODgyTHVwcWxOMERHdVk5X3VOZFlrOExjbUNOblQ2NGRWa0NvaURESlJoU25FSzRmdlBhaUx3WnJiM3hZSmFZc1F3QWdR0gHWAUFVX3lxTE43M045TWl1Q2RtZFBsWVY4WlMxdXpRUHoxRVBWcnlMY3ZZUVNwaGgyWXp4OGJ6NVNYT0JQa0dJVGRDSkEyU3ZpNjRoRzBwb1NUeldQREt1WWFPUDlMbHFhOXRjT1JlbWhPVDAyRy1MY2lJdFV5M1Y4LW05bS10RVdqOS1vNGxRNVdOQmhqZWxxN0pKNHRNNUphUUlqQ09UX0Nmck1JYWE3WmlVeU5yR2NmdzNudEg2RTV3Uzg3bXRWSEt2clMtUzBTRHRGVVpnMThwcjFSV0E?oc=5",
-    "title": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
-    "title_ta": "",
-    "summary": "Tamil Nadu rain alert: Heavy showers, strong winds likely in Nilgiris, Coimbatore; check forecast",
-    "summary_ta": "",
-    "date": "September 14, 2026"
   },
   {
     "id": "coi-sep19-001",
