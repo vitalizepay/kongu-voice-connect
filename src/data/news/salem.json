@@ -1,8 +1,32 @@
 [
   {
-    "id": "sal-sep17-004",
+    "id": "sal-sep22-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTmc5dGVCT1V5SEp0WHAzME1RVGppRzlzaERkTzVsckhJWWdhN2J4MnBFOUNSRmZmQU1ra3FkSzdUWkVzRllsNThCU3Q4cXA1cmp1SVJYbmJBR0dtN3NYbmJlclp3S1ozMExpUkczMUFOcU5wczM1b0ktM254eXRCMTduMFNOWEVvbEhUOVV6R0J2blBGcUFySDJhNy1QWUFfZ0NrRjlZZDl3X2hraXN6dzk0RlZMNjNwN0FkVkl6WDBvX2JUVGw3YUswUWdlUkdIWTZBcE4zS2tFUdIB4AFBVV95cUxQT1hXTXAtcVAtN1d4S084b1NQWHJiUzlPdks1clROMDlOdWJpUjJNdE85MzFGaVdoTldKdXQ3cmtmdEx4OXc1NDlGYU50d1k3SlptWUFvLWtiYzN1VGl5UDNuQldCMUtHZkVYd3FxaHBlb2dzQ0FwMFM3dzhhNUxmT1FkMEQxeGxoOHVUcE5YNTg5QjU3dEg1X1dDVEJEaFJRLUVTTGU5RHFDVEJrX19HSURUSkp0RGJnQ2hVcGhoUEdKNHRUa00wQjhkZjVMSEFHX1pjQjhRbXNvM1RzbFhKTg?oc=5",
+    "title": "Ministers launch expansion of breakfast scheme in Salem, Namakkal districts",
+    "title_ta": "",
+    "summary": "Ministers launch expansion of breakfast scheme in Salem, Namakkal districts",
+    "summary_ta": "",
+    "date": "September 22, 2026"
+  },
+  {
+    "id": "sal-sep22-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWp1SU5wUEhxQXNXaGhleEVrbmtXenNWSGpnVHBUcUFsTWRueEZIeHdBOS1kc0RQTl96UVNDZXFPVmZLYzZ2UnE4SU55aGE2V2pieHM2OU4tQVpWLW0ySnJuTFFTOWlNSi1oTFNRVDVDeEdWSXJOblVBLW1tS2hXWFRjNEkzS1pBRzdNNjBLZmlYZHZTRl95alRMTlh6NHZocUxOYTN6TXBzY3dYS1I0aW5uVF9xN2d6bFVYZ0dBai04RnBlWTZOZmZZNmNUOWM0YWR4TzJOTy1Wak5oUnBv0gHmAUFVX3lxTE50R1o3WFU1OFlHa1d4ZlpwSE5OR0poUlVKMDMwTTkybzYwM09tRENsUGNzOE1iLWF2TEFpREhEMFpkRlR6Ni1rOFNRMnEzcW1mQWZvXzhWZkMzQzZ2U0hZa0ZydGxEYm0za0J6OWFpZHdqWXVZdEhxMlpjai1PRnZaSm9CWjU3X2ZMeFIwTGdRS3JFT2JPbnQyTkpwaWpQMUtqSXlrOEJjamZlMFNFYTZybWZVQlJzSFRiRlhxamxTWV9IeDFwNWpkcVpYN0sxRUlJZkFkTmZpbjVkNm00U2tEdXhia3NR?oc=5",
+    "title": "Villagers of Vellakalpatti to protest against proposed waste-to-energy project",
+    "title_ta": "",
+    "summary": "Villagers of Vellakalpatti to protest against proposed waste-to-energy project",
+    "summary_ta": "",
+    "date": "September 22, 2026"
+  },
+  {
+    "id": "sal-sep17-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHhPNnhSQml1aGFwckJReFZOSmkydG9fbWs5LW1SdWRNWmRmb1VQR1JPekRfSEVHNUJpNUpPVV9OdDNYblRoRXhmQXhrVFg3c3YyeThHcnJ6R3FfdWdRV0FsZUtQVi1yVzM2TGhkbjBhOXVkM2RJUFZtTnhtMWJQbktaWU81U1NOclUzelFGa2FvTkpLTlZjTGFzdGxDR1pyejdjYXFUM0JfWmM1VXVlOXh4a0QtYUZOZzBHb1VGa25TdzFW0gHKAUFVX3lxTE1RakNIZVN6Q2htaVNnUGxxUFJUbnFhNDA1V1JVOXVjLTNaNnlNTFk3emZRNkhKUDAzQVlfR3ZMems5Qm1MZmdjNnM4SzlVUXBjS2tUdzNSQ2FSNDNrNzlIZEk1R3NMaXhFbHpEUERYTEM4bzU5aXJrblZvWnFLWm5vYlNLbGM2cnhjZ3dOaGNweEkwZUVEZnBZd2c0S24wc2JkUXdyWENkUHN2d01FRmpvU25FUTJtM01DdFpmUVIyNThvSGhQOFpoelE?oc=5",
     "title": "Youth Drowns In Cauvery River After Immersing Vinayaka Idol",
@@ -34,17 +58,5 @@
     "summary": "‘91% of students who cleared Class XII in Salem district joined higher studies’",
     "summary_ta": "",
     "date": "September 17, 2026"
-  },
-  {
-    "id": "sal-sep15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRjc4cVNNeUVURUNCWGZDaTl0Y0V2YmgzMzNUTUd1SjcwdXhRMHlIQXFWbXk0czlVZ214N3llNFdhZURwbzJlaXE2QlJuV0RyR1ZXakRMM1VTRVlLMHE3cmJJeU1xS0JJdDhKeTM3TFF3Z3hVVDdMV211Y29YTXBtWWg5ZjhIRU1MdHJnVGZxWndKYUs3NjRXVnd3UmlPSlNjU2VuSWZNWE1SQmFCNktaT0NaRVRrTHRl0gG4AUFVX3lxTE1GNzhxU015RVRFQ0JYZkNpOXRjRXZiaDMzM1RNR3VKNzB1eFEweUhBcVZteTRzOVVnbXg3eWU0V2FlRHBvMmVpcTZCUm5XRHJHVldqREwzVVNFWUswcTdyYkl5TXFLQkl0OEp5MzdMUXdneFVUN0xXbXVjb1hNcG1ZaDlmOEhFTUx0cmdUZnFad0phSzc2NFdWd3dSaU9KU2NTZW5JZk1YTVJCYUI2S1pPQ1pFVGtMdGU?oc=5",
-    "title": "Salem district faces Aavin milk shortage",
-    "title_ta": "",
-    "summary": "Salem district faces Aavin milk shortage",
-    "summary_ta": "",
-    "date": "September 15, 2026"
   }
 ]
