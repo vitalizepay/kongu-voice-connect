@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-sep22-001",
+    "id": "ero-sep23-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWw0RkEzWkFMaWYwVTlBc09NbDU5N0cyWmQySTJYSzNnWXpjQ3Q0c1VkblpzRnVwZFdVOVJZaFVtd0ZoQ0xSTjVIVmlHUWJGbWgwWjl3N200dWdKWU1iNDY1N3dWS1ZNT0RyTW9hWVp3dExoSVFNNnRrdmhzOENlMnI3ME82cDhTQWR0Wmw5Vy0xYndiYnhyVkdPTGJpcGdDNVAxUlhoR3hINU9oWGZwTkFXSVhBYXRGOEpVbEl3YkFUMEFTaGc?oc=5",
+    "title": "Four-way waste segregation made mandatory in Erode district",
+    "title_ta": "",
+    "summary": "Four-way waste segregation made mandatory in Erode district",
+    "summary_ta": "",
+    "date": "September 23, 2026"
+  },
+  {
+    "id": "ero-sep22-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzJOVGNDVUNIdUZ0SEZ5MlYtdzctUERGX0U1UTZmNy1kcV9mMGczdGI4djVEcF8zejVEaE8zUFZJRS05V1FqTHdzcDQ1Smg1ZDBJNlp4UHVKeERPT1B5RkUwYnh5cm5Ka0M2ak9jNlNpN0tsWThnZll5ODFkcHUtQW9PbWhGVXFfNTIwRmlTM3RKVFR6NllVbjRwT2FlY2NhdlBmMjJsNUNyd2pqa0dkclZqNkgtY096c3kyWnVWNHViS2h0N0hjNlNsdzU2UnhodFHSAdgBQVVfeXFMTVhJdXY5cmJmTW82NWVQTGltazdhTUl3UnR4bFBMQlNiRkpXd0lZMkViUHR1QVhELW8wdnF0dThhcG9xNnVlSmRkbExyeGpnUE9reXhIR3BlZ2c1SzVfX1FlWVc2eVo4Vnp2ZEljS2RRdzVvTzhjTVgzVmRoR1lNd01kaEhIc1lUbmdmSFdTS29JXzN5Mm1lbERLWG1sVXltZlNPVFpVWUc1d2RqUGNIVWdZNnkzWUNMcXFMZzFMdk5VdnJoMEQ3WjZjSDROT05JQnlBRThwZVQ5?oc=5",
     "title": "Over 88,000 students benefit under breakfast scheme in Erode district",
