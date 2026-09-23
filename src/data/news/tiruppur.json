@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-sep20-001",
+    "id": "tir-sep22-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGRRTndjNzJ6T0dwLVNPUU85dzVIT2JmX3ZxWTNCWUNGUUlkUml5NTVzSS05UFRON1IzUjAzeVY2M1JfbUtSWTlkcUNYc082aHpLZFlobUJKSkxXZk9NVzZQUmpDYjFoNXhkWWVzc09tSXduTkhQLWNGQWRRYW5lWlBUTUJTVWItR2FDd09vREJGeXN4djIxVVM0MEpFTm55M0d2T2RTc1RESDZNNWJDdHhVbkdSUEFXNEJOWlE0ZGd5QnMzUm5SMDdCaHBDLXFM0gHWAUFVX3lxTE1TY3hhdnBFRnozbFFFOTRMcDdib1VNWlItYm5yb2RPSzloQmRpT0REZTd4dTJRZE9VenFtbDY5b2E2eVVha1hsdFRUOGJPRlkxYVNtNmdRTHNYWDFOZTZxNU4tLWZHaDdXc0RmaW9zc09HeFRLWm9PSmViNnMxQ3kxbHJpOHZEZG5ZY194bV9LR3dmSEd6Ql9QZ3ZZUWxwVEdPWGFYb2I4dkU5WEo4dGJwZlNsTEpWUmpFeU81WGE4OGl4NHpna29xYjRzcXk1QXMza01XTmc?oc=5",
+    "title": "India-UK trade deal: How Tiruppur's knitwear exporters are poised for a growth surge",
+    "title_ta": "",
+    "summary": "India-UK trade deal: How Tiruppur's knitwear exporters are poised for a growth surge",
+    "summary_ta": "",
+    "date": "September 22, 2026"
+  },
+  {
+    "id": "tir-sep20-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX041RmtSUEdYRlVPUjcwU0RCWGNadUd2SWl5QzR4U0YzQU14VDZEUjJNZy1abmt3cHR1ano3STdvWWhRRHRMb1Z4Mk54a3RfR0dzd3R1UUZuTk9FYllCZkpfMlBWbnZieWduQ2VTSWFLb0w4OEFWREVLbDl5WjNjNGN1aVRmQzNuZXhVazZRZUJQUmVDQmltM3oxTno1dw?oc=5",
     "title": "Tiruppur firms bullish on orders from EU, UK",
