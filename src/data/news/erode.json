@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-sep23-001",
+    "id": "ero-sep24-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWMxWElaeTUxZU9aVmphajM5a3I2djB3SmxJUVB3M3MtUnlqR1Q2bEdTV1picUp5Q1lnaHNHYTNWNnVNMTlPM2RKeFpNNXJZSkt2M1pVS3Bma2lEZGtXaU9iTHhtOTZSNm16alE4OXZ5Y0xUaFlISWx1Rk5qRjRqR1M0VndnTjRDbnJqUVNaZ2Y1dkhYOHBRa1FQcVlTaG1PVzBtQlZ0cTFPd9IBrwFBVV95cUxQbzhYdHQ1Uy1ZMWNJcFpTUENZX3lrcnZMQ21NT19ld3BrMkpFR3NnamNILXhfRmtHTTBnQXlpUnZ3UlJnZUlKOUh4V1JUd1dEcFkwTy1nVHFXQ05TRFBmdVRNV3ZrZlNXdnJ6Z2MzRUsxT0FhUUNqNzFJRW5OOWMtTnhNRmwydXZ1LWZ0eVV4dHNOd0QxMXZZaEFSVzN0ZkhBcGZaWDF1cXFFaW81djFR?oc=5",
+    "title": "Looms fall silent in Kongu Nadu",
+    "title_ta": "",
+    "summary": "Looms fall silent in Kongu Nadu",
+    "summary_ta": "",
+    "date": "September 24, 2026"
+  },
+  {
+    "id": "ero-sep23-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWw0RkEzWkFMaWYwVTlBc09NbDU5N0cyWmQySTJYSzNnWXpjQ3Q0c1VkblpzRnVwZFdVOVJZaFVtd0ZoQ0xSTjVIVmlHUWJGbWgwWjl3N200dWdKWU1iNDY1N3dWS1ZNT0RyTW9hWVp3dExoSVFNNnRrdmhzOENlMnI3ME82cDhTQWR0Wmw5Vy0xYndiYnhyVkdPTGJpcGdDNVAxUlhoR3hINU9oWGZwTkFXSVhBYXRGOEpVbEl3YkFUMEFTaGc?oc=5",
     "title": "Four-way waste segregation made mandatory in Erode district",
