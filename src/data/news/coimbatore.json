@@ -1,8 +1,44 @@
 [
   {
-    "id": "coi-sep22-006",
+    "id": "coi-sep24-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc0tSY1hSakJQeTVQN3FEZW1FWGhlVEhLTFRMeEdtd2pzcXFxTG8xNnNUNFN3QVUzb2pZVmRZTHBaOWtKOWx3VDZ2YnpXdHBCUWxQbWprb1huNER0V3lNemdEQkI0NWRXNkpLWkNMdGtTUXdCREVSekxpM0trOGluNm03TjRQbmRpY1RUOU5NYWZtY0I0bDJhN0tmM3B5dmZzSFpkZmxMZ3JjOUEyWWxtRldYQ1NjN1FDRjZNZ29teGtneTRkVVRwSDRfUjFBUm55VEpHUnVxUWR1S3poUlVfT0hYZ21ORVB0Z0w5Z0FB0gH0AUFVX3lxTE5wMEJYMldfWWFXT1EyNmIxQzlrZVg0VVA3NXVSa0N1WmFCTW42Vjk0M3VDeC1aUTJHc245V3VtSy1aVEhRMFZTVFh3dnVzSXJ0dmVpMjJCdmJjMXhUQnc4T2RmdUJwcHhVQVYtZXZRRlY4eUw3aXh2QzNDQ1E4NklyMFhpTzlZUlNGYTJIYmxCVTNGVXFrTDk0RWhrWC1GaHBNbXdfY2dLQjdlek5aR2ZGbnFxUDVhaWlJcUNLb2QzNnk3THFKVkdJOExHYzhhNjhRSTh1NlRFTDZqYkJBamRMRVNEZ2tlN1BNc1pIemtQeGl5ZGE?oc=5",
+    "title": "High Court directs verification of documents of 33 resorts in Anaikatti near Coimbatore",
+    "title_ta": "",
+    "summary": "High Court directs verification of documents of 33 resorts in Anaikatti near Coimbatore",
+    "summary_ta": "",
+    "date": "September 24, 2026"
+  },
+  {
+    "id": "coi-sep24-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdUZvaFhPRW5mTldUOWJSWXRESWFEWmpGc3FISFY0VTM5RjJkd09ITEltT0Y0SnRhSDJsOWdJemFqZXBLTC1BZ0tTSndrdktfS0huMWplTk5QTTBGRkJJYUhTS25KcDVPUWVQcUtISFpialp2S29nekVObkF1YWcxQ1MwbmlxbjJRMGUtazl2eEVKaFN2NUM1bDF5bktsQWtmVVJtN0Z1Slo3cWItdkEzc1BJUUZpMzV6N3pfQXZXdENUMXlOanE0SG5PX0ZoQkNHQ0V5RmlKZnRudF9YaWZ4a1c4Mm0wX3R4S2JjZTFxM0hzUGlt0gHEAUFVX3lxTE1TSWpneDF2bTRrQjkwRnI4N0xrY1JmZGkyeGd3VGxBSmlFd3UtazBjSm9GN0RyemlVcW5hd2xhTEJpTE43MENSNmRyUnM4bFR1WC0zYXk4cGowakR3UDdTU0N3ZEdOWHlNUHNpOXRib1E5MjExWk5jMTQtamFEeUJaNzRSd2dFdWpLTWlycndlenRqV3d0dG8ya0Ewc3cyVWRGZF91SlNmVE40MGViRVlrelNtZDhfTl9VU2FXcl9nX0l4WXg?oc=5",
+    "title": "Coimbatore airport imposes Rs 500 fine for vehicles stopping over three minutes",
+    "title_ta": "",
+    "summary": "Coimbatore airport imposes Rs 500 fine for vehicles stopping over three minutes",
+    "summary_ta": "",
+    "date": "September 24, 2026"
+  },
+  {
+    "id": "coi-sep24-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWUwwWkhFVmlUbXhhVG9hRkkwRURaVS0yTHR5ak5VX1Z3Wkl6MV9UUkZMaGwtd05NU3VadUYteGJQN1RxVXZKQ3VZUVVPakRCd0FrOF9GYTB0QjBsTHMtN0lGU1FpV0FPb2xfMzc0ZHdiemNKcWlZZVFlR2ZzSW1MWHdFYWpTQXZvbEFEdlZqLUJ6SDJSSkFsMEhJai1yWG1tQUM4bFVIN2Y1dnZpQWlUQzVXelVqaDNzU1VoVDFVLTZSdw?oc=5",
+    "title": "Veeramani POCSO case: ADGP Arun, Coimbatore Police Commissioner Kannan transferred, placed in vacanc",
+    "title_ta": "",
+    "summary": "Veeramani POCSO case: ADGP Arun, Coimbatore Police Commissioner Kannan transferred, placed in vacanc",
+    "summary_ta": "",
+    "date": "September 24, 2026"
+  },
+  {
+    "id": "coi-sep22-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVlOUmdONXpkdGF0X3hvN0Z3OThFM1NINTNGMG1qWjYzdEszZEhOaEpnNWkwUmxFVE80ZHJvODVVTUp3aUkxUDFaUUdlSG1zS1pyOFU0U3NKNjk3Uk1ycDdKbEJUOXBfb0Q0U1F1UTVvY0kzZmIzeFU1TFMzRG94emlKQnBDWVVEZjRPUHFGOFlMOVlD0gGiAUFVX3lxTE5kWUtpNE5Xa180TjNUTTduR0xfUmFNS18tcXd0SVF3SlNXX1V1THJ2aHdQTmlRMG9kTTRUWDVwZVM3dkZzR2ZfUUFBTTkzdjN3NEVBZXRxNFdMQlM3RFpWT09IVDNFOTltUEp5anAyeW5uNXlsbTViY19ZWV9iV01aeWxhRHE2Z1U1dldzNlgxRV96Wl9iejY1cEQwT0ZUWEtwdw?oc=5",
     "title": "Free LPG supply restored for ‘Idli paati’ in Coimbatore",
@@ -106,41 +142,5 @@
     "summary": "Blueband Sports Rally of Coimbatore set to host Round 2 of INRC 2026 with 64 cars on the grid",
     "summary_ta": "",
     "date": "September 19, 2026"
-  },
-  {
-    "id": "coi-sep19-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFlZb2htYVJSNV84RXZiaDluTXJDQndWUDhWZ0VRamN5MHNmR3ZDaTVxWDVNNWkzRjl3Q2h4bnIyTkNVcUw3X1NRMWFpV2UzRnhETTZzaE5LTmNWYTA0SEwwYTFOdFktMTFRR0JuZTJYNWdmRnNyWWczWGtOLXdaZTJMN3BHSTlYS1EtS2JNbjRRZ1lCd09xUjJfaU9mZnd4eTBlTGEwUzVoVzlQNEp3?oc=5",
-    "title": "Blueband Sports Rally of Coimbatore to host Round 2 of INRC 2026 with 64 cars",
-    "title_ta": "",
-    "summary": "Blueband Sports Rally of Coimbatore to host Round 2 of INRC 2026 with 64 cars",
-    "summary_ta": "",
-    "date": "September 19, 2026"
-  },
-  {
-    "id": "coi-sep18-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ0NwOFFORkRUMk9IZFhNYlpCWlJHZWE3eE53ZUdlMGZNYlo0SVNsWXFLZHhEem4waG1PN2hvVXEtZW5IZjlndUFzeVBYWDdCTmM0UUZwRC1GR3lXcmVsLUhXLUVaSXAzUWFOMl9vY3cxOS1xSk50MXBlTGw4LWgxaGxGZ2tla09EMlpHeFk2dFJYSGVDZGQyZlk4U29abjZ5dnR0RnRpT0NPRzlwU29QakVRYnBFVWo2Umw0NEhrdUU2N2VEM0h0RndyNVZQZ0g1WDV5TENIUHdndzBQamQzYkd2VDkxY3F4SC1oc3Q2Nmc2YkNZYUNCX3dWRlJOWG5HMkM3cjVWbGI?oc=5",
-    "title": "\"Art should unite people without discrimination\": Actor Ranjith participates in Vinayagar Chathurthi",
-    "title_ta": "",
-    "summary": "\"Art should unite people without discrimination\": Actor Ranjith participates in Vinayagar Chathurthi",
-    "summary_ta": "",
-    "date": "September 18, 2026"
-  },
-  {
-    "id": "coi-sep18-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbkVqNTljTlRIQ2N3RnVxd2kwX1BaTk1mNFVBMzlsZ1ZpbkhCUkljRmFpeUx3YTlfTzZhYWdtcTJ4SzJiaS1HZEpWSkZrenRTRzNVbHdieHp2YWtTeVBQYmNaU1Z5MDVzemk5dUlsbEdsQXU0WlBOeHR0UVZCUVNLZmF6cjRLd2R3V1c5LUtHSjgwVXpFaWZWX1BUdHZpQVVDbWp5RlBfTHpkMEV4M19LLUVTd0szVV80RFJ0dWR4R2RUNUI5VWtIdmpjdUNHOG9LV3RYRUxjSFEyRjRfWXc40gHkAUFVX3lxTE1TdVFTMjk5bkFvNFg5MEpvTnlKbHo2UHR5TnBPbEJldXdLUjNjZ2k3c0RGNnV5ZVZvUzRQaGg3c3habWh1VTMtSTI0VUtZWFh4cThqY2hGMk9HbXRnbS1XckRwVExId1JONnJ2QzlMNkEtWHE2MmhLR0F3R1AyY242N193bjNMUDdGZWpxN3JYcFVCR1g0MGgxUENra0NyemZyVGdvTWNsckZKbXI1eUNVRGdTRlR2eEdJdm1KNWxUQTZhdEdMQ1hJd1c4UXFfV25QODBoaHV5T3FsWWxpd3RoRU9ITQ?oc=5",
-    "title": "Tamil Nadu ATS, UP ATS arrested 19-year-old Maqsood Ali linked to Al-Qaeda module from Coimbatore",
-    "title_ta": "",
-    "summary": "Tamil Nadu ATS, UP ATS arrested 19-year-old Maqsood Ali linked to Al-Qaeda module from Coimbatore",
-    "summary_ta": "",
-    "date": "September 18, 2026"
   }
 ]
