@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep25-001",
+    "id": "coi-sep26-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmYxM25YSUtGRy01SVUzeTh4VWFiZ2NpVGlYZjl5RHVteHlxRXBqSWItbVZaUUZKcnh6RkdYUmEyS3IzNHlid1BxTGRTU2RqenNvNXZHUmxvbmM4X1BZY2o2eTZKZXhzQ0tMSWtPdVc0d3g2dG10ZnB2YUJJRWdLMF9zZTRGLTNrUHRtQUY5bEJJTFhLQ1JLN3hWOFFUdFM1YXltVmp5WDVFMm5uWFBkcFNTVXJ4VkdLZV9xZ3dKM3hPZnl5cGY3aUdNQWdjSnYwZGRv0gHTAUFVX3lxTE1iZjEzblhJS0ZHLTVJVTN5OHhVYWJnY2lUaVhmOXlEdW14eXFFcGpJYi1tVlpRRkpyeHpGR1hSYTJLcjM0eWJ3UHFMZFNTZGp6c281dkdSbG9uYzhfUFljajZ5NkpleHNDS0xJa091VzR3eDZ0bXRmcHZhQklFZ0swX3NlNEYtM2tQdG1BRjlsQklMWEtDUks3eFY4UVR0UzVheW1WanlYNUUybm5YUGRwU1NVcnhWR0tlX3Fnd0ozeE9meXlwZjdpR01BZ2NKdjBkZG8?oc=5",
+    "title": "‘Bragging’ online costs Coimbatore YouTuber 118 sovereigns of gold",
+    "title_ta": "",
+    "summary": "‘Bragging’ online costs Coimbatore YouTuber 118 sovereigns of gold",
+    "summary_ta": "",
+    "date": "September 26, 2026"
+  },
+  {
+    "id": "coi-sep25-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHRlRTJvNlBkZVp5bktYczhhTkNBTXhTT3Q1NzczMC1hbGROQmprSVlMV0tEaThrN0pfSU9la2E2c0lUWW9wNU1aU2tmelhyekdKTmVROHh2U3J1RGRPVXVENmhlVDBkV2FBWFEzT0ZvVnAxdzNtdUFpOFNyX0owRlF1a3Jua1ZCY3I3QTIxVEFyNUsyaVVxaThidmFLSXdlMzNXNXEzUTZ2SWo1aHZDcUZrTHR0Vkk3eXdPbEk4OUZ2bDlqN1p2czV5ejJLRmhfa2kxdzFjMFEyTHlzdHfSAeQBQVVfeXFMTUJEWEgtM3JlUkhGc3Fsd3V2T0lqTnY2UjNXY3dHemxQU1BnR3YxLWVkMm40aWNsNWNETWI0bE5tSGxSNkNmT2NEeVQ2OThobG52ZnNHVU9MaUxNYy0yOFRCak4tc0padUhhanZNX2tvSGFiSjRIZXczcnVXU1VaVXQyMElxS3FwWllhUGtJLXl2VlN2eUxubkFsdDhrZjJiZGtFclV3ZFFuZm5wbGNsNkJSUzhmSkFSbGdKQnF6NjBWNTF5ekEzbDNlUWZCb0xWcWVaTmd0cm5QaXZlRk8wdnRYMWIy?oc=5",
     "title": "T.N. government looks at developing GCCs in fintech space in Coimbatore, Chennai",
@@ -130,17 +142,5 @@
     "summary": "Broken glass bangle helps police crack murder of woman in Coimbatore",
     "summary_ta": "",
     "date": "September 24, 2026"
-  },
-  {
-    "id": "coi-sep22-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmsxcVNxeXVxU1VRV1l5akFzMWxCNTlIUGg2UElFR0QxR1I5WldmVW5kckV5Q0JqTXlDOUd6RnRaRkk2VENRY3BBYWptcVBPSEtMczZNaE5CU3d3NHJIdEx2cHgzekpkSnY0YjQ3WE5kTzNSeU9IYVNYMEpPMWxZcHNyTDNrQjA0cXpreXFWdTAydVM1ZzUtUGdMb0dwUDI5aFZUMy0tZU9nRVJ5NUo2N0NtQklPekNqOG0wd1J3Z3dFZHZ3dGgySDdIYVFkTU01V0lvbDZYbU5SQ0ZSdVlwLWtqdXhyd9IBtgFBVV95cUxQZ2FKUktoc0UzbGlfb3dtNXNBUGZFUHk0RklXY1NkTk9uNGZtMVVQVEpQUF9uSjVlVUdkSlVQQ3pha09ZWUFnRnltSnU4OUNsQU8wRjdLWW5VenhLbGVEeVYyZHFqTHpITm5kRVl1eVZRUkt0SUVudmtCWDRZTUFwMGx0clN3ZGVTLXg1S2JHZUdIT2VYMVdJSC14c2sxUk05Z3U4MXl5VEwxUDRKN0pVOTJxQmNidw?oc=5",
-    "title": "Coimbatore: ‘Idli paati’ petitions Collector to restore free LPG supply",
-    "title_ta": "",
-    "summary": "Coimbatore: ‘Idli paati’ petitions Collector to restore free LPG supply",
-    "summary_ta": "",
-    "date": "September 22, 2026"
   }
 ]
