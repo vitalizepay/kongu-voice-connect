@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep23-001",
+    "id": "kar-sep26-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHgwNEVESDduTEQ1cjNwdDBHcWpPMUJZODZpRHVNTWxZck9PdFhxdDByeVNXVXVlc3FSejJmZ0dudzhiTW9OS2F3RWRuREdHODgzVjBMNHhIcl9mdXpXcTB0VHBITkd4TUZhZlpKUFhaRzZVVnN2X243UTluUzd3Y2Z3aVdCMWFVUXVVTW45dGFLeFlKanJneUlBSkZudjB3RGVuV1k1eUxxanZlMFFDSmZrX1UxRUdmZXAtM2wweE3SAcgBQVVfeXFMUDAtdll3V1N4eThldGYxeE5XX1B0V1B3bkJfRGZrQ3B2Y29URVpJTklPRnhUZHFMOE1DT3BRTHY0SXUwMzBCUjFkOXVfZDluOTh2ZkJRbDFMbDg0WlZqaHBZZUR6b19tMXpRVUctd1k5UVFQbV9iYUszaWV4OUlEaFlVd2twOXFrcmtUenZCTUN5eEw5V2FPSi1DeUw4WEg5QTJpQlBkYU1DVTRMcWxTR0JEazVsMWtRRUt4RUxtZUNEbHNEbFB2Rms?oc=5",
+    "title": "Karur Stampede Tragedy, One Year On: From 41 Deaths To Vijay Becoming Tamil Nadu CM",
+    "title_ta": "",
+    "summary": "Karur Stampede Tragedy, One Year On: From 41 Deaths To Vijay Becoming Tamil Nadu CM",
+    "summary_ta": "",
+    "date": "September 26, 2026"
+  },
+  {
+    "id": "kar-sep23-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTE4xOVMzemtvNVhhTUF6N3Q2SDBKX191Mk5Qc2hkbzJCRHFicFktbFByLXJzTkxhRllGaXNjSGJDSlRFY3A5M1RVVjM3Y1N6QVZ3VWJrRTJRcEpMNEdMRW5RNURoa3lZUzJvckI1dm56akZJUkNOcHpOVDhJaENOMjZRUXI3b0ltajJZZ3dvQUlxa3B0TUs2SXo4TzZhM3JONFk2b2F5eHrSAbYBQVVfeXFMTk1iUFRsUlJwYUQwX1ZxNENiR0NQRlVnVGltRVJTYU5ZOElPRkNQajQ4RGgxZ00tWk1mQmNlVmVXbkNxWU16d0NIcXRjbVhXYnNBd3ZWd1h5eHBaaTBrMkI2OUpXV2poYU1FV1ZLbjdzR2FzeEJ4NVhCRzNkeFcxNlllY3QwckIzM0dpWWVCY1lqem96SWpYM25xN3ZkblA1SDZWcHhJdVNlejZZTTBFcUNCbVZkTVE?oc=5",
     "title": "Railways sanctions Rs 2,241.67 crore for Salem-Karur-Dindigul doubling",
