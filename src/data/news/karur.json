@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep27-001",
+    "id": "kar-sep27-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbjRHSzRSV0sybzd0NXliY1U5RHk4MjNtanZHcEp1Z1Yxckp0cXZJM3FsdE9aSFZWb3h2SFJLMXBXUVNuNmFLQXdfeHlUU0RJMlpKNWRLSzhCVXh4NXpRdVVPbTFONnI4M0lDV3dZOGVkYnNyeWdGSl95NUNjNHNIalo2X3gwZGJhb29jR2UwT1BaV2JPQWtGcnplNzlzVDNULWMwbUpic0tEVGN3MEJBS2ZSdFBBZlp3SVBEVTNHRUQ3cHM?oc=5",
+    "title": "A year after Karur stampede, Vijay remembers 41 victims: ‘Unhealable wound’",
+    "title_ta": "",
+    "summary": "A year after Karur stampede, Vijay remembers 41 victims: ‘Unhealable wound’",
+    "summary_ta": "",
+    "date": "September 27, 2026"
+  },
+  {
+    "id": "kar-sep27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNalY2RWh4UVFrNURQb2FrV1c0R21kVDBXd2FOUThFUnJCUUN3NEFyU0wzQzVBTG9wQUlhTmJkR2lCNmNwZVkybVZHQTdXajlvTGFQaDU4end5aklhWXpFS0FBLUstdHMxbzEzVF8wUXpkSkt0Rm83eno4MUp3bU5RTzkzWV9naTBxeHRBa2FQS0NUaEtqZVU4eEhLbDlCeU5MXzdTMTU3dnZ4REFPMk1pNHpfemJqUmZJLXhFbVI5aEtqQXpTQkVYcWNZbGxEVUJDZGYyTWNB0gHcAUFVX3lxTE5FSDdzQ0ZXaVdmd3dJMG50eUpRRWstVFJOZXRtTENTVlY2a1F6R29XUUsxWVVSeEw3Z1ZzS3p4a1g4R1ZaRWNYTHl6TnJoQnR0Vms3TzZjMVpIRlp1cHhmd2F2Rjh3Z2M1MDZQcEIzd3pOcThHYm9OWFkzOG5WVkM0Nk1BUHQ2cHFyMzZTTjJLUVdJTE1SS3VDVUx1LS16Q0JwVUNKQy02dlBWN3pkS2ROQ1BoMmhpbVU3dzh4Z19ZUk44Q1ZiRkVTN0xzVWpmeS1yVmZKV3BZNzBlckk?oc=5",
     "title": "Vijay on Karur stampede: Stampede left an indelible scar",
@@ -130,17 +142,5 @@
     "summary": "A year after Karur stampede at TVK rally, scars remain and justice still elusive",
     "summary_ta": "",
     "date": "September 27, 2026"
-  },
-  {
-    "id": "kar-sep26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHgwNEVESDduTEQ1cjNwdDBHcWpPMUJZODZpRHVNTWxZck9PdFhxdDByeVNXVXVlc3FSejJmZ0dudzhiTW9OS2F3RWRuREdHODgzVjBMNHhIcl9mdXpXcTB0VHBITkd4TUZhZlpKUFhaRzZVVnN2X243UTluUzd3Y2Z3aVdCMWFVUXVVTW45dGFLeFlKanJneUlBSkZudjB3RGVuV1k1eUxxanZlMFFDSmZrX1UxRUdmZXAtM2wweE3SAcgBQVVfeXFMUDAtdll3V1N4eThldGYxeE5XX1B0V1B3bkJfRGZrQ3B2Y29URVpJTklPRnhUZHFMOE1DT3BRTHY0SXUwMzBCUjFkOXVfZDluOTh2ZkJRbDFMbDg0WlZqaHBZZUR6b19tMXpRVUctd1k5UVFQbV9iYUszaWV4OUlEaFlVd2twOXFrcmtUenZCTUN5eEw5V2FPSi1DeUw4WEg5QTJpQlBkYU1DVTRMcWxTR0JEazVsMWtRRUt4RUxtZUNEbHNEbFB2Rms?oc=5",
-    "title": "Karur Stampede Tragedy, One Year On: From 41 Deaths To Vijay Becoming Tamil Nadu CM",
-    "title_ta": "",
-    "summary": "Karur Stampede Tragedy, One Year On: From 41 Deaths To Vijay Becoming Tamil Nadu CM",
-    "summary_ta": "",
-    "date": "September 26, 2026"
   }
 ]

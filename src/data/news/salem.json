@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep26-001",
+    "id": "sal-sep27-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXgwdDJXWnIxLVVoNnYxMzJjNmR0Si1rbnctVmY1Q0xnWmtFTlcxU3h5bmRHbTNqcFZBOXVaN2dBcEZuSGwwNjhLVjlaQVYxNnZBekJyYTJlWUFFS3RLWWI3VC1uWTRlSndUcUpCYUlIWlhEbjZwRWU5d3NDYlU0eEw4eThINzJ2b2JreXJsVURlbEJrMkZVNk8wT3hYWXB1NlM3QzR5LTBUbkQwZV90V0JxUDN5UXlJLVBzNjdFaEV6RlJCZ3NV0gHOAUFVX3lxTE1OSndoQmZvb0lKZWNCOU4wcWJ4cHdIT1E3LXVwenlWTHhTaElNOHZQNHVxVkV0MF9ra2NJd0tQRzBnWVY4TmVnLWtfNXNaeTV1dWlDNUVsUXJ2dzdpUHFzd29OWEFnQlhnTUxQOHdYaDFxM0ZOMktQbW5SZ2RFOVBsY2tQQjRNc3lmSEV3czlWSklhRnFlM1FiQ25peEFqdzRLd0hFMUtrT1BUVFF5Z190QU12T3prQ3R0eWtCUnYxVGtHT0JuUkZRVG1JWWRB?oc=5",
+    "title": "Over 7,000 candidates absent for Group I exams in Salem region",
+    "title_ta": "",
+    "summary": "Over 7,000 candidates absent for Group I exams in Salem region",
+    "summary_ta": "",
+    "date": "September 27, 2026"
+  },
+  {
+    "id": "sal-sep26-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFh4bWNpOVBmc1phX1N0M1ItZGVobVB4MUowZUgydUswaG1KM0JCSE54UkQyWDREM1hkYU9KZzd0RDc0Rks3VWNfc3NXRklWaWR6YndzUl9VamY0ZXdPZ3NwdDFsbE5nTFpLSHJ5U1pzcFk5YWhScFVyNHNORS1TSC1VUW5KUVJYYzA2MUZxeEVaWmtJcEdaZFctUlJaMFJOcS1UWUNmLTRjTHdlS214S20yTmdtTmNwMlBWRUZWamdUSlFlRHUyVkNXdUFyNkJwWU01bVVoY9IB3gFBVV95cUxOdzBlWWZ3dGtPbko2ZW9OcGdWUzhXc2o1dnY1dnAwUTExT1pyaGxiaEtWZ2lFTDJ2ajBNQnoxdmlvdU93XzBIVXlySUVzc0FvSkRiWGtNSVZ0dXMxVTJYVE4xZDloZVhtZGVDeExqX0twQzJOTGx2aUpEMTRWUXFRUEVSWU1PWDlPRnFjQkpkREZmbUN5bE1TVnkyRkM3Y2pSVnp5d05ncnVYY1pCUGxySE4xNzljZUUtLVY2bllsbDJsVjRHcEQxdFhsWE5JYURXeFllVU5NTzMzX3B5ZGc?oc=5",
     "title": "Price of ammonium sulphate soars over 60% in Salem and Namakkal districts",
