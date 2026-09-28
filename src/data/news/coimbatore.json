@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep27-002",
+    "id": "coi-sep28-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTldZQjVYdmFyeXNkUWdyUFo0U0JaTDBxOVdlcHRJVjdKR1Z3TWVjZk4yZmQ4czd6VVhISE9hcjhVTERXYVFZV1hTQTg1RHdhSWo1VG50OS1MWk1mZEhTd2JZdVpnSUNtLWl3eTY4STF6dm1BNjZaVEJZYS0wQUJ5ZkhoVWdHUHVwRTJheEFQS2hpWVFqTG9LcUNzN0k2eDZva0lkY3lpWjFULWp3Q2lWOG51Rmo0TE8yYU1LSF9ZV2NqQdIBwgFBVV95cUxNTldZQjVYdmFyeXNkUWdyUFo0U0JaTDBxOVdlcHRJVjdKR1Z3TWVjZk4yZmQ4czd6VVhISE9hcjhVTERXYVFZV1hTQTg1RHdhSWo1VG50OS1MWk1mZEhTd2JZdVpnSUNtLWl3eTY4STF6dm1BNjZaVEJZYS0wQUJ5ZkhoVWdHUHVwRTJheEFQS2hpWVFqTG9LcUNzN0k2eDZva0lkY3lpWjFULWp3Q2lWOG51Rmo0TE8yYU1LSF9ZV2NqQQ?oc=5",
+    "title": "TN cop clings to SUV roof for 30 km to stop gutka smugglers in Coimbatore",
+    "title_ta": "",
+    "summary": "TN cop clings to SUV roof for 30 km to stop gutka smugglers in Coimbatore",
+    "summary_ta": "",
+    "date": "September 28, 2026"
+  },
+  {
+    "id": "coi-sep27-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY1JDVFhFRDZfeHZ2b1RYZVpnTy1vTGlVMktHc28xMzh6NkY5ZlZiWU01SnZENUsxNVZ6WnpwNmFXcGF2NEZEcHFxMGlWZGpGRVZBbndFc0hmbUg1dVh4a3lzTWZJQUJsQ05vRFNiYWNGbnBmYTIySzRfcHQtWGxRYVNJUUhxRzZUR2lnM3UwTVlET3JWUzlMR2EtSzRfbG1QQ01GWk5aRTh5dXhUWnZGTkZ2bUF4Q0RwMzYyUWViRlZXQUJGWWE5QmdmTGlmLTZDLUM3NUkxVTFBQ2NsTU9vZUpJdXdyWUVCOUJkT0lBNk1hYmRzWEdCTjhn0gH_AUFVX3lxTE5ubkwxY0Y3NVFKWUJaMWpsLURxUGVFcjc3aUpKZE9PblhXUTVPaDhlRF83ZXlULWlUeVFzS3FRVlA3cFpDNkd1RGxGcDAzVm9SRFhSRUh5LWw5MGQ2ZGtCdkNkdlFFVmpFbW9PdVBwUUNPNlBqUGROTW9rTWVoWFphLW1ZY0NtRTZ3QTl3elNwM01LN3g1cFBjRDREMDh0MU9laWI3QklXcHhFa0I2cDg0ZDdqcHZzaF9JNTE3Y3FrbF9xak44azdTWVZweE9mR2NNb3lZenp1a1dJaGVpMEpNeHRtTE9EcUt6ZmcteHkxS0JkUVc1SlpaY0JQOVVnSQ?oc=5",
     "title": "40-km chase, cop on car roof: How gutkha smugglers were caught in Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "NIA Court sentences 4 to life for 2016 murder of Hindu Munnani leader Sasikumar",
     "summary_ta": "",
     "date": "September 25, 2026"
-  },
-  {
-    "id": "coi-sep24-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQWpmajVoSHpFSGU0VmQ5c3BVSm02REYyYWdSUm94V3JvbC1qSU4yNXBIelZwa3VmcTNiRExNUzJnRkVrSjBITUJSemNoRW1YSTBwNFcxOTB4TWJrbjlXM2JrUW94RWZjbDdvdlRoMTlYMnFmbm5JOEI1bGZZM3ZKZWs4VmlTVy1lUDZKRUZFUTVDVlZQUWRJN0s3bDJLUHhTX0ljbjlheEJacjJXOFYzOUtzaW9TWlRkWWxlMVJrSlVqc1l2YkdQR1kzMUtlN1laX2JjYTBkNEhxU3JBUWVaR3BTdkhaeGPSAe4BQVVfeXFMUHhhcGMtYkFNVEhlY3RvUDdacHpScjhRNGFTZ2dleFFRUnZ6bFBVUndzNUJyNTJqc2ZzaHkwWDFWazZKMlQyU2R0WW5LZlBTcEJ3RGktNUY4M2Y4eEJhM1RKTFp1eHY3c29oMHJRaE9xQnVpbWFwcEhjM0ZoUUZwVC1SZktuSnpEUjJrSy1SdUwwekx5c2VQeE5TcC1tWWotZURWemxjRnV0MklLeDhjRkxQSGdGMGlRQ1hiVkYwSU5YR19vbVJ0dVNjeUM4MGRkcFpyUmVrRnJuWHNxX3NxUmx1VFlFbGxvb3lMZW4yQQ?oc=5",
-    "title": "Veeramani POCSO case: Two senior IPS officers shunted out, placed on compulsory wait",
-    "title_ta": "",
-    "summary": "Veeramani POCSO case: Two senior IPS officers shunted out, placed on compulsory wait",
-    "summary_ta": "",
-    "date": "September 24, 2026"
   }
 ]
