@@ -1,8 +1,32 @@
 [
   {
-    "id": "nam-sep28-001",
+    "id": "nam-sep29-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHhjT1FlOThuYlhlelBhOE8wWTl4SzBsMTJkd0ZwQjN2V0lKNVExV0VFX19xUGhSWGEtU1VmOHZoeThCckZhcU9fZUx5MGx3TjlULTZJd1otRFVlRlZYWXRoQzFSQUF1NG15QXVYOGRVTTVoVThsN3c0VjZoZ3JXRVoyOVNBaVAwTGZBSzFNeDNaVFpPMHJ5UlRldTJENzFyLU1CMkVzUlR1Y2liT1lVUi1aNXJoMHpfMHBXWTFB?oc=5",
+    "title": "Tamil Nadu: Heavy rain likely in Erode, Namakkal, Madurai; evening showers forecast in Chennai",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Heavy rain likely in Erode, Namakkal, Madurai; evening showers forecast in Chennai",
+    "summary_ta": "",
+    "date": "September 29, 2026"
+  },
+  {
+    "id": "nam-sep24-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb01sTHFDYXVHaGI0OEJXWFcwTWUwN3hscnZGUm5ydlp1Y3NsQ1dNRTlOMG4xV2E5TjVLU0JWTnpFUV9qaHZGaXM0UjFzMmZ1NTlzSzB4UHRVNlBzRk5fd1pYSUFEeklNbi1lRUlrQS1xZ0tiRGVCdUFMbGJVbmRWTWhFMlVPTUM4cnA1Tk50ZmV2TzZlN0I1LS00eEFmc3VLbXRBSEtB0gGzAUFVX3lxTFBiSzhpNUk1ajNPZEdGSFRFUXNOYVJQYTRYUDJRRF93YnJmLXJDTHZ4d3BVLXpRNkxZRFdYSEFPQmVoRmdndmIxQmZpWloxNC03eEtVNUNPODNrRVh5eXZ3S0JUTVZJWGkyOHpqMXE4VjQycWxjQmlJQUFnXy1hSzVNSjFrRW1XaWVYelpVQ09KX0M5WEx3MHJVQ1pMZmdLLWRJc3lKLWxPSWVxY1ZxeHBOXzI0?oc=5",
+    "title": "Temple horse who served for 23 years dies, Namakkal villagers pay last respects",
+    "title_ta": "",
+    "summary": "Temple horse who served for 23 years dies, Namakkal villagers pay last respects",
+    "summary_ta": "",
+    "date": "September 24, 2026"
+  },
+  {
+    "id": "nam-sep28-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd0ZSMXByN2FJVHFaVkxjZTdZZXJlS2Q2cWdzNEZfT2JjQmtielN3WlNZVUJqVmFyMXhlM0NONF8wZFFDcjc1clNxQmdTYURaYWlIZ3hlSEh6dGRmXzNYTmE4U2F6ckk0UnNJWmxmZnpsUm1RZDZmR0pBMEROcFFKVG15WFhsaFFELU9fZ1UwMzBsMGdiZDlSTWFBb3k3OG9NdDhQb3J2dVhIZ0thLXZteVd6ZlItSGdBemNnZURxbG1ONV9xdU9wNWFkOGZjYWVnUExzbm84Z9IB1wFBVV95cUxOd0ZSMXByN2FJVHFaVkxjZTdZZXJlS2Q2cWdzNEZfT2JjQmtielN3WlNZVUJqVmFyMXhlM0NONF8wZFFDcjc1clNxQmdTYURaYWlIZ3hlSEh6dGRmXzNYTmE4U2F6ckk0UnNJWmxmZnpsUm1RZDZmR0pBMEROcFFKVG15WFhsaFFELU9fZ1UwMzBsMGdiZDlSTWFBb3k3OG9NdDhQb3J2dVhIZ0thLXZteVd6ZlItSGdBemNnZURxbG1ONV9xdU9wNWFkOGZjYWVnUExzbm84Zw?oc=5",
     "title": "Namakkal Corporation launches campaign to move towards zero waste",
@@ -10,17 +34,5 @@
     "summary": "Namakkal Corporation launches campaign to move towards zero waste",
     "summary_ta": "",
     "date": "September 28, 2026"
-  },
-  {
-    "id": "nam-sep22-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW5FNTlIYUJLUFBqSE1MUW9pcW1FYzBfeUotdDE2c2x0VEZSVTdsTW5mV0F0aHlfWTJXYWhielZ4ZXRySlUxTEJpYVJSYk9JNE9vOFpuYlJYR2VjTTdMczBHWWF6VDRlelJyajhWSno3cDl0Z1lwcXcwVHJNQzBGNmZ5UDNick5kSTRnNTJ4UnhQZ0laSkHSAZYBQVVfeXFMUFVuRTU5SGFCS1BQakhNTFFvaXFtRWMwX3lKLXQxNnNsdFRGUlU3bE1uZldBdGh5X1kyV2FoYnpWeGV0ckpVMUxCaWFSUmJPSTRPbzhabmJSWEdlY003THMwR1lhelQ0ZXpScmo4Vkp6N3A5dGdZcHF3MFRyTUMwRjZmeVAzYnJOZEk0ZzUyeFJ4UGdJWkpB?oc=5",
-    "title": "Quack held after Namakkal boy dies of dengue",
-    "title_ta": "",
-    "summary": "Quack held after Namakkal boy dies of dengue",
-    "summary_ta": "",
-    "date": "September 22, 2026"
   }
 ]
