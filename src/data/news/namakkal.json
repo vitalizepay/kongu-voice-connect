@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-sep29-001",
+    "id": "nam-sep29-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjlRY3htWUNMSTlUbE1BbHVLelJOMmtuYXhmemtLTkRXYXQwUlo5UVVkdTk2UjZabU9ncTRNVG83TkhVaG5NRFFnWjJmNkhlSUg4TFQ2aHpEY2hQQmI2c1hRcm9NYjlxaFdUOW51NlRGT0t3MV9Pejc2UW56VUQydnNmQk92YW0xVWo4NkhWMENKUjlhTGhTcmhmRTFrMFA5RVpqWXk3b0hMN0pWTGV4TjBPd2FCU0FWRHp3dWhkdDZVcDdkRkFQN9IBzwFBVV95cUxOYkt4OUYxUzlTSGN0SDY3SFh6WW1VQ0FyWHc4cWpnN3N4YkhDckhGUnYzWkl6Z3hvZGRuTVNYNGF2dDV0MEpteWVYNU85OGZzRVI3dXpPa1Jtdl84S2FOVDRxdnZvbkF0cU5vVDFuLXduWTU3Q2F3dXlOQXY3SGVGcHloNld3V2xWTmluTlZSSXdSTE5JVEhpeHpyQ0NCcHFfUFRvVEJjWkY1V2JzMWtqZXlIc2NCeDEtWTJiTEtBUHVpS3A3ODA0Q0YtOWRYMGc?oc=5",
+    "title": "Namakkal Collector warns of action against overloading trucks",
+    "title_ta": "",
+    "summary": "Namakkal Collector warns of action against overloading trucks",
+    "summary_ta": "",
+    "date": "September 29, 2026"
+  },
+  {
+    "id": "nam-sep29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHhjT1FlOThuYlhlelBhOE8wWTl4SzBsMTJkd0ZwQjN2V0lKNVExV0VFX19xUGhSWGEtU1VmOHZoeThCckZhcU9fZUx5MGx3TjlULTZJd1otRFVlRlZYWXRoQzFSQUF1NG15QXVYOGRVTTVoVThsN3c0VjZoZ3JXRVoyOVNBaVAwTGZBSzFNeDNaVFpPMHJ5UlRldTJENzFyLU1CMkVzUlR1Y2liT1lVUi1aNXJoMHpfMHBXWTFB?oc=5",
     "title": "Tamil Nadu: Heavy rain likely in Erode, Namakkal, Madurai; evening showers forecast in Chennai",

@@ -1,8 +1,20 @@
 [
   {
-    "id": "nil-sep29-001",
+    "id": "nil-sep29-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1VWN2Q3SmxlZEkxazMwSnB5LUgwOVdaczBSenhWQnNpQ2dCVkRCV0pNN1VfN0NzNWdYcExqVnI5U0NjYXlaX09RbUk5amR0NW9tQTNPNnl2Zm1iNVNERTFNOGk4V2szNGJ2bzVvblJYWmtEQVQyZ0VaNHN2Z2hUVlpNWUR2VHRLQTQzV19qY2ZLSVRUa1ZjN05fbFU3QlJEMTBJQmc3aUNvSFhTM2VWTEJsSdIBuAFBVV95cUxQaEhCX1RWd1Qyb3U0ajJ0YzBzOF9GQl9WaV9Od3RZUUpIdDM2MGFUQmhwempKZWNzNEdLMG5ZaFlaa09lX1ZJYVNhSkJOS0M2dXBYZ3pnZHZIb3J6WFVXLVRDOWVYV3Fyd3lEVXZEZTR5MWZpYjRhVThyYXFSaHpnbmcyZ0MzN2NLX2stWTlvUnlaQ3FWUzdaNm1UUXRzbW9aNFMzUUlfRDdQY2RLRjdFV3dWdmRIMHpz?oc=5",
+    "title": "Autumn Rains, Blooms Charm Tourists in Nilgiris",
+    "title_ta": "",
+    "summary": "Autumn Rains, Blooms Charm Tourists in Nilgiris",
+    "summary_ta": "",
+    "date": "September 29, 2026"
+  },
+  {
+    "id": "nil-sep29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjFjXy1Mam4wOEdaZzVydzg5dWxDeE9Hc0VLMEtrTTNnWkpSejBpYko0N3dKbjRXSjFCS0ZFS3VnVTVHRWVOM3FZYWVXbUpTMHktVFJqdHI0N3RIZDFKSGJ2bURwOS1RS3NqNllPZGg2cnpEMms2VkpxbVNQSTJXaDltaWRVWDRWenFUdWQyY0FIeERHekxITWZnWDNWRGJLTUw1d0pEOUFyMVFxbVI3dGhuT2JNeWpPZjlwMm1YSXFndEdOWWtR0gHMAUFVX3lxTFBCRFVLNDlnODE1aGkyWHpBTDl5dDRRVXpOMTREOEo4eGlYWEhOZkdwTXlIalhQdzBiSmE5UURVbUlqMzhNMW1xYVIxbW1TWXpnQkF1NjdyUmZqSkd0aTJsU29mSDBmMmR2aDNZOEZOa3Fhb05EaDd0Mm11Y3FZZ01RSm9yWU41ZkdmY2d3d2FoTUtsWTBCTjZ4MndHY05iQi1kVVd1OVEtdE1iWm8yWjd2WG1jbjNUR2RmYWhRYkpFZ3ZpN192aWdBWlZIdg?oc=5",
     "title": "Thaimaman Thanga Mothiram To Be Given to 615 Nilgiris Infants",
