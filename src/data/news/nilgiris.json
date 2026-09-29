@@ -1,8 +1,20 @@
 [
   {
-    "id": "nil-sep29-002",
+    "id": "nil-sep29-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGV5MGozbDRNZ285NGFnTWt1SUtRQk11czdIa3JHLWx3dkpSTjh2Rk5ha0paMkdjZmgzeXFZV2dqOWdTWUdxMEloNW9qUmRaWUN2cjVYS09oVjVTRWUzcm83OEdaM21uaVZ6eGxlSU1UNExIRUlWQ21LZW9IZ3ZkMUN2NVNJemVScjRNT1NIRHpaMzNBT0tkNDZRU0NuRDJuRmNpUEJHaVpKUmJKWHhTMXE3Y9IBuAFBVV95cUxPQ1UxOTliZ3BqX0ZCWUJKd0l6OGRtNFFPNG9HeVZuNTF2R2ZHbVpUWDhYbzBjZGUza05xT3p4V3gyWF9aMWdaREdTY3I1ZjZ1SUh3U2NMN0w3RDYySmZ1R0MxVV9xaVVtRWVCbGp4ak5zYzlzMWxaSlJORGU3bmtnSUExWGcwc3JYbmxReGI4WDlKd0FpQmJ6OWMtRWhoX19tcUNUWnpTNDR4XzNuS3lsbDBVNkRtakZF?oc=5",
+    "title": "Ooty: Sizzling September In Cool Nilgiris Hills",
+    "title_ta": "",
+    "summary": "Ooty: Sizzling September In Cool Nilgiris Hills",
+    "summary_ta": "",
+    "date": "September 29, 2026"
+  },
+  {
+    "id": "nil-sep29-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1VWN2Q3SmxlZEkxazMwSnB5LUgwOVdaczBSenhWQnNpQ2dCVkRCV0pNN1VfN0NzNWdYcExqVnI5U0NjYXlaX09RbUk5amR0NW9tQTNPNnl2Zm1iNVNERTFNOGk4V2szNGJ2bzVvblJYWmtEQVQyZ0VaNHN2Z2hUVlpNWUR2VHRLQTQzV19qY2ZLSVRUa1ZjN05fbFU3QlJEMTBJQmc3aUNvSFhTM2VWTEJsSdIBuAFBVV95cUxQaEhCX1RWd1Qyb3U0ajJ0YzBzOF9GQl9WaV9Od3RZUUpIdDM2MGFUQmhwempKZWNzNEdLMG5ZaFlaa09lX1ZJYVNhSkJOS0M2dXBYZ3pnZHZIb3J6WFVXLVRDOWVYV3Fyd3lEVXZEZTR5MWZpYjRhVThyYXFSaHpnbmcyZ0MzN2NLX2stWTlvUnlaQ3FWUzdaNm1UUXRzbW9aNFMzUUlfRDdQY2RLRjdFV3dWdmRIMHpz?oc=5",
     "title": "Autumn Rains, Blooms Charm Tourists in Nilgiris",
