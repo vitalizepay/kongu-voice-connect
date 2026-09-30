@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-sep29-001",
+    "id": "coi-sep30-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtQ3dEVi1jWlpXakpnZ3hGSWJHUy10SXhRNmdPS3pQeGsxc1V2LVpVeTFrdHZvRzdnZlZsNGRLcHBvaDl0Qk1hV2g2RXpOZzNVRFE?oc=5",
+    "title": "Tamil Nadu is witnessing a worrying dengue surge, with 17,651 cases and nine deaths recorded till Se",
+    "title_ta": "",
+    "summary": "Tamil Nadu is witnessing a worrying dengue surge, with 17,651 cases and nine deaths recorded till Se",
+    "summary_ta": "",
+    "date": "September 30, 2026"
+  },
+  {
+    "id": "coi-sep29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNEt1YzBSV0JMTFp2bWxXZTMyYjlDQVc1czFuX21UZWFLUGVFZ0RtakNKdFFhbkdlbGhOaGNFdXhxbjNpSkg3cmZzOXFmamxnT281TTVOaUZ1X3VDRXhPQUV2M0dEam1MYmlUWVhpbF80clhnQ2RITUZqM0M3RWVCMWduRTdiX01vNFBuN2xJcnJWUEhlRGpJcmpLVUkycG55RjlLUmZxR2txTjhLYTk3WnQtczhjSFRjOS1SaTNQRmNlbVIxeTRPeGM3M25UWGxuM1FxY3B1dHo0UdIB3wFBVV95cUxOaUpjN1dzMUFNMFFzZHZyRzRpWWZEYkwwZEpUcWZ1YXNIbko1cTB5Umt2Sng5U3o5VEVZLXU1TlY4aWg0NmR2dkdma3c1eTVHR0pCeldPb2VETk50SXZrMUhPX3FjZzZ1UGlGdno0UmN6RTlSdXkyUW9rRzBVOHlQcXRMN0FpcFpLNDhibG11WXhpelFlX3ZTdzBEbW1SNmt3ek16TGd4S2l4enBVRThOMjRSOFlOdHJSYUVra1BnbVdaaVQtXzFrTW90X3F1OUVtbE1heTZVaHd2MmNqc3pv?oc=5",
     "title": "DMK, AIADMK responsible for byelections in Tamil Nadu: Durai Vaiko",
@@ -130,17 +142,5 @@
     "summary": "Veeramani Pocso case: Ex-Chennai commissioner Arun, Coimbatore commissioner put on compulsory wait",
     "summary_ta": "",
     "date": "September 25, 2026"
-  },
-  {
-    "id": "coi-sep26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeWJjOE1BeUhfVFlwNkVsNzhfdDlxaWRReVNNclFSc3RmT1NuWTBpZ1ZkOFRYbTRSdWlRWlY4SVF0UjNDX2s0YTBHVm13WmZHV2RCSU9RVXpnRnlQYzluTVZtNWlCY29XaFNyek1JbzJfQXZZQzBkUEJRNEVNckt6d0xGVW9oRXpaU0t5b3I3cUxHQUtZaG5tUWtzSHFkSTh2dkJ1X0I2NlBVS3FRaHdpQl9vUmFvSGpzVlZsTlVjcTUxanhOcmdvRTF5X2RmT2JsMTBieUdHbmxoRUQwQUJCYVJTVjZ3SDUyakEtYkl1Q2tCSFlrU3VBSXZub2JPRXYzRmEzcHBDRdIBjAJBVV95cUxPQkI1N0E4STlsb081VkR3eDluamVORXF4U3RBU1J1V0VGME9hZ2o5NGg3cXpIZnU2T0ZiMVBjTUcxcnpCVUFiaWFSelJfUU5aQ090SkxtVXkxRURTQ0V0SHNWd2pEQXFIcEI0Y2drRnhMX1ZQaVdRRHRhM3dBT2pJQzdCN2tGSDNrSW84NUFGbmZaSE9sckNiaENuaV9oa3Zkc0lZOGlpbFZjZURsQnBienhCblR2cEQ1cnZMMXk4bHlUQVlheFY1U1plSjd3cnUyUC1jX3FLVVJ4c3ZnZEJyN0FyM0RmaVJldG1zT2I0bXhtQWNROWNFR2liUGZ0OWxweWlxcVI5UVBVemZV?oc=5",
-    "title": "TVK office-bearers booked for threatening Tamil Nadu doctors over leopard attack victim's treatment",
-    "title_ta": "",
-    "summary": "TVK office-bearers booked for threatening Tamil Nadu doctors over leopard attack victim's treatment",
-    "summary_ta": "",
-    "date": "September 26, 2026"
   }
 ]
