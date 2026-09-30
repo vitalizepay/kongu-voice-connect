@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep27-001",
+    "id": "kar-sep27-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkZKV3FTSTdwaFl2UFd2eU16elVvRlNhQkRGTzRTNWpFSHJZNDZVcEd0ZHFfMzM1QXJZYmJyc01zd2JZN3g5U202R0RPZS1OWllFX3Jlbm9JQXptRHpiX3NhNFVJRXlidTdaR3VoSnFmLVJ5R295b3ZVODFNYzhWX3JhZmZWcFg4Z2I4blRCV2pHUTJ0UENyRHNEb0RMWlNITEJlbzFzcFlGb25fNHFRSFhrelVVTUdlczR5bjlqZjlaRWg1YmF2SmQtd1B1RjFwQlBDOFN30gHWAUFVX3lxTE5SRkpXcVNJN3BoWXZQV3Z5TXp6VW9GU2FCREZPNFM1akVIclk0NlVwR3RkcV8zMzVBclliYnJzTXN3Ylk3eDlTbTZHRE9lLU5aWUVfcmVub0lBem1EemJfc2E0VUlFeWJ1N1pHdWhKcWYtUnlHb3lvdlU4MU1jOFZfcmFmZlZwWDhnYjhuVEJXakdRMnRQQ3JEc0RvRExaU0hMQmVvMXNwWUZvbl80cVFIWGt6VVVNR2VzNHluOWpmOVpFaDViYXZKZC13UHVGMXBCUEM4U3c?oc=5",
+    "title": "CM Vijay Pays Tribute to Karur Stampede Victims on First Anniversary",
+    "title_ta": "",
+    "summary": "CM Vijay Pays Tribute to Karur Stampede Victims on First Anniversary",
+    "summary_ta": "",
+    "date": "September 27, 2026"
+  },
+  {
+    "id": "kar-sep27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGktR2JhbWtYWEZyVWhIOUpibnBrVXBJZ2VpbWVwNWVVdURYZlF4TnN4NWxUamRFUlJBdHgxbTd5ZDR6eG1UcWRpVGdxaWtoWWNBTm5CVTNBSVB0U096WHp1OXZ6NGhUN2tNOFFfek8tNWN0VVJVdWtUSDlDZXhkUmtiQVczZjk0dUc4dm9wYURuUk9fZWhUNXUtM2Z5aEVLVkZZOGxyWVBjdnZHS1JnaEFPMkNGdmNfZUp2Yjk5US1TZW5XRmlMN0NKUjlMY0lYd2Faa3BWcTR3OFB0Uks3OHpYdmpMMUVEU20xOdIB8wFBVV95cUxQQUFGck1hM1Jwc2cyMHUwZTFyTE5CTFVCekhfb2RZWWZqM3NhWGpBZVlUdG5XS09PNUZQZXhnRE9pZEpCWlhHeGdQeGZTeFJHdmM3WktINEhNQTVlaG9fa0JVcUtfVVJyY1ZZQTE3OEdLNVd5eTluTlg2eVc1bklzSHBTdy1QZmxiOGpwek9nWXlrT0NKaVNSU21wNUNMYTIwSWVtYkZLS3lCM0pFd3FNamJIQmRlVHRjbUhKMTRDc1RzUE05SURHQmUyUDhwMXloLUVDWDNRNW5rYTd4d1hreHpsQ2hpR0twekpaOXZQTWN3UmM?oc=5",
     "title": "A year after Karur stampede at TVK rally, scars remain and justice still elusive",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu: Families, local residents pay tribute to 41 victims on first anniversary of Karur stampe",
     "title_ta": "",
     "summary": "Tamil Nadu: Families, local residents pay tribute to 41 victims on first anniversary of Karur stampe",
-    "summary_ta": "",
-    "date": "September 27, 2026"
-  },
-  {
-    "id": "kar-sep27-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmprcUxwcXNwakVoVF9BSExGM1F4Q1BEQjdSS2tGYldNRDJzcTFueTNya0k0bE1WcUdFbDZwNG5nNllKdzl2NnNrc0ZCNkhfdEVZeWhkdml4OTBMTGZlUTN0V1lXdE1SdnY0di1kUHUtYVExLU45X2JjR1R6ckJmc2V2cV9XVDlVSFpRVXctdk5Jb1RGWmhxbWVxZ2hsWWgxMUE?oc=5",
-    "title": "Tamil Nadu: Families Pay Tribute to 41 Karur Stampede Victims",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Families Pay Tribute to 41 Karur Stampede Victims",
     "summary_ta": "",
     "date": "September 27, 2026"
   }
