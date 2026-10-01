@@ -1,8 +1,32 @@
 [
   {
-    "id": "nam-sep30-001",
+    "id": "nam-oct1-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWtYYmthRGtqTWlnU3Z3NVNDbXg3YkdkTWV5R2RabnN3TkszTnNVUnRyMGRrRlUwVnZuNklhSU9taEZfbmkxaW16N3lRX0N4eGJPc3NmM2ozMzVncWhjLVl4M29ySHFuWVlRbjQ5MzV0Vkw2ZENGdkFxVDkxaE5pR2FpWmhMdTloaU1sRldCdElvdTM3Zk1ldkhabGZaajc0d3luWlNGNTNNOFZ4WlJkZURzUENlM3NlMzFQRV9OQ2s1LUJCTFFTUnY1TFlDQ3J4dUs1NGItLTdiaDTSAdsBQVVfeXFMTi1rWGJrYURrak1pZ1N2dzVTQ214N2JHZE1leUdkWm5zd05LM05zVVJ0cjBka0ZVMFZ2bjZJYUlPbWhGX25pMWltejd5UV9DeHhiT3NzZjNqMzM1Z3FoYy1ZeDNvckhxbllZUW40OTM1dFZMNmRDRnZBcVQ5MWhOaUdhaVpoTHU5aGlNbEZXQnRJb3UzN2ZNZXZIWmxmWmo3NHd5blpTRjUzTThWeFpSZGVEc1BDZTNzZTMxUEVfTkNrNS1CQkxRU1J2NUxZQ0NyeHVLNTRiLS03Ymg0?oc=5",
+    "title": "Tamil Nadu: Three killed in blast at illegal cracker unit near Namakkal",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Three killed in blast at illegal cracker unit near Namakkal",
+    "summary_ta": "",
+    "date": "October 1, 2026"
+  },
+  {
+    "id": "nam-oct1-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXktcWpKNWM2c1pKdmYyU3VQOGh0cTZHTFd1N2E5clBFV0RjOEZHWThxMWI0YTVRQjFzR013TjkzdWFrQ2E4ekpQd3dsZHlJM1JkQmx2clo1cjZZakJZOFcza0ZmNURBZ1FWalZQd1A2NjVxa2dqZzFneTZjaGNmbmtwY1hCbHRiMk1EZW80aGI0VngzTFFPOUJR0gGaAUFVX3lxTE9NeS1xako1YzZzWkp2ZjJTdVA4aHRxNkdMV3U3YTlyUEVXRGM4RkdZOHExYjRhNVFCMXNHTXdOOTN1YWtDYTh6SlB3d2xkeUkzUmRCbHZyWjVyNllqQlk4VzNrRmY1REFnUVZqVlB3UDY2NXFrZ2pnMWd5NmNoY2Zua3BjWEJsdGIyTURlbzRoYjRWeDNMUU85QlE?oc=5",
+    "title": "Massive fireworks blast kills three in Namakkal",
+    "title_ta": "",
+    "summary": "Massive fireworks blast kills three in Namakkal",
+    "summary_ta": "",
+    "date": "October 1, 2026"
+  },
+  {
+    "id": "nam-sep30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFYxUmhtMXo2SlNuaVNNNS01cHZCZ3dWNTltbXl0UjlnRGlCWnNWSUYxY1FmZnBaaXFfYmJHeXg5dFF0V2dxRWxrNTI3SkZCdTdXOEFpSFU3MENDOE1Zem9RZy1yOUNycHZJUUFMUmFHZ2J0VXlNNC1PY3VCd3Q5NGJ6Y2VMR3RFT0I2dzhVcjF2OS1tVklWWWwwWmRDMjUzbVJwRUZyYUdKOERLRkkwWVozTU9tdWhyQktFdWlrbmpzZDBabVJGci1SNEpmSnpuZWpFUjBRbnFGN1VvRXIw0gHmAUFVX3lxTE82eHJOOEdoWXQ3NTBZRTBmOXNTLVVITUlSTWlkalpMOXNfYkpuWmk3T1A3dm5NTXhPb3FETVNHMjNjLXdqejkwRWNhcmExbXlXUHRZY1czb3ZTNks3bXNkMmlBdGp0VXRpZkxGQ3pvdmxxdmp5UUg0MTBOejlqVExjZ2U3X1ZrbDV2OG1IYmJEWVZ1bDBwaVNMNllIc2FBb01yWXI3cklwbkItb1FCRHdLSm8yX25XUjQyT09ISjRJd2VHQzdqUmkwaFdfM3RQdHhSZ2dDcnY3NWJ3enBOckRqb2k5SWZB?oc=5",
     "title": "Drug de-addiction awareness programme for conservancy workers held in Namakkal",
@@ -34,18 +58,6 @@
     "summary": "Tamil Nadu: Heavy rain likely in Erode, Namakkal, Madurai; evening showers forecast in Chennai",
     "summary_ta": "",
     "date": "September 29, 2026"
-  },
-  {
-    "id": "nam-sep24-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb01sTHFDYXVHaGI0OEJXWFcwTWUwN3hscnZGUm5ydlp1Y3NsQ1dNRTlOMG4xV2E5TjVLU0JWTnpFUV9qaHZGaXM0UjFzMmZ1NTlzSzB4UHRVNlBzRk5fd1pYSUFEeklNbi1lRUlrQS1xZ0tiRGVCdUFMbGJVbmRWTWhFMlVPTUM4cnA1Tk50ZmV2TzZlN0I1LS00eEFmc3VLbXRBSEtB0gGzAUFVX3lxTFBiSzhpNUk1ajNPZEdGSFRFUXNOYVJQYTRYUDJRRF93YnJmLXJDTHZ4d3BVLXpRNkxZRFdYSEFPQmVoRmdndmIxQmZpWloxNC03eEtVNUNPODNrRVh5eXZ3S0JUTVZJWGkyOHpqMXE4VjQycWxjQmlJQUFnXy1hSzVNSjFrRW1XaWVYelpVQ09KX0M5WEx3MHJVQ1pMZmdLLWRJc3lKLWxPSWVxY1ZxeHBOXzI0?oc=5",
-    "title": "Temple horse who served for 23 years dies, Namakkal villagers pay last respects",
-    "title_ta": "",
-    "summary": "Temple horse who served for 23 years dies, Namakkal villagers pay last respects",
-    "summary_ta": "",
-    "date": "September 24, 2026"
   },
   {
     "id": "nam-sep28-001",
