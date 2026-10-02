@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-oct2-003",
+    "id": "coi-oct2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0M2N3VTY0JLaEZNdm0tY2hBWXNJX3NVUndTcDFpd193TkZfUjI0V2VrbUdKMS1IWU13V0I3c3pJaWV5TUw0YjZ3cTMzWUJXUE1fUF9UMjhKNk5DU3ZJczN5SzVPTERhV2tJM08zUXBRUjBQVTFiRmV1dUdIV0l6TjZ0VG5YaDY5TDlQby1Mb2hWZ1Nyc1FNN1ZMNDJqYXdYcEFwTmlvMUdiUjNEVzhiYlJjclpBdXZMSWpZQ0g0U0ZwU3J0ZXNlWG9JQjVKZGtLRjdGSjh5cnlzb3p5VVHSAeMBQVVfeXFMT2prcnQ5WWdDQXYyUmRDS1I0ZWdjeTJfR3V6VkwzM1k2MEhzYVBWV2pYdS1RcThUZ1o5THpULV9aYzllbHNpRGZvUWdNbkNMaDdQYUlNV3FocEJzWkZUakdRUlphcDhDUk5Db1Nsd0pZamMyV2UyQ0FlRVhYbXBvcUFsOUFTaGt0aVZONndhWmE4TXc3OU5raEc1N0hERzFrQksyclFqMWRLV2F5cTZVRlBSMmhhQmd4QlFBQkFiQ1dWQ2tSUmZpQkFEM19SeTRlLTNTNDN5SWVVREtxbEF3UHhQZVU?oc=5",
+    "title": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
+    "title_ta": "",
+    "summary": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
+    "summary_ta": "",
+    "date": "October 2, 2026"
+  },
+  {
+    "id": "coi-sep27-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXdIa0lLOEFGOEhQZ2NhT2swRm5ZRkFEa3BIY3k0RHBiRXdJeU1tZUdxOUdxdlR3LWtEQ21FZFBrcWNuaUR6dlNCXzVxUVNvOFg3VEpzR0YwcnVKanZiaDU2SHRlT0FRQm9PZU12eFBVS2MtYkZuUU1LTF8tQkx3YkJfdHRBUlVMRXZENTRQak5jYmVfTVFTRnJBa21PdmVaUWF1UU9saHZPMjlIQndKUU5kQ281OTVHNUFTVUh3VWktSVR5N3otclp5ci0xVUFvMU1R0gHbAUFVX3lxTE80NGgxMldRcGktMmdHUTNhRUlVR3U4UHEwbHdTU2hCRVctN2g4eWZhclpoVkRqcDR0NjFFRFBDaGhmSWNxR1VMc1VMVUlrQXc2WWN3SlFFUlNrb0p1QWc5Z0xPWk9qdENZYWdId05zcVl2cUdfaEd4VS1KNW1HSTd6dnU5aWhTM0lKU3NsbGZQVXBzcDVCdXp4R0tpeWJndzlXaklwQkZObnNSdXJLQVN2M2MzREtHVGtxbFpzWUtxazFhc09YQnhkVUdyZW1Ud1cwVDVycUVxbjNSZw?oc=5",
+    "title": "On Camera, Cop Climbs Car Roof, Chases Smugglers For 40 km In Tamil Nadu",
+    "title_ta": "",
+    "summary": "On Camera, Cop Climbs Car Roof, Chases Smugglers For 40 km In Tamil Nadu",
+    "summary_ta": "",
+    "date": "September 27, 2026"
+  },
+  {
+    "id": "coi-oct2-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2FPX2M3dWstVUJxUzdmd3dpS3BiZ1lJYUFvbzlmcm9Na2lTamltdzdtYzJkdVVIMzVNR2U0TS1iRThtR2hzQ3BOM19SWjcwdGd1b1VRc3JVcGJqamJaNS1weXROeE40bXFjUUxRMXlXaU9jelUxX1pqTm1SaFFwdmdtV25PSWdaem5ucjBnQldUQ0MycEU3MTRUR0ZUeGw0TTh4R1FkRTlIRVZy?oc=5",
     "title": "Ducati enters the Coimbatore market with an official Service-Only Workshop",
@@ -118,29 +142,5 @@
     "summary": "TN cop clings to SUV roof for 30 km to stop gutka smugglers in Coimbatore",
     "summary_ta": "",
     "date": "September 28, 2026"
-  },
-  {
-    "id": "coi-sep27-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY1JDVFhFRDZfeHZ2b1RYZVpnTy1vTGlVMktHc28xMzh6NkY5ZlZiWU01SnZENUsxNVZ6WnpwNmFXcGF2NEZEcHFxMGlWZGpGRVZBbndFc0hmbUg1dVh4a3lzTWZJQUJsQ05vRFNiYWNGbnBmYTIySzRfcHQtWGxRYVNJUUhxRzZUR2lnM3UwTVlET3JWUzlMR2EtSzRfbG1QQ01GWk5aRTh5dXhUWnZGTkZ2bUF4Q0RwMzYyUWViRlZXQUJGWWE5QmdmTGlmLTZDLUM3NUkxVTFBQ2NsTU9vZUpJdXdyWUVCOUJkT0lBNk1hYmRzWEdCTjhn0gH_AUFVX3lxTE5ubkwxY0Y3NVFKWUJaMWpsLURxUGVFcjc3aUpKZE9PblhXUTVPaDhlRF83ZXlULWlUeVFzS3FRVlA3cFpDNkd1RGxGcDAzVm9SRFhSRUh5LWw5MGQ2ZGtCdkNkdlFFVmpFbW9PdVBwUUNPNlBqUGROTW9rTWVoWFphLW1ZY0NtRTZ3QTl3elNwM01LN3g1cFBjRDREMDh0MU9laWI3QklXcHhFa0I2cDg0ZDdqcHZzaF9JNTE3Y3FrbF9xak44azdTWVZweE9mR2NNb3lZenp1a1dJaGVpMEpNeHRtTE9EcUt6ZmcteHkxS0JkUVc1SlpaY0JQOVVnSQ?oc=5",
-    "title": "40-km chase, cop on car roof: How gutkha smugglers were caught in Tamil Nadu",
-    "title_ta": "",
-    "summary": "40-km chase, cop on car roof: How gutkha smugglers were caught in Tamil Nadu",
-    "summary_ta": "",
-    "date": "September 27, 2026"
-  },
-  {
-    "id": "coi-sep27-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRzRNaERqand4bnVKLTVIalhKTndYY1pQOVE1alJIa1JWM1JEQmU1SkR5QzFOZ0ZnNGo0dGZ4SGV5QmpDejZzeGE2Y0MyQ1pXUWZBSUpZcVBPS1d2b3haQ29wRVdFV1ZiV18weFJDTHQtRm9aQzhDTWQ0ZmMxbjgzTW5oN3Fmd3pSWTdZ?oc=5",
-    "title": "Ansell inaugurates new manufacturing facility in Coimbatore",
-    "title_ta": "",
-    "summary": "Ansell inaugurates new manufacturing facility in Coimbatore",
-    "summary_ta": "",
-    "date": "September 27, 2026"
   }
 ]

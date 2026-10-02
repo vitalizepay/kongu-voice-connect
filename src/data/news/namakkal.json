@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-oct1-001",
+    "id": "nam-sep30-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWkyTVlTbnFfR1RVdHJGclp2d3pTekJucWVsbF90eHA3MXF3RDJyek84RVE5My04ZW5ncWtfQlk2ZkszMUctcDBIT2NZa1pOa0FRa3NYT2pVSGlmdW9lRE9IQVR6cnh5eXJPWm1VWXVlSFBnUzZjd1JjdnhTWDNzRFB4bThudkdYaEFEZDZ0Wm9IQzRuNFJWZ3VYT2M3T01hdGNtVEphME41ZG95RS1LV0VON2xkMlZoTV9wQ2N1czZ4Y29LcVNzMUNNNG5zaTM3eGppNlFYZ2FTX2JDVmFCVm5ieWhsM19OYzJpMUZYdFFVQ2Q3?oc=5",
+    "title": "Three die as building collapses in country cracker blast near Namakkal in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Three die as building collapses in country cracker blast near Namakkal in Tamil Nadu",
+    "summary_ta": "",
+    "date": "September 30, 2026"
+  },
+  {
+    "id": "nam-oct1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclI4cU5pM0hjel9MWERhNE00aU5zejFBV3NIU0YwRTcwYktWbl9HRDlOcnZsdlVEekQ2UXd4UzZfQTN6dEtudU56WlRRNkNsUkZxdWcxeWJUbWhoNXNpanRWdGFpc3hFU1VjU0htTHJOSGhObXNXd1ExeWxGdzFRc21QcEJ2UGJLR1d2TjJHSk50STVKdXVkSk1qd2ZybmVLam1aMzIyZlZfcGZJYWJvaHBWa0txLUViZGQ3dnZ0b1pOZVB3a0ZqbHBKZERlZ1nSAc8BQVVfeXFMT3JSOHFOaTNIY3pfTFhEYTRNNGlOc3oxQVdzSFNGMEU3MGJLVm5fR0Q5TnJ2bHZVRHpENlF3eFM2X0EzenRLbnVOelpUUTZDbFJGcXVnMXliVG1oaDVzaWp0VnRhaXN4RVNVY1NIbUxyTkhoTm1zV3dRMXlsRncxUXNtUHBCdlBiS0dXdk4yR0pOdEk1SnV1ZEpNandmcm5lS2ptWjMyMmZWX3BmSWFib2hwVmtLcS1FYmRkN3Z2dG9aTmVQd2tGamxwSmREZWdZ?oc=5",
     "title": "Three die in country-made firecracker explosion in Namakkal",

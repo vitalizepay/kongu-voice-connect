@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-sep29-001",
+    "id": "ero-oct2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNelcyREw4bmhiN0wzclFwTld2Wm0xVVpDR3BxX3RHb0pPOV9RYW1DRDNrQ1AtTThISVctX1NNRWJ2Z0x1d2tRY2VCTnBWcGRmWEszd3JnLTlEdkx3akF3NXdzVlZBWTBWelN4OEVYdXppdUJJWkV1MGxsWnNWdGxGM2FJcHZQcFhUV0YwV015bzR1M1RXUDI0VmZTaURpYzBVTDE4UDJqcExLaDhIdnU4bW5QVW5yaThEUjRYbjl1dDNlc18wbnJZd2pNenJ3NFlNVERzNGZjZHB6Tl9fQ2dCT0lGc2JQNXI2S0FTT1RR0gHzAUFVX3lxTFB5aEZpVHpBLVhMVE0wbUVmdWlCSFJBbzdIb2ZFc3hiU3hyUThyNlV6LUkyWWJEdTdiMEJvWEdJS1NSZW0za1pkQzUybmVveU5IVWQza1N0Tk03R3NsV1dDR05oMmNzb21mcVF3X1hjc3BidFRUa19kWjhjZ2U5OGlhenVZZVNvUlVYUVJRUU9JOVZqek5iMlJ3Q0FNOXdkcFRjbTlIdVVtS1VQQU8zVHVycThEN0FiUHE5aXQzQlhjM3hNXzZvdTdrc0VuTURDem9NY2J2LVFLMmZDWjUyWTZhWjRlRVo2SHFaS0lGaVdNRVJxRQ?oc=5",
+    "title": "Rs 1,417 Crore Investment Fraud in Tamil Nadu: ED Arrests 2, Finds Money Routed Through 100-Plus Ban",
+    "title_ta": "",
+    "summary": "Rs 1,417 Crore Investment Fraud in Tamil Nadu: ED Arrests 2, Finds Money Routed Through 100-Plus Ban",
+    "summary_ta": "",
+    "date": "October 2, 2026"
+  },
+  {
+    "id": "ero-sep29-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlNuV2U4QzdaZlZMTXp0Y3RESXIyMHVYajQtZUVJU1dRckxiRzRUaGZKdkNMNDRVY1FmU1lBUjBBeDFhMmUwNkZEcFRRU0FyZHRSUlB6eFBSc0hGQWxxVDlsQ1B1SFZYNGViakptMnJMdHJ5SlpJR2JBOGNYUXVrZV9RN3E4VXB2UW1Qb05yQ0plWnNLcmlUYVk3c0w5ZXZKWl9pbVNhVVhkVlhONlE?oc=5",
     "title": "TN: Heavy rain likely in Erode, Namakkal, Madurai today; evening showers in Chennai",
@@ -22,29 +34,5 @@
     "summary": "Tamil Nadu: 7 devotees stranded in Palamalai forest in Erode rescued",
     "summary_ta": "",
     "date": "September 28, 2026"
-  },
-  {
-    "id": "ero-sep24-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWMxWElaeTUxZU9aVmphajM5a3I2djB3SmxJUVB3M3MtUnlqR1Q2bEdTV1picUp5Q1lnaHNHYTNWNnVNMTlPM2RKeFpNNXJZSkt2M1pVS3Bma2lEZGtXaU9iTHhtOTZSNm16alE4OXZ5Y0xUaFlISWx1Rk5qRjRqR1M0VndnTjRDbnJqUVNaZ2Y1dkhYOHBRa1FQcVlTaG1PVzBtQlZ0cTFPd9IBrwFBVV95cUxQbzhYdHQ1Uy1ZMWNJcFpTUENZX3lrcnZMQ21NT19ld3BrMkpFR3NnamNILXhfRmtHTTBnQXlpUnZ3UlJnZUlKOUh4V1JUd1dEcFkwTy1nVHFXQ05TRFBmdVRNV3ZrZlNXdnJ6Z2MzRUsxT0FhUUNqNzFJRW5OOWMtTnhNRmwydXZ1LWZ0eVV4dHNOd0QxMXZZaEFSVzN0ZkhBcGZaWDF1cXFFaW81djFR?oc=5",
-    "title": "Looms fall silent in Kongu Nadu",
-    "title_ta": "",
-    "summary": "Looms fall silent in Kongu Nadu",
-    "summary_ta": "",
-    "date": "September 24, 2026"
-  },
-  {
-    "id": "ero-sep23-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWw0RkEzWkFMaWYwVTlBc09NbDU5N0cyWmQySTJYSzNnWXpjQ3Q0c1VkblpzRnVwZFdVOVJZaFVtd0ZoQ0xSTjVIVmlHUWJGbWgwWjl3N200dWdKWU1iNDY1N3dWS1ZNT0RyTW9hWVp3dExoSVFNNnRrdmhzOENlMnI3ME82cDhTQWR0Wmw5Vy0xYndiYnhyVkdPTGJpcGdDNVAxUlhoR3hINU9oWGZwTkFXSVhBYXRGOEpVbEl3YkFUMEFTaGc?oc=5",
-    "title": "Four-way waste segregation made mandatory in Erode district",
-    "title_ta": "",
-    "summary": "Four-way waste segregation made mandatory in Erode district",
-    "summary_ta": "",
-    "date": "September 23, 2026"
   }
 ]
