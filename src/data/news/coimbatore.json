@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct2-001",
+    "id": "coi-oct3-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWFuYjdfdk02UXZZQVJSd3l3aE91QWRCX0JwcXpHbEYxa0NRVFJUQ2Y5X0RUOU1vdHpnM3lEVVI2YUh4S256X3ZiOWQ0SXRIOFJHQlpZclFWVVVacEVWV1RuRzR4czFQYi1nS1NIaGJzV3d0YVIyazdTaV9wUDBpVktqQWdhS0dO?oc=5",
+    "title": "Women’s Free Bus Travel Expands to 2,108 Buses in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Women’s Free Bus Travel Expands to 2,108 Buses in Tamil Nadu",
+    "summary_ta": "",
+    "date": "October 3, 2026"
+  },
+  {
+    "id": "coi-oct2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0M2N3VTY0JLaEZNdm0tY2hBWXNJX3NVUndTcDFpd193TkZfUjI0V2VrbUdKMS1IWU13V0I3c3pJaWV5TUw0YjZ3cTMzWUJXUE1fUF9UMjhKNk5DU3ZJczN5SzVPTERhV2tJM08zUXBRUjBQVTFiRmV1dUdIV0l6TjZ0VG5YaDY5TDlQby1Mb2hWZ1Nyc1FNN1ZMNDJqYXdYcEFwTmlvMUdiUjNEVzhiYlJjclpBdXZMSWpZQ0g0U0ZwU3J0ZXNlWG9JQjVKZGtLRjdGSjh5cnlzb3p5VVHSAeMBQVVfeXFMT2prcnQ5WWdDQXYyUmRDS1I0ZWdjeTJfR3V6VkwzM1k2MEhzYVBWV2pYdS1RcThUZ1o5THpULV9aYzllbHNpRGZvUWdNbkNMaDdQYUlNV3FocEJzWkZUakdRUlphcDhDUk5Db1Nsd0pZamMyV2UyQ0FlRVhYbXBvcUFsOUFTaGt0aVZONndhWmE4TXc3OU5raEc1N0hERzFrQksyclFqMWRLV2F5cTZVRlBSMmhhQmd4QlFBQkFiQ1dWQ2tSUmZpQkFEM19SeTRlLTNTNDN5SWVVREtxbEF3UHhQZVU?oc=5",
     "title": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
@@ -130,17 +142,5 @@
     "summary": "Rs 400-crore Coimbatore FinTech Hub takes first step as TIDCO invites bids",
     "summary_ta": "",
     "date": "September 29, 2026"
-  },
-  {
-    "id": "coi-sep28-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTldZQjVYdmFyeXNkUWdyUFo0U0JaTDBxOVdlcHRJVjdKR1Z3TWVjZk4yZmQ4czd6VVhISE9hcjhVTERXYVFZV1hTQTg1RHdhSWo1VG50OS1MWk1mZEhTd2JZdVpnSUNtLWl3eTY4STF6dm1BNjZaVEJZYS0wQUJ5ZkhoVWdHUHVwRTJheEFQS2hpWVFqTG9LcUNzN0k2eDZva0lkY3lpWjFULWp3Q2lWOG51Rmo0TE8yYU1LSF9ZV2NqQdIBwgFBVV95cUxNTldZQjVYdmFyeXNkUWdyUFo0U0JaTDBxOVdlcHRJVjdKR1Z3TWVjZk4yZmQ4czd6VVhISE9hcjhVTERXYVFZV1hTQTg1RHdhSWo1VG50OS1MWk1mZEhTd2JZdVpnSUNtLWl3eTY4STF6dm1BNjZaVEJZYS0wQUJ5ZkhoVWdHUHVwRTJheEFQS2hpWVFqTG9LcUNzN0k2eDZva0lkY3lpWjFULWp3Q2lWOG51Rmo0TE8yYU1LSF9ZV2NqQQ?oc=5",
-    "title": "TN cop clings to SUV roof for 30 km to stop gutka smugglers in Coimbatore",
-    "title_ta": "",
-    "summary": "TN cop clings to SUV roof for 30 km to stop gutka smugglers in Coimbatore",
-    "summary_ta": "",
-    "date": "September 28, 2026"
   }
 ]
