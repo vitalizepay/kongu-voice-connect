@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct3-001",
+    "id": "coi-oct3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeWVXdjVSSVZiWl9TUkxyOE1IY0Y4SlpkeG00Ukl3dEp3N2VZLVhNSnQxbGhPNEhpS1hjdTNpTzNTN19MZmRHZXZmNWRmbHBzSkRNc25EckZDUW9zV2RySzdORENQaE1WY1Nzdm00Y2lReDNnRDlTVVZ1OHBTV1dPaDFCS3FqUVdZNjFfeElJdkJfU25RZXdJWTJIdWI0M1Q5MVBRTzE3d3NhRmpKOS1abVo0Q082MDJacEQ4djdTUVoyRzJ4SEFwSnJtN0tLWU4zMXRfakx5TXktaUpS0gHqAUFVX3lxTE45THh5aFFydnNkN2JNa3ZPekhVS3FwSUFpd19TMjJGYzdzcFl6UW1RY0RBcWo3UGcwTTN1RnRJUUx3NnJ1NGR6bDdFNnpkWGxsU1ByQ0xfeU4zeklYTXMtd2FfNnJqYTVGWkp2VmVxVWdLNU9OekozNXZBOWFyZ0ZKNTZIT3VHOERFOFJNWlc0OTJVQ1RmdzhBY05lU3R0OS0zaUx4N25jdV82c3lpTDA5bkVKMEdqa1NuRXdtT2RLVzdNNkJVazQxUWx2WDgxUDZyMlRIa1FqVmhvM3FIS3JfWTBQX01IOHVzUQ?oc=5",
+    "title": "Female passengers allege conductors collected fares after Vettri Payanam launch",
+    "title_ta": "",
+    "summary": "Female passengers allege conductors collected fares after Vettri Payanam launch",
+    "summary_ta": "",
+    "date": "October 3, 2026"
+  },
+  {
+    "id": "coi-oct3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOGtOZUVTRDhQM1kyUjRzWWczazJrb2dLTkNpQ2pYTTB6UFF4TGRFeDAzRGxyS2tYX1RiV2FPSi1VRjd3M2ZfeTEtZWhVaTF1MmRWcWRzYmNBSlRzSjJNcVpQVFFhNWVPUjhWY0p6WXBPX0kwUE15SnkxSlJKMWxFRjJQV3dnWU4yYjBRMC1oQm5KMkEzYUJVRExES2Y0VnlyUVlRY2d5QTFvOE1BUUFMOFAwa0lGSTNTZDdLNlJ3VXVKeG5tMnVWdHhmbDFJZWUwMm5URHlMdGhuR09nak5DOGFtYWZwaFVaUjV6dVZzejdpU3VxTWtFalNsWkxSSjVMc2FSUzZEd0RUM2Y40gGSAkFVX3lxTE9XRVNSQkwyZkVwbjBOcDZHcHFkOW1LWlphemhrUmd5U3ZGaEI2czRHRXFZMDhwV0hPSExMeFQ4WDJCTEZ2R0ZNZ2RyMnc1WGphOHljNHlWUmZPdUhTcWtTX2JwaUlzd1lOcFM1WTJkV0x6clZEeGNjM1JLc0F3Qm5CcDZTM2tUMWxmMEREbDRhbWtadWFhT3FyWGVZZWI4Q3o3eUNxQXVUdWhsaXZkR05ZTGJSVmJXZl9NTVNGU0NoNlk1NGxxaHc0c211b25wbDIyc194SXdTc21SRmdpLTBCS3ZwLTNNZmIybVAwU3VYNHh3YW9kSWhPVkNXc3RLVzR6UHN6cXdQVXFDRFJRTm11aFE?oc=5",
     "title": "Tamil Nadu minister Nirmal Kumar seeks Stalin’s apology for his remarks about TVK’s Dharapuram candi",
@@ -128,18 +140,6 @@
     "title": "DMK, AIADMK responsible for byelections in Tamil Nadu: Durai Vaiko",
     "title_ta": "",
     "summary": "DMK, AIADMK responsible for byelections in Tamil Nadu: Durai Vaiko",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "coi-sep29-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWG1LOWZ4LWRPUmp2aXBRMUl0eEpMeHMxYnQ5NFNMTFJpclU4WkVub0FNRi1XWGZuMlJzZGNFYmFGNkluMkNPdDJZUjg2ZXhBeFhQMm12djI2a1EzMzQwNVdDaTAya29ET3d5blQ4c0NMQW1ldWhyVXJhcWQ1THB2VWpSd1NiOHBMRGM5bkRmSEdoNE1zaXA0S3J3WE5GZ0FwVFlzX3J6anRvM21EeERrZUQ2dkRQWlYydmZ1RTdVa1M5NkExb2lSMDZXYmZMSUxXQzN4YnFaQ0E2MFE1NWdhRzJFUUF4YS1YTTB5aUtJUTVPQnJ3RFhRUk1Ud1g1V3YzN1JZ0gGKAkFVX3lxTE1lRGtGLTFGTHBOUVJuX3ZXdDhWRE9nTGttWG1sMm9PLUlzY1dPcm91elVxcmFkS19tYk8zdl92RXZYTk9Xd20zVHRQQUNrUHRjT0g1MXJYN3JLSVlHdC12NWFZYkVwam16clVnOTRqbl9Ub0NvTjlVQzhSX2hYcFBJdjNLaVhPNHpaaVRwT1RkQ0lGTkFTcFJjT3V0bGNaOElzOGlhRkhOMmxzUGZ2a0Rpb0pQNnBGenpUSlJqZTl4S25paklYN0x2Z0xHV0RIWEczbHV0dDFsRzRzT3ctc0xoZDVoZGU1NGJPemVkcFc0NWFLQnc2dkhsY1EwTjdIdXd5VWYxWE43eFN3?oc=5",
-    "title": "Chief Minister Vijay felicitates Coimbatore policeman who held onto gutkha smugglers’ SUV for over 4",
-    "title_ta": "",
-    "summary": "Chief Minister Vijay felicitates Coimbatore policeman who held onto gutkha smugglers’ SUV for over 4",
     "summary_ta": "",
     "date": "September 29, 2026"
   }
