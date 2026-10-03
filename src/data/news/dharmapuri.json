@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-oct2-001",
+    "id": "dha-oct3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmtqaTJFS0JuWjY2T1pURUNHYmhVd3VVZDJ2dmNFWE5EaUlWVlBzSHpQM215RUpwanR3RVJyR1RkZkM1VjVtS0xyZTg0eUZ6b2R2cFk1cndBdFZPbko1UDFzSk9sUzZBXzM5SkNTX0VqRjdHd3otS2tBWXVVSmJBRnNkQ3FpdlJPMXp4MDFsLVJFZklnUFFiZHpZdzJsU1JfR0d5Nk9uXzJHdjZkTU1NS2xFVE56Smdfc01ybkVzdmwtSmdxbEVGejJ30gHKAUFVX3lxTE9aa2ppMkVLQm5aNjZPWlRFQ0diaFV3dVVkMnZ2Y0VYTkRpSVZWUHNIelAzbXlFSnBqdHdFUnJHVGRmQzVWNW1LTHJlODR5RnpvZHZwWTVyd0F0Vk9uSjVQMXNKT2xTNkFfMzlKQ1NfRWpGN0d3ei1La0FZdVVKYkFGc2RDcWl2Uk8xengwMWwtUkVmSWdQUWJkell3MmxTUl9HR3k2T25fMkd2NmRNTU1LbEVUTnpKZ19zTXJuRXN2bC1KZ3FsRUZ6Mnc?oc=5",
+    "title": "Delay in Ennaikolpudur project irks farmers in Dharmapuri",
+    "title_ta": "",
+    "summary": "Delay in Ennaikolpudur project irks farmers in Dharmapuri",
+    "summary_ta": "",
+    "date": "October 3, 2026"
+  },
+  {
+    "id": "dha-oct2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2hObXQ3Zl9zajJiQi1RWHlBMC1KV1p2alM2bzN1aDZ5b1JRbDJmaS1xdjBrQm8wWHdsVFhwY3NPc0RaVjhDOHBndnJHeUJMNkEwUHVWM3VNVDlMWE85bGlIeUU4Vlp0cU9vZ05JSHZLUG9KY0JlMTZvMk1uNmlzOWNWVXlmRjRPdG1JQ2ljOHBjVTUtcDRoaTIwYjZ2UQ?oc=5",
     "title": "Dharmapuri District Faces Diesel Fund Delay Affecting Forest Department Work",

@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-oct3-005",
+    "id": "coi-oct3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOGtOZUVTRDhQM1kyUjRzWWczazJrb2dLTkNpQ2pYTTB6UFF4TGRFeDAzRGxyS2tYX1RiV2FPSi1VRjd3M2ZfeTEtZWhVaTF1MmRWcWRzYmNBSlRzSjJNcVpQVFFhNWVPUjhWY0p6WXBPX0kwUE15SnkxSlJKMWxFRjJQV3dnWU4yYjBRMC1oQm5KMkEzYUJVRExES2Y0VnlyUVlRY2d5QTFvOE1BUUFMOFAwa0lGSTNTZDdLNlJ3VXVKeG5tMnVWdHhmbDFJZWUwMm5URHlMdGhuR09nak5DOGFtYWZwaFVaUjV6dVZzejdpU3VxTWtFalNsWkxSSjVMc2FSUzZEd0RUM2Y40gGSAkFVX3lxTE9XRVNSQkwyZkVwbjBOcDZHcHFkOW1LWlphemhrUmd5U3ZGaEI2czRHRXFZMDhwV0hPSExMeFQ4WDJCTEZ2R0ZNZ2RyMnc1WGphOHljNHlWUmZPdUhTcWtTX2JwaUlzd1lOcFM1WTJkV0x6clZEeGNjM1JLc0F3Qm5CcDZTM2tUMWxmMEREbDRhbWtadWFhT3FyWGVZZWI4Q3o3eUNxQXVUdWhsaXZkR05ZTGJSVmJXZl9NTVNGU0NoNlk1NGxxaHc0c211b25wbDIyc194SXdTc21SRmdpLTBCS3ZwLTNNZmIybVAwU3VYNHh3YW9kSWhPVkNXc3RLVzR6UHN6cXdQVXFDRFJRTm11aFE?oc=5",
+    "title": "Tamil Nadu minister Nirmal Kumar seeks Stalin’s apology for his remarks about TVK’s Dharapuram candi",
+    "title_ta": "",
+    "summary": "Tamil Nadu minister Nirmal Kumar seeks Stalin’s apology for his remarks about TVK’s Dharapuram candi",
+    "summary_ta": "",
+    "date": "October 3, 2026"
+  },
+  {
+    "id": "coi-oct3-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWTZGeWhNQWNZWGxpM2IzMzVhZk5vMjg4MmhuRVVNa0tlRkFLS3pXZGlaZ1pNbTdsYk1BZXpiek1zYks0SzVGS1p1eEJhblZTNEFrNW9QakxKbHltX3QtN3ZWTmhkQ3ZBWlVfejJIZTB0aFBFXzJxRTRJNUFZZG9fVVlIM25jYjN2OWQtZHFuNDFqd2p4aDhESnJ2UVFDTTJvM1h5YWV2NGlFNlNaNlBoM1ljMnBNVThER3k2ZHZmVUF0UEt5UDFfMGNBdFpIMVluSUV3bG9GU1lhalZScDl1b2pDQl9ueUdDX1N6WndtOGtEQdIB8gFBVV95cUxQWTZGeWhNQWNZWGxpM2IzMzVhZk5vMjg4MmhuRVVNa0tlRkFLS3pXZGlaZ1pNbTdsYk1BZXpiek1zYks0SzVGS1p1eEJhblZTNEFrNW9QakxKbHltX3QtN3ZWTmhkQ3ZBWlVfejJIZTB0aFBFXzJxRTRJNUFZZG9fVVlIM25jYjN2OWQtZHFuNDFqd2p4aDhESnJ2UVFDTTJvM1h5YWV2NGlFNlNaNlBoM1ljMnBNVThER3k2ZHZmVUF0UEt5UDFfMGNBdFpIMVluSUV3bG9GU1lhalZScDl1b2pDQl9ueUdDX1N6WndtOGtEQQ?oc=5",
+    "title": "Tamil Nadu CM Vijay to travel through Coimbatore tomorrow for Dharapuram bypoll campaign; 2,000 cops",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay to travel through Coimbatore tomorrow for Dharapuram bypoll campaign; 2,000 cops",
+    "summary_ta": "",
+    "date": "October 3, 2026"
+  },
+  {
+    "id": "coi-oct3-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWFuYjdfdk02UXZZQVJSd3l3aE91QWRCX0JwcXpHbEYxa0NRVFJUQ2Y5X0RUOU1vdHpnM3lEVVI2YUh4S256X3ZiOWQ0SXRIOFJHQlpZclFWVVVacEVWV1RuRzR4czFQYi1nS1NIaGJzV3d0YVIyazdTaV9wUDBpVktqQWdhS0dO?oc=5",
     "title": "Women’s Free Bus Travel Expands to 2,108 Buses in Tamil Nadu",
@@ -116,30 +140,6 @@
     "title": "Chief Minister Vijay felicitates Coimbatore policeman who held onto gutkha smugglers’ SUV for over 4",
     "title_ta": "",
     "summary": "Chief Minister Vijay felicitates Coimbatore policeman who held onto gutkha smugglers’ SUV for over 4",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "coi-sep29-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEZFMGU0OGxaVnNzekI1N3BoYkp4M1VwSXoweFFwOWNGSTF4VjFTZExGUzlyT3N5QnA4MG5kVjFQUnlVWl9nRUlrVzV0SW1NcGtrVzJCT2hsTTRIWnVwbkNMTU5Ba3FkaVYyT3RFOEZQdmRPVi1ROS1WNFZKNWtENnhZQkstWjBEU0ZtYVNRSUdMczhyVVY2MVBiQXZudWtlbHpyaHFjc2JTNU1oNDVVVDJjOHJVR0dIN0tQdmFPbHFSVXVuZnhzOUdVOU1TazRNcFHSAdcBQVVfeXFMTVRrcDdoWGhmNXl2NHlqaDBxT2l0cFQ4ZnIzRDFlWGoxS3dDUTEzVTI4Yk5WdU1KaV9YUWh4VnY5eEdWNjNTZlk3MGJETHZlSkJ1MlFRLWhnR210Mlk0MTBYMFFIOW9zek1rdThqSjU5b3BCTTBmT1hYNS01SE9oVkhXblRaTmlzek10TkoxUjhhUkRtU1lnZ2NFcUw1NEwwR1VvTzlGai15YzZEVFFWMFo3bHYwZ0FiQUNZNENJTU9xVHBpQTA2eHh2c2RTSGVmZ0VBYk1Vam8?oc=5",
-    "title": "CM Vijay’s visit: Traffic diversions announced in Coimbatore",
-    "title_ta": "",
-    "summary": "CM Vijay’s visit: Traffic diversions announced in Coimbatore",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "coi-sep29-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzBZbUNGTk1TRkJZaXhDRzJLZHFrbEw4RU5WZ2ZrWE1fanF6VWtoUFNJM0NNSDFGMVhWY2JPdWhLUTVSV1JjcE1mMWQ3b2pIb01FMFBGZk02R3JqTTVwS1ZtX1FJdDNvTU43MjlvOHd5V1ZqN19TM2VueENJRlBwVEt2b2VHcjBmZUE3QUtMZkppSDhxQ3VUc2V2dnVVSHdjd0ppTzJOem5hNDZrTFpaZdIBvgFBVV95cUxQT0RyeElEWTdDejJlNUZzX1Q5YWtqX0tVT1V0VGpBZ1Z0U3pzcklPUjQ4Y0NxYkxoT2ZjeU1fWE5Tak1WMmlkaG5yUEpmc1VYU0s2TkVNbW5TVVplcE5aRWhJNnNqbmJhSjJQejQzSzI4TVNiUHZBekFTeGJQcWNWN3c1eTg4MU1tMjE5SXBEOTZLVjVhSFFSUlVqNU1ickRMZUtQWjFIQzNDN2YtV203WXJGNXNibnZxT2pTeGd3?oc=5",
-    "title": "Rs 400-crore Coimbatore FinTech Hub takes first step as TIDCO invites bids",
-    "title_ta": "",
-    "summary": "Rs 400-crore Coimbatore FinTech Hub takes first step as TIDCO invites bids",
     "summary_ta": "",
     "date": "September 29, 2026"
   }

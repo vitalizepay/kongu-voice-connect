@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-sep27-001",
+    "id": "kar-oct3-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkFzSmtudFktZHAtUWVGdWJLSmxSLS1LcEtWMGY0TnNwb182Mk04YzlIUFVKOGhlekFqSHBYYnhtZ2hvWG1MbThlNlFYYkVEVll0STduV3N3NDV1NFlSQ2lqR2N3V0draEdwbWwzSnR2WElSMTY2WjVQc1ZVQi1KSVZHRUx0WG9ZbHNRZ2hPWUNidWFmOGdDXzA4bw?oc=5",
+    "title": "Karur | கரூர்: விவசாயிகள் கைதை கண்டித்து சாலை மறியல் | Farners Arrest | Protest | Tamil News",
+    "title_ta": "",
+    "summary": "Karur | கரூர்: விவசாயிகள் கைதை கண்டித்து சாலை மறியல் | Farners Arrest | Protest | Tamil News",
+    "summary_ta": "",
+    "date": "October 3, 2026"
+  },
+  {
+    "id": "kar-sep27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNalY2RWh4UVFrNURQb2FrV1c0R21kVDBXd2FOUThFUnJCUUN3NEFyU0wzQzVBTG9wQUlhTmJkR2lCNmNwZVkybVZHQTdXajlvTGFQaDU4end5aklhWXpFS0FBLUstdHMxbzEzVF8wUXpkSkt0Rm83eno4MUp3bU5RTzkzWV9naTBxeHRBa2FQS0NUaEtqZVU4eEhLbDlCeU5MXzdTMTU3dnZ4REFPMk1pNHpfemJqUmZJLXhFbVI5aEtqQXpTQkVYcWNZbGxEVUJDZGYyTWNB0gHcAUFVX3lxTE5FSDdzQ0ZXaVdmd3dJMG50eUpRRWstVFJOZXRtTENTVlY2a1F6R29XUUsxWVVSeEw3Z1ZzS3p4a1g4R1ZaRWNYTHl6TnJoQnR0Vms3TzZjMVpIRlp1cHhmd2F2Rjh3Z2M1MDZQcEIzd3pOcThHYm9OWFkzOG5WVkM0Nk1BUHQ2cHFyMzZTTjJLUVdJTE1SS3VDVUx1LS16Q0JwVUNKQy02dlBWN3pkS2ROQ1BoMmhpbVU3dzh4Z19ZUk44Q1ZiRkVTN0xzVWpmeS1yVmZKV3BZNzBlckk?oc=5",
     "title": "Vijay on Karur stampede: Stampede left an indelible scar",
@@ -130,17 +142,5 @@
     "summary": "Karur stampede an ‘unhealable’ wound: Vijay on 1st anniversary | India News",
     "summary_ta": "",
     "date": "September 28, 2026"
-  },
-  {
-    "id": "kar-sep27-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTd0ZjREWlpnVXJFV2h5b3NGVXVobkRJM2lkYlpDalhjREV0NE9Pd3FIczZKdHA5ZW9pRFhzUHlTTzNpTXhtdjZqVXRaYk54RXBVZFZsa21rd29fLWJBUVNjVlhFdmZyaDdtQXVvaGU4NWRuaXpBa0RkYmVyUXNCckg2OWpob0lVejlKR3dDbUMxa3ZRQUkzMi0zMmFOZ0FzeVhlT1VHSXlfZnVOcnQyQU43c0lYMEpzQ3fSAb8BQVVfeXFMTnBsajUwNnFNWkZMZTAzSmN6a2hnN0xtWTNIQjk5UE95aEthOUlTUGhZOWZEZ21ZeG1QT1hvSUxIM2xTWVpSNnNJT21uWHhNaERtd1kxMk4zS3V5R25FNHRGenV6bEkwN2lMRFZZbXo1VmRQRVBfcHJpNUQ3N25WdW9nN1FCYW1lNlBOaDFmRXAtUDNYZ1Q3QXJ5Y0VQZXhZeW5BYlk4N2QyUDB6eHVlSVJsZDhmR2ZKVzZFTm0zb0k?oc=5",
-    "title": "Thalapathy Vijay pays homage to victims of Karur stampede: Tamil Nadu CM calls incident a never-heal",
-    "title_ta": "",
-    "summary": "Thalapathy Vijay pays homage to victims of Karur stampede: Tamil Nadu CM calls incident a never-heal",
-    "summary_ta": "",
-    "date": "September 27, 2026"
   }
 ]
