@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-sep30-003",
+    "id": "nam-oct4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaE16M21iWm5KU0tLWFhBWXAxT0dwZUZPQmRzUFZnUDRxdlEybGNLZ2ZDR2I3d0t1YVl2SzZQdVE2RTJINWhsOE1SYXFfVFQtQkpNenBGUmxQYzdlTGdxX25McDlPQ2dUcTFaR1VWNllPTkdvV1BtVDdKbjBTdG55eUYxa3FlaEpyY1BvR2VkWjU0U0RLemVzeFBqaWZHS0toWVN2aVpycnRRUTBZMzlkYjZWZC0yeTZlQUhDaHpOR2V3cWVzdFJ6U2ltSmpXbk9TSGVVdEhn0gHWAUFVX3lxTE1oTXozbWJabkpTS0tYWEFZcDFPR3BlRk9CZHNQVmdQNHF2UTJsY0tnZkNHYjd3S3VhWXZLNlB1UTZFMkg1aGw4TVJhcV9UVC1CSk16cEZSbFBjN2VMZ3FfbkxwOU9DZ1RxMVpHVVY2WU9OR29XUG1UN0puMFN0bnl5RjFrcWVoSnJjUG9HZWRaNTRTREt6ZXN4UGppZkdLS2hZU3ZpWnJydFFRMFkzOWRiNlZkLTJ5NmVBSENoek5HZXdxZXN0UnpTaW1KalduT1NIZVV0SGc?oc=5",
+    "title": "Demand for government engineering college in Namakkal grows louder",
+    "title_ta": "",
+    "summary": "Demand for government engineering college in Namakkal grows louder",
+    "summary_ta": "",
+    "date": "October 4, 2026"
+  },
+  {
+    "id": "nam-sep30-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWkyTVlTbnFfR1RVdHJGclp2d3pTekJucWVsbF90eHA3MXF3RDJyek84RVE5My04ZW5ncWtfQlk2ZkszMUctcDBIT2NZa1pOa0FRa3NYT2pVSGlmdW9lRE9IQVR6cnh5eXJPWm1VWXVlSFBnUzZjd1JjdnhTWDNzRFB4bThudkdYaEFEZDZ0Wm9IQzRuNFJWZ3VYT2M3T01hdGNtVEphME41ZG95RS1LV0VON2xkMlZoTV9wQ2N1czZ4Y29LcVNzMUNNNG5zaTM3eGppNlFYZ2FTX2JDVmFCVm5ieWhsM19OYzJpMUZYdFFVQ2Q3?oc=5",
     "title": "Three die as building collapses in country cracker blast near Namakkal in Tamil Nadu",

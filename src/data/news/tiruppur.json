@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-oct3-001",
+    "id": "tir-oct4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcUlLeTk3ZFIzM19vYXZ5d2R0N3k4MFo3R2pIYVprOTVNcFdqSmZ5NTlaQVVscTBnWjVUWTE3MHFKY0ZkRU1Oc09PX2hWRDNqZ01MWHN1eWp6NFhRT2lSWFhreWRGZ1hTS3NaUnVfUFZyUHkwRTdLN0lDZTBPTEEtc3dZQjdzMzFFZUJIWUFFQUhTUkdYeVltWC1VZ1BXaE45NndsbjFSUW1HOVJ2ZzhpeWhHM2tYSXJKV01ndzRiYllHQlNxaHFiQ3haMExydzItckwtUm54aWhOMTJ0NHNWajRzMGNGemZjM3NIcTZzaFRaSndkYVQzOGl2VWlKZVBYTWlMag?oc=5",
+    "title": "Tamil Nadu: Udhayanidhi Stalin booked for allegedly involving minor in poll campaign for Dharapuram ",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Udhayanidhi Stalin booked for allegedly involving minor in poll campaign for Dharapuram ",
+    "summary_ta": "",
+    "date": "October 4, 2026"
+  },
+  {
+    "id": "tir-oct3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcDBWOTQ3VEg2RU0yVkRFbWJNLVBsR1E1TnVxbzZlWUFzdmxCYnFkX3JnX0YxdlJnWHhMUm93QjFLd0VhNW0wUmdGNk9ydFExbWZ4Zk9UdXFXU3ZZeHJmUFNhLUtjTEp4RUUzeXlrMEp4S3pNYnVFSUoyaFhrTlBpUE1UZmdzcmJOM2NmYUJjX0MtbkNsV3ZmVjctY3FWS1A5bURGVUFXUHlwbFVVWW9TOHFUdm8tN2dsYU93VHNlZVdrRzk4NFh6aHR3?oc=5",
     "title": "Tamil Nadu: Postal voting begins for police personnel in Dharapuram",
