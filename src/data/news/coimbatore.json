@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct6-001",
+    "id": "coi-sep30-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtQ3dEVi1jWlpXakpnZ3hGSWJHUy10SXhRNmdPS3pQeGsxc1V2LVpVeTFrdHZvRzdnZlZsNGRLcHBvaDl0Qk1hV2g2RXpOZzNVRFE?oc=5",
+    "title": "Tamil Nadu is witnessing a worrying dengue surge, with 17,651 cases and nine deaths recorded till Se",
+    "title_ta": "",
+    "summary": "Tamil Nadu is witnessing a worrying dengue surge, with 17,651 cases and nine deaths recorded till Se",
+    "summary_ta": "",
+    "date": "September 30, 2026"
+  },
+  {
+    "id": "coi-oct6-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSnIwM3hMaHR1YW5ZT3dqLTdUWTlEaTdzRWZ1MXpEZS1UM0NqMU1sVWdUUGtueWk3WFd5TE80blRwbFNVSEFad3pNSW5jaGJlenFER0RPQW8ybDFVQkdnRUVrYXBya3d4ZWplMDhaeFdBcHNZTVJfMUdMOGkwTzBpNlVhU0pmTkVrOGlCcU9CQUduM1VLaFRBTmc4SmVLNkFOb2U2NnJtb2p2S2UtcHZKNy1BbjR2aTR2LXJaY1dOeFBhVy1sMlBOaUNRNE5uOFpTNkJ1blFFLUJIOWxGcGVRNFdIell5VWxFSjNFUWVVOVpVeURLeEx5b0JiN2Z4c1JCLXVyR0FuV3lLN1XSAZICQVVfeXFMTnRCaHdFOE94d2JUY2l1TTJXOWlJTzJ0LWwwN3dlWEZmdXZnZXhmc2RfUUY0czgyVlVLVFhlTjdRY2p0LVZCUlQ4YU5yRXJsU2Facm9NdXNaRDBEYzNOMXQzQ2ZUdmttWTdzbUNhcDQ0R3p3V1g1MHhjMkdERk5FSTJoZDhaMnFuczFVZ2Q1dGQ5Zll2bEp6Z3dNRUc2UHZDd3lydmRDSDNPd0RGZGhwTFQ5VVZUM3ptdDBrU0puSzFQTldkclZSY1RtVk1NSVJaQnJkR3NhZEJTendXUFBLdjlOYXZHX3FkZ3ZuaWdOZWFiZGRhNVRLSjlmVGNxa3ZRWU9vYThSOE9GU1pGX2d4STA1UQ?oc=5",
     "title": "Coimbatore Medical College Hospital changes paper covers for medicines as instruction in Hindi kicks",
@@ -130,17 +142,5 @@
     "summary": "Ducati expands south India after-sales network with Coimbatore facility",
     "summary_ta": "",
     "date": "October 1, 2026"
-  },
-  {
-    "id": "coi-sep30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNWkyTVlTbnFfR1RVdHJGclp2d3pTekJucWVsbF90eHA3MXF3RDJyek84RVE5My04ZW5ncWtfQlk2ZkszMUctcDBIT2NZa1pOa0FRa3NYT2pVSGlmdW9lRE9IQVR6cnh5eXJPWm1VWXVlSFBnUzZjd1JjdnhTWDNzRFB4bThudkdYaEFEZDZ0Wm9IQzRuNFJWZ3VYT2M3T01hdGNtVEphME41ZG95RS1LV0VON2xkMlZoTV9wQ2N1czZ4Y29LcVNzMUNNNG5zaTM3eGppNlFYZ2FTX2JDVmFCVm5ieWhsM19OYzJpMUZYdFFVQ2Q30gH6AUFVX3lxTE5VTWFUOFJGakFyOEZrRDBabE5XRGE4QmxDcEFFQkN5VVI3LWprZ2JJWkt3cE1HZjgyUmdvMmUyWlNCYkhaNTdQZlNWMlB1LUFlQTl6Ynp0d3FHd3QtdGphMFg3N0FlbFlkbmFUbFBGbEVibFNZRkhXcndHSEt2UV9vdWJoNE5zaU1UaTF6VzRFQ1hTOEJzSmk0R1A4NlZ5NFZVSExwMmRlbWpYcXBGbmNWRmZTbmg2SmtPYmRkNlR2S2ZYNVFVdWNZMnBnXzlfWFY3Nlhoak5ld3RfWk5ZU2JyaXZUWEJUc09nd1oySzAzTHRWMHE5akt1NkE?oc=5",
-    "title": "Three die as building collapses in country cracker blast near Namakkal in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Three die as building collapses in country cracker blast near Namakkal in Tamil Nadu",
-    "summary_ta": "",
-    "date": "September 30, 2026"
   }
 ]
