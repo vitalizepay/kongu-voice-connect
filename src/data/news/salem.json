@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-sep30-001",
+    "id": "sal-oct6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenJidmx1YTJnZmFGcjg1dmN0bXhnSTIxMV9GaFNDbk5PRlJJWEFjaG9IN0NKMEZLOElWcWEzTFk0bTY2bXBvbG5fY0VTS004VGl6NTdjR0pxSW1xRjNlZnNaeEJQUWJxTWtKYmlMSlU5QWdkV0xJVEJRRFpEUkRidUE1QWVXN1d6MU5WSnd0VnNjSjh3cjZhRzFLbFRjVHQ5NzQzMUZFcXM3dF9DcW9NSlpzTFY4OUZBcFVWZVIzRVdaMU1sWjhLODRleFRZUl9zTEJGQXpEUW1jeDlsVWp0QWo5WdIB6gFBVV95cUxPUDcyNmNWUVA1UjZLNGJyYWtqNUE1c09ZdDJSaFRGY3dXUURlblUyZ3VfN0VRa19uYjM5UjZpX1hnVlplU0V0cU5vdFlJSGZRU1BINHpzbmM5SHJ4eU1SMGZUVUtwYWRhQndGQ21MdXN1T3hDR2JmclZycUx6cGgxdHprTmNhWGtRYU1IZXphVThjOXpIRlc4eGxmU2YxVktsY2kwVUZZT3hUbjVpa1VQeGtDNmFfYkh1N3R6eXZWbkhNTzV4bThlLU1GcnFOQlRVXzBtY1cyRHBIcFQ0SHl0RHYtRVo1MGhqT1E?oc=5",
+    "title": "120 types of goods worth ₹2,654 crore exported from Salem in 2025-26, says Collector",
+    "title_ta": "",
+    "summary": "120 types of goods worth ₹2,654 crore exported from Salem in 2025-26, says Collector",
+    "summary_ta": "",
+    "date": "October 6, 2026"
+  },
+  {
+    "id": "sal-sep30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3hfRWJMY1pjQjgwU3N4ejdzTzJUcHEyQWx5T3JMR2NCcWRVSjhsR08yOWZfQ3VwTjFRblROVXBPTEN0VHJ1T0xGNXlZa3FJdVhzeWpLZmNfV1dWRUZYb0RLc3o5MUozYnc0ejdKUDA4NE5VYlNMR1ExOFU2M0h3bzZsb0NXczk1al81OG9icnNmdm82RE5MUjVsbzBtcnYyUXdkTzlpcG9tRFlReWx3dlJJN0xVc2dVSW1kOGhsMDdrVjBqaE51bEFqNjJIMGN1VnlSZmtwOWdtc0840gHjAUFVX3lxTFBuS1FuSXdiT1dBWm56bjJ2U1hxU0IxSEdfX21sZUlsQmZ1V1NKTFJ6alBLeXdjcUVjT1ZSRFVaT0tCS1F1b0t0YjJuUmVoVFRXeVZYbG1tVVlRQUhzb3VUZGxQenVSS3RsT3pEWmE4WVQ0Z0RRQzJvaG4wcEVZdEJQbW55bEVBYWhDUnNVS0lsZ1Z2MVMtbFpRaklYNlNIV3JlQW1GTU83c1VqZkJac1FuM3d4NnNIbkJFUjh5d1JDc0tITEMwQmYya1BtMV8zdEFwZjdiUEZsd2F4VjJaWU5tYWYw?oc=5",
     "title": "DIC provides ₹45.08 crore in loans to 192 entrepreneurs in six months in Salem",
@@ -10,53 +22,5 @@
     "summary": "DIC provides ₹45.08 crore in loans to 192 entrepreneurs in six months in Salem",
     "summary_ta": "",
     "date": "September 30, 2026"
-  },
-  {
-    "id": "sal-sep29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEp5YnZoYjlyeERwMTYta0tJWVM1RjM2SHhrTlJ6U25tT1BKNmpPREI2SldlY2NvaV95THlSOVh0ekM0RENoSGFoYTVOU0xXVEtjTW1QOS1HM2o5QkhhRjlndE9RWmp1Skd2VEVSOHpPSHR4WjVYaWlvZ3B0c2IyRlhvSzFmdzkzR3pJSXIzdTJGenBmTXA5WmFfdTFPdVJWTHctTno4TS1GXzVnY044dzhTOXVvU3Fuc0Rn0gHAAUFVX3lxTE5MUGtHY3l2VXZCazdGYmItYlN4TFh6aHFBbVNUbzl5bW1TbEVfcHFidHRTWEZfTGdYbF9OMkxPQXo2UUQ4XzExNUNtZl9SREpPQVkzTG5uNWVEcmRFQjl3dWg1cVFEZEZqSWpNVE5JYk5NRlZ5b3NCR0QzcVJwSmVma2FlMWt2MTZ0N21DQXdfbW5FcldHVmExUDk3b2EwSnNXOTIyMi10eUJIOVFKVlFwZ0x0U2RWSjA0YVFIZjl3MA?oc=5",
-    "title": "Man Assaults Grandmother, Demands Money To Buy Liquor",
-    "title_ta": "",
-    "summary": "Man Assaults Grandmother, Demands Money To Buy Liquor",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "sal-sep28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQejNvMWpYbk01T2V6QUIzR3lTVFp0VENCUUcwVkRTVUtwSW5vWjY2bThGWElvWUpMdE1wb1lSTVVXM2NyUGxLajROcEd3VVhMbnF3Znh3ZWZsRUhXNm1YalBoSGNWc1BOWGZ2UU1Od2xid0dsSWhGeUFzdnBXOVI5b0dNLXVNTE4ycTFYUkJpWGtuN2I4cEJWZ1R5RkVTeFNJS1VsVEcyZjRfMjNWSlRseTh6azVRa2Z4cldPR1RTenZBOVdmZGFlMUc3elo2VmlGTklTSNIB2wFBVV95cUxQN2MtRkxpejVOZm84UjlCVUxCbTFMcDZ3VHlPVnVSNjdLbVdyN0lKMDI1R1BEdHJETzc4c05vOTlGZURIMVIxMFh5QlAzejhqaEpSWmxublg3RWJ4X3p0YW9kRDIzeXRmQXkyeTlYbjlsWDBIZkowSHQ1eGxnMFZiT2RVMXQ0czVQNnJoT05wU2tNRWZKQzcwNmpJNUMyVXhTSmp1MFd5UDhNRHl5eVZ3ZFc4cGFvUTZFZlNJVTE2RDVUaEdpMzcxOWRiOXgwUzRxcnVsQ2dQYlF1ZGc?oc=5",
-    "title": "Over 5,000 gold rings to be distributed in Salem and Namakkal districts",
-    "title_ta": "",
-    "summary": "Over 5,000 gold rings to be distributed in Salem and Namakkal districts",
-    "summary_ta": "",
-    "date": "September 28, 2026"
-  },
-  {
-    "id": "sal-sep27-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXgwdDJXWnIxLVVoNnYxMzJjNmR0Si1rbnctVmY1Q0xnWmtFTlcxU3h5bmRHbTNqcFZBOXVaN2dBcEZuSGwwNjhLVjlaQVYxNnZBekJyYTJlWUFFS3RLWWI3VC1uWTRlSndUcUpCYUlIWlhEbjZwRWU5d3NDYlU0eEw4eThINzJ2b2JreXJsVURlbEJrMkZVNk8wT3hYWXB1NlM3QzR5LTBUbkQwZV90V0JxUDN5UXlJLVBzNjdFaEV6RlJCZ3NV0gHOAUFVX3lxTE1OSndoQmZvb0lKZWNCOU4wcWJ4cHdIT1E3LXVwenlWTHhTaElNOHZQNHVxVkV0MF9ra2NJd0tQRzBnWVY4TmVnLWtfNXNaeTV1dWlDNUVsUXJ2dzdpUHFzd29OWEFnQlhnTUxQOHdYaDFxM0ZOMktQbW5SZ2RFOVBsY2tQQjRNc3lmSEV3czlWSklhRnFlM1FiQ25peEFqdzRLd0hFMUtrT1BUVFF5Z190QU12T3prQ3R0eWtCUnYxVGtHT0JuUkZRVG1JWWRB?oc=5",
-    "title": "Over 7,000 candidates absent for Group I exams in Salem region",
-    "title_ta": "",
-    "summary": "Over 7,000 candidates absent for Group I exams in Salem region",
-    "summary_ta": "",
-    "date": "September 27, 2026"
-  },
-  {
-    "id": "sal-sep26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFh4bWNpOVBmc1phX1N0M1ItZGVobVB4MUowZUgydUswaG1KM0JCSE54UkQyWDREM1hkYU9KZzd0RDc0Rks3VWNfc3NXRklWaWR6YndzUl9VamY0ZXdPZ3NwdDFsbE5nTFpLSHJ5U1pzcFk5YWhScFVyNHNORS1TSC1VUW5KUVJYYzA2MUZxeEVaWmtJcEdaZFctUlJaMFJOcS1UWUNmLTRjTHdlS214S20yTmdtTmNwMlBWRUZWamdUSlFlRHUyVkNXdUFyNkJwWU01bVVoY9IB3gFBVV95cUxOdzBlWWZ3dGtPbko2ZW9OcGdWUzhXc2o1dnY1dnAwUTExT1pyaGxiaEtWZ2lFTDJ2ajBNQnoxdmlvdU93XzBIVXlySUVzc0FvSkRiWGtNSVZ0dXMxVTJYVE4xZDloZVhtZGVDeExqX0twQzJOTGx2aUpEMTRWUXFRUEVSWU1PWDlPRnFjQkpkREZmbUN5bE1TVnkyRkM3Y2pSVnp5d05ncnVYY1pCUGxySE4xNzljZUUtLVY2bllsbDJsVjRHcEQxdFhsWE5JYURXeFllVU5NTzMzX3B5ZGc?oc=5",
-    "title": "Price of ammonium sulphate soars over 60% in Salem and Namakkal districts",
-    "title_ta": "",
-    "summary": "Price of ammonium sulphate soars over 60% in Salem and Namakkal districts",
-    "summary_ta": "",
-    "date": "September 26, 2026"
   }
 ]

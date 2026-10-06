@@ -1,8 +1,32 @@
 [
   {
-    "id": "ero-oct3-001",
+    "id": "ero-oct6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQUNHSEpXWkd1XzNUaURYVGFNRGdxMzd3OTlxSGtreVJ2VlRkNEV4SzlhM2x5bDRKOEowWm1VWGd0QlhXdVR0Z2RpTHlDdlRONDJQb3JkRlRKb0x2YVh5Zzl2YWd4MEo2TW15SHBMU3pFMmUtMWtzR0QxLU5HZ04yTWE0OE51dDdxX1lJYi1wN1dfVUljd1lONlNyWlpTVDM3ZWhCblZ1UWp0Ty1fNHdXNmF0UlY4T0w2QWRQSWdMSlk1U2l5bmRrSlFzMmRiQ2g4WWp0WTBnM27SAd8BQVVfeXFMTTJLQ3VNem9PcHhXbDVoQVc3TmZoVnM2VzNNVkpsQ1IydVN5cGUtSnFCMzlXdVdhVXVIYWs3T0tzLUN6VWlmNEk0d0tpSnMybXN2VWlYbEtWUlh0X0NIdE43QjQ1RDl3LUZsX1NPa2pCRUJvZ1RkR0pQdEVJcmd1NGN2bGU1VTVRTlJTSE8yTVlNWmtaWFYzQzFJdkZhOTd0djg2bERBY3ZydFFiNE9RSHRDUjBybnhiWXl4YWRUUk0xYjFEV0RiakNqZks0c3NLUUI2X2xjTmd5MDlrQ1lDcw?oc=5",
+    "title": "Food safety officials penalise shops in Erode for heating milk on boilers",
+    "title_ta": "",
+    "summary": "Food safety officials penalise shops in Erode for heating milk on boilers",
+    "summary_ta": "",
+    "date": "October 6, 2026"
+  },
+  {
+    "id": "ero-oct6-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEc2QmtUUUp3Z2Ezc2VRLWc0d0FqY3ozcUl1MFlkMWlSYTFzb1FEWHplYUYzT3ZIV2tDbERYbG5QMGlaM2RFSzhBZWE0VUIwaW5nZGhDNklDRE1VTDE3OVBMU2MtOHF0NmFFOTM1XzB0ZXFjaFlUc2FYRS1UTWFhTE9WNXNtN3JXMVJEcl9VbEotQkJIdzgtR0RZNkdSVkNoejUyUWpaYW4yenJCYmdPbXh2QnpnUnE0VlE3OUFWVGx6b3g3TDJLYdIBzwFBVV95cUxPanV5OV9KU195YS1KUmVPZnQ1MmZiV2YzNmxrLW9VWXNxVVk5MXcyUEFyNVZtNzM2Vy1QbkZMSVBMb0V4RjB3Z2stVll6WUNaaGJsaVVzdkplSGYyTkZkWW1NU0QyR2oyLTRRQnRGajUwSlJqakNxcWJ6dDV4U0xfb3Q4aUZhMUlEU3NUeDg1R0RLMDgtckpmWTMyX3Q3U3g4RVFUV0JSSTY0MFA5bnFPNUF5d3hVaTBZc0F2N3lJM0phY2RNRGRlRjhIUlktZjA?oc=5",
+    "title": "Two students from Erode win medals at WorldSkills competition",
+    "title_ta": "",
+    "summary": "Two students from Erode win medals at WorldSkills competition",
+    "summary_ta": "",
+    "date": "October 6, 2026"
+  },
+  {
+    "id": "ero-oct3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORm5XbnJ0ZVpiWjh0U0kxTm1SemR2dXk3aHRCRThCbGZVV3RnZ0syNzFUSTVTOWEyT3Ewb0Fob2cxV2Jlb1hYTVFvQWJ6NTYwUm5Jal9hLW1UNEZmS2pubG9DTEdXMVM1TTBvNkY3MXQxc3hVNzZKN25VRVdHSi1CZnJQeW1Hb3dLVnFFTtIBmgFBVV95cUxQSzlHUjltdzNqRVE3YnRyOUt4RzNzdmE1c0lGM1NUUXNuQWJ1bG5vS294c1hKMjBaR0tvdUJDbmJUWUFiczFqcFJyQ2xjOHVXTTNLQWFXM1dmTl9odHNkQ2VXc2lpY2NJQ3pfR3VzdDM4UnltUU0xd0xObzEwSTNmcS13SHdUclFjN3dxTHBXMGFncmFRQTZNMF9R?oc=5",
     "title": "2 held for Rs 1,418 crore Erode investment fraud",
@@ -22,29 +46,5 @@
     "summary": "Rs 1,417 Crore Investment Fraud in Tamil Nadu: ED Arrests 2, Finds Money Routed Through 100-Plus Ban",
     "summary_ta": "",
     "date": "October 2, 2026"
-  },
-  {
-    "id": "ero-sep29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlNuV2U4QzdaZlZMTXp0Y3RESXIyMHVYajQtZUVJU1dRckxiRzRUaGZKdkNMNDRVY1FmU1lBUjBBeDFhMmUwNkZEcFRRU0FyZHRSUlB6eFBSc0hGQWxxVDlsQ1B1SFZYNGViakptMnJMdHJ5SlpJR2JBOGNYUXVrZV9RN3E4VXB2UW1Qb05yQ0plWnNLcmlUYVk3c0w5ZXZKWl9pbVNhVVhkVlhONlE?oc=5",
-    "title": "TN: Heavy rain likely in Erode, Namakkal, Madurai today; evening showers in Chennai",
-    "title_ta": "",
-    "summary": "TN: Heavy rain likely in Erode, Namakkal, Madurai today; evening showers in Chennai",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "ero-sep28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT2lkY0hPVTJYQTYtamQ3bElYZGcxWmQ2SE55cWJzWThyWHJydlRSVWVVN0RlcFl2Y2NlYUR1Q3RPTkpWYnRnOXk2Rmt5dzZOR1NPNDFLZUFWdWdnQ2JGZGlRVzV0QXhNRGMwY252aWwtZDFkYXI1N0Zhb2dZYlYzanhMZjhudkdCRWxWU3JmV3dsX0xmTE9Wc21oMjVwLWNJc0VRNmU2WV9FX3Z4VGs4N2VXeFBGNTFYenhTaDFWUzZSSU9USndnMmNrVGR6WnFXRktqS2o3c3dDNFJtWXdtTnJMMGzSAbQBQVVfeXFMTUhGbkw5S216ZGdZWUQzejlyV3R5X1RscXcyNGhtYTJ1LTZFUGlFc3hNUkhhTkhwSVFwZGdlLXd3M3dOUEk3bklDSjFNUXZXZkdxa1VuaFhmUURLUXFzelFPSzVhanZQUFNDZmx4dzc1TktPOGZkX2YxdldPNHp1aGFmd3JEQzlreWhmZEJRZnRpUDM4bFJzVTJtc3ZtbTQ2bVlpSTRjZ2dzandJNDJLYkdmYmFf?oc=5",
-    "title": "Tamil Nadu: 7 devotees stranded in Palamalai forest in Erode rescued",
-    "title_ta": "",
-    "summary": "Tamil Nadu: 7 devotees stranded in Palamalai forest in Erode rescued",
-    "summary_ta": "",
-    "date": "September 28, 2026"
   }
 ]
