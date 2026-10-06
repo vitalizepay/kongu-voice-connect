@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-oct4-001",
+    "id": "tir-oct6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRFFxUWsxUVdybDh2eHY2bnoyR0Vvd2N4U251MFdZSF81cWt5ekVUYS1OdTlVNldFWGFOMHRWSFJOSVBfbVhHRzJWUzhSNmJVM3phQ3o2SVRjUklKZzFhMDFNOWZVY0plUmhMNFZHdTRqRU9qTlpjUEh4X1VBWW02YUFXaFRIcnZGelI1Q2VYejlWcVNiMmVQb00zenBIY3VjWTJTZV8xMDZ6c3BFUkZQcjNIZk80cTBDRHotd0ktbWxGZmVZVEdOUnl4RUJwQdIBzgFBVV95cUxQRFFxUWsxUVdybDh2eHY2bnoyR0Vvd2N4U251MFdZSF81cWt5ekVUYS1OdTlVNldFWGFOMHRWSFJOSVBfbVhHRzJWUzhSNmJVM3phQ3o2SVRjUklKZzFhMDFNOWZVY0plUmhMNFZHdTRqRU9qTlpjUEh4X1VBWW02YUFXaFRIcnZGelI1Q2VYejlWcVNiMmVQb00zenBIY3VjWTJTZV8xMDZ6c3BFUkZQcjNIZk80cTBDRHotd0ktbWxGZmVZVEdOUnl4RUJwQQ?oc=5",
+    "title": "Tiruppur dyeing units in crisis as raw material prices go up",
+    "title_ta": "",
+    "summary": "Tiruppur dyeing units in crisis as raw material prices go up",
+    "summary_ta": "",
+    "date": "October 6, 2026"
+  },
+  {
+    "id": "tir-oct4-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcUlLeTk3ZFIzM19vYXZ5d2R0N3k4MFo3R2pIYVprOTVNcFdqSmZ5NTlaQVVscTBnWjVUWTE3MHFKY0ZkRU1Oc09PX2hWRDNqZ01MWHN1eWp6NFhRT2lSWFhreWRGZ1hTS3NaUnVfUFZyUHkwRTdLN0lDZTBPTEEtc3dZQjdzMzFFZUJIWUFFQUhTUkdYeVltWC1VZ1BXaE45NndsbjFSUW1HOVJ2ZzhpeWhHM2tYSXJKV01ndzRiYllHQlNxaHFiQ3haMExydzItckwtUm54aWhOMTJ0NHNWajRzMGNGemZjM3NIcTZzaFRaSndkYVQzOGl2VWlKZVBYTWlMag?oc=5",
     "title": "Tamil Nadu: Udhayanidhi Stalin booked for allegedly involving minor in poll campaign for Dharapuram ",

@@ -1,8 +1,20 @@
 [
   {
-    "id": "nil-oct1-001",
+    "id": "nil-oct6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFg1dTA4Q0lZR2hFajlpSmpzc3FiWGs4SmRoelkyZ0I2cUtHSkhEM2h1MlFPbVUzeDJzWHdweENBSGh0QzV6VFRVRWQ1Q0VROWVLb2FOVlAtWno1S3lxcERIRVRkRW1CZDI5WGxqVl83dTl6ZExyamdLWXQzakJpV1dkYjFGNFFXOGM1dzZYVXhNRDZGUkxQTWFSWjJDQXloWm11MzJCLU1tQTN3X3fSAbMBQVVfeXFMTlFxamNyWVdiaG15OG1tcXNVTWVKd1VVSE1JVUlIcjd5RS1ZUF92VFNMZXRranFWSnVmWmZRUTVFZURTMGRBVndkbFhORHQ4b25Zc1NFRkY5T3RLazVOSTR3SjRxZEVzRVNTWU8xdHVjYmFjb0g3M2lDb1NHVUt4aTRkMGM2aHphQnJNbFdnWHlOcTdJSGZjTnoyWG5UY2pXNVVKVExVdzBFb1NlZzhlUkhUQTg?oc=5",
+    "title": "Heavy Rain Pounds Nilgiris, Especially Ooty",
+    "title_ta": "",
+    "summary": "Heavy Rain Pounds Nilgiris, Especially Ooty",
+    "summary_ta": "",
+    "date": "October 6, 2026"
+  },
+  {
+    "id": "nil-oct1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXVJazBqd1VqalE3Vk1adW9SdzBjbE1sVUdTa1BiVGdpXzlnNUhUbm0wakdtcGdHMmMwRTFOenloTXBhcElmbHdsenR1YTN1dkZFMTNqRlRRc3BnQkdlLUl0UkpqOXFKdkZEbDl5QjRCQ3c5NVI1ZE9EVWJ6RjROSWpndmZiR3YxTXM1TFl2UlBPX0Z2RTJzcFZLZGJjVF9RblZVVGZGRG9USFlDR0RzR3d2UVdDdHhxd1hrX0Y0MDYxeno0TVpVVEktdElmZ9IBzgFBVV95cUxOSXVJazBqd1VqalE3Vk1adW9SdzBjbE1sVUdTa1BiVGdpXzlnNUhUbm0wakdtcGdHMmMwRTFOenloTXBhcElmbHdsenR1YTN1dkZFMTNqRlRRc3BnQkdlLUl0UkpqOXFKdkZEbDl5QjRCQ3c5NVI1ZE9EVWJ6RjROSWpndmZiR3YxTXM1TFl2UlBPX0Z2RTJzcFZLZGJjVF9RblZVVGZGRG9USFlDR0RzR3d2UVdDdHhxd1hrX0Y0MDYxeno0TVpVVEktdElmZw?oc=5",
     "title": "Consumer Forums Want Better Oversight of Minibuses in Nilgiris",
@@ -10,65 +22,5 @@
     "summary": "Consumer Forums Want Better Oversight of Minibuses in Nilgiris",
     "summary_ta": "",
     "date": "October 1, 2026"
-  },
-  {
-    "id": "nil-sep29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGV5MGozbDRNZ285NGFnTWt1SUtRQk11czdIa3JHLWx3dkpSTjh2Rk5ha0paMkdjZmgzeXFZV2dqOWdTWUdxMEloNW9qUmRaWUN2cjVYS09oVjVTRWUzcm83OEdaM21uaVZ6eGxlSU1UNExIRUlWQ21LZW9IZ3ZkMUN2NVNJemVScjRNT1NIRHpaMzNBT0tkNDZRU0NuRDJuRmNpUEJHaVpKUmJKWHhTMXE3Y9IBuAFBVV95cUxPQ1UxOTliZ3BqX0ZCWUJKd0l6OGRtNFFPNG9HeVZuNTF2R2ZHbVpUWDhYbzBjZGUza05xT3p4V3gyWF9aMWdaREdTY3I1ZjZ1SUh3U2NMN0w3RDYySmZ1R0MxVV9xaVVtRWVCbGp4ak5zYzlzMWxaSlJORGU3bmtnSUExWGcwc3JYbmxReGI4WDlKd0FpQmJ6OWMtRWhoX19tcUNUWnpTNDR4XzNuS3lsbDBVNkRtakZF?oc=5",
-    "title": "Ooty: Sizzling September In Cool Nilgiris Hills",
-    "title_ta": "",
-    "summary": "Ooty: Sizzling September In Cool Nilgiris Hills",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "nil-sep29-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1VWN2Q3SmxlZEkxazMwSnB5LUgwOVdaczBSenhWQnNpQ2dCVkRCV0pNN1VfN0NzNWdYcExqVnI5U0NjYXlaX09RbUk5amR0NW9tQTNPNnl2Zm1iNVNERTFNOGk4V2szNGJ2bzVvblJYWmtEQVQyZ0VaNHN2Z2hUVlpNWUR2VHRLQTQzV19qY2ZLSVRUa1ZjN05fbFU3QlJEMTBJQmc3aUNvSFhTM2VWTEJsSdIBuAFBVV95cUxQaEhCX1RWd1Qyb3U0ajJ0YzBzOF9GQl9WaV9Od3RZUUpIdDM2MGFUQmhwempKZWNzNEdLMG5ZaFlaa09lX1ZJYVNhSkJOS0M2dXBYZ3pnZHZIb3J6WFVXLVRDOWVYV3Fyd3lEVXZEZTR5MWZpYjRhVThyYXFSaHpnbmcyZ0MzN2NLX2stWTlvUnlaQ3FWUzdaNm1UUXRzbW9aNFMzUUlfRDdQY2RLRjdFV3dWdmRIMHpz?oc=5",
-    "title": "Autumn Rains, Blooms Charm Tourists in Nilgiris",
-    "title_ta": "",
-    "summary": "Autumn Rains, Blooms Charm Tourists in Nilgiris",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "nil-sep29-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjFjXy1Mam4wOEdaZzVydzg5dWxDeE9Hc0VLMEtrTTNnWkpSejBpYko0N3dKbjRXSjFCS0ZFS3VnVTVHRWVOM3FZYWVXbUpTMHktVFJqdHI0N3RIZDFKSGJ2bURwOS1RS3NqNllPZGg2cnpEMms2VkpxbVNQSTJXaDltaWRVWDRWenFUdWQyY0FIeERHekxITWZnWDNWRGJLTUw1d0pEOUFyMVFxbVI3dGhuT2JNeWpPZjlwMm1YSXFndEdOWWtR0gHMAUFVX3lxTFBCRFVLNDlnODE1aGkyWHpBTDl5dDRRVXpOMTREOEo4eGlYWEhOZkdwTXlIalhQdzBiSmE5UURVbUlqMzhNMW1xYVIxbW1TWXpnQkF1NjdyUmZqSkd0aTJsU29mSDBmMmR2aDNZOEZOa3Fhb05EaDd0Mm11Y3FZZ01RSm9yWU41ZkdmY2d3d2FoTUtsWTBCTjZ4MndHY05iQi1kVVd1OVEtdE1iWm8yWjd2WG1jbjNUR2RmYWhRYkpFZ3ZpN192aWdBWlZIdg?oc=5",
-    "title": "Thaimaman Thanga Mothiram To Be Given to 615 Nilgiris Infants",
-    "title_ta": "",
-    "summary": "Thaimaman Thanga Mothiram To Be Given to 615 Nilgiris Infants",
-    "summary_ta": "",
-    "date": "September 29, 2026"
-  },
-  {
-    "id": "nil-sep26-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUloZlBEd3k0VlFmZjltcWJqR09iMlBhSjZya3JaM1VaRGg4YWJQa2NpRzRFOVlfcWwwNUZiZTZDenE1MG1mbVliaFRLWm5FTmg0aktzYmJCM1pIaXZiZS1MZzFnVzJFeFRqMmIzZHJPQl9xNWU1SDEwdEVvRnU1UFNaeWR0cjd5NE1tU1ZXRlhzdkRvNjFHZzR3RUd0YjhHUGtjMWNGdVRzbEQza0N2VNIBsAFBVV95cUxPRUloZlBEd3k0VlFmZjltcWJqR09iMlBhSjZya3JaM1VaRGg4YWJQa2NpRzRFOVlfcWwwNUZiZTZDenE1MG1mbVliaFRLWm5FTmg0aktzYmJCM1pIaXZiZS1MZzFnVzJFeFRqMmIzZHJPQl9xNWU1SDEwdEVvRnU1UFNaeWR0cjd5NE1tU1ZXRlhzdkRvNjFHZzR3RUd0YjhHUGtjMWNGdVRzbEQza0N2VA?oc=5",
-    "title": "MLA Plugs for Smart City Scheme for Ooty",
-    "title_ta": "",
-    "summary": "MLA Plugs for Smart City Scheme for Ooty",
-    "summary_ta": "",
-    "date": "September 26, 2026"
-  },
-  {
-    "id": "nil-sep26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGtkdTBnOUhWZmdmaWRBYkhYaDdweHRjVFVQbE10WmttUnRvdmpqVWpNLU96bFZ2TGZUMkZXOVhJdTE0ZEw0YjhiZ1hRNmdlaHhpZVhmaUtycnd4dGNxSllnckRWbmszVVdaVXZpM0pESUxFbFpGcjlSbjRIdnpZUWhLQUJuc1J0OXRHWVNEZ1RFZ0tlTkxjVmZ5bjhqVEIxY2F5d0ZR0gGrAUFVX3lxTFBVNTJYV3dFUmFSSEVKelFlRzZOdjR0LWZsdmtqOWpRSkZLc253Z09LbWdqVXh5NVU5eDMzekxhNVlGODJ0QVdYQzRpUEFHQ0ZOb3pXd09hQnh2THlNM3RfRU50VDBnTjN3UFU0eWZaWi0yb3ptNE1PVktfY0p2R285ejYxQXFMWVFKRjk0bkdfYjFtQVFoWTdBNUpmcURleUJPR1JPNUlaaFJzUQ?oc=5",
-    "title": "How Nilgiris Came Under Tourism Gaze",
-    "title_ta": "",
-    "summary": "How Nilgiris Came Under Tourism Gaze",
-    "summary_ta": "",
-    "date": "September 26, 2026"
   }
 ]
