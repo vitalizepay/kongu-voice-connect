@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-oct5-001",
+    "id": "kar-oct7-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQzkzenA0NUxnZ2tHTUZaZXloTnJCbFB6WFhfbGdaS3FhLWM0ZmpxcEpwbDlGVzJxTlk4Y3IzQlpnbndKb0tPWWZzYVpqVi1qMm1OeHZIRmdaUnR2R1o0d0xpRXFobFFEcE5DXzVxZ2dSZDdBaU90QzdPX1ZqLVhxcE9BWm1BNXRxbFdOSHA4THpnTU4zSHNtZzZUNi00X1dkVXBFcDh5U2k2VnZEdHFtVTh6cmtZSURTU1BtOWwtaDBNTzdrUkh6anVYckR5NFJzSUHSAdcBQVVfeXFMTVVXcXdfeDBoUEdrS0VQSTk4YVdJckpRaC0yTFc4OFdaM0VBN2xsVXdxYzh6WGZ0b3d5YW5IZU9ocm1HUlFVcndmNkd4LXU1ODJJTjNMY0JNeG51NVFQZEt3bVB4TnI2OHZNYjZNOEZqeDNYR3VLcDhWMWdiemhpZFRUUU5LaFR0bkxqQzVMZFNSZlBYRUhVVWhNdUpQMV83ZU1DTFExdE0xcWFNdk9hb1JkR25CMi0xNW9XTnppUmFLMVcwN05zNEljRFJ6Y3VNQ1hKeFpGR0k?oc=5",
+    "title": "Green, oily Cauvery river flow at Mayanur in Karur raises alarm",
+    "title_ta": "",
+    "summary": "Green, oily Cauvery river flow at Mayanur in Karur raises alarm",
+    "summary_ta": "",
+    "date": "October 7, 2026"
+  },
+  {
+    "id": "kar-oct5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSW9Bc2dkY3J3QUJ6QWV0OTlJVFhHYzJsN04xY2dzVDU3S3dhcEk5cW1TUGNMTmVNWUN6RmtpMnJqTDh1UTd6TGpvZlRyR0xEczdyNjR4VkkzQl9IdXh5eXYwZ1paODRUaW81X3VHNEVaWXoxaGZpbDVCdGoyQ0k?oc=5",
     "title": "Velliyanai, Karur, Tamil Nadu",
