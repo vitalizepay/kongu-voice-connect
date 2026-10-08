@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct7-001",
+    "id": "coi-oct8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdOY0F6aUNScGdjaFNOTVlPQkVtcDY0ZGotUFR4dVhCMVN6SXZiWnJRTjNVYU5fT1FrRzFMX1lmSGJBbEVDakIxQm1MWENZYXpKSlJOdjZCamREY0wtQjllLTY2Ny1jdU1lYnZUV3hYMnF1bEhqbEpDYnVLcHktSWc3YVFTem11c3FYRWtCanA?oc=5",
+    "title": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
+    "title_ta": "",
+    "summary": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
+    "summary_ta": "",
+    "date": "October 8, 2026"
+  },
+  {
+    "id": "coi-oct7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTZMeDZnQThNZzlxTTR3OW03QU51UGxkN092MngzeHQ4Smh5ZjRhRUdpa2Fwajk2SEg0M0dYdkVBX0F3ejBxR0hzclctV1BBT3BRUVdhUVZSUnBaYVFfZHFPVGJfbVlzN1kyOENWSWt2d2RYdXZUOW5aVzdIdy00bGRacUZFRkR6Z3pzUDAyamF2UW04Qjl2ZnhDeTAyUUFXZ0UtODg4YVVwRlF0NlprU3VuM2Q0UTTSAb8BQVVfeXFMTmFkWkFQTUMyRXkzQVhSR2VjY2RkTkhmVV9EeF9CMVZNc1BnSDk2eXo2SDBZRUNoR2I5NVpKVTFyb25TRS1PcGtpNlFWSlFEMUVZcUVRYUNBSDFyMUNleFgyZEwzbkZ1VHMxSFN0ODhpaGQ5WThESFdaaUxlZWJfXzdKSVg0bWZhb0lhX25jVTRReXlqMWtncWFYSFdkTF96YzNFVGE1RjRxa0NCQlp2SWhQSURxaGlJNjZfZ2dnRGM?oc=5",
     "title": "Hindi Words On Coimbatore, Karur Hospitals' Medicine Covers Dropped After Row",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
     "title_ta": "",
     "summary": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
-    "summary_ta": "",
-    "date": "October 2, 2026"
-  },
-  {
-    "id": "coi-oct2-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2FPX2M3dWstVUJxUzdmd3dpS3BiZ1lJYUFvbzlmcm9Na2lTamltdzdtYzJkdVVIMzVNR2U0TS1iRThtR2hzQ3BOM19SWjcwdGd1b1VRc3JVcGJqamJaNS1weXROeE40bXFjUUxRMXlXaU9jelUxX1pqTm1SaFFwdmdtV25PSWdaem5ucjBnQldUQ0MycEU3MTRUR0ZUeGw0TTh4R1FkRTlIRVZy?oc=5",
-    "title": "Ducati enters the Coimbatore market with an official Service-Only Workshop",
-    "title_ta": "",
-    "summary": "Ducati enters the Coimbatore market with an official Service-Only Workshop",
     "summary_ta": "",
     "date": "October 2, 2026"
   }
