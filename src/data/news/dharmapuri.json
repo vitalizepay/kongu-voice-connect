@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-oct3-002",
+    "id": "dha-oct9-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUZMcnllSE9PakMxcGMyZ0FCSXY4M05pLW83SUNNM0FYeEJhZ0RiTmpIbEZwaDNIX25jcm9LMnoxbjJsRGVMZml2eDZXYk5MSmpIQ0VvcVlxZVd6V1RkblJTY3FTaFRLN081OTZZYXBfMzJSZVIyT0hsNVhnc3lLYjRZX2I5V0RhbTZaSzJWVmRlUGlKdGxFdW9mbVFKNF91VkJYYkVOUXFlbmc1WFczeWVXeFRqMm1yY1JFbnVsaUJqaFVPZ2ZEQVVYU0puUHQxWkJReNIB1AFBVV95cUxQMUZMcnllSE9PakMxcGMyZ0FCSXY4M05pLW83SUNNM0FYeEJhZ0RiTmpIbEZwaDNIX25jcm9LMnoxbjJsRGVMZml2eDZXYk5MSmpIQ0VvcVlxZVd6V1RkblJTY3FTaFRLN081OTZZYXBfMzJSZVIyT0hsNVhnc3lLYjRZX2I5V0RhbTZaSzJWVmRlUGlKdGxFdW9mbVFKNF91VkJYYkVOUXFlbmc1WFczeWVXeFRqMm1yY1JFbnVsaUJqaFVPZ2ZEQVVYU0puUHQxWkJReA?oc=5",
+    "title": "Tribal residents of Dharmapuri to get road after 10 year struggle",
+    "title_ta": "",
+    "summary": "Tribal residents of Dharmapuri to get road after 10 year struggle",
+    "summary_ta": "",
+    "date": "October 9, 2026"
+  },
+  {
+    "id": "dha-oct3-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPak9TV01xa0EydlBSV1lrWjVOdWdhRDBwZ3RJVUctYWdIZUR5aG0xWTE5LUhJbllZZHRRZV9adDVDbHYwNHNieE52R3VENzBFa1pMVE5ab3BZV2xQQmNvMU1JWml6a3BuaDU3RDhrcUhHRUVkWnZ3NXgxeUhkXzFYTmI5U2pJWTFWOEo0YWJ2QTNrMll6YWxvMHdXOGgzU0twTHdUaVEzbG1YRkhKYkhEaFdaWmQ4cnJvM0NGSl90YThQc0pXb2tFLTFMUHrSAdwBQVVfeXFMUDNwUUxQeUFFSU9DV1ozcXBBRGQtdjhQblRPQWIzc2gxV2RTWjV6b1dyNnZoY0Q1aUJLdlNJbjY4Y0VXUHluUjRmVWV4U2swWnl5aXJMS3IzMmp3OTRqUU42dzVTMnVzMmw5OW9fN3MtUVRBQlFRcTVoTDVYaHRCOWpMYUlvVERnclotaWdfYkFOWE5ndmdUeE5feU5TT2U4ZV9XMml4Snd6Z0xiQUVlck01MTNPRHM5bkhUeVh1SmRWQXFQWVctaEJPN1dYY3hwdnFjLW9FSzdyRUFiZA?oc=5",
     "title": "Land Acquisition Hurdles Slow Rs 233-Crore Drought Relief Canal Project In Tamil Nadu's Dharmapuri",
@@ -22,29 +34,5 @@
     "summary": "Delay in Ennaikolpudur project irks farmers in Dharmapuri",
     "summary_ta": "",
     "date": "October 3, 2026"
-  },
-  {
-    "id": "dha-oct2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2hObXQ3Zl9zajJiQi1RWHlBMC1KV1p2alM2bzN1aDZ5b1JRbDJmaS1xdjBrQm8wWHdsVFhwY3NPc0RaVjhDOHBndnJHeUJMNkEwUHVWM3VNVDlMWE85bGlIeUU4Vlp0cU9vZ05JSHZLUG9KY0JlMTZvMk1uNmlzOWNWVXlmRjRPdG1JQ2ljOHBjVTUtcDRoaTIwYjZ2UQ?oc=5",
-    "title": "Dharmapuri District Faces Diesel Fund Delay Affecting Forest Department Work",
-    "title_ta": "",
-    "summary": "Dharmapuri District Faces Diesel Fund Delay Affecting Forest Department Work",
-    "summary_ta": "",
-    "date": "October 2, 2026"
-  },
-  {
-    "id": "dha-sep28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkNPWFlTbzE5LUNMcXpQNjNydnZVdzFlejFxc0RQWmROT0d6TTAtZFItOUpnbS1LX0VnTnVDV1pCUnBqSlhTejE5NEVhNC1FbHJaYXlvcXVYRW5faWU4Ujlhd3VwNTFlT1FPYUFORHRWNlVZbG5hRzY0cWZGZldvX1RCaGIxRTJwYWMxUng5SGQwV2xvYkdMdF9mMWhydGtUVnVMVzNHT3Zzd3NMd1NjY1dFZ3liMzV3YlY1bmtiRWlkRzd3X3BTdHpKcmpBbVM1dVZxS9IB2gFBVV95cUxOcUVfNi1FS29XREVjaHJFdUgzaFc4VXZqYm5KUG0xRmRCYzAxREJKZkluM0djV0JRaEhpZ0tzLWxSbFo5dE9tMGxmZkI2WmhST08tRi00aS1NWGY5c3NXdkJoTV8wY3N2ZTlNeXZLOXI1alFhTENtcHNMbUE2c1prZjJKR3BzM3VhbS1iaVVzY1RFclMzMGw5cTBLaW4wUnpXaHZCbUNwMTAyY2lnVFViVkt2bFhBZ3hTbW9WT1Q1RHBvamtaWTc3a3RsNUtLUHB5QXZFN29vTHQtdw?oc=5",
-    "title": "ICAR-SBI Trains Tribal Farmers from Sittilingi Valley in Sugarcane Tech",
-    "title_ta": "",
-    "summary": "ICAR-SBI Trains Tribal Farmers from Sittilingi Valley in Sugarcane Tech",
-    "summary_ta": "",
-    "date": "September 28, 2026"
   }
 ]

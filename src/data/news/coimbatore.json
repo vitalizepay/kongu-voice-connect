@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct8-001",
+    "id": "coi-oct7-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVVCZWtSdUtwZmsyMTJvNEI5UUt0enpVamFScElVWHlYZnh6UHBYWnpid3ZxdHhNSklYSUlrRXR5OTViNlBPVTlFWWFiSTZ2NkFGZEZQWUVNNU1TWWowUFRRZE92TThKZkc0bV9DSzRhaWtUSTBGRXpNT2pSLWczZi0tVlhDWm5CMXhlNkIzaE9kVjRXaHg2RUt2d0lxR2ZYdjBaWGRWaUFHVkZNY2o5TXc0ODVkV1E1WDhiZFpRZTh4N24ydzhMN2JldUw3T0p4dktrdEtDOEI3ek9KVUY3aXNpcllyV3JBb1BWdtIB-gFBVV95cUxNcjNtcVpyQkVNOEZqNVBfX1RpSmtQOHZ5TFNKN1hNbDRJeWFNcmk3dVJMTlZxOGd2c2RtR18zS2ZqZHdrX0Y5ZVNocnZ4Q1VHandYN181N3dkdkVLTlVXRFVqVEhwWVFGSDMxUHY3ZUdxMnJtMFNUR2x6R0NGVHBHd0dlNTVPbmNqbnp6ckhWQlF1enlOYW9ZYmZIbGRTdnVfem5ZUERRNVpZVFBpdG40M2FRMWc2b3dEZFVMenNlUlJkbThYN0syWndSU3RJTk9oeURIclEtUk9zdV84cE5kQ09FaVNTeUI1dl90SWdZU2pBcEFkdzRqbWpn?oc=5",
+    "title": "Hindi words on medicine covers at government hospitals in Karur & Coimbatore spark language row",
+    "title_ta": "",
+    "summary": "Hindi words on medicine covers at government hospitals in Karur & Coimbatore spark language row",
+    "summary_ta": "",
+    "date": "October 7, 2026"
+  },
+  {
+    "id": "coi-oct8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdOY0F6aUNScGdjaFNOTVlPQkVtcDY0ZGotUFR4dVhCMVN6SXZiWnJRTjNVYU5fT1FrRzFMX1lmSGJBbEVDakIxQm1MWENZYXpKSlJOdjZCamREY0wtQjllLTY2Ny1jdU1lYnZUV3hYMnF1bEhqbEpDYnVLcHktSWc3YVFTem11c3FYRWtCanA?oc=5",
     "title": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
@@ -130,17 +142,5 @@
     "summary": "Women’s Free Bus Travel Expands to 2,108 Buses in Tamil Nadu",
     "summary_ta": "",
     "date": "October 3, 2026"
-  },
-  {
-    "id": "coi-oct2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0M2N3VTY0JLaEZNdm0tY2hBWXNJX3NVUndTcDFpd193TkZfUjI0V2VrbUdKMS1IWU13V0I3c3pJaWV5TUw0YjZ3cTMzWUJXUE1fUF9UMjhKNk5DU3ZJczN5SzVPTERhV2tJM08zUXBRUjBQVTFiRmV1dUdIV0l6TjZ0VG5YaDY5TDlQby1Mb2hWZ1Nyc1FNN1ZMNDJqYXdYcEFwTmlvMUdiUjNEVzhiYlJjclpBdXZMSWpZQ0g0U0ZwU3J0ZXNlWG9JQjVKZGtLRjdGSjh5cnlzb3p5VVHSAeMBQVVfeXFMT2prcnQ5WWdDQXYyUmRDS1I0ZWdjeTJfR3V6VkwzM1k2MEhzYVBWV2pYdS1RcThUZ1o5THpULV9aYzllbHNpRGZvUWdNbkNMaDdQYUlNV3FocEJzWkZUakdRUlphcDhDUk5Db1Nsd0pZamMyV2UyQ0FlRVhYbXBvcUFsOUFTaGt0aVZONndhWmE4TXc3OU5raEc1N0hERzFrQksyclFqMWRLV2F5cTZVRlBSMmhhQmd4QlFBQkFiQ1dWQ2tSUmZpQkFEM19SeTRlLTNTNDN5SWVVREtxbEF3UHhQZVU?oc=5",
-    "title": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
-    "title_ta": "",
-    "summary": "Tamil Nadu’s economy heading towards abyss under Vijay’s TVK govt: BJP",
-    "summary_ta": "",
-    "date": "October 2, 2026"
   }
 ]
