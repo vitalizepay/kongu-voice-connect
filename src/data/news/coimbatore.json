@@ -1,8 +1,44 @@
 [
   {
-    "id": "coi-oct9-005",
+    "id": "coi-oct11-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmV2SHpKQjlSMzBtQnI4cDZkN3pSaEppRV9SRFlRckJFcjJpekxHbl8wcXRDTzdTbDZqUnVOTFBSbGg1RkNmX3BZN3RINXdSdHZlUUVkYlRvU3hWYWNRV1NCb0ZIbU1Sb1dFWmtFQjAzMVllSFc2RHhOYUJPMzQwbEVHTk5FUE1zaFljdUZnbTRtOFBVVHhQX3NnYU5Cci10eEQ4RGEyZzY0Z0VlbzNvWnllX0l5Y1F4LTNyTm9xeC1PM24zcGc5Y2FBU25WUdIB0wFBVV95cUxNdi1OcFdrUEMxUmZoZzdJVXlKQjhZUHp0WGZuRHlObWZIT2tiUEV1dHlBSktySHNCOGowOU1KVlkwS1ZfN1czdlB5VURzb1FwOUdZaDc4dVUwTEktSW1ZeDdmQ1ZFMXNyLW12RnlTMEpDTDBCZHUtMGxGbUQyMmVZcVJnM3ZBOU1ZT1NRU19JdGsyRnhrMGZuRnhYTlRTdy1xRFBNRDBZWVVFczlncWc5YVgtNzJSanVzZmhERXN2LWVMQ2ExeU5jUUc5QkYtYjJWQ1J3?oc=5",
+    "title": "Rise in copper prices jolts Coimbatore MSMEs, orders hit",
+    "title_ta": "",
+    "summary": "Rise in copper prices jolts Coimbatore MSMEs, orders hit",
+    "summary_ta": "",
+    "date": "October 11, 2026"
+  },
+  {
+    "id": "coi-oct11-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OU2hGWlY3QjhNSThibG94cVQ2bXk3M0tMTFg5Q3VFbEJLUmFTczkwNkJTaXE0RUozTnFIc1c3bDZwQk4yMWpUNzY1U0dtN2lJYi02amJqQmdtdTc3NnpLOTJFV2p2MHRyMDdMX0pueUNsOVkxUGVZbGVFRkdxZw?oc=5",
+    "title": "Tamil Nadu CM Vijay Demands Rs 5,110 Crore SSA Funds, Metro Rail for Coimbatore and Madurai",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay Demands Rs 5,110 Crore SSA Funds, Metro Rail for Coimbatore and Madurai",
+    "summary_ta": "",
+    "date": "October 11, 2026"
+  },
+  {
+    "id": "coi-oct11-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVThUTWEwOHRnRzVYYlFSVnpHeThrd1dqcmVISHB6MmRyNjkwU2E3cHVCZDkzQ3RrUnphMV9SRFF5WEhGMzVsU3BVYlR4WlRobGJxQkJmOFJULVdHRUN5cG9wR0ZsSTMxQTdvRVF3c0NXUUFhcUpKZGMzNXhoaEZaUTZmRkNBTmZjQUY0Xy1ELWx6RzhaaDJQLVBianVWSm42UXRob09TNDZGT2JWY0FDOFBXS3JIWGdUX3VlbnJPR3g3Znk2ZUJBdW5GUi15US1zWDJfa25YM29QclBHV2hxbk5SWEJXV3B0MnR5VUVucE9iUDg1NG83Y3BHRFJ2VjEzUVhNODdhNnZpVDM1aDJLdHBWQ3gxY0ZoRHRRaXFKVWNJVVBVVzhhWg?oc=5",
+    "title": "Vijay urges Centre to release Rs 5,110 crore pending SSA funds “without any conditionalities”; seeks",
+    "title_ta": "",
+    "summary": "Vijay urges Centre to release Rs 5,110 crore pending SSA funds “without any conditionalities”; seeks",
+    "summary_ta": "",
+    "date": "October 11, 2026"
+  },
+  {
+    "id": "coi-oct9-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmx5S2l2MVdqamcyejllNVNpcVQtVWxXS19iZ01ROXZMVDNfcmVMUWxKbW56b1B2TUpUUm1uRlU3bUFib296Z2hneVNUYlUxZkE0TWVsWkkzUDJjQUYzYklZc1AtVjA1QkRKa1BQOGk2X2xhWGpMTV9ZclJPUHpodV9OLVNhZzhYRHRr0gGYAUFVX3lxTFBPei02X3dndnllUFQ0ZElucEVSeGt0OUQxam81N1RNWWt5RDdZa2xjeng5bXIzSzBTUDNHY3Z5Wk96N0lXSFg2RnNZN2Z6Wk9XTFlTRHFHTUZRUURFWGxfX3ZMQzd6SFdidFdrQ1VxT0U5QnloOWdaM2ZPQWU1MTk2T3RpMUNxcHNiWTk4R1QzdXJBejNMNlJN?oc=5",
     "title": "Conman held for duping investors in Coimbatore",
@@ -106,41 +142,5 @@
     "summary": "9-member gang involved in murders, robberies across State held in Coimbatore",
     "summary_ta": "",
     "date": "October 7, 2026"
-  },
-  {
-    "id": "coi-oct6-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSnIwM3hMaHR1YW5ZT3dqLTdUWTlEaTdzRWZ1MXpEZS1UM0NqMU1sVWdUUGtueWk3WFd5TE80blRwbFNVSEFad3pNSW5jaGJlenFER0RPQW8ybDFVQkdnRUVrYXBya3d4ZWplMDhaeFdBcHNZTVJfMUdMOGkwTzBpNlVhU0pmTkVrOGlCcU9CQUduM1VLaFRBTmc4SmVLNkFOb2U2NnJtb2p2S2UtcHZKNy1BbjR2aTR2LXJaY1dOeFBhVy1sMlBOaUNRNE5uOFpTNkJ1blFFLUJIOWxGcGVRNFdIell5VWxFSjNFUWVVOVpVeURLeEx5b0JiN2Z4c1JCLXVyR0FuV3lLN1XSAZICQVVfeXFMTnRCaHdFOE94d2JUY2l1TTJXOWlJTzJ0LWwwN3dlWEZmdXZnZXhmc2RfUUY0czgyVlVLVFhlTjdRY2p0LVZCUlQ4YU5yRXJsU2Facm9NdXNaRDBEYzNOMXQzQ2ZUdmttWTdzbUNhcDQ0R3p3V1g1MHhjMkdERk5FSTJoZDhaMnFuczFVZ2Q1dGQ5Zll2bEp6Z3dNRUc2UHZDd3lydmRDSDNPd0RGZGhwTFQ5VVZUM3ptdDBrU0puSzFQTldkclZSY1RtVk1NSVJaQnJkR3NhZEJTendXUFBLdjlOYXZHX3FkZ3ZuaWdOZWFiZGRhNVRLSjlmVGNxa3ZRWU9vYThSOE9GU1pGX2d4STA1UQ?oc=5",
-    "title": "Coimbatore Medical College Hospital changes paper covers for medicines as instruction in Hindi kicks",
-    "title_ta": "",
-    "summary": "Coimbatore Medical College Hospital changes paper covers for medicines as instruction in Hindi kicks",
-    "summary_ta": "",
-    "date": "October 6, 2026"
-  },
-  {
-    "id": "coi-oct4-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd0RwRkdGNHZvZXFWbGRTSVZfRWZWNGdyY0kyVEotSVpMLXVWZ3l4anlsYTdvNjZpVE9TV2pKME1jYURMZ2tUVEhZZk1rT1N3WmF3QzNWTk1fMl9ucXdROG5DbGo3MHNCM1Yyem5ZN1JJRnJ4QkNBSXN1LUF4amxWVU9TR0dpRzZOTlp4OU1rZ2RfQmxOX0NnUm1PZnByM2FJRmluVnhfd3ZOREVkNEx3R2xTeDVIeUQyN2V5d1dlM0oxUDBicFVxUi1TLUNIaW9VZzNSSl9tb2I1bmY5OHY1RUktaW5rMUlFdGs4RlJHT3jSAfYBQVVfeXFMTkszdVlvbC1PaEhQM1Y4SXd6TlVaalBSMWtTNVEyRTJUamFkakxuanJkODloaVlnTmFEWHZ2NmNNT3NTcjI5WHZRLTdwWUJERUpqMHF1bEpCTVZpOXpnQVdVNkJLVUZiSGlvTjluVUZIbkJyRENoUEFNVy14RnlLZlJPajhxajRxc3JITnNYdWo0YklwazBpdzZHNTdYUHN1YzVaYi1lNjdEdnNVVnRXUFh6ckE2Nk80Yi1mdUdLUGpIYzhIdUJIYkgtZW5HY2d3dHRDaGE3TnBzOFpuYWs1cFp4SVE2QmNfSC1POW9wR20yZXB5eHlR?oc=5",
-    "title": "Tamil Nadu: Navy sailor arrested in Coimbatore for allegedly leaking sensitive defence information t",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Navy sailor arrested in Coimbatore for allegedly leaking sensitive defence information t",
-    "summary_ta": "",
-    "date": "October 4, 2026"
-  },
-  {
-    "id": "coi-oct3-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeWVXdjVSSVZiWl9TUkxyOE1IY0Y4SlpkeG00Ukl3dEp3N2VZLVhNSnQxbGhPNEhpS1hjdTNpTzNTN19MZmRHZXZmNWRmbHBzSkRNc25EckZDUW9zV2RySzdORENQaE1WY1Nzdm00Y2lReDNnRDlTVVZ1OHBTV1dPaDFCS3FqUVdZNjFfeElJdkJfU25RZXdJWTJIdWI0M1Q5MVBRTzE3d3NhRmpKOS1abVo0Q082MDJacEQ4djdTUVoyRzJ4SEFwSnJtN0tLWU4zMXRfakx5TXktaUpS0gHqAUFVX3lxTE45THh5aFFydnNkN2JNa3ZPekhVS3FwSUFpd19TMjJGYzdzcFl6UW1RY0RBcWo3UGcwTTN1RnRJUUx3NnJ1NGR6bDdFNnpkWGxsU1ByQ0xfeU4zeklYTXMtd2FfNnJqYTVGWkp2VmVxVWdLNU9OekozNXZBOWFyZ0ZKNTZIT3VHOERFOFJNWlc0OTJVQ1RmdzhBY05lU3R0OS0zaUx4N25jdV82c3lpTDA5bkVKMEdqa1NuRXdtT2RLVzdNNkJVazQxUWx2WDgxUDZyMlRIa1FqVmhvM3FIS3JfWTBQX01IOHVzUQ?oc=5",
-    "title": "Female passengers allege conductors collected fares after Vettri Payanam launch",
-    "title_ta": "",
-    "summary": "Female passengers allege conductors collected fares after Vettri Payanam launch",
-    "summary_ta": "",
-    "date": "October 3, 2026"
   }
 ]
