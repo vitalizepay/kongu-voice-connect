@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct12-001",
+    "id": "ero-oct12-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVE5vcjJEZEF3bDZxV29odDhXSkV0SGxRTU1uU0cyMTBfeFY1V05ncXF1UHgwRGF5Y1ZUNTFFRk1uMXhCWWlBMTA0cmhtakpGclRTaEZfRy04dFVPaVpPdl9CWUJ3RHZLUmVRNXZmeUNDd1N2Y1BhenU5dmVHZ01mYkpVTURBUnlveGxSbzJNQXlnREN3X2E5V1hpbnBYMWxTdlIxV090RllsakxlcVBHZE9aclZEQXN6YlJsVTRHZ3FJbnB0UVB4VWQ3a0JjRm5ucThDVjF3Y1FyeEtaZ1RneHBINzIyX21zQ3VLWWdjdGE5dXBPRU9FYW1FTDRlZFVNMXY2MzJlcHFsUkZUTjZJc0pNY1hZdmxmMnFBY21mVGlBVDBLVXRZYtIBqAJBVV95cUxPVE5vcjJEZEF3bDZxV29odDhXSkV0SGxRTU1uU0cyMTBfeFY1V05ncXF1UHgwRGF5Y1ZUNTFFRk1uMXhCWWlBMTA0cmhtakpGclRTaEZfRy04dFVPaVpPdl9CWUJ3RHZLUmVRNXZmeUNDd1N2Y1BhenU5dmVHZ01mYkpVTURBUnlveGxSbzJNQXlnREN3X2E5V1hpbnBYMWxTdlIxV090RllsakxlcVBHZE9aclZEQXN6YlJsVTRHZ3FJbnB0UVB4VWQ3a0JjRm5ucThDVjF3Y1FyeEtaZ1RneHBINzIyX21zQ3VLWWdjdGE5dXBPRU9FYW1FTDRlZFVNMXY2MzJlcHFsUkZUTjZJc0pNY1hZdmxmMnFBY21mVGlBVDBLVXRZYg?oc=5",
+    "title": "Water shortage in Tamil Nadu forests drives elephant to dam for a drink, but she gets trapped in slu",
+    "title_ta": "",
+    "summary": "Water shortage in Tamil Nadu forests drives elephant to dam for a drink, but she gets trapped in slu",
+    "summary_ta": "",
+    "date": "October 12, 2026"
+  },
+  {
+    "id": "ero-oct12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU25ITThNNVNzb0p2STVLUnNsSnZJM3lYc1h2SThWclpiVWlfOS1LazMxbmZjNEV2WGItbU13ZHJiX1c2UEFLTzY5ODgxMno3amRGbVloazRfeGZEbEwwYlBTekZDR09ieTU4UmM2ZzdxdElzc2R6M2tJVmZZc2N5VThGcDB3UFAwVlBOdFlpY3pDNnV0SkxnbjYzcTVnM3Nsc3hvandNRHc4RjBJQlAtSGhnakRJbHVWS2tYcXFxbXRZQ0dqWWozWGlYbW1VWHNSOUl4S2F2RWRlcmxZWVlVdTdWR2NDbGFCamUzMGJfMNIB_AFBVV95cUxNUFdZV21BVVB2RTgwVElPS1JhUnV1bUItZnN5NVZiaDVGSVFMSEdpOWZ2NlJYWndYWU9CV29CUGhneHAza0NjbGlRLWNWaTA3Y09YMXBuR21rWkVGUzZBRk94YUMySFExNHdjUzE2Y2lRN0U0NzBleDA0QzRPQU1fZEVOcmg2cmY3TnI0ekpFNEotN0JWczd2b3VBNDhMM0N5Vi1rX0lLWmp5T01CbkY2Ulk3YkpWVjlCazZ1c3prRHUwdm1vSjY3QnB2VlBpWmpvak5Ra0hCN0xmdEpORENWdUw5SXNHdnlwaXlKTi03cFkybEgyNDlIYmR6OUs?oc=5",
     "title": "Tamil Nadu constitutes special committee to find possibilities of establishing DCCB in Tiruppur",
@@ -130,17 +142,5 @@
     "summary": "Moyar river project for Thalavadi cannot be taken up now: WRD",
     "summary_ta": "",
     "date": "October 7, 2026"
-  },
-  {
-    "id": "ero-oct6-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQUNHSEpXWkd1XzNUaURYVGFNRGdxMzd3OTlxSGtreVJ2VlRkNEV4SzlhM2x5bDRKOEowWm1VWGd0QlhXdVR0Z2RpTHlDdlRONDJQb3JkRlRKb0x2YVh5Zzl2YWd4MEo2TW15SHBMU3pFMmUtMWtzR0QxLU5HZ04yTWE0OE51dDdxX1lJYi1wN1dfVUljd1lONlNyWlpTVDM3ZWhCblZ1UWp0Ty1fNHdXNmF0UlY4T0w2QWRQSWdMSlk1U2l5bmRrSlFzMmRiQ2g4WWp0WTBnM27SAd8BQVVfeXFMTTJLQ3VNem9PcHhXbDVoQVc3TmZoVnM2VzNNVkpsQ1IydVN5cGUtSnFCMzlXdVdhVXVIYWs3T0tzLUN6VWlmNEk0d0tpSnMybXN2VWlYbEtWUlh0X0NIdE43QjQ1RDl3LUZsX1NPa2pCRUJvZ1RkR0pQdEVJcmd1NGN2bGU1VTVRTlJTSE8yTVlNWmtaWFYzQzFJdkZhOTd0djg2bERBY3ZydFFiNE9RSHRDUjBybnhiWXl4YWRUUk0xYjFEV0RiakNqZks0c3NLUUI2X2xjTmd5MDlrQ1lDcw?oc=5",
-    "title": "Food safety officials penalise shops in Erode for heating milk on boilers",
-    "title_ta": "",
-    "summary": "Food safety officials penalise shops in Erode for heating milk on boilers",
-    "summary_ta": "",
-    "date": "October 6, 2026"
   }
 ]
