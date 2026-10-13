@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct12-005",
+    "id": "ero-oct13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHhkS1ZXQ252TEhjdXJmZWpwcF9LZnJ3UFE3QkxkQlB0cmYwbVYzYXdVZGZ5STFpNmdkcHpwX1J4YWNyMjlFV1kyNVNfNUtlaEt1a29Sc19rOG9HZE9KS0JIcm1EdTdhUTMwbjJzcEdLN0NTSzBxQVRrcmJCMWNoTTk4VWVobHphZHBJblFrcmJ3N1NwS05UR2wtQmNad1BFZVprYzJOUjd4UXFXWjBhY1Y2R2Q2Y3NVVGthZk5WQUFkdTRhOWdMMFFfNS1uQmcxWjVlWFhaVnVNbTNUUW1BM2xqbjhtZzdXeXdDNjhUWldIXzU40gH6AUFVX3lxTE1DZXo1NjVFLXpCUktxVE1pTlR3cXdOZnk4YWJ5UXNvZ2l3NEpMay1UZFZVMmstUTV2NFNzMlQ1cjZmTzRFQmZSS1Vvek1ILWI4MkNuOFp2OHhXX3lrd0gyNDg3YzE2NGIyNzVqMGNvV0pzdVF1czl3cGNSNHNMTHFnZURoYXI1Vmg4Qk05dXpYRl9WVUJ3NDVmRWFWUzRHMkNPbV8wbzRTRm1pa1Z1SW5vWm5Fc0FlZ21maGtFSlE4VWF1OGRlY0RsRk9OSVV5bGNFZjhQbTBZVkNfWC1YWWhKWjFRN2IxNlZUdlpERnhkQ1owNDg0a1JOYnc?oc=5",
+    "title": "CNG shortage hits Erode, Namakkal districts; fuel stations see long queues of vehicles",
+    "title_ta": "",
+    "summary": "CNG shortage hits Erode, Namakkal districts; fuel stations see long queues of vehicles",
+    "summary_ta": "",
+    "date": "October 13, 2026"
+  },
+  {
+    "id": "ero-oct12-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVE5vcjJEZEF3bDZxV29odDhXSkV0SGxRTU1uU0cyMTBfeFY1V05ncXF1UHgwRGF5Y1ZUNTFFRk1uMXhCWWlBMTA0cmhtakpGclRTaEZfRy04dFVPaVpPdl9CWUJ3RHZLUmVRNXZmeUNDd1N2Y1BhenU5dmVHZ01mYkpVTURBUnlveGxSbzJNQXlnREN3X2E5V1hpbnBYMWxTdlIxV090RllsakxlcVBHZE9aclZEQXN6YlJsVTRHZ3FJbnB0UVB4VWQ3a0JjRm5ucThDVjF3Y1FyeEtaZ1RneHBINzIyX21zQ3VLWWdjdGE5dXBPRU9FYW1FTDRlZFVNMXY2MzJlcHFsUkZUTjZJc0pNY1hZdmxmMnFBY21mVGlBVDBLVXRZYtIBqAJBVV95cUxPVE5vcjJEZEF3bDZxV29odDhXSkV0SGxRTU1uU0cyMTBfeFY1V05ncXF1UHgwRGF5Y1ZUNTFFRk1uMXhCWWlBMTA0cmhtakpGclRTaEZfRy04dFVPaVpPdl9CWUJ3RHZLUmVRNXZmeUNDd1N2Y1BhenU5dmVHZ01mYkpVTURBUnlveGxSbzJNQXlnREN3X2E5V1hpbnBYMWxTdlIxV090RllsakxlcVBHZE9aclZEQXN6YlJsVTRHZ3FJbnB0UVB4VWQ3a0JjRm5ucThDVjF3Y1FyeEtaZ1RneHBINzIyX21zQ3VLWWdjdGE5dXBPRU9FYW1FTDRlZFVNMXY2MzJlcHFsUkZUTjZJc0pNY1hZdmxmMnFBY21mVGlBVDBLVXRZYg?oc=5",
     "title": "Water shortage in Tamil Nadu forests drives elephant to dam for a drink, but she gets trapped in slu",
@@ -128,18 +140,6 @@
     "title": "Camera surveillance to track carnivore near Hasanur",
     "title_ta": "",
     "summary": "Camera surveillance to track carnivore near Hasanur",
-    "summary_ta": "",
-    "date": "October 7, 2026"
-  },
-  {
-    "id": "ero-oct7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXFYUmJIQ2hCZG5UUWdzVzBwRmYybm9SdWdvc2FZYWNKeFdBcUhENDB6cjR2eXBsbTBaSnhJRTBqVzFqU2dKUE9XejhsWXg3aFNOQWd4dFE0ZGU1MldfcmxPdFF5QVo0Wk9QXzBLbEVnMXJ4REZNXzFEdWtRU01pSjFrWjF4VDNaRGc0dHRYb2c5cURodzdLRzEzMzROUG5YU0VOM0xGZDVEODlTUl9mNGpDTDFTZ1V2Mk1mMURrRXpWLTdTZlVV0gHOAUFVX3lxTFBYdzhZeG9QYmstbnpSbzJld1RPa1BwRVQzYXFTdlBUZ1E0X3gwQldROXFHUExiNDVCbEQ3RVpacnF5Q3Zsd3V5U0hoX1BUYmVrcFRJZ29FWEpTZjBoZ1FRUDR2Z0ZwMGhIVHBYT1pzUUJNRExNTUZkR1RERms0X2ZTcERFNnNSTlBueS1FOTA5Y2lOSFVqcjlIVzlQd0dRUzdUYzkwQkpzWllRVmRjcjd6a2d4SGE0RXdBdjlsY2VmZTF2U05abkw0ekJvTHRn?oc=5",
-    "title": "Moyar river project for Thalavadi cannot be taken up now: WRD",
-    "title_ta": "",
-    "summary": "Moyar river project for Thalavadi cannot be taken up now: WRD",
     "summary_ta": "",
     "date": "October 7, 2026"
   }
