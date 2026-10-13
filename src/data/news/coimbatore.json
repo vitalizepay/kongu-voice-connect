@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct12-001",
+    "id": "coi-oct13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbk9RZ280YnQ0Tjl3TmllYVUyc2tmQldDSXZ2ZzlBbkRaeE9fUzFPNzB2Y2FDc1ZkY1J4aEFETjBmMXUwQWp3QUtqV1RkX29CU2xwaHdkak4zcjE3cGtDZjhGUnIzT0UwTVVGZ1M2RFhESmZJdnMyN0dDbTEzWHJtbjRnSnlHUklBRDE0cTh0X1VBcDU0UkRickxVa1l5MmZlYlJuU0ktakNkd3JGMm51ZHBzZ0dvc0tXRHF5VTdVQzg0QmlSdkM5aDNvREJ5a0d3ekt5WGlTZlBkRGI0dHl2d2hlekdEV0dfSlHSAfcBQVVfeXFMT2JhYTBUY2N4eEJrSU8xdC03Nno0YnNjSU9mS1Y5Wnhlc1E0UDNhay1JVEFadTNZZnJ1UTVFS1pldzU1MU83YjN3VjFSMjhvOVdsejhoSndQdFljZFg0TGFPVWswSEZ1WE43Xzd1ODNLd2xRSW5yTzltZkdOcUxwdGE4QlVDdXlvZUZ6WkpMMDR1dUpzQVJCRHVta2pPSmtnU3BmOHhfMUlaYV9GWGszMzNCRDc0aWNxbzZVdkNEa0tDOGl2QXQ3dEpQYjU3YU1NTjZKZ1BHenBUQjllVzhMMm15NGQ0d0dZa3czRDFyRUl6UnU0Y2xCVQ?oc=5",
+    "title": "Coimbatore Farmers urge release of Rs 164 crore compensation for Bharathiar University land",
+    "title_ta": "",
+    "summary": "Coimbatore Farmers urge release of Rs 164 crore compensation for Bharathiar University land",
+    "summary_ta": "",
+    "date": "October 13, 2026"
+  },
+  {
+    "id": "coi-oct12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeExHTGJxVVIzOW90dm5Uek1HTUpwU3l4OEJubFRlR2pmOXJJTldMVnJKXzF0alk0UzdVUm1FNFVXWEpyNWk3aU1yZVRMRmVMcVJIMTZueExHTGFfbWprUnlTZlBJTmViSldta3FvMDBwVml3Umh0WmxDbWVBOG01WlJ4SS1BMElqcG42U1FWMGwxN3AwY0ROYzNOSFEzdW5MRGM1aWJOanNiMmJneGpfVDZub2Q2WGVSZ0V0Y1VHYzhYRjU1cE4xYdIBzgFBVV95cUxNUjNDZVBFMVdIZVdmUXhDYTV2REpQanRqME8tSy0wY2RrazVpY0Yzb1NsLWlqcEJHb0pkT3JaS2MxbmlzTkJ3bEd4b2FNQjRtSXFEaGhqYjk0MnE4amZWMDVNckNtSmlhVjlNRkowQ1dFbW1oTEExOXlJcFlWZURmWG5aSHNZcUJYOXJTTzRYUmlscWktRUZ2Ujc1ay1wZ2M3TWN0NVlZYUtMdU02Y3Vfd191cHd2bDhJcnQtTkd6bi1WWERKSy1WVEhZODRJdw?oc=5",
     "title": "Farmers find fault with TNAU’s banana price forecast",
@@ -128,18 +140,6 @@
     "title": "Coimbatore hospital drops Hindi from medicine covers after DMK leader’s criticism",
     "title_ta": "",
     "summary": "Coimbatore hospital drops Hindi from medicine covers after DMK leader’s criticism",
-    "summary_ta": "",
-    "date": "October 7, 2026"
-  },
-  {
-    "id": "coi-oct7-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWtBbDFMYTZFb1E5aVkxbm80Y2txRzFDVWpJaF9zZ1lLRnR5U1NBZkJicTNZOFZZcTZGOHoydmhCMW1XQVpTYVVtS1hJeXZrbmctNkNEQ1pJR21YQ1dzdzlkT2VCb19sYzUzQTZ2TWRjYWp3c2szajBnUmJMalE3X2RFbXVkUnlTdi04YVR6cXVFWURlNkRkd3oyeVZNQjRLVXZQQnFmRVFITDJt0gGsAUFVX3lxTFBFa0FsMUxhNkVvUTlpWTFubzRja3FHMUNVakloX3NnWUtGdHlTU0FmQmJxM1k4VllxNkY4ejJ2aEIxbVdBWlNhVW1LWEl5dmtuZy02Q0RDWklHbVhDV3N3OWRPZUJvX2xjNTNBNnZNZGNhandzazNqMGdSYkxqUTdfZEVtdWRSeVN2LThhVHpxdUVZRGU2RGR3ejJ5Vk1CNEtVdlBCcWZFUUhMMm0?oc=5",
-    "title": "Tamil Nadu Hospitals Halt Trilingual Medicine Covers After Political Row In Coimbatore And Karur",
-    "title_ta": "",
-    "summary": "Tamil Nadu Hospitals Halt Trilingual Medicine Covers After Political Row In Coimbatore And Karur",
     "summary_ta": "",
     "date": "October 7, 2026"
   }
