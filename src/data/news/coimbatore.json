@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct13-001",
+    "id": "coi-oct11-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM0NxaERadE5Jck5WbWFpbFdWeEctQmt5dUpMWlc0ZGdTckF2VTVzM1FKdmpoU05naGdyLUNRQnZFQUp6cjlXTnItNXAxNHJwcXlPNkEtNnhrdHBES3A2Mzc3ZC1lS05TVkhhLUFWNExvNkpwSHFsRUMxdjlLelBEcmxoQ3ZBRXdVakNjWTVjNjBoX2lRTmxZZzRhaW1CZFZDRnhwbXhvcnlYcGN2dnFrdWhZV1Q4ZjlEeFhaMjNVRG1jdnF1U25SMk9lY3ZIbEZNczZtUGppLWo3UGtmei1vY1k5a3lHZ0FBNHNpQ0ln0gH0AUFVX3lxTE5GM1pMQ0RkX2lmMVZPc25Wa1ZycTdZc2VPRy16cmFCaFNyZm54a1Y3eXU5Y0R1ODl4bmNmY2VFVUc4cEpLeVpFellMLUg5NlhtSUhxU1h0WWlzdXlSUVNleFZhZUJsVC1wV241S2o4QWFtRFRtcmFrdnlQUHR1ZWZTSnFpNEV6TG92djJpSEppbzFVbWhEak9zQlU0RUxEZFhhR1JsaUdYWng2eWZzM1B1TVRMUkhweEY0dnJSRlVIOS1nZzJlRi1mZVZKQ2lDWjZhejFJR0ZibElJT0RPWHE3c2R5ZDRFbkxCbXlhazJrdWFOanU?oc=5",
+    "title": "Tamil Nadu CM Vijay urges PM Modi to sanction Metro Rail from Hosur to Karnataka’s Bommasandra",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay urges PM Modi to sanction Metro Rail from Hosur to Karnataka’s Bommasandra",
+    "summary_ta": "",
+    "date": "October 11, 2026"
+  },
+  {
+    "id": "coi-oct13-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNRkRkV3V3NDYzRlptM2pRN3ZONS1iZ2N5dTNZZmU3RVNXOEpUVWlkUGIwdWxDTU94akw2S0VBV1F6UDNEY3BLYXg0bmRaX1BwS3JORUh6WEd6ME9NZmI2VGozTTZIMWJVUlRYLUpTVXdSYVlkZ3FmeTYxZlg2V2VfLVFCUHUta2Q3TWNUYWY5c1QwTnRRLVV2bHB3OHRNNHlwYVdmWTdDeEhQOGZIaWxXcGpwUUJwV0tVdFNibnk1bFVYd0ZvSXlFajlLMGJSV1loRkhwUUkyQm1wc295cjhLZTdmbUZsRHpicVFRbWtkZUw4OURhbWFneUNSd3EtejlvYUtoejFfeUVwQjFLaXJwazBlZXcxNmprMm1xaXNGMjRyRXhCUXgtS3NlOVpOT3BNT2dZbnFjakRPOHNuQkdJ0gHEAkFVX3lxTE9RQll4dG9TaDRsRGRHNVdUemZNWENfb1RPRGE3LU9IM1VFRVRpc21EN2RDOWl1c2FzMWctR21mVEd1M3NuTE9NLU1zNEo3LWNYNGk0VmViNzVRUVZIV1g1bEhIS3gwbTBfVklIZFRqLVBUTFRXRFdxS29POEJ4T2l1SlpyR1c2VUhUeWhQQzdMdXl3cXo5LVdLLVFSSEszOHlNbER2WXgwWHAzM01ZOTBobXNBb2tEUTBkUWdjeGtTYmFHN1N0Q21FZkVObHNDSHMyOUs0RzgyQWZubkNZZWczZjVGNzNpRi1kTHZsYzlMZG1Ea0ZQbGNoSWNyMTVyM1NIc0FKQUVnSTN4a0FpMEhMVmNSUTBZRzVXdjVweGhxTmJzcE9icURHRDJaUENQTU8za1laR0VjTlJYNnpEM3ZMMGpwdg?oc=5",
     "title": "‘Tamil Nadu is trapped in the hands of a foolish bunch’: TN has become number one state in inflation",
@@ -130,17 +142,5 @@
     "summary": "Hindi words on medicine covers at government hospitals in Karur & Coimbatore spark language row",
     "summary_ta": "",
     "date": "October 7, 2026"
-  },
-  {
-    "id": "coi-oct8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdOY0F6aUNScGdjaFNOTVlPQkVtcDY0ZGotUFR4dVhCMVN6SXZiWnJRTjNVYU5fT1FrRzFMX1lmSGJBbEVDakIxQm1MWENZYXpKSlJOdjZCamREY0wtQjllLTY2Ny1jdU1lYnZUV3hYMnF1bEhqbEpDYnVLcHktSWc3YVFTem11c3FYRWtCanA?oc=5",
-    "title": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
-    "title_ta": "",
-    "summary": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
-    "summary_ta": "",
-    "date": "October 8, 2026"
   }
 ]
