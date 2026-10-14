@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct11-004",
+    "id": "coi-oct12-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQOHE2NDJxZlRwMHFtTzFpRWprbzBVVV9tUGJyUmdZRFNmbEZGYjhlc1c4TmxOQW5mZUo3UkFBUjlGaWdvSTVqUTdUT21za2lCVVRKWXFHVllYcEpXelJXaTdCUGc1SGJNT0VnRUJwaXExbzFOV2xHTG1fZ0tzdjItMURyNWZzRUJGQklDckpfYzRpQS02QmJQbl96THktXzlhRmh1eHZSLW0zZjFULWVRbzhEdTJKSmdIMF9GeUhSRjFJcVJBT2VEeXl6Nm1XZnFka2FsRnQyTTU1T1ZCQV9DTVc3ME1aYVFWNUJMcDc5RnFYbnFrcWFiVHh4YmsyUnNmaldxb29NYUVGZVRrd0lOeTQ2bER3ZnF3Z190WERQOXE5WUZfeU1lY0Y2Wmg4NVdXTEo5UnRuLTnSAb4CQVVfeXFMTlE4dmdMVktzRVNxT3AyenF0b0dPUzVPMDE4aDRablk0WGtScWdCTDBrZklHekxwZjdBaEt1NFhvVldSMkFVbUUwSFUxMHliWDVwMmNwSWlNWEJRdkhTN055M0puSTMwbzRhVGNMT3BmMW1tYVJtYl9vamFiV1M0VWx1UlVpOUFTN0dhbmFBYU5lTGRMTmk2eGp5ckVqclFqZDFJVmt1RnpPN25mTmJfRFpVZHJUdTh6Zm5vUWZDN3Z5R1hCeFZvcFc2SXZ3VlhFbGVIRjZBdmNWM3V6LTNMNnIzRUJ2WTh5SkJ3Z0dTSlVpMDN2YkN1WnNTR251Sm1mUnBTMUZtUTROYlh4OU1rMkNxeVJFeGJCOGFRNTFfSklvOC02ck5hcXJWb3lVWW41OEVTSHdWUEp4bTZfQ0p3?oc=5",
+    "title": "Tamil Nadu CM Vijay asks Centre to release Rs 5,110 crore in pending education funds without conditi",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay asks Centre to release Rs 5,110 crore in pending education funds without conditi",
+    "summary_ta": "",
+    "date": "October 12, 2026"
+  },
+  {
+    "id": "coi-oct11-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM0NxaERadE5Jck5WbWFpbFdWeEctQmt5dUpMWlc0ZGdTckF2VTVzM1FKdmpoU05naGdyLUNRQnZFQUp6cjlXTnItNXAxNHJwcXlPNkEtNnhrdHBES3A2Mzc3ZC1lS05TVkhhLUFWNExvNkpwSHFsRUMxdjlLelBEcmxoQ3ZBRXdVakNjWTVjNjBoX2lRTmxZZzRhaW1CZFZDRnhwbXhvcnlYcGN2dnFrdWhZV1Q4ZjlEeFhaMjNVRG1jdnF1U25SMk9lY3ZIbEZNczZtUGppLWo3UGtmei1vY1k5a3lHZ0FBNHNpQ0ln0gH0AUFVX3lxTE5GM1pMQ0RkX2lmMVZPc25Wa1ZycTdZc2VPRy16cmFCaFNyZm54a1Y3eXU5Y0R1ODl4bmNmY2VFVUc4cEpLeVpFellMLUg5NlhtSUhxU1h0WWlzdXlSUVNleFZhZUJsVC1wV241S2o4QWFtRFRtcmFrdnlQUHR1ZWZTSnFpNEV6TG92djJpSEppbzFVbWhEak9zQlU0RUxEZFhhR1JsaUdYWng2eWZzM1B1TVRMUkhweEY0dnJSRlVIOS1nZzJlRi1mZVZKQ2lDWjZhejFJR0ZibElJT0RPWHE3c2R5ZDRFbkxCbXlhazJrdWFOanU?oc=5",
     "title": "Tamil Nadu CM Vijay urges PM Modi to sanction Metro Rail from Hosur to Karnataka’s Bommasandra",
@@ -130,17 +142,5 @@
     "summary": "Coimbatore Medical College Hospital removes Hindi from medicine covers after language controversy",
     "summary_ta": "",
     "date": "October 9, 2026"
-  },
-  {
-    "id": "coi-oct7-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVVCZWtSdUtwZmsyMTJvNEI5UUt0enpVamFScElVWHlYZnh6UHBYWnpid3ZxdHhNSklYSUlrRXR5OTViNlBPVTlFWWFiSTZ2NkFGZEZQWUVNNU1TWWowUFRRZE92TThKZkc0bV9DSzRhaWtUSTBGRXpNT2pSLWczZi0tVlhDWm5CMXhlNkIzaE9kVjRXaHg2RUt2d0lxR2ZYdjBaWGRWaUFHVkZNY2o5TXc0ODVkV1E1WDhiZFpRZTh4N24ydzhMN2JldUw3T0p4dktrdEtDOEI3ek9KVUY3aXNpcllyV3JBb1BWdtIB-gFBVV95cUxNcjNtcVpyQkVNOEZqNVBfX1RpSmtQOHZ5TFNKN1hNbDRJeWFNcmk3dVJMTlZxOGd2c2RtR18zS2ZqZHdrX0Y5ZVNocnZ4Q1VHandYN181N3dkdkVLTlVXRFVqVEhwWVFGSDMxUHY3ZUdxMnJtMFNUR2x6R0NGVHBHd0dlNTVPbmNqbnp6ckhWQlF1enlOYW9ZYmZIbGRTdnVfem5ZUERRNVpZVFBpdG40M2FRMWc2b3dEZFVMenNlUlJkbThYN0syWndSU3RJTk9oeURIclEtUk9zdV84cE5kQ09FaVNTeUI1dl90SWdZU2pBcEFkdzRqbWpn?oc=5",
-    "title": "Hindi words on medicine covers at government hospitals in Karur & Coimbatore spark language row",
-    "title_ta": "",
-    "summary": "Hindi words on medicine covers at government hospitals in Karur & Coimbatore spark language row",
-    "summary_ta": "",
-    "date": "October 7, 2026"
   }
 ]
