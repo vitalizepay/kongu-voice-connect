@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-oct12-001",
+    "id": "tir-oct14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZURoOFBsemVHczhyUnhFREU1aFV0MkdfVkpGV2JtdGM1V0FhMHgyZ2lOajVRNTlEMzdVazE0eGUzMGVkYVozYVdvTjFhSzRhZC1VS1lLbVhYUEVjWWxOVEM2U1E4UlhGdkFaVDZwdHRyYmh5X1RlRkJBZXI3SkVMSVNrYmc3ZVFYZUY5Vi1peXRvWU5TajBKNE16NGdEWU9kbVJmRDBlOTdJSFh6U1FtY3hHTTREVkZWMFVudWVqeE9idGFyZUMzdHQ5Zk9qekF3aGpWLUhBdU5JN1FDOUZ6d2gwbllMMU8tSTZjRV9Xd2dSNktN0gH0AUFVX3lxTFBlRGg4UGx6ZUdzOHJSeEVERTVoVXQyR19WSkZXYm10YzVXQWEweDJnaU5qNVE1OUQzN1VrMTR4ZTMwZWRhWjNhV29OMWFLNGFkLVVLWUttWFhQRWNZbE5UQzZTUThSWEZ2QVpUNnB0dHJiaHlfVGVGQkFlcjdKRUxJU2tiZzdlUVhlRjlWLWl5dG9ZTlNqMEo0TXo0Z0RZT2RtUmZEMGU5N0lIWHpTUW1jeEdNNERWRlYwVW51ZWp4T2J0YXJlQzN0dDlmT2p6QXdoalYtSEF1Tkk3UUM5Rnp3aDBuWUwxTy1JNmNFX1d3Z1I2S00?oc=5",
+    "title": "Tiruppur Subramaniam's remarks on producer losses causes debate as Ajay Gnanamuthu asks for evidence",
+    "title_ta": "",
+    "summary": "Tiruppur Subramaniam's remarks on producer losses causes debate as Ajay Gnanamuthu asks for evidence",
+    "summary_ta": "",
+    "date": "October 14, 2026"
+  },
+  {
+    "id": "tir-oct12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUFdZV21BVVB2RTgwVElPS1JhUnV1bUItZnN5NVZiaDVGSVFMSEdpOWZ2NlJYWndYWU9CV29CUGhneHAza0NjbGlRLWNWaTA3Y09YMXBuR21rWkVGUzZBRk94YUMySFExNHdjUzE2Y2lRN0U0NzBleDA0QzRPQU1fZEVOcmg2cmY3TnI0ekpFNEotN0JWczd2b3VBNDhMM0N5Vi1rX0lLWmp5T01CbkY2Ulk3YkpWVjlCazZ1c3prRHUwdm1vSjY3QnB2VlBpWmpvak5Ra0hCN0xmdEpORENWdUw5SXNHdnlwaXlKTi03cFkybEgyNDlIYmR6OUvSAfwBQVVfeXFMTVBXWVdtQVVQdkU4MFRJT0tSYVJ1dW1CLWZzeTVWYmg1RklRTEhHaTlmdjZSWFp3WFlPQldvQlBoZ3hwM2tDY2xpUS1jVmkwN2NPWDFwbkdta1pFRlM2QUZPeGFDMkhRMTR3Y1MxNmNpUTdFNDcwZXgwNEM0T0FNX2RFTnJoNnJmN05yNHpKRTRKLTdCVnM3dm91QTQ4TDNDeVYta19JS1pqeU9NQm5GNlJZN2JKVlY5Qms2dXN6a0R1MHZtb0o2N0JwdlZQaVpqb2pOUWtIQjdMZnRKTkRDVnVMOUlzR3Z5cGl5Sk4tN3BZMmxIMjQ5SGJkejlL?oc=5",
     "title": "Tamil Nadu constitutes special committee to find possibilities of establishing DCCB in Tiruppur",
