@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct12-004",
+    "id": "coi-oct15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLTdBSFlaRTg5WmZGbFEzdjdiLUdjRHEtNUNJOGNtMVVWMFI5UHdrVWJJaXQ5RE5zQWszZHF3M1NyMHhiLTZBQndVM0dFRVNwbW44bEdCQ1Jpb01IZVh5VlhpckZaLU0zZUNoVUhvN2V2Y1hvaHVIOC11T3V4dXNvd3o5OUJ4ZVFjMUg1cksydUQ5UlpMNlhiN1B6UzNvc3hJbVE2SmdBMEpoWkNfWnM5RDhvRTU1OTVuNnpBR0JzNVZHN0lYUUHSAdMBQVVfeXFMUEZuSC0xdnYxZW02dGQ2dXlQckJ0eVR0MHZjTm41YUhSUHVkWC1yajVEOHdZN0VPYlRFYkVQNmtfeUUxbGFWZmNuSUE2eXptWW51bzFWR1kzTElkSU5DNzFQMzItWUp1UklGUXRnTFVfamtZUTJ0a3ZMNlB3andwUEExZkVvUkZPTmJSdEVJQ05GYTdUTWV1UHBVVmFTbDEwVzFoeU16MVZLVk04NDgxbkNHNU8tODhUVkhEdXItY2xtNURtdDZnZHd4SmdGallyVUtWVQ?oc=5",
+    "title": "Ayudha Puja rush: Chennai-Coimbatore flight fares nearly triple; Mumbai tickets hit Rs 30,000",
+    "title_ta": "",
+    "summary": "Ayudha Puja rush: Chennai-Coimbatore flight fares nearly triple; Mumbai tickets hit Rs 30,000",
+    "summary_ta": "",
+    "date": "October 15, 2026"
+  },
+  {
+    "id": "coi-oct12-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQOHE2NDJxZlRwMHFtTzFpRWprbzBVVV9tUGJyUmdZRFNmbEZGYjhlc1c4TmxOQW5mZUo3UkFBUjlGaWdvSTVqUTdUT21za2lCVVRKWXFHVllYcEpXelJXaTdCUGc1SGJNT0VnRUJwaXExbzFOV2xHTG1fZ0tzdjItMURyNWZzRUJGQklDckpfYzRpQS02QmJQbl96THktXzlhRmh1eHZSLW0zZjFULWVRbzhEdTJKSmdIMF9GeUhSRjFJcVJBT2VEeXl6Nm1XZnFka2FsRnQyTTU1T1ZCQV9DTVc3ME1aYVFWNUJMcDc5RnFYbnFrcWFiVHh4YmsyUnNmaldxb29NYUVGZVRrd0lOeTQ2bER3ZnF3Z190WERQOXE5WUZfeU1lY0Y2Wmg4NVdXTEo5UnRuLTnSAb4CQVVfeXFMTlE4dmdMVktzRVNxT3AyenF0b0dPUzVPMDE4aDRablk0WGtScWdCTDBrZklHekxwZjdBaEt1NFhvVldSMkFVbUUwSFUxMHliWDVwMmNwSWlNWEJRdkhTN055M0puSTMwbzRhVGNMT3BmMW1tYVJtYl9vamFiV1M0VWx1UlVpOUFTN0dhbmFBYU5lTGRMTmk2eGp5ckVqclFqZDFJVmt1RnpPN25mTmJfRFpVZHJUdTh6Zm5vUWZDN3Z5R1hCeFZvcFc2SXZ3VlhFbGVIRjZBdmNWM3V6LTNMNnIzRUJ2WTh5SkJ3Z0dTSlVpMDN2YkN1WnNTR251Sm1mUnBTMUZtUTROYlh4OU1rMkNxeVJFeGJCOGFRNTFfSklvOC02ck5hcXJWb3lVWW41OEVTSHdWUEp4bTZfQ0p3?oc=5",
     "title": "Tamil Nadu CM Vijay asks Centre to release Rs 5,110 crore in pending education funds without conditi",
@@ -128,18 +140,6 @@
     "title": "Omnicom Global Solutions strengthens Tamil Nadu presence with new Coimbatore office",
     "title_ta": "",
     "summary": "Omnicom Global Solutions strengthens Tamil Nadu presence with new Coimbatore office",
-    "summary_ta": "",
-    "date": "October 9, 2026"
-  },
-  {
-    "id": "coi-oct9-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTWtTM24zY3hnVjNIREFvTzhtaGpYTnNsREd3S0E0UEIyOWtkR0tNRHlENzVYclZ1TG40WEtycU5qQlUwVTgxMUZWUzl5dmFzclhndmhRVkxOcWRmcHd6T2tveVpxMTdQeF83aEcyREliTUh4c3hfN2x3cXFnZWdzSE9jbEQ0R2djY0d1UFZiMlE0T0NacWRhYjhHelY2TGkzZG1uV2p6MDkwYWJOclFSUzZENjBRZGs1d1RKb1BJTUhMeGU2SlVNd0JjQUVtSW1fSlVEZkpLSG1UWUNabExsckpKTERTa09FamVhRUhabWRwNnBPV2VmRzZoZDd1Z9IB_gFBVV95cUxPTWtTM24zY3hnVjNIREFvTzhtaGpYTnNsREd3S0E0UEIyOWtkR0tNRHlENzVYclZ1TG40WEtycU5qQlUwVTgxMUZWUzl5dmFzclhndmhRVkxOcWRmcHd6T2tveVpxMTdQeF83aEcyREliTUh4c3hfN2x3cXFnZWdzSE9jbEQ0R2djY0d1UFZiMlE0T0NacWRhYjhHelY2TGkzZG1uV2p6MDkwYWJOclFSUzZENjBRZGs1d1RKb1BJTUhMeGU2SlVNd0JjQUVtSW1fSlVEZkpLSG1UWUNabExsckpKTERTa09FamVhRUhabWRwNnBPV2VmRzZoZDd1Zw?oc=5",
-    "title": "Coimbatore Medical College Hospital removes Hindi from medicine covers after language controversy",
-    "title_ta": "",
-    "summary": "Coimbatore Medical College Hospital removes Hindi from medicine covers after language controversy",
     "summary_ta": "",
     "date": "October 9, 2026"
   }
