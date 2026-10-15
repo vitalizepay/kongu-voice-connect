@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct15-001",
+    "id": "coi-oct15-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSU8tZlVEcUdZUkptdktnV1FWVHZvYzJxcGtrN2hVMmJNQ1RsT2FBYUdRMmRvM3Zpc3NtQ2s3WW1pN1d3N0dUb2lGNC1BSHBCd1puSWF5Y1pua2dUNGlScVIzazhfdXYwak9HdXh0YXZJbzZjdXJDdXFBd2N4c0pJQzlFaFFCQ0tlV2dQOXZHVXpZQklJdDJtY0pJa251VkxkcXN2MnA2UTEtTnpqZzh4cTlYLXZndGlIWTdJMVYwN1dmOWVWbUNJT0xVT2kzc204WTZTbDFDYi1haHZY0gHjAUFVX3lxTFA1RTVqRE16Q0tTeHlReFhyWU5tWk4zT0FZbXZNcmFzVEVWUXYzcGc1TVp3cWFFUkJtUjY3akN2Z0NxUlp1dFhvZ3B2VkFKb0cxLXd1RUdRdlVBemIxcFgzOE4zMmlQZGZNVWl1MUJXcUJvVlEtaXFJQWRUbjBidnZtQUZhNzFDS1phLUpQU082QURPUVhpd3djRVcyYkN2Y01OZ1Z5QUhNYklNZFZzaFhmQkpCU2EySmxoYUlzdEVHbHR6WlB3c2Q0ZkpIWFQ1Y2tKOER6UFpDWFJVQ0had1ZuVXFB?oc=5",
+    "title": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
+    "title_ta": "",
+    "summary": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
+    "summary_ta": "",
+    "date": "October 15, 2026"
+  },
+  {
+    "id": "coi-oct15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLTRfdDBWbDRHTmpaX2dWVmR5dElUaHY4cVZEZ1ZCYmd6aGtuQmZoQ0ZVMGlxbi1uS3dBMnhHTlRKZTZLUldNZ3FHbUpkRVBNSjJhSzhHYW5nZzhwZGRzQW4xTXNla2ZoUDVDeXE0Q2xsNERQLXN6eE9iLTBFQTRkXzFfQmRQWjE3T0lOTFk4VklDWTZHY3dpVVFpdm9zX2NfTDktYlRObzF6RzNwamhVSmFlWlYyYW1xWVNJT0hYWVJxWjRvX05zbko0Njl5UHJTYWYwNFpQcEZydmJNQ21MVjRuS3dHa2FfX3JhVmFONNIB9gFBVV95cUxPSE02SUozd01MSklUbXF6NlhsQzdnZXU3azJoZDFyOUJXZDRNcGZMRmxXa1A3Y3RwRS1EaXRwOElUZkI4b3dVYmhybVR6VFpzcHJLMnhpY3lzdmJ5WXNEaU10ZVhnV3laUm5tWVptTktIMUw5SnRmRDl1SEVoRVhELXB2Nlhoc2J2WElsSjhZSExud1RiazdtZGh2Ti1DdkwyLU56RzZFN2FBbTNtQzE0RkxHRlJFZ0loR3NORS1USXRzZVFUUzB5OFNFbkdzc3p4anFFVTRoYUZ0UG5iVVJ1Q0FiMDFnbzJNRE9kemwwbXhBSlB5alE?oc=5",
     "title": "Security tightened for Chief Minister Vijay’s Coimbatore visit; traffic regulations expected",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu CM Vijay Demands Rs 5,110 Crore SSA Funds, Metro Rail for Coimbatore and Madurai",
     "title_ta": "",
     "summary": "Tamil Nadu CM Vijay Demands Rs 5,110 Crore SSA Funds, Metro Rail for Coimbatore and Madurai",
-    "summary_ta": "",
-    "date": "October 11, 2026"
-  },
-  {
-    "id": "coi-oct11-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVThUTWEwOHRnRzVYYlFSVnpHeThrd1dqcmVISHB6MmRyNjkwU2E3cHVCZDkzQ3RrUnphMV9SRFF5WEhGMzVsU3BVYlR4WlRobGJxQkJmOFJULVdHRUN5cG9wR0ZsSTMxQTdvRVF3c0NXUUFhcUpKZGMzNXhoaEZaUTZmRkNBTmZjQUY0Xy1ELWx6RzhaaDJQLVBianVWSm42UXRob09TNDZGT2JWY0FDOFBXS3JIWGdUX3VlbnJPR3g3Znk2ZUJBdW5GUi15US1zWDJfa25YM29QclBHV2hxbk5SWEJXV3B0MnR5VUVucE9iUDg1NG83Y3BHRFJ2VjEzUVhNODdhNnZpVDM1aDJLdHBWQ3gxY0ZoRHRRaXFKVWNJVVBVVzhhWg?oc=5",
-    "title": "Vijay urges Centre to release Rs 5,110 crore pending SSA funds “without any conditionalities”; seeks",
-    "title_ta": "",
-    "summary": "Vijay urges Centre to release Rs 5,110 crore pending SSA funds “without any conditionalities”; seeks",
     "summary_ta": "",
     "date": "October 11, 2026"
   }
