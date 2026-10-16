@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct16-001",
+    "id": "ero-oct16-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2tQWklEbHZBc0FLZ21Pb1dVcWZkNjg0Mlh5NlliM0pwcWhTSW1oZk5zZ1J0WlRxQnVCNkxWcC1kZk05SENqZkxPRXBPSmlRR0d5Y0drUFJHOVZLd2NCdWRpTlNmYzBOWEJ1Vnozb3Rpajh2M21ROFZGZEZIZkREZkJxQ05mQlNFSkJjTWQxLWxXaDBQZV9XLU1lZ0hjTFZqMXFwRFQzYXZZWFZvNWFfQWNwaXhHM01sSDcxZ1M0dEp6ekRzbHIw0gHUAUFVX3lxTE4wRTdjdXFfNk14Wk45cjZfakQ5WVpFeVhTbzZVVlBWMjVOY1BPcm1BOG5LV3pqcVNjaG1WSHBlRTZqZ19ac2c3elJTVW02bllBNGw2MDlLQWUzXzNNaEVZS3NqSDVrTUVIYjVJbW1ON2RJZWFmOU0wbFlCbVJfcTlBSUQxTlFKNHUyVlNBVm5YQVpUbjdfUnRsNE1sZTkwUWVJd0RGRFA3U0tkenU2aGUyeUhBM24tRWxLWjFFcDQ4eXY4Z1BqNjRlam5FclQtVnhUcENl?oc=5",
+    "title": "State govt cannot receive gift of temple property from temporary trustee: SC",
+    "title_ta": "",
+    "summary": "State govt cannot receive gift of temple property from temporary trustee: SC",
+    "summary_ta": "",
+    "date": "October 16, 2026"
+  },
+  {
+    "id": "ero-oct16-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0RPc01zLTl4bm9qRGdhcGZ1dmxSclRFcU8zLXpFVV9Xb2dGbXBJd3ZxWExPZThjZXgzRHV3UFVpTXFIN0V1RksySS1HNjdGbFVJc1hKQUlOUE11T19SSWF3Qm5vbTFaZkFwdkkyQWtZSUJPVVJXQlZoTmFCNUVWTVRpemN2NXNCQXRldUFROWJZRXRjbUZLNVpQNFh0UWdJM25rU2xnTm1GRE9mQi1iZzdRQ3RtTVR1cXhwaXhqLUh6ckl1ZjM5MW5OVlHSAdIBQVVfeXFMTkM3S1NnRW0yVE5sTmo1UlM4VTRzOWFjbHd2MmNZbTN1N1pCN2xNZDF1eXlCdVVjYWtQckVPVGZLbnBKR2Nyb0tabklqSEg0TzFfX0lqbnlqZW02Z0dPdjd0dTB0MW81ODNYYkt6WmJyeWVNVWkwYVBxdUQ3LWVKTVZuN1V1R3Y3SDdIWHc5NWhBQ1ZUOWdUN0lhbmFWc3FxTUlRQWlzNjlYUmotbkVwQ3BpSEhrN21YbVF2bS1jd0VQdjhGRHZvbEJOeGNZaWF2QVdB?oc=5",
     "title": "Heavy Downpour Lashes Erode District; City Records 156 Mm Rainfall",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu constitutes special committee to find possibilities of establishing DCCB in Tiruppur",
     "summary_ta": "",
     "date": "October 12, 2026"
-  },
-  {
-    "id": "ero-oct10-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVZFNUR0SjJZZ0Ytd3JsVTZlbzVTX2lhOTVBUG9ValhGR2tiaHlCNmJyaUFKTHM5M2haYkxkVXU0UHdMSkRYTkI4YXJaYUFZVkdLRmNUR1F5eC1USDRFcW9QekZWUmRIaFFEekJBQnFEeURpUzRKUDUwbEk2MXROV1kza0lYZXBKZGstS1lDUjI4SUdJUmF0b3pkOEhHQ0xzY1VnMHBxZDZ1bDdiUUdtUWlLZXMxYXMzZ1hTeklJUDF3OGdCeGlSZ0MtUDlhN0Q3U2dZZzVB0gHcAUFVX3lxTE5oUmdzbzV1Rk9JS2ZhbjdyTUdVUEdKdmZzTFMyUlJrT3BaLTdoNkNIZ2YwRTBLbUs3LXBaTlJhTlg3R0h1SS1ibHhzUTExbnlfdnhTWk9qNDB5YXd5T1JOM25keDcyYkc4U0ZLS21BOWItcU54QS1XVkRGbkxyajBra2cxc3RJQnNsZURMS1NnZTFwZklVOVpFZG9leTI0c24wcWFTUkUzMW15LUVTMnpEU09RV1Z1VjB0RFlVSG9sMmk1LVdabGNvSV9NRy1haUhPbFcyR3RGa0FLTkQ?oc=5",
-    "title": "Students from Erode visit Kodumanal excavation site on educational tour",
-    "title_ta": "",
-    "summary": "Students from Erode visit Kodumanal excavation site on educational tour",
-    "summary_ta": "",
-    "date": "October 10, 2026"
   }
 ]
