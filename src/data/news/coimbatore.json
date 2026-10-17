@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct16-005",
+    "id": "coi-oct16-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc21keWxQdVdYY1FsLW14NUNXZkh2ajhVM0RZSktHeU12S0pOXzlwVTQzVkNUaURFanZHckdjR2Fpd1dEeThsRDh3SVh6cHViMjl0RUtHd1hCUEJLTEhVV3V1elRlUk9qMVJXQWMyeGxvTjRoNWNyWnRiTV9hS3NGZXFDNU5XY3hHNmRvZUNOWE1LVm8xX1FOYTJzdm1nbjN1Q1Y4N2JMTGdidUZ2YThzRkFpZUVMV0E0TVJaOEx1ekN0SUVzNHVma0Qta3RKaHNXTmc?oc=5",
+    "title": "Tamil Nadu CM Vijay to inaugurate Periyar knowledge centre in Coimbatore",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay to inaugurate Periyar knowledge centre in Coimbatore",
+    "summary_ta": "",
+    "date": "October 16, 2026"
+  },
+  {
+    "id": "coi-oct16-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcERMRUtDSEFoV1M4bHhnNnNkWjdsTGtlWkNxYUp2d3dqaVZzRmFwWUVBVmgzZWZja3RVWlY2UXRVUUlUS1d0WklYQUJhR2pIWGU1YkYyVUtRV01zTGVrVUVicUR5ZWxUSXNRRHNSQ3ZTRzdhdG5ZV2liQjFab1R1U0lJY20xLTNtd0tQcklrYXVIOEc5ZXZzS2tpWTNYNXMtUXppRjd0ZHhVLTBmX2dQQTlQQzlQX3lSTVMxZzZjTUpjT1ZBRUdyOTN30gHPAUFVX3lxTE9FN2NBUHV0N2YwX0ZKenVCUkRoTzN5c2xocC1MN0luLThIb280aE5wVnpNM3Q5YU9Dd3V6eVpodS1HVGMwSE5ITmEyb3JpV0lNUW1OVjZYWE5wVVFoUjlpMjg0V2hqa250RTRINUtnYktqVEZFN1Q2UmYtM2ZsN1hhamJmNlFHWGI2emZQYnhyQ0ZmNVloaHlrcUw0WHI5N2tHOHBQT0lYcE1kb2ppc2hTTjdacDlMdFpJWmxya0R5MGpPUHdZdDBVZmJjTjJMZw?oc=5",
     "title": "Heavy Rain Cancels Tamil Nadu CM Vijay’s Thrissur Visit; Keralam Fans Disappointed",
@@ -128,18 +140,6 @@
     "title": "Security tightened for Chief Minister Vijay’s Coimbatore visit; traffic regulations expected",
     "title_ta": "",
     "summary": "Security tightened for Chief Minister Vijay’s Coimbatore visit; traffic regulations expected",
-    "summary_ta": "",
-    "date": "October 15, 2026"
-  },
-  {
-    "id": "coi-oct15-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT0d2cFd6bXlKR2ZOWm5qc2JyZzRWZG1adnZib0xjdlVFcC1pSzduRE9tbXljdXR1clFMclhOaWtxelVrWXEzeGV2OC16NDdhOGlDa0R0dTNGTERvcDBCNWJSZlNlR2ZFZDRPTllFQkVES1ptdWRqZk1qVW43czEwUXgwTUQxV0dhNUNoSUhnZmF6S0ZtRFlhWUNwZnJDWGJoOWpIdnNoeEZEZlZsOXcxNVZnbE9ockxvamd6MzNFQlJKQTE2WFEteW5uZ1pPMHFsU0dRS1RJaERvS2RsUC11YTBjRU94N21WQTJFV3JVZ3rSAfYBQVVfeXFMTlhfeHFLZzAzWm1XNkt3SWs3TzNzZXloTThEY0EzdjhzREQ1Y3VnY3FONVg4U2ZhYUVsblpIZFJlTzFRbl9rWHl1NTd3cUhqaDZ5WEwwSXJMREZpcjI5M3l3NUg1MGY0a0JBYXhLaUdJUmtSWW1qUjdvWjdfX25MRDB6anVyOGJacUQtVnctanI4UTlFOFk5TG1wMTAxanh1aEJjQnZEalMzaDJ2N1R4VW9BbkpwQ1o1REJES3pZVXkyakFOalM5RzZpQURSZlNJTWVzZklnc0xCWWRrS2xrTDhTd1R4dEp4alRTS0xRWjNHRUpDRm5n?oc=5",
-    "title": "Vijay to inaugurate Periyar Arivulagam and Science Centre in Coimbatore on Friday",
-    "title_ta": "",
-    "summary": "Vijay to inaugurate Periyar Arivulagam and Science Centre in Coimbatore on Friday",
     "summary_ta": "",
     "date": "October 15, 2026"
   }

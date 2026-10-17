@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-oct15-001",
+    "id": "sal-oct17-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTJMSnZncVIxM1R5YXpoUnQwTHE4RWZYR0pILUg3dTBYQk40Ukd5TWhxRzNKa0xfeV9KenJDU0x4WTFuNVJpaXo1bE5TX1hvOEV5cEJFVmhhUXRqWDZHNWdfME9JU00zTUowaUhNcFp1Ml85VlRmNlVfUkd4eW5WbHlIX2c2RnlNamU2dml0clZEQU9aQ2dHS0txVnJ3UFVzZjB3TjlBckJpdDBDTVpfd0twenpiTDczZjVHNno4Y3paNUV1RlRQY9IBzwFBVV95cUxPZk4zTG91LVNqMlZGUWFfaUNTS05jNDZJT3YwMkx2eTJiUDhPd1lHZWJDSVlrS2Ftc0hzUVUtcXBmVHVwUWtENkxQWkZIUnlWUE1hV01FNWFXUmhCSVBBMEFvdHRFX042d0lwZ1pJcnZBYTZTVWNkNnNNM0xIYWg0bDRhZnJydkdZWHJmMHVMX1JvRVl6dXZ5TzhEbVUyRzliUFdCRUFyMzFQWlRiSlNWWWc2b2s2WU05Q1o4Vm1ybzJHVFBnUThNbFlsT01mc1E?oc=5",
+    "title": "Heavy rain lashes Salem district; one dies in lightning strike",
+    "title_ta": "",
+    "summary": "Heavy rain lashes Salem district; one dies in lightning strike",
+    "summary_ta": "",
+    "date": "October 17, 2026"
+  },
+  {
+    "id": "sal-oct15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkZ3Z2cxNmY3Z3NKcExyWmVxNEFEX3hUYlVNdWlwZUx6empId0JGN2hsQWg0U2FLSkVSdWhtUjVIR3VURlFHUUlMWUF6bndwbFFzaEJRY0hsSlNjVnJXS19xMkpRdjVCX09wVmpGaUFKLWNTYm42SEdMdmszb0JoLVNocFVFMHZ4eGg0UGJqeFlEdTRVWElCSnJOa1VEQk1Wbk1WSy00NC1IT1U0VGsyT2Nuak5LVVpaTzU5OXJ5VlLSAccBQVVfeXFMT3N6Mlg4eklKQTZtdUoyajhoMTZTUXNISHd1UFdxbTdLRVV3bUkxcGVxbk0xOFdMWkZ1clJLTVRMcVh5b1FmbjNfamIzRkphWmxBdFJYOTVRN19zeUxwV1NyWlF1LXc4bXM0VUFtcXFJTkNXVy1tOS1xRG9Kb0RhbEwzeWt1Z1R6Z2xhUExST1BtQU5LZG1FMzZMQWRZeF9iS05tS2lSSUk4U2o1VTRoV0c1a082alpZbzZFVk8yYTJjbW1hWUR4cw?oc=5",
     "title": "Salem and Namakkal districts register moderate rainfall",
