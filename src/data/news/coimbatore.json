@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct17-002",
+    "id": "coi-oct16-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcERMRUtDSEFoV1M4bHhnNnNkWjdsTGtlWkNxYUp2d3dqaVZzRmFwWUVBVmgzZWZja3RVWlY2UXRVUUlUS1d0WklYQUJhR2pIWGU1YkYyVUtRV01zTGVrVUVicUR5ZWxUSXNRRHNSQ3ZTRzdhdG5ZV2liQjFab1R1U0lJY20xLTNtd0tQcklrYXVIOEc5ZXZzS2tpWTNYNXMtUXppRjd0ZHhVLTBmX2dQQTlQQzlQX3lSTVMxZzZjTUpjT1ZBRUdyOTN30gHPAUFVX3lxTE9FN2NBUHV0N2YwX0ZKenVCUkRoTzN5c2xocC1MN0luLThIb280aE5wVnpNM3Q5YU9Dd3V6eVpodS1HVGMwSE5ITmEyb3JpV0lNUW1OVjZYWE5wVVFoUjlpMjg0V2hqa250RTRINUtnYktqVEZFN1Q2UmYtM2ZsN1hhamJmNlFHWGI2emZQYnhyQ0ZmNVloaHlrcUw0WHI5N2tHOHBQT0lYcE1kb2ppc2hTTjdacDlMdFpJWmxya0R5MGpPUHdZdDBVZmJjTjJMZw?oc=5",
+    "title": "Heavy Rain Cancels Tamil Nadu CM Vijay’s Thrissur Visit; Keralam Fans Disappointed",
+    "title_ta": "",
+    "summary": "Heavy Rain Cancels Tamil Nadu CM Vijay’s Thrissur Visit; Keralam Fans Disappointed",
+    "summary_ta": "",
+    "date": "October 16, 2026"
+  },
+  {
+    "id": "coi-oct17-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFFMaFdkcUZINS1IV3daZU52Ylc4N3JBc3d4QWJ1MzZkY2R1WXVXTmtLVjhyQ3VhS3lobUlETVU2X055d0swaXRGdzZyeUp2WlRsNlJCbWVaUm9xRFBHeERlZEZsbVNwSWtnZHo1c1lPQnFfdWo1dVFnZ25QMVpfZTZrRXk1dHZEcy1mVE90NDAyVlcxT09LTGhUTnJWc3gydC1CaUd5R0lzWXFBN1Q4RDdBZTdiTE1yV2FzWmlWY291eUNva05zczhZM3RjQzNzQl9DV0F0SHlYVE94TmdENEltRUhXZnfSAfQBQVVfeXFMTWt3d2VMY1ZBbzBDbzhzLUJvV1dEN3Q4S18zNjdqNHppbktHZkJwQjRMUUNuWlM4Ql9wZ1dPb3ZRZ3VvWnQtdWlaZTVLc1JHNHEySEhDbEJVbmViUGd0SWt6YW55SHdmb2N1Um1vTFItajZxTmlCdzRwWDB4U2JDR2x2Ul9vZzJ3VU5KM2xsZnM4QVo4My1QMXZPdmNoYTZZVVAzZkxfcFdKX3hvSGxZc0lNWUtTajg4eFNRYlJnRDRST3JsUmNXMWRfX0lHbWxTU2syeHFDVmVPWFZTdXRkU2NkOHVCS1ZUbG9qZ05STFRvREY4NQ?oc=5",
     "title": "Coimbatore jumbo died due to anthrax, confirms lab report; forest department steps up vigil",
@@ -128,18 +140,6 @@
     "title": "Vijay to inaugurate Periyar Arivulagam and Science Centre in Coimbatore on Friday",
     "title_ta": "",
     "summary": "Vijay to inaugurate Periyar Arivulagam and Science Centre in Coimbatore on Friday",
-    "summary_ta": "",
-    "date": "October 15, 2026"
-  },
-  {
-    "id": "coi-oct15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLTdBSFlaRTg5WmZGbFEzdjdiLUdjRHEtNUNJOGNtMVVWMFI5UHdrVWJJaXQ5RE5zQWszZHF3M1NyMHhiLTZBQndVM0dFRVNwbW44bEdCQ1Jpb01IZVh5VlhpckZaLU0zZUNoVUhvN2V2Y1hvaHVIOC11T3V4dXNvd3o5OUJ4ZVFjMUg1cksydUQ5UlpMNlhiN1B6UzNvc3hJbVE2SmdBMEpoWkNfWnM5RDhvRTU1OTVuNnpBR0JzNVZHN0lYUUHSAdMBQVVfeXFMUEZuSC0xdnYxZW02dGQ2dXlQckJ0eVR0MHZjTm41YUhSUHVkWC1yajVEOHdZN0VPYlRFYkVQNmtfeUUxbGFWZmNuSUE2eXptWW51bzFWR1kzTElkSU5DNzFQMzItWUp1UklGUXRnTFVfamtZUTJ0a3ZMNlB3andwUEExZkVvUkZPTmJSdEVJQ05GYTdUTWV1UHBVVmFTbDEwVzFoeU16MVZLVk04NDgxbkNHNU8tODhUVkhEdXItY2xtNURtdDZnZHd4SmdGallyVUtWVQ?oc=5",
-    "title": "Ayudha Puja rush: Chennai-Coimbatore flight fares nearly triple; Mumbai tickets hit Rs 30,000",
-    "title_ta": "",
-    "summary": "Ayudha Puja rush: Chennai-Coimbatore flight fares nearly triple; Mumbai tickets hit Rs 30,000",
     "summary_ta": "",
     "date": "October 15, 2026"
   }

@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct16-003",
+    "id": "ero-oct17-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSW1PNThYMU5aajh1elRkWFVfbldlRVpfMzRZcEJXYWpEOVJSZGotcVVmaVgxSk5RSE5pQ3AxNEk1R1JBbHF4RGFvdGxGV3FlcTVscHpFdU1PZ1V2QllkbDZPY0hOLUNWbHd1cTZMbldwSjBBd2l1TF96emgyY1FoLUZtNnowY1ZHS1h4elVDSmhHRWZNeVZsazhmRkl6U2JvOXBWS3JpNzFxZzNkV3c?oc=5",
+    "title": "Supreme Court Nullifies Gift Of Temple Land To Tamil Nadu Government And Imposes Penalty",
+    "title_ta": "",
+    "summary": "Supreme Court Nullifies Gift Of Temple Land To Tamil Nadu Government And Imposes Penalty",
+    "summary_ta": "",
+    "date": "October 17, 2026"
+  },
+  {
+    "id": "ero-oct16-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2tQWklEbHZBc0FLZ21Pb1dVcWZkNjg0Mlh5NlliM0pwcWhTSW1oZk5zZ1J0WlRxQnVCNkxWcC1kZk05SENqZkxPRXBPSmlRR0d5Y0drUFJHOVZLd2NCdWRpTlNmYzBOWEJ1Vnozb3Rpajh2M21ROFZGZEZIZkREZkJxQ05mQlNFSkJjTWQxLWxXaDBQZV9XLU1lZ0hjTFZqMXFwRFQzYXZZWFZvNWFfQWNwaXhHM01sSDcxZ1M0dEp6ekRzbHIw0gHUAUFVX3lxTE4wRTdjdXFfNk14Wk45cjZfakQ5WVpFeVhTbzZVVlBWMjVOY1BPcm1BOG5LV3pqcVNjaG1WSHBlRTZqZ19ac2c3elJTVW02bllBNGw2MDlLQWUzXzNNaEVZS3NqSDVrTUVIYjVJbW1ON2RJZWFmOU0wbFlCbVJfcTlBSUQxTlFKNHUyVlNBVm5YQVpUbjdfUnRsNE1sZTkwUWVJd0RGRFA3U0tkenU2aGUyeUhBM24tRWxLWjFFcDQ4eXY4Z1BqNjRlam5FclQtVnhUcENl?oc=5",
     "title": "State govt cannot receive gift of temple property from temporary trustee: SC",
@@ -58,30 +70,6 @@
     "summary": "APEDA facilitates export of 1.755 MT organic palmyra jaggery from Tamil Nadu to Bulgaria",
     "summary_ta": "",
     "date": "October 16, 2026"
-  },
-  {
-    "id": "ero-oct10-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWFiWTRlbnZoTFRldVBPRUFlTzhwellaYmYtcmNVQ3lnUzMtYXdxaFZtbjVWLTlTZmJ5cnNfVlF1Q0hNbGZlcFlzWEttMmtuWjE2OTBCSDFhQlBOd1V2aFdqWjN1UzhMOGhtVmlkMi1LclVrcTg2akVSV3I1NUxPcElZUnlydC1pUi04VEpaYWR2aXoxZTdjaFVOa9IBoAFBVV95cUxPanJHaWRlNVZINXdlbGtNZ1ZaYmw1NHc1NFdlWkpKTjNuYUFYWTBONGhMeWZoamJoczVXSWRPQkx1QXFpbHZaY25DUHR5aV9CdUlxSUFXUG5SRmlzbnY3YnpFelFxVEdvN1VudFN2dllnVl84NkVTRUZqSmw3MGFkU2lpVEZyMnFFU1NmXzQ1aDVqMHVHZXIzUjlIcDdVZmMz?oc=5",
-    "title": "Dalit men forced to bow over burial ground access in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Dalit men forced to bow over burial ground access in Tamil Nadu",
-    "summary_ta": "",
-    "date": "October 10, 2026"
-  },
-  {
-    "id": "ero-oct10-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQnNYRXN2UlF1ZG1lRzNZc0dmVWNfVUtNSFJYNU9wZFh2bE1FOEdDendkZi1OZHd4bGJJVmdYcjFoV3ZHeWpHakdRRklFMmctZWptZFFuSW5yZ0FObWE0VFlPaHFENlNXVGRuYU5ZLWlfNTN6cC1DWlhtd1B3Z2FMcEFWRG5qMFhZdlJQT3h1OFhxd2w0ZEdpTHlNT2U5R3B4Q0t5RVRtRnZLWTl0MVJrT1Q1LTBHRXdCQUZtRWV0YktOODRLbWFzRnpvTFRBd9IB0wFBVV95cUxQZkdaaG9KUjRVenpONWpUVTMwNkNzUndmUG5GY1VtVVdRRDVtWVZDdTRYcXBWUXZjV3I5Q2o3VnQ1OVVGVnJIYlI3YkRBbjcyUlRNTVJCSWZHSmUxSHYyX2xfTTlSazRxN1NoOU5WNUl0VTNaalZZcXJGM1pEd3EyYVo1N3BHZFFIdFd6WHpob2pUZ1ZXaWxVYUsxT0NvNXIzTGhHZUdac081OXpSLTlTcTZPQk1RYmcwRmNMTk5JUWY2eW05LVlJYkZUdlExN1NVbTNZ?oc=5",
-    "title": "Dalit men made to bow before dominant caste members over burial ground access in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Dalit men made to bow before dominant caste members over burial ground access in Tamil Nadu",
-    "summary_ta": "",
-    "date": "October 10, 2026"
   },
   {
     "id": "ero-oct14-002",
