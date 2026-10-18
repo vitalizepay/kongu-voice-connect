@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct16-002",
+    "id": "coi-oct18-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGFSbUFvRV9LUXIzU1JCNmJxU0tEOUFqNzU3bUhBWVQzdjZJVmtIeVp5amIxeWRVZGZQWVVWczVHR3ozTmFHVGVfenV0T1pQMFFhUHdBV1RSMEd2a3YxRW02ejh5OHhTSzlETGFZNHdLZVhUTWNVS3N4UFMyLTZyUms1Z3IwTEJaTnc3b3RFY2tzNHdVZ1lFSUUtUFlvVkRTcnYzS2wxaTBKOXdwTl82Rnc5Q0xxOUpBWERSZ01LSnFOUkI3ek44bXB4aEs2MFYyVW1J0gHgAUFVX3lxTE1wT3U4MVR3VGgtN2c5QkJKMFYwWjdJWGpYZzNoWjNDb3o3SFVRWVVWQ1dVU0htR1JWZXZZc21QQ1Y5X2pnNGlGOVFsMXZudWxBSWlaMXFRVjFHRUdxd2lGeXMzVzMwWGlUQWoyTjN4R0FwdG9Xa3BNQkRocXNnU0sxNEhCNWNSd0FfeDNrTWhoMHVRbVlqSWlaQ0pNWjUzM1BqcGY0aDk5ZFhoRG41TGpiaTlnUkgxM1Back93ZnVJdWZuNU5BYnZXd08zLWRoekx3UWFJcFdFZHJJcks5bmNr?oc=5",
+    "title": "Five prisoners convicted in '98 Kovai bomb blast case granted 60-day parole",
+    "title_ta": "",
+    "summary": "Five prisoners convicted in '98 Kovai bomb blast case granted 60-day parole",
+    "summary_ta": "",
+    "date": "October 18, 2026"
+  },
+  {
+    "id": "coi-oct16-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc21keWxQdVdYY1FsLW14NUNXZkh2ajhVM0RZSktHeU12S0pOXzlwVTQzVkNUaURFanZHckdjR2Fpd1dEeThsRDh3SVh6cHViMjl0RUtHd1hCUEJLTEhVV3V1elRlUk9qMVJXQWMyeGxvTjRoNWNyWnRiTV9hS3NGZXFDNU5XY3hHNmRvZUNOWE1LVm8xX1FOYTJzdm1nbjN1Q1Y4N2JMTGdidUZ2YThzRkFpZUVMV0E0TVJaOEx1ekN0SUVzNHVma0Qta3RKaHNXTmc?oc=5",
     "title": "Tamil Nadu CM Vijay to inaugurate Periyar knowledge centre in Coimbatore",
@@ -128,18 +140,6 @@
     "title": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
     "title_ta": "",
     "summary": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
-    "summary_ta": "",
-    "date": "October 15, 2026"
-  },
-  {
-    "id": "coi-oct15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLTRfdDBWbDRHTmpaX2dWVmR5dElUaHY4cVZEZ1ZCYmd6aGtuQmZoQ0ZVMGlxbi1uS3dBMnhHTlRKZTZLUldNZ3FHbUpkRVBNSjJhSzhHYW5nZzhwZGRzQW4xTXNla2ZoUDVDeXE0Q2xsNERQLXN6eE9iLTBFQTRkXzFfQmRQWjE3T0lOTFk4VklDWTZHY3dpVVFpdm9zX2NfTDktYlRObzF6RzNwamhVSmFlWlYyYW1xWVNJT0hYWVJxWjRvX05zbko0Njl5UHJTYWYwNFpQcEZydmJNQ21MVjRuS3dHa2FfX3JhVmFONNIB9gFBVV95cUxPSE02SUozd01MSklUbXF6NlhsQzdnZXU3azJoZDFyOUJXZDRNcGZMRmxXa1A3Y3RwRS1EaXRwOElUZkI4b3dVYmhybVR6VFpzcHJLMnhpY3lzdmJ5WXNEaU10ZVhnV3laUm5tWVptTktIMUw5SnRmRDl1SEVoRVhELXB2Nlhoc2J2WElsSjhZSExud1RiazdtZGh2Ti1DdkwyLU56RzZFN2FBbTNtQzE0RkxHRlJFZ0loR3NORS1USXRzZVFUUzB5OFNFbkdzc3p4anFFVTRoYUZ0UG5iVVJ1Q0FiMDFnbzJNRE9kemwwbXhBSlB5alE?oc=5",
-    "title": "Security tightened for Chief Minister Vijay’s Coimbatore visit; traffic regulations expected",
-    "title_ta": "",
-    "summary": "Security tightened for Chief Minister Vijay’s Coimbatore visit; traffic regulations expected",
     "summary_ta": "",
     "date": "October 15, 2026"
   }
