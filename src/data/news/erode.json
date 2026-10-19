@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct19-002",
+    "id": "ero-oct13-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHhkS1ZXQ252TEhjdXJmZWpwcF9LZnJ3UFE3QkxkQlB0cmYwbVYzYXdVZGZ5STFpNmdkcHpwX1J4YWNyMjlFV1kyNVNfNUtlaEt1a29Sc19rOG9HZE9KS0JIcm1EdTdhUTMwbjJzcEdLN0NTSzBxQVRrcmJCMWNoTTk4VWVobHphZHBJblFrcmJ3N1NwS05UR2wtQmNad1BFZVprYzJOUjd4UXFXWjBhY1Y2R2Q2Y3NVVGthZk5WQUFkdTRhOWdMMFFfNS1uQmcxWjVlWFhaVnVNbTNUUW1BM2xqbjhtZzdXeXdDNjhUWldIXzU40gH6AUFVX3lxTE1DZXo1NjVFLXpCUktxVE1pTlR3cXdOZnk4YWJ5UXNvZ2l3NEpMay1UZFZVMmstUTV2NFNzMlQ1cjZmTzRFQmZSS1Vvek1ILWI4MkNuOFp2OHhXX3lrd0gyNDg3YzE2NGIyNzVqMGNvV0pzdVF1czl3cGNSNHNMTHFnZURoYXI1Vmg4Qk05dXpYRl9WVUJ3NDVmRWFWUzRHMkNPbV8wbzRTRm1pa1Z1SW5vWm5Fc0FlZ21maGtFSlE4VWF1OGRlY0RsRk9OSVV5bGNFZjhQbTBZVkNfWC1YWWhKWjFRN2IxNlZUdlpERnhkQ1owNDg0a1JOYnc?oc=5",
+    "title": "CNG shortage hits Erode, Namakkal districts; fuel stations see long queues of vehicles",
+    "title_ta": "",
+    "summary": "CNG shortage hits Erode, Namakkal districts; fuel stations see long queues of vehicles",
+    "summary_ta": "",
+    "date": "October 13, 2026"
+  },
+  {
+    "id": "ero-oct19-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWxYa1ZUcUdoZmg4TkpJRTZEUXBOTFcwaE1mYzNfTW9YY3VBZ2F3SkY4TDdJeG9sdlBaRGwwY0szOXJBSWJYTFhNM2RtUldkLVJpVkNPTllJTHRuOHp1SHlOM0hRMUVRdTdvcUpkb2xKRjlSOEdPMGEzb1dIVDZEb0prOEhYNENXUHNUZXY3MHh2cEw2eEdJSklMMjg0QlU5cnpsSlhtd2x1eDN6QmZQNk9lV3dRcmtscVluNzctRXozLVI5LS1QNFJJWdIB2AFBVV95cUxPWTZSOThJclhfQlQ4ZzRuTEI1WWlyUlpJa3FmbTVtalhPOTh4Wjg5N0dxUGU2M2x0ZnlERXJvYWhpODJLX0pVWG03UTRqSkRsN09OZTZab2xUWmZMR0w3ZHpHdjJWVkdHWmhUNE1NQ0d4em5MZnc2OTdDVm9EeGk1di00c19rN0ZFTmVSR3JPWk9adVFxbHVNT0JBOUdYMHlTOFRZbkIwMllKQmZQeVBoWW01c1hid01jaHYyTHNqTzZDaVM4NDkxcW9OT0xKYXZSLW5lbDE2Ylk?oc=5",
     "title": "Monsoon rains spark second wave of butterfly migration in western TN",
@@ -128,18 +140,6 @@
     "title": "Turmeric price hits Rs 20,799 per quintal in Erode amid lower production",
     "title_ta": "",
     "summary": "Turmeric price hits Rs 20,799 per quintal in Erode amid lower production",
-    "summary_ta": "",
-    "date": "October 14, 2026"
-  },
-  {
-    "id": "ero-oct14-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLXFaOGFhajNnVm1rNXVsRVFRVWVSUVljWFpaNUk2UUpMS1VLX3NlZGNFRTJHVjA5ZnNMWGZ2QlBHM0E0aUNrRkJ2bXlKR1pTTFRxUUFoYXp3RzRIVkV5cUJaYVloUXZSMGNkbUE3UllWcmMtblh1YnNYNG9DRmZ5aXBfMzhGTVBhMFlRUkFrTkdhdmVUZEpTeDAzenp2eGtaVTFWT2NhcHAyUDdDY0hodUhrQzFsVEI3cFFaSnZGbWV5bURfOUdKWEl1SmlxcU3SAdwBQVVfeXFMUE85b1VPQ19Oc0hON25PVkNaSFNzOWY3NGJ2RlJyTXNVRnB1N2dsaUlGQmNSM0c1R2lrRzZxZnoyX1dmb1k0d294S1JaYlhLVDFYdjZxTkFHVU05MmRWQjVSZHUwcVpDRVE2RnZwc2VOVWFwRmVPZWhSbHRoTUhjdzdvU1VjMzdZb1hlbE9jS2x6Ti1PX1JSVUZZQ0Qzb1ZJVU1lYW12WU5mc1FHZlU5eEF6UVZ3eWF0eTNBSVVWUy1CSjZTNEJRMDZ3Tjk3alNkemxnUjlINXBrN3BzLQ?oc=5",
-    "title": "Erode turmeric price crosses Rs 22,000 per quintal, highest in recent yrs",
-    "title_ta": "",
-    "summary": "Erode turmeric price crosses Rs 22,000 per quintal, highest in recent yrs",
     "summary_ta": "",
     "date": "October 14, 2026"
   }
