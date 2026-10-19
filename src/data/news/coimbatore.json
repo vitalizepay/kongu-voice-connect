@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct18-001",
+    "id": "coi-oct19-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3RIYU50VVFlUDlFdlZ0MEl3Y3dTNmFseDVJM28tSHEya2phZF90bVhkQjNoY0dkRGZIaWtINXZqelM4UTJaa09ETlllcWRCRjJ3bk0zZkRYZmFyMHRta2hzaVVwZzR6M0RSaF9UbjVsUEFZVmlnVnJpTVBqZl9xTTBDeGNrNFRvUGNhdm4xRmhqblZHZGxXTUk3VnpuWUpsamh1dWUwdXdMS0xEaWFzMw?oc=5",
+    "title": "Tamil Nadu weather alert: Orange alert for Chennai, Coimbatore and two other districts",
+    "title_ta": "",
+    "summary": "Tamil Nadu weather alert: Orange alert for Chennai, Coimbatore and two other districts",
+    "summary_ta": "",
+    "date": "October 19, 2026"
+  },
+  {
+    "id": "coi-oct18-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGFSbUFvRV9LUXIzU1JCNmJxU0tEOUFqNzU3bUhBWVQzdjZJVmtIeVp5amIxeWRVZGZQWVVWczVHR3ozTmFHVGVfenV0T1pQMFFhUHdBV1RSMEd2a3YxRW02ejh5OHhTSzlETGFZNHdLZVhUTWNVS3N4UFMyLTZyUms1Z3IwTEJaTnc3b3RFY2tzNHdVZ1lFSUUtUFlvVkRTcnYzS2wxaTBKOXdwTl82Rnc5Q0xxOUpBWERSZ01LSnFOUkI3ek44bXB4aEs2MFYyVW1J0gHgAUFVX3lxTE1wT3U4MVR3VGgtN2c5QkJKMFYwWjdJWGpYZzNoWjNDb3o3SFVRWVVWQ1dVU0htR1JWZXZZc21QQ1Y5X2pnNGlGOVFsMXZudWxBSWlaMXFRVjFHRUdxd2lGeXMzVzMwWGlUQWoyTjN4R0FwdG9Xa3BNQkRocXNnU0sxNEhCNWNSd0FfeDNrTWhoMHVRbVlqSWlaQ0pNWjUzM1BqcGY0aDk5ZFhoRG41TGpiaTlnUkgxM1Back93ZnVJdWZuNU5BYnZXd08zLWRoekx3UWFJcFdFZHJJcks5bmNr?oc=5",
     "title": "Five prisoners convicted in '98 Kovai bomb blast case granted 60-day parole",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu CM Joseph Vijay to inaugurate ₹300-crore Periyar knowledge centre in Coimbatore | Hindust",
     "summary_ta": "",
     "date": "October 16, 2026"
-  },
-  {
-    "id": "coi-oct15-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSU8tZlVEcUdZUkptdktnV1FWVHZvYzJxcGtrN2hVMmJNQ1RsT2FBYUdRMmRvM3Zpc3NtQ2s3WW1pN1d3N0dUb2lGNC1BSHBCd1puSWF5Y1pua2dUNGlScVIzazhfdXYwak9HdXh0YXZJbzZjdXJDdXFBd2N4c0pJQzlFaFFCQ0tlV2dQOXZHVXpZQklJdDJtY0pJa251VkxkcXN2MnA2UTEtTnpqZzh4cTlYLXZndGlIWTdJMVYwN1dmOWVWbUNJT0xVT2kzc204WTZTbDFDYi1haHZY0gHjAUFVX3lxTFA1RTVqRE16Q0tTeHlReFhyWU5tWk4zT0FZbXZNcmFzVEVWUXYzcGc1TVp3cWFFUkJtUjY3akN2Z0NxUlp1dFhvZ3B2VkFKb0cxLXd1RUdRdlVBemIxcFgzOE4zMmlQZGZNVWl1MUJXcUJvVlEtaXFJQWRUbjBidnZtQUZhNzFDS1phLUpQU082QURPUVhpd3djRVcyYkN2Y01OZ1Z5QUhNYklNZFZzaFhmQkpCU2EySmxoYUlzdEVHbHR6WlB3c2Q0ZkpIWFQ1Y2tKOER6UFpDWFJVQ0had1ZuVXFB?oc=5",
-    "title": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
-    "title_ta": "",
-    "summary": "Anthrax infection kills female elephant in Coimbatore forest; carcass burnt",
-    "summary_ta": "",
-    "date": "October 15, 2026"
   }
 ]
