@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct20-001",
+    "id": "coi-oct16-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWdtMjZHR0l4aUdBV1BSc1B4eHBTSlhUMW1adW84RjJwMkxORk9JdjVFNkdER2g4Q0Jrem94elN1Q0JBWHdLYmZKSFRTbkdxTWQweFdGNlk3OHROdWZKWGtzVWdsV0ljWlc2NDBJcW1QWnJvTmpvOE9mLWZnUFVPWGlsSGtNM2Raa1dJdlVBVTVlZFVYYWlYSXhaZ1FTR3Rmam9VdlFCWmRjZ3hza3ZFdUtrd3NTWno4MHNjWkNQMERtdE5WalpRX1NDX3JYc2NXZFY2UnM4cS1SNmtTM3Nn0gHmAUFVX3lxTFAxSUhvYVBDd2dOZ21YWWdiTWNBZDRfbHhxQjJ5bkZPdmFLbElWRHNLSFVScTV5bEJFTXhla0pzdURFZFRxcUJoNEZ3OUJlWmxjZFUwZEN0Zm1lUmpMbmxIenJjQVQxMDVtUG9UM0FqbWE4VjBXOGlpTklJYmpUZ2Z3T1JJeklLNGVvMmt6Q21HRWRDYVFtcERhdVppQzRJaGJCNVVmRGNiRHp1R1AwNlJXZks0WWhfZ2o5OUFPLWd3SmJpTjRzRWx6WGJ2b1YxMlNKdGx3ODBGTThlcUlSUjNEbjc2YWJ3?oc=5",
+    "title": "Tamil Nadu CM Vijay inaugurates ₹301.71-crore Periyar Arivulagam in Coimbatore",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay inaugurates ₹301.71-crore Periyar Arivulagam in Coimbatore",
+    "summary_ta": "",
+    "date": "October 16, 2026"
+  },
+  {
+    "id": "coi-oct20-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdWQ5Unl1MEdDVkdHSzZEeVhNNEt5N0stME9WMXd0Vlh4ZEVpb0trc3lZV2cxZENmem1MYUs5SXhTSkh3RWNmcTBTVE5XYldFRXJrUFdhQi1ieEkwZGdXZVQ3V2V2RUx4cjZGblZmSlRQM2NzY1M3aWNQUVM4TE1UYmZHUzNsOGM0LWFsbUlyODdheTJGckpaMWZaSzUtM1pITGZkS0RqQXVTY21CS015emRvNHV3elhtRVQzb29vM3VMOWxzSFp3alpEMV9HMHo2OEFBcG1ORV93Rk5yZktibVVsNDHSAeQBQVVfeXFMUHVkOVJ5dTBHQ1ZHR0s2RHlYTTRLeTdLLTBPVjF3dFZYeGRFaW9La3N5WVdnMWRDZnptTGFLOUl4U0pId0VjZnEwU1ROV2JXRUVya1BXYUItYnhJMGRnV2VUN1dldkVMeHI2Rm5WZkpUUDNjc2NTN2ljUFFTOExNVGJmR1MzbDhjNC1hbG1Jcjg3YXkyRnJKWjFmWks1LTNaSExmZEtEakF1U2NtQktNeXpkbzR1d3pYbUVUM29vbzN1TDlsc0had2paRDFfRzB6NjhBQXBtTkVfd0ZOcmZLYm1VbDQx?oc=5",
     "title": "Softness towards terrorists: BJP slams Vijay govt over Coimbatore blasts convicts' parole",
@@ -130,17 +142,5 @@
     "summary": "Heavy Rain Cancels Tamil Nadu CM Vijay’s Thrissur Visit; Keralam Fans Disappointed",
     "summary_ta": "",
     "date": "October 16, 2026"
-  },
-  {
-    "id": "coi-oct17-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFFMaFdkcUZINS1IV3daZU52Ylc4N3JBc3d4QWJ1MzZkY2R1WXVXTmtLVjhyQ3VhS3lobUlETVU2X055d0swaXRGdzZyeUp2WlRsNlJCbWVaUm9xRFBHeERlZEZsbVNwSWtnZHo1c1lPQnFfdWo1dVFnZ25QMVpfZTZrRXk1dHZEcy1mVE90NDAyVlcxT09LTGhUTnJWc3gydC1CaUd5R0lzWXFBN1Q4RDdBZTdiTE1yV2FzWmlWY291eUNva05zczhZM3RjQzNzQl9DV0F0SHlYVE94TmdENEltRUhXZnfSAfQBQVVfeXFMTWt3d2VMY1ZBbzBDbzhzLUJvV1dEN3Q4S18zNjdqNHppbktHZkJwQjRMUUNuWlM4Ql9wZ1dPb3ZRZ3VvWnQtdWlaZTVLc1JHNHEySEhDbEJVbmViUGd0SWt6YW55SHdmb2N1Um1vTFItajZxTmlCdzRwWDB4U2JDR2x2Ul9vZzJ3VU5KM2xsZnM4QVo4My1QMXZPdmNoYTZZVVAzZkxfcFdKX3hvSGxZc0lNWUtTajg4eFNRYlJnRDRST3JsUmNXMWRfX0lHbWxTU2syeHFDVmVPWFZTdXRkU2NkOHVCS1ZUbG9qZ05STFRvREY4NQ?oc=5",
-    "title": "Coimbatore jumbo died due to anthrax, confirms lab report; forest department steps up vigil",
-    "title_ta": "",
-    "summary": "Coimbatore jumbo died due to anthrax, confirms lab report; forest department steps up vigil",
-    "summary_ta": "",
-    "date": "October 17, 2026"
   }
 ]
