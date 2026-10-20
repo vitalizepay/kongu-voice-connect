@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct19-006",
+    "id": "coi-oct20-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa25sdnRMRWV6ZEZvMHhQcU8zaXVvaFc1S3BhOWt3cGJPaW43SDJIdkdGb1ExOUkxS2ZQV1JhOTZXSkVUNEdRUUc2b2FMRXY5NVFWaDI3alpDOVpzWHNiS1Rxc0dKS24wOUI5TEJOc2JqcndFM2d1LTlJVlVPVkZySUFFRU9rZw?oc=5",
+    "title": "Tamil Nadu Rain Alert Expands as Coimbatore Gets 18.4 cm",
+    "title_ta": "",
+    "summary": "Tamil Nadu Rain Alert Expands as Coimbatore Gets 18.4 cm",
+    "summary_ta": "",
+    "date": "October 20, 2026"
+  },
+  {
+    "id": "coi-oct19-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGVfOTl5ejFQZEw1UC13a0NOeW1CLTV1R1JtSkFyekctM19MQTVFLVphSWdQNnBKdU1lZi1XQVF1WjNTV2FUb3FGOFJiNUYtYjBMT3VsUWVZeEFpdVoxWkJpVFBoU2ExQUNpWjVSbDdOUUFibjZBOGxBOWxiYi10ZTZGTTh6d1dyTlo1ZmpyWmZxbXVNTkNXU1NIN2hqYWthbzFBWHk5aHQ0T3NEbWFOeEd3SUxHRkVjblk0QUZB0gG-AUFVX3lxTE44ZV85OXl6MVBkTDVQLXdrQ055bUItNXVHUm1KQXJ6Ry0zX0xBNUUtWmFJZ1A2cEp1TWVmLVdBUXVaM1NXYVRvcUY4UmI1Ri1iMExPdWxRZVl4QWl1WjFaQmlUUGhTYTFBQ2laNVJsN05RQWJuNkE4bEE5bGJiLXRlNkZNOHp3V3JOWjVmanJaZnFtdU1OQ1dTU0g3aGpha2FvMUFYeTlodDRPc0RtYU54R3dJTEdGRWNuWTRBRkE?oc=5",
     "title": "TN BJP condemns govt decision to grant parole to Coimbatore blast convicts",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu Chief Minister Vijay inaugurates Periyar knowledge centre, holds roadshow in Coimbatore",
     "title_ta": "",
     "summary": "Tamil Nadu Chief Minister Vijay inaugurates Periyar knowledge centre, holds roadshow in Coimbatore",
-    "summary_ta": "",
-    "date": "October 16, 2026"
-  },
-  {
-    "id": "coi-oct16-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDR6TGdYc2ZRS1ByZmdKMXFYalFMWVdaNDlaektVSzMyYzlFaTZZT3AzLTA5bjBoWnZ1SGZCNkNjdk52X2dybm9lTUNESXl0aWtJbzE4OEJBUzMteThJRHVaMHFZWDVwOW82RHJOYndjRFZENDUwSEx0elpRbE05ZWhsTnllTkVJaHFXREdlR2VsaUJvejJzT05yc0hnZXJuYUJIcjl5VFdCMVRUMXA0?oc=5",
-    "title": "Tamil Nadu CM Vijay inaugurates Rs 300 crore Periyar Arivulagam in Coimbatore",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay inaugurates Rs 300 crore Periyar Arivulagam in Coimbatore",
     "summary_ta": "",
     "date": "October 16, 2026"
   }
