@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct22-001",
+    "id": "ero-oct22-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGI4N1dTejhCREs4bFJ0LTA3Vnc3dkg5a09XQTBhMVRMV0dRMW9wcVNyUVNVTF9xc2JXZG5DQkZKRWxEeEpyQ3RVblJmeWlNN1ZvM0REOEluTTY5c2tPZXJ2b1VDdEMwc1lwRVg5ZEVmZXB1d2tQS2lBV3lqdmlRMGhPVXF3cDBrYUU3ODlXNTBsdXM3MDlJRzljVVp2MXIyZjAtYzBhejJZUDIwU3dOXy1R0gGyAUFVX3lxTFB4Yjg3V1N6OEJESzhsUnQtMDdWdzd2SDlrT1dBMGExVExXR1Exb3BxU3JRU1VMX3FzYldkbkNCRkpFbER4SnJDdFVuUmZ5aU03Vm8zREQ4SW5NNjlza09lcnZvVUN0QzBzWXBFWDlkRWZlcHV3a1BLaUFXeWp2aVEwaE9VcXdwMGthRTc4OVc1MGx1czcwOUlHOWNVWnYxcjJmMC1jMGF6MllQMjBTd05fLVE?oc=5",
+    "title": "Farmer dies after car in Erode Collector’s convoy hits two-wheeler",
+    "title_ta": "",
+    "summary": "Farmer dies after car in Erode Collector’s convoy hits two-wheeler",
+    "summary_ta": "",
+    "date": "October 22, 2026"
+  },
+  {
+    "id": "ero-oct22-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUG5vLUNNb25iczhZZDRaeFc5V2steFBtbkdBeGpMa3Q0TUgxU2hDdGxvZ2ZjUTZlMzdtSWYyXzV5Tm5YclQyQXpEQjJNSjR3bXZoSkFLOVpaQkNwdURta1ZCZk5UeHZ5U1FQRHBDYUp4OXRQdGtabkRJdUlrSVl6eWpLdGJQUExwNkdKQ1dBZmRVRHhLaWNEY0FxUjhfdW1vVGhGeFRQOEZqOWx6cVdtbWg4SWJsS0xmMkJWTzlWWWtoVWJYMFF4Z3NKRWtEZHJZc1lPNTZ0VVQ3N09tX0NtWnJJY9IB6gFBVV95cUxPZlcwSVlLVnVEYWRndEZWMTI1ZHZCY3NnVEtTeXhUbUw3TUIxSFdRdjZEUmdvZ3JpLUdCYUJ3NUpTV1FlRU03dDZha1BNTEJlcXRab1hyZnNPY1pUS3dDd0R6NmxaMmFiUWpMbUxRR3ItRlZJV0g5cHMzb2o5cmtVRm1yLTR4c2ZuSFJPMmdpZGRDUlJUZURCX29janNESXU3d3FBZ0pTTk9KakVydDdFUWFiYXgxV3d6Y2V3QUJkaUYzejJrQWw2T1dMeVpkN2EzS0sta3d0b1B1RjN5R2VFVFVIYzBXY0NYeHc?oc=5",
     "title": "Man dies after Erode Collector’s vehicle hits two-wheeler near Gobichettipalayam",
@@ -128,18 +140,6 @@
     "title": "State govt cannot receive gift of temple property from temporary trustee: SC",
     "title_ta": "",
     "summary": "State govt cannot receive gift of temple property from temporary trustee: SC",
-    "summary_ta": "",
-    "date": "October 16, 2026"
-  },
-  {
-    "id": "ero-oct16-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0RPc01zLTl4bm9qRGdhcGZ1dmxSclRFcU8zLXpFVV9Xb2dGbXBJd3ZxWExPZThjZXgzRHV3UFVpTXFIN0V1RksySS1HNjdGbFVJc1hKQUlOUE11T19SSWF3Qm5vbTFaZkFwdkkyQWtZSUJPVVJXQlZoTmFCNUVWTVRpemN2NXNCQXRldUFROWJZRXRjbUZLNVpQNFh0UWdJM25rU2xnTm1GRE9mQi1iZzdRQ3RtTVR1cXhwaXhqLUh6ckl1ZjM5MW5OVlHSAdIBQVVfeXFMTkM3S1NnRW0yVE5sTmo1UlM4VTRzOWFjbHd2MmNZbTN1N1pCN2xNZDF1eXlCdVVjYWtQckVPVGZLbnBKR2Nyb0tabklqSEg0TzFfX0lqbnlqZW02Z0dPdjd0dTB0MW81ODNYYkt6WmJyeWVNVWkwYVBxdUQ3LWVKTVZuN1V1R3Y3SDdIWHc5NWhBQ1ZUOWdUN0lhbmFWc3FxTUlRQWlzNjlYUmotbkVwQ3BpSEhrN21YbVF2bS1jd0VQdjhGRHZvbEJOeGNZaWF2QVdB?oc=5",
-    "title": "Heavy Downpour Lashes Erode District; City Records 156 Mm Rainfall",
-    "title_ta": "",
-    "summary": "Heavy Downpour Lashes Erode District; City Records 156 Mm Rainfall",
     "summary_ta": "",
     "date": "October 16, 2026"
   }
