@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct21-004",
+    "id": "coi-oct22-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUw2a1pTNjdmNGtYVHpTTUR5NVpVQ2prZjdtMFJubW96SkFiQ1EwVVdtcmNuaG5peS0wUW96R01MZjdlY2xmaG10TmFvbUhsR2lVN0swRWp6cFhLbFBLRUFQaXJDcnNaUDhqd0RSWU1lT01XWDFCNUhDQlpvMkJMS3NlaHdzMTg2MVdfcjhJN2lCWDFMOWdCZllialdwV3l2WjBYaHNzZVA5TEFvUUl6M1YxVlhjcmFaUDg5Y2hLdTdHX0hmcWMySzZQTEdveGNZT2lYT0dmSDFnaFo0Z1ZmYm9WOEI3TXFpNWxV0gHrAUFVX3lxTFBxTDZrWlM2N2Y0a1hUelNNRHk1WlVDamtmN20wUm5tb3pKQWJDUTBVV21yY25obml5LTBRb3pHTUxmN2VjbGZobXROYW9tSGxHaVU3SzBFanpwWEtsUEtFQVBpckNyc1pQOGp3RFJZTWVPTVdYMUI1SENCWm8yQkxLc2Vod3MxODYxV19yOEk3aUJYMUw5Z0JmWWJqV3BXeXZaMFhoc3NlUDlMQW9RSXozVjFWWGNyYVpQODljaEt1N0dfSGZxYzJLNlBMR294Y1lPaVhPR2ZIMWdoWjRnVmZib1Y4QjdNcWk1bFU?oc=5",
+    "title": "Tamil Nadu government college students develop game-based app for class 6 students",
+    "title_ta": "",
+    "summary": "Tamil Nadu government college students develop game-based app for class 6 students",
+    "summary_ta": "",
+    "date": "October 22, 2026"
+  },
+  {
+    "id": "coi-oct21-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQT09FZHlnYUg4YmlxeEI0SjhoMUNuX2sxMlhHUTZwUFg3aGhyaVVxOHdmY2E0cXhURmVZX19HMEJiaU9Fb25RU2RkWEhhbzdUSk85YU9ZUnVxXy1rdXV6ZEV1N1VEVkhBODB2WWg5eUpQMFZONUE5MnBpeEk5ZFZvaUZQZ2x0MEswWVRBZ3lkcDRxeVBxSzVoaDhISEJub1hFQUxRU2QycTJvSU0wakJpVUN1dmp2VEJnXzdzR01BSmo3T3dYTm9XQXpISnkteFZjR3N1ZktJWUthTW14TTFvSFJBZG9vOHhfYkI4R2hrYjY4NlRadXQtU3dpYXVpT2MtWE5mR3hJSUplR1V5aW50XzRQNnY4ZG5pQWl3UjJ5cWdDUQ?oc=5",
     "title": "GEMS Education announces the launch of GEMS Modern Academy, Coimbatore – a dual-curriculum school ca",
@@ -130,17 +142,5 @@
     "summary": "Five prisoners convicted in '98 Kovai bomb blast case granted 60-day parole",
     "summary_ta": "",
     "date": "October 18, 2026"
-  },
-  {
-    "id": "coi-oct16-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc21keWxQdVdYY1FsLW14NUNXZkh2ajhVM0RZSktHeU12S0pOXzlwVTQzVkNUaURFanZHckdjR2Fpd1dEeThsRDh3SVh6cHViMjl0RUtHd1hCUEJLTEhVV3V1elRlUk9qMVJXQWMyeGxvTjRoNWNyWnRiTV9hS3NGZXFDNU5XY3hHNmRvZUNOWE1LVm8xX1FOYTJzdm1nbjN1Q1Y4N2JMTGdidUZ2YThzRkFpZUVMV0E0TVJaOEx1ekN0SUVzNHVma0Qta3RKaHNXTmc?oc=5",
-    "title": "Tamil Nadu CM Vijay to inaugurate Periyar knowledge centre in Coimbatore",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay to inaugurate Periyar knowledge centre in Coimbatore",
-    "summary_ta": "",
-    "date": "October 16, 2026"
   }
 ]
