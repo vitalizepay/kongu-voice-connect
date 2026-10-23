@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct20-004",
+    "id": "coi-oct23-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUE54LWR1UWVnczVkb0Z1Nk5QYXZEcHRIbHhVdFRZZUoxSWp4REZtTy0tU3ZCekN2T3RTSGRHTE5vbFYzbjViSndvUmlCU3J6Vnp1bmV0amRfa0x5azVNTUFKUmRuTWJhUEJTcHJYSG5xS09yRUpLZjB6cDdkUzFheTdVZWZnMHRXWERtZHdMcEVrWEVVRUM1bldraTlFdVV3VjlaelpoNjhVYmctcUM5Zl9OT1N2ZElCRThsNmFPdU12RHRRZ1Npc3hLRUJYOFJrT21ZSFRWMWVkUTFG?oc=5",
+    "title": "Tamil Nadu Rains: Oct 23 School Holiday? Orange Alert On Kanyakumari, Coimbatore; Yellow On Chennai,",
+    "title_ta": "",
+    "summary": "Tamil Nadu Rains: Oct 23 School Holiday? Orange Alert On Kanyakumari, Coimbatore; Yellow On Chennai,",
+    "summary_ta": "",
+    "date": "October 23, 2026"
+  },
+  {
+    "id": "coi-oct20-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXy1jWi10UGVuZGNSYjdBb0xvbVo2UGpDUWZTZW9oN0ZFZE5BRnZHODVpaUM1ZGpZWEo3M1BEemV2ZERKTGExZkF0dHA3V3EwLWVKX0NUODEyYmNrU1k1dDB3bTYyQmVHaTBmVWRySTg0UnRfU2RWWTF2dHBXWGtXdUV5SXJRWHFqeGxVYkc2elppdDlUMVJ2dVZmczdibnF6Ym9vM1VsY1piQnFfMEpmTWVkWdIBugFBVV95cUxQQWFnbm0wMDV0MHVHTTZXNWFSNW1VT2tVbnhiSjBDTk43QnFvSV9fODNBbEtDaHY3SU15TlRiNjBqVThwbEl2X0QwalZaQUMwZVU4NnM1d2d3TmxtcjdFT2E2eGd5WGtNRHhqeDdKR2J5dDdwX3BUb3kwREJ3cjZQa0JxMkNQSHAzbk9vNVRFMzlnbXIyMkFuM0dhdk1Ec2t5Y0M2UE1lTzVKc2R2UXk5ZDZwQ25pMWZkb1E?oc=5",
     "title": "Vijay under fire over parole for Coimbatore blast convicts who targeted LK Advani, killed 58",
@@ -118,18 +130,6 @@
     "summary": "GEMS Education announces the launch of GEMS Modern Academy, Coimbatore – a dual-curriculum school ca",
     "summary_ta": "",
     "date": "October 21, 2026"
-  },
-  {
-    "id": "coi-oct16-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWdtMjZHR0l4aUdBV1BSc1B4eHBTSlhUMW1adW84RjJwMkxORk9JdjVFNkdER2g4Q0Jrem94elN1Q0JBWHdLYmZKSFRTbkdxTWQweFdGNlk3OHROdWZKWGtzVWdsV0ljWlc2NDBJcW1QWnJvTmpvOE9mLWZnUFVPWGlsSGtNM2Raa1dJdlVBVTVlZFVYYWlYSXhaZ1FTR3Rmam9VdlFCWmRjZ3hza3ZFdUtrd3NTWno4MHNjWkNQMERtdE5WalpRX1NDX3JYc2NXZFY2UnM4cS1SNmtTM3Nn0gHmAUFVX3lxTFAxSUhvYVBDd2dOZ21YWWdiTWNBZDRfbHhxQjJ5bkZPdmFLbElWRHNLSFVScTV5bEJFTXhla0pzdURFZFRxcUJoNEZ3OUJlWmxjZFUwZEN0Zm1lUmpMbmxIenJjQVQxMDVtUG9UM0FqbWE4VjBXOGlpTklJYmpUZ2Z3T1JJeklLNGVvMmt6Q21HRWRDYVFtcERhdVppQzRJaGJCNVVmRGNiRHp1R1AwNlJXZks0WWhfZ2o5OUFPLWd3SmJpTjRzRWx6WGJ2b1YxMlNKdGx3ODBGTThlcUlSUjNEbjc2YWJ3?oc=5",
-    "title": "Tamil Nadu CM Vijay inaugurates ₹301.71-crore Periyar Arivulagam in Coimbatore",
-    "title_ta": "",
-    "summary": "Tamil Nadu CM Vijay inaugurates ₹301.71-crore Periyar Arivulagam in Coimbatore",
-    "summary_ta": "",
-    "date": "October 16, 2026"
   },
   {
     "id": "coi-oct20-001",
