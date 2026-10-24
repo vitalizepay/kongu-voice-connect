@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct24-003",
+    "id": "ero-oct20-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX1B3aTZtbDFfa0hYemtRWUJoRGwxT1FranZfZDBDcEZuLVpfTnkxNjZWT084Z19iemRKMi1FUjQ5SXZzSFhNNFI4VjZTeU5pN3lMQUtPSDJLeUp0XzM2MklOdnlpcktvRWF5azBfUHhkTGxXak5kZFdmcjltR3p6bVJtaGgwdmZDWFNwS0d3cEozcEpkYkRvRHlMcEFQeWVSczBycXVLcFVDVzN2NHdIc2hqdjZCTEJKY1k3dGozdFFTTUlITTF3SmQ0dEx6eTdPZjk1SFdKdG9PWGxjMWY1Nnh4UnlFdTZHUFVpV0pQSjZhU1lYdFM1Y090bjdmTFgzZURqbtIBigJBVV95cUxQblRnU3BfVXVRZUhhR2pqLWhmajNRdU1yWnFNNzFrTGpocDBpbTJ2SkMwNVhramFPYV9Gc09aRDBYcDNJVlQ1V3J0VktUN2RMZjgtZ3VMZ3c3eGtvZWEwbmdsRXBNT2I0YWtNdVlrSkc4b012Zmh3azE0LVlKQzhOSTlNRk14VS05ZWRGV2dHemJpTUJpOWJwVzR0MTg0U3dLcklVMzMtNk5SaW85V09QZ2xNaEVpUkNkLWJud01sQjRHVHBMVHlGRFppcmdINEVIZ2p3R0dlcjNDTlFCbk9MOUpBbE9JVFF1NXcxTWd1MFNkWjJoZ3g4eFMyU0NwSE9wWnRaZHJMQUZ6dw?oc=5",
+    "title": "Nurse goes missing on way home, found murdered days later in Erode; co-worker held for gold chain th",
+    "title_ta": "",
+    "summary": "Nurse goes missing on way home, found murdered days later in Erode; co-worker held for gold chain th",
+    "summary_ta": "",
+    "date": "October 20, 2026"
+  },
+  {
+    "id": "ero-oct24-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxX0JoajhZRXI4VFc2ajdfcGpXUmZVTDdFcmdZRXQ0a1NqT1ZIaF9YZlB3M2ljWGhjeWllMHcyeWc5TmtHRjZ6X29lMkJwb2M1cU9vaEwwMzVUWWtSMHEtVDZTVVNxQQ?oc=5",
     "title": "Erode School Holiday: All Schools Declared Holiday Due to Heavy Rain",

@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-oct18-001",
+    "id": "sal-oct22-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFExbHhUVkc1LTFYU19iQUE2Rjlnd1JwdXZUbkFHUnFPSWlWNXBYZU9fa0k2c2tDT2RNT25rZHQ0VjJpb1RKMmZlc1JGRGdtSEF2RUE4azBHTkNiLThMR2Q5cjRRNHB4WXJ3U2VFbDhqZDgxWXRYbkQtSjJFUEFMbUkxcU8ydnV0ZlJRREFUdlI4WXdkWXZTX1VXTWxkc0o2VlVKWGppNEtibFNvbzJnQmpsby1YUU1Xa0FGWjZZR3NJbG51MVNLdGpOdW5EZTTSAdYBQVVfeXFMTnIwbWFpUUoxeldINC05V0FBUmRwLVZBZTNLV0VrTGNKa3RsZXhhWUlxaDBMVWtYREFmOXVURWdlSVRMckU3RVg4dGZsX0w3MnVlUmtKSjh2aUUzZEJ3U1FGaVJ6Vy15WVFxMGpIRUVnWTF0Wk8wcWx5M0NoY1YwT01zemZLcnFlbUtjcTF0YThGNjNfQ2J2ZmJ3c0tCdXVXYXBucUhVYmItUHZxR0lxb1I2YTVra050b0NGYXAyTEZVYzVDUHhSRnktenJ2XzdZLTlxblJzUQ?oc=5",
+    "title": "Schools closed in five Tamil Nadu districts after overnight rain",
+    "title_ta": "",
+    "summary": "Schools closed in five Tamil Nadu districts after overnight rain",
+    "summary_ta": "",
+    "date": "October 22, 2026"
+  },
+  {
+    "id": "sal-oct18-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUVUNkd1Zmlab0tGUm5lNWMxMVBRbW9LUUlFT3ZSTGFXemtSUTI4ZTlMdXUxczhsaG9OcWR5MUFZby01TkM2dnhxTVV5VlQ2UnUwWjlqM001TFFBX0oxZlJKWHp2TW5sSk5mZGFEekxONGwwM0VCQWpnMW1QYlVqcmEwd1gwZGtyemZrSG5BcWcxU2tjdXBJZFRuaUxNczFpd19XUGl4bWF2Y2F0QmZtSFBkdlp6enk1MUt3dFdzZlJXR1F0UEpWa9IBzwFBVV95cUxOX0RzNDJqZXBWZXRHYzFLSThZQ2NzbUpDSTZZZS11a2dfbkdwRWRMamhQcGVSTy1PckFiMU1yaFRWVWFJMktxdlp2bWZHTHlEZkQ1elZsaXZTSXZUYkxNdVVrMlE0a1JlUWctQVBwYVRFWk1PdXdIN05VVU5XYkEwaE05Tmt5YlpldjczTi1YLWw4MTVuZDVnM3M1OFhCM19xUVBqNlBZTGlvMHN5Vzd4Y2hIOGdXMlRRdm1vMFF6ZXJZRHlzaDFOV2xlYlpTYkE?oc=5",
     "title": "Heavy rain lashes Salem, Krishnagiri, and Dharmapuri districts",
@@ -10,53 +22,5 @@
     "summary": "Heavy rain lashes Salem, Krishnagiri, and Dharmapuri districts",
     "summary_ta": "",
     "date": "October 18, 2026"
-  },
-  {
-    "id": "sal-oct17-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTJMSnZncVIxM1R5YXpoUnQwTHE4RWZYR0pILUg3dTBYQk40Ukd5TWhxRzNKa0xfeV9KenJDU0x4WTFuNVJpaXo1bE5TX1hvOEV5cEJFVmhhUXRqWDZHNWdfME9JU00zTUowaUhNcFp1Ml85VlRmNlVfUkd4eW5WbHlIX2c2RnlNamU2dml0clZEQU9aQ2dHS0txVnJ3UFVzZjB3TjlBckJpdDBDTVpfd0twenpiTDczZjVHNno4Y3paNUV1RlRQY9IBzwFBVV95cUxPZk4zTG91LVNqMlZGUWFfaUNTS05jNDZJT3YwMkx2eTJiUDhPd1lHZWJDSVlrS2Ftc0hzUVUtcXBmVHVwUWtENkxQWkZIUnlWUE1hV01FNWFXUmhCSVBBMEFvdHRFX042d0lwZ1pJcnZBYTZTVWNkNnNNM0xIYWg0bDRhZnJydkdZWHJmMHVMX1JvRVl6dXZ5TzhEbVUyRzliUFdCRUFyMzFQWlRiSlNWWWc2b2s2WU05Q1o4Vm1ybzJHVFBnUThNbFlsT01mc1E?oc=5",
-    "title": "Heavy rain lashes Salem district; one dies in lightning strike",
-    "title_ta": "",
-    "summary": "Heavy rain lashes Salem district; one dies in lightning strike",
-    "summary_ta": "",
-    "date": "October 17, 2026"
-  },
-  {
-    "id": "sal-oct15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkZ3Z2cxNmY3Z3NKcExyWmVxNEFEX3hUYlVNdWlwZUx6empId0JGN2hsQWg0U2FLSkVSdWhtUjVIR3VURlFHUUlMWUF6bndwbFFzaEJRY0hsSlNjVnJXS19xMkpRdjVCX09wVmpGaUFKLWNTYm42SEdMdmszb0JoLVNocFVFMHZ4eGg0UGJqeFlEdTRVWElCSnJOa1VEQk1Wbk1WSy00NC1IT1U0VGsyT2Nuak5LVVpaTzU5OXJ5VlLSAccBQVVfeXFMT3N6Mlg4eklKQTZtdUoyajhoMTZTUXNISHd1UFdxbTdLRVV3bUkxcGVxbk0xOFdMWkZ1clJLTVRMcVh5b1FmbjNfamIzRkphWmxBdFJYOTVRN19zeUxwV1NyWlF1LXc4bXM0VUFtcXFJTkNXVy1tOS1xRG9Kb0RhbEwzeWt1Z1R6Z2xhUExST1BtQU5LZG1FMzZMQWRZeF9iS05tS2lSSUk4U2o1VTRoV0c1a082alpZbzZFVk8yYTJjbW1hWUR4cw?oc=5",
-    "title": "Salem and Namakkal districts register moderate rainfall",
-    "title_ta": "",
-    "summary": "Salem and Namakkal districts register moderate rainfall",
-    "summary_ta": "",
-    "date": "October 15, 2026"
-  },
-  {
-    "id": "sal-oct15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUS05U3ZhQjNHdFltX3M2OFZmR1ZSZ2tCTmg3VlREVHFGQVRXQ0VfOEZWalU0TzRvQW9pWTRLSkZDZVJiYTFXcVVITU5GYWxiNERyQXBBTEF3Q09zNm1xTUs1eDNpaWx3VmR5V3RRTmNDZ29CNVF1aGR4QWpUMGJPSlhBTnRkV2U3RTFZdjZSS1dRdGdfdXhhRDg4RGU3THZCcVI5Q2tTdjZ2Z2tLMHo0RzQ5Vms1eUZvS1pxbkQxVktzNTg4TFJnXzd4OFJyc2hERzczYi0tVnJnUFBlS19KMTJ30gHqAUFVX3lxTE9sZFlFS3J4QjFvQzdja3FCaEZnejhqamw2dmN0TWdjVV9XNy1uSkI1ekk5MnVjc3VOMDdWblNpWGtGVnhMLXhWclp5VTRNLVY1a1MyYzlMN3Y4TkxDSUlNQlFuQjhlR2s5N0laYU8xRUhWUjB5S0pLY21LYWJJUHFxb1JSTXBQU2RtQXBYd3BZWWZXakNFZUpoeUdKX21WYk54Smd0NjBIc3A5RVJhdkFQQXB0X2FGUHpiUFQxTVYtWnRsWkgtNVNZOFdSZHJyVWZvVUZ4a0pFbjUzZElfV2NxdXVxYmZGX1lLZw?oc=5",
-    "title": "Jailer 2 Fever Grips Dubai: Rajinikanth Fans Celebrate At 2:30 AM; Giant Cut-Outs Erected In Salem |",
-    "title_ta": "",
-    "summary": "Jailer 2 Fever Grips Dubai: Rajinikanth Fans Celebrate At 2:30 AM; Giant Cut-Outs Erected In Salem |",
-    "summary_ta": "",
-    "date": "October 15, 2026"
-  },
-  {
-    "id": "sal-oct13-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc05jM2dIWDFmc0x2eUh1US12eVExWGxBQ0pHQWJ4aW0zNUxadTBsRmJCWkFMVTBfR3FxbDExQzdvZGJjNU03alQzU0EtWFdVVUhQWWZfanlIRllYSnE5am4tcEdmUFJ4UUdjOW1vbnB0dUJvcjI2bERoc3lRMUpQMUJybmVEb3o1SzBlRGRDak13ZDhHbXhvZHBZcDA2RVFaZWx6X1ZWNXlpNnlzMVczRFZINFFWbkR4dXNTd3loaDBJUFhjaXJiTjZHRUZ5Tzh5bDM5TzlSONIB1wFBVV95cUxQc05jM2dIWDFmc0x2eUh1US12eVExWGxBQ0pHQWJ4aW0zNUxadTBsRmJCWkFMVTBfR3FxbDExQzdvZGJjNU03alQzU0EtWFdVVUhQWWZfanlIRllYSnE5am4tcEdmUFJ4UUdjOW1vbnB0dUJvcjI2bERoc3lRMUpQMUJybmVEb3o1SzBlRGRDak13ZDhHbXhvZHBZcDA2RVFaZWx6X1ZWNXlpNnlzMVczRFZINFFWbkR4dXNTd3loaDBJUFhjaXJiTjZHRUZ5Tzh5bDM5TzlSOA?oc=5",
-    "title": "Gang decamps with 600 kg silver worth Rs 15 crore in Salem district",
-    "title_ta": "",
-    "summary": "Gang decamps with 600 kg silver worth Rs 15 crore in Salem district",
-    "summary_ta": "",
-    "date": "October 13, 2026"
   }
 ]

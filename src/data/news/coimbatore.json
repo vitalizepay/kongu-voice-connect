@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct24-001",
+    "id": "coi-oct24-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPejZ2VzdTdE9zLUNBZnMzNnBUbGNkZ0x0QjEyOE0zQ1d5eEF3c0VNQ1RtX3h0RnQ1OXpEb2xiaDlwUFpTUFNhVTM2QVR6Q0lFaUZadHJ1Z3lhbUt6a3lfZl8yLWdVMXRWUnhMYzdZZllpMGdaYUxsZ2RINTdNU3UwUTNIMG5YS3ZhZWdMQ1dhX25MOWI5R2JPa2l6ZDNZMlFuR3JjN3lTMVJhcFl2OHFESV9UemtxeTlMZUFWYzRBN20xWG9xWDMtWXpNMGVnOEpKUlNEa01pS1JfcWFLU2M0VVpSeHl5QUZRNlU0X9IB8gFBVV95cUxOV0VkMFc4b0hnQVl1bjF4Y2c3RjEwM1p5VDNzVDllNXc0OWduejVzN1dJSVVSSTJYMVNrSExqMjlrQnBIb1VjRnhVYkVMNGlzTDRod2hoUEIxemQ3eEh0LUNJQjNXYWJ5dnFpM25xb0JiTUxQSnpydk4xSU1ITS1oYlNYSWxLczBobXZHbHRpWmIyNXJkRGVPa05ZZ1FQVHZKZ2xWTW1uYUdFbnJheDg4VDc5WW9lOXF2NVBsaVRVcVVHTkRJYzI0OTE3dVp5MHZialktVEFsVGpyVG9YOS1xbGdCZzR0aEhRa1BJMmpzU3FhZw?oc=5",
+    "title": "Landslides rock Tamil Nadu's Nilgiris and Coimbatore as house gets washed away, bus driver dies | In",
+    "title_ta": "",
+    "summary": "Landslides rock Tamil Nadu's Nilgiris and Coimbatore as house gets washed away, bus driver dies | In",
+    "summary_ta": "",
+    "date": "October 24, 2026"
+  },
+  {
+    "id": "coi-oct24-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxONTBKdFVndzkwWHlkaXE1bGd6eEtSeExWRHJrd29qa2k4WW9aZnllYTdDWWlQNzl3N1hKczJSS3JJR2ZDRHV3UC0xVkpJQUk3cDlIb0RCSGNVdmtUQmFXVnF0eGJLZVhOVkNvSWgwbWNfZHhqUE9Nb3RkbTdsY0xfV0dKU2N3SDN5VHpHbzJqU3hSeGpiemRsTjl2cWFUakh1SV95aHZaYjJNSEtQeWN6eW9pNE5vQlZyWVFsS1o0M1pIUjdsZmNEejJ3bVBucy0wNjZLbHlKdGRENHlXUU5jdEZ0QXRtYTRnV0ltcUdIWlBZamJxNkRTd0VDQ1h6VjNacGtTZ084Y1dyYjYyLURxZHItQ0htaGhqME1JSU9ESUNJSERlckxLRGZDRGVPUFpPNmFkYTdmSDE5Q0R6VS1WMVhhT2NyU1h0Q0NwbFMxQ1FHQWlGWnhMY0psRDlHN2JadDdPemJlNm50a2Z3TlNMT0VrZnRRQUV5c05OSW9UQdIBhANBVV95cUxOeEFSSTU1VVBnaUZzLXhBZmlDazhOeDJuYWotWDgxR1gtZzY4eFBrWEFoa0p6UXhkU2h1U19Vel9UcWRzZHZSejdpU0xoRDhPUVdReDlHSTdrX2pva0NDamRacFExazc1VXN6cF85OGdFSGZCREZDZ0Z4aDR1bk80Y1l5Q3JoeXlnXzFNdnhEQnQ1cDdYbnRkV3J2OHN4c2d3U0cxMlg0R005R1owX1d1Z2dycjN3cEhYLVFsTU85T1pJSXVkUlJkZHM3elFydTR3UTZyX1VTWFc5UjM5enBMSFp6eWhnbDlyd09WcXN6bGN3VFJXUHpjVGpuVHpEWE14X2syUThhUUotVUJqcXBFZWxqRFgtdS1rZ2VuS0k0Nm94WWpSSmVVbFRqWmk5ZnI3LXZad1NiNjZDQTkxaGtfYUFhUTNtNzV3c0gzQXFLaDRVaDllQ0U3T2JMcE44bWpiUDREbHZkYTNpOHRHdlI3TmxiMWYxaW14cWZOZ0ZNV3N3QjVQ?oc=5",
     "title": "A Tamil Nadu boy was denied access to a library in his own neighbourhood; years after he helped open",
@@ -130,17 +142,5 @@
     "summary": "Vijay under fire over parole for Coimbatore blast convicts who targeted LK Advani, killed 58",
     "summary_ta": "",
     "date": "October 20, 2026"
-  },
-  {
-    "id": "coi-oct19-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3RIYU50VVFlUDlFdlZ0MEl3Y3dTNmFseDVJM28tSHEya2phZF90bVhkQjNoY0dkRGZIaWtINXZqelM4UTJaa09ETlllcWRCRjJ3bk0zZkRYZmFyMHRta2hzaVVwZzR6M0RSaF9UbjVsUEFZVmlnVnJpTVBqZl9xTTBDeGNrNFRvUGNhdm4xRmhqblZHZGxXTUk3VnpuWUpsamh1dWUwdXdMS0xEaWFzMw?oc=5",
-    "title": "Tamil Nadu weather alert: Orange alert for Chennai, Coimbatore and two other districts",
-    "title_ta": "",
-    "summary": "Tamil Nadu weather alert: Orange alert for Chennai, Coimbatore and two other districts",
-    "summary_ta": "",
-    "date": "October 19, 2026"
   }
 ]
