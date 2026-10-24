@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct24-003",
+    "id": "coi-oct24-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNckxKc3ZsM1pUUzlNTF9BWmJyeTNfUVAwU212aHNLWENZNm5lQXpJQjhQZ0JUNk9HaGVEb0p4NWdJaVlHTzlQZW5lMmVoU25vQWlEYlQ1WEY1cmRUYjR4QzM1Z2xqOW5zekRJYXhVeXBKYXZXWlVodmh3SnhORW1nZGdEeHpzQkRZcWhoLVI2bldqNVU2VUNWWFRtZzNRZmF2dUFSVDNwUHA0Q3ViaWt1a3dTVlVPdWJ6VC03LTlIS0ZoYkZmVXZXREFvZ0J1NkdVTTRUWkdLekdROXlWLTcxbjV4UXYtcDUwdVppSkJ3?oc=5",
+    "title": "Bus driver dies, house gets washed away as landslides rock Tamil Nadu's Nilgiris and Coimbatore",
+    "title_ta": "",
+    "summary": "Bus driver dies, house gets washed away as landslides rock Tamil Nadu's Nilgiris and Coimbatore",
+    "summary_ta": "",
+    "date": "October 24, 2026"
+  },
+  {
+    "id": "coi-oct24-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPejZ2VzdTdE9zLUNBZnMzNnBUbGNkZ0x0QjEyOE0zQ1d5eEF3c0VNQ1RtX3h0RnQ1OXpEb2xiaDlwUFpTUFNhVTM2QVR6Q0lFaUZadHJ1Z3lhbUt6a3lfZl8yLWdVMXRWUnhMYzdZZllpMGdaYUxsZ2RINTdNU3UwUTNIMG5YS3ZhZWdMQ1dhX25MOWI5R2JPa2l6ZDNZMlFuR3JjN3lTMVJhcFl2OHFESV9UemtxeTlMZUFWYzRBN20xWG9xWDMtWXpNMGVnOEpKUlNEa01pS1JfcWFLU2M0VVpSeHl5QUZRNlU0X9IB8gFBVV95cUxOV0VkMFc4b0hnQVl1bjF4Y2c3RjEwM1p5VDNzVDllNXc0OWduejVzN1dJSVVSSTJYMVNrSExqMjlrQnBIb1VjRnhVYkVMNGlzTDRod2hoUEIxemQ3eEh0LUNJQjNXYWJ5dnFpM25xb0JiTUxQSnpydk4xSU1ITS1oYlNYSWxLczBobXZHbHRpWmIyNXJkRGVPa05ZZ1FQVHZKZ2xWTW1uYUdFbnJheDg4VDc5WW9lOXF2NVBsaVRVcVVHTkRJYzI0OTE3dVp5MHZialktVEFsVGpyVG9YOS1xbGdCZzR0aEhRa1BJMmpzU3FhZw?oc=5",
     "title": "Landslides rock Tamil Nadu's Nilgiris and Coimbatore as house gets washed away, bus driver dies | In",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu Rains: Oct 23 School Holiday? Orange Alert On Kanyakumari, Coimbatore; Yellow On Chennai,",
     "summary_ta": "",
     "date": "October 23, 2026"
-  },
-  {
-    "id": "coi-oct20-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXy1jWi10UGVuZGNSYjdBb0xvbVo2UGpDUWZTZW9oN0ZFZE5BRnZHODVpaUM1ZGpZWEo3M1BEemV2ZERKTGExZkF0dHA3V3EwLWVKX0NUODEyYmNrU1k1dDB3bTYyQmVHaTBmVWRySTg0UnRfU2RWWTF2dHBXWGtXdUV5SXJRWHFqeGxVYkc2elppdDlUMVJ2dVZmczdibnF6Ym9vM1VsY1piQnFfMEpmTWVkWdIBugFBVV95cUxQQWFnbm0wMDV0MHVHTTZXNWFSNW1VT2tVbnhiSjBDTk43QnFvSV9fODNBbEtDaHY3SU15TlRiNjBqVThwbEl2X0QwalZaQUMwZVU4NnM1d2d3TmxtcjdFT2E2eGd5WGtNRHhqeDdKR2J5dDdwX3BUb3kwREJ3cjZQa0JxMkNQSHAzbk9vNVRFMzlnbXIyMkFuM0dhdk1Ec2t5Y0M2UE1lTzVKc2R2UXk5ZDZwQ25pMWZkb1E?oc=5",
-    "title": "Vijay under fire over parole for Coimbatore blast convicts who targeted LK Advani, killed 58",
-    "title_ta": "",
-    "summary": "Vijay under fire over parole for Coimbatore blast convicts who targeted LK Advani, killed 58",
-    "summary_ta": "",
-    "date": "October 20, 2026"
   }
 ]
