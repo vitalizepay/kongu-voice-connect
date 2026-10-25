@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct20-003",
+    "id": "ero-oct23-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2YzTHdGR2p6M1BEbEtvWVpXUkJnUW94UVNNZDc5LXVKYkZTcmliQWJPcUpFOUtwSW1qUUVzRDIxd1RXYTd2aVFCTEMyU1BTaFN6bHV1U0pFX3F4dldDYXBwM1BRWGFfTWxmZEdSTnRvemtuM0JkZUZHVE0weU16STBZNFpiUGQxXzZnMVJUdVhoSVJLVkxpeDZjVjhPb1RMMnY4MnluN2dfcmRzZURYWjZyQi1zN3RPN2k2S1RZQXcyUHZqcldYUTBjSjdoVjJ0Rl9Udl9DU281SE5DUHFUbVFBNNIB6gFBVV95cUxONzRNd1hKcmNTWldVQmZOQ3YxVjNKQXQ2RXZOOS02RU1lQXY5enNZeEdOcW5qbTFUR3ZROVhnTTBTRHllVGhuakV6LWdEMHJIMEtoMllKdllDaGtiTDVhN2RUdEphUndhWGE4SDNHeVF6QklHcllsMUdCYUJfVmRmTDRQS0YtT2w1NnBrQXN2dHAtMENYWC1MNmpDNG9qdktzY185UTdmekctZ010cmJ3ODl3RWNCUGNIR25tMDFvOVM3WkhBVXd5cFhGSmk3ZWpyRDN0TjhSdTJfelpVQXNXcTJGLU9scUtmM2c?oc=5",
+    "title": "Rains lash Tamil Nadu; schools closed in many districts on October 23",
+    "title_ta": "",
+    "summary": "Rains lash Tamil Nadu; schools closed in many districts on October 23",
+    "summary_ta": "",
+    "date": "October 23, 2026"
+  },
+  {
+    "id": "ero-oct20-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX1B3aTZtbDFfa0hYemtRWUJoRGwxT1FranZfZDBDcEZuLVpfTnkxNjZWT084Z19iemRKMi1FUjQ5SXZzSFhNNFI4VjZTeU5pN3lMQUtPSDJLeUp0XzM2MklOdnlpcktvRWF5azBfUHhkTGxXak5kZFdmcjltR3p6bVJtaGgwdmZDWFNwS0d3cEozcEpkYkRvRHlMcEFQeWVSczBycXVLcFVDVzN2NHdIc2hqdjZCTEJKY1k3dGozdFFTTUlITTF3SmQ0dEx6eTdPZjk1SFdKdG9PWGxjMWY1Nnh4UnlFdTZHUFVpV0pQSjZhU1lYdFM1Y090bjdmTFgzZURqbtIBigJBVV95cUxQblRnU3BfVXVRZUhhR2pqLWhmajNRdU1yWnFNNzFrTGpocDBpbTJ2SkMwNVhramFPYV9Gc09aRDBYcDNJVlQ1V3J0VktUN2RMZjgtZ3VMZ3c3eGtvZWEwbmdsRXBNT2I0YWtNdVlrSkc4b012Zmh3azE0LVlKQzhOSTlNRk14VS05ZWRGV2dHemJpTUJpOWJwVzR0MTg0U3dLcklVMzMtNk5SaW85V09QZ2xNaEVpUkNkLWJud01sQjRHVHBMVHlGRFppcmdINEVIZ2p3R0dlcjNDTlFCbk9MOUpBbE9JVFF1NXcxTWd1MFNkWjJoZ3g4eFMyU0NwSE9wWnRaZHJMQUZ6dw?oc=5",
     "title": "Nurse goes missing on way home, found murdered days later in Erode; co-worker held for gold chain th",
@@ -70,18 +82,6 @@
     "summary": "Tamil Nadu Nurse Kills Woman Colleague, Steals Her Gold Chain",
     "summary_ta": "",
     "date": "October 20, 2026"
-  },
-  {
-    "id": "ero-oct18-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQalZwVnRtc2hoUzlhbExkakQxMTk0TlRSaFR2dm11UkVuUmtqUTUzZ2daN3ZiYWpudUZIS2w2Mmp0Z3FQQjQwQ0l5MXlLZXRhMUg5S0t2Rjh0RHNxYndmaGNib21DekkyaEtSeXpGWEFPV3RoVE9Jd1B6T0xwcFNlUEJpUFhLaElvNGljYWI3MzcxNHhzenJNV2IwU1hzb25oVGw2bjUzT0hyVmZiM0x2aFpnbXBTNTVkd1NEdF9COVBoMmtHb3ViV1ZNelbSAdoBQVVfeXFMUGwxdjZvc2l6a1JSM1N0OXVQbXFka1ZYdFhoblVrdi1rMUlWQXc5R3ZHYVFWbXlMY3IzNF9jSDh1bGd1UkJfdmtEbUFZZklDcTVwUjIzZG9LUmtaUW1SZjF0cTdHLVFDaV9OUV9GVmN0X0dLUWNqS3ZnNDJRSTNOZlpZZU92am4tTDRndjN1blJSSEhKQ3E1X2ZwdTFHaWMzcGxZQWpQOUF4NWdxX3pIT3VPUzNGQ0pJU0VxVkxmSkFUREY4LTZmNVowOFM2OUdjVGwwRzlFYUVSa1E?oc=5",
-    "title": "Body of missing nurse found in decomposed state near Perundurai in TN",
-    "title_ta": "",
-    "summary": "Body of missing nurse found in decomposed state near Perundurai in TN",
-    "summary_ta": "",
-    "date": "October 18, 2026"
   },
   {
     "id": "ero-oct19-002",
