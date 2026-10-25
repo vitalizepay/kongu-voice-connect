@@ -1,8 +1,44 @@
 [
   {
-    "id": "nil-oct24-001",
+    "id": "nil-oct25-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNakxnNjFQSHVQRnlfTEFfZkhmTHlQWTFJQTBVTGJ5TVk4aXdQWEljUXd4Q1FUTm9kd2lNWi1yN1RKNTEzaEY0aV9ONTFkTkRnUURIY3l2d2gxWHU1cEhRQzRpdzIzYXBfWHJ6SlQ5VkRRSFpiMG44RVdUUEdvVzU0WFVHU3piX3B0U2k3bDJXUkRwbDZERERENGZvT0F3MnRHSk5kcTNPNEdTYm80MGdtUFpGbHhpTmJBY0dNVGFoYUhuLXN6Wm1Sa3otTlBJRWYxNTR6RmM4RlUtckN6RENJX2lVQk9TclFuMy1WZmprU2xUYmY1T1JraVJuMVpCcVQ0YnVMOUF1eHdMWVowRDNpVkFsSdIBmAJBVV95cUxNalFoR2ZGUVlXQ3UweDQ5UzVaT0ZFUThaVUJnTjNlUnRDLWlNb1B3OHVBdU1KcHJMSnctRkJueGYySXEySjBMSi03S1llUDhGbkZhRkh6Z1FxWkc5YlFudmtKRHFCQ1VjRzRQSklDanBmSVVJZURKM3E4UmJucmxPVVI0N2RHUDVFdzdTTVpkakNwNzZCb3JYTmlxajh1YjlNM0hIVW5xZVA0Uld3R3dCbGFkNkt6N3QzblBMR0ZRWGN0Y3VLWXdFWldYdzNySDdKRm0xc1VTNVFGUktfSGFTR0hnazJLV1hoMkQ1V3BiaDBuNnhXWEVnbGRSLWFReVJOeHFoYU56aENXMHVxdTVoelo0SHdMRENR?oc=5",
+    "title": "Heavy rainfall hits Tamil Nadu, IMD issues alert for next 3 days as rain-triggered mudslide kills 1 ",
+    "title_ta": "",
+    "summary": "Heavy rainfall hits Tamil Nadu, IMD issues alert for next 3 days as rain-triggered mudslide kills 1 ",
+    "summary_ta": "",
+    "date": "October 25, 2026"
+  },
+  {
+    "id": "nil-oct24-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUd6X3JxU2JjWGdxWGVUY04tcmtOdlMxZzZrX1VhYTB6TTJJcmQtTDNBOVJJcnczTWllWFV4eVhzRDlUYlJMT3FUdVhheURCRWRVakhMSHhwR25xX1VrZ1R5ajQtQkt3WlVqdkhXLXBUR3ZDSkFmTUNvaDB6bWV1UDh4XzlYOS1tUG5oNEU5ZEJ5MVhZUlZCOXR5WUY0WEFPanNBZG1SSm5GcDh5eVdmc1pSMmLSAbwBQVVfeXFMTjdfQ3dJRy1vbVVoZnFuZU9qWk4xUmRrRHd3LVBRZWdvbEdtUWpOSjg4ajBTcFJ3RmxNclZpbDZRQ2xNV0tCVUhCUlhOM1BROFNnaldGc3JFMWhncFVsWjBmaVVQMkNicHZfSVhSaE1SY2I1TjdPR2NhZzdHcXc0Q1hsMjZoWGM5SHByMTBLMVVpUW5QalF5NE9FbFktMnNqb2h5b3VFMGNaSVZFeU82Nk1JSGF1OFpkYzVVVS0?oc=5",
+    "title": "Rain-Triggered Mudslide Hits Bus In Tamil Nadu's Nilgiris, Driver Dies",
+    "title_ta": "",
+    "summary": "Rain-Triggered Mudslide Hits Bus In Tamil Nadu's Nilgiris, Driver Dies",
+    "summary_ta": "",
+    "date": "October 24, 2026"
+  },
+  {
+    "id": "nil-oct24-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbU93M0hrSW4zTW1qTEQtSGtzZmRYcEJVMlc1UDQ1ZVRrRGhCYXcxaEpuTFNRLXZHdlozOXFvUzJzdzBWNVZFQW1xdXpOcThIVGN3T204N1JrOTcxOGQyT1VRRHBPSlZsWUREOXZXbTRJV29wWmtZUFhlZFFtWkRhRHRnYmRnMDQ2RTJ5VDVWUG9DaW04b0xoOGxhQTVnV2kwVkQyckVuYlVsaGdNenM0OHdGN2N6Tkw2azRR?oc=5",
+    "title": "Tamil Nadu landslide kills government bus driver after 50 passengers evacuated near Parliyar",
+    "title_ta": "",
+    "summary": "Tamil Nadu landslide kills government bus driver after 50 passengers evacuated near Parliyar",
+    "summary_ta": "",
+    "date": "October 24, 2026"
+  },
+  {
+    "id": "nil-oct24-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQV9kMDlnZXdCR09pbjdKR2dJazVnekdwX2ZNMzhaUmZFcUNna0hLZGdWczcxYnd1c2ZrN2p1bUJMZW1mYUFWdWlNRDFyclFYR0FLcFZRR29iblhObWlUTHZUWnNIQkwzSDA1NjBBQUlCSWJzM005aVhXVjJsZlhnbkQxUm1wM0k5ZjlVbWlDZG9fWjg3WUI2REJPZ0h5UTJBTHZITWVYeXdaZU1uN3Jna2M3cVBNYUJNTTJVU9IBxAFBVV95cUxNdV9XNWhqNTd5ODU2STAxQ1UzS3J1ZVhsUmlwMHExM1hfWFJzUHg0RVZtcEd6Z2RBbEhpLVNiUlpZUzJXSEg4N3A2bjFnbm40eU9XZldtYTFzanN1eFhjZ2ItbDJDZVJOZ3Q2SXpNbnpyUFFtUHpkUVZNeWpSMkdpZ0RuLU9YcXprd0R3UGpqQUdBTVVHRmJUQlhEZTNKSTlPNG5BMmRIQUUyMExPQ1V0cVd3cU9ISmV6TTdDYUUtZnBwMnZD?oc=5",
     "title": "Nilgiris Landslides: 1 Dead, Students Rescued As Heavy Rain Disrupts Ooty Travel",
