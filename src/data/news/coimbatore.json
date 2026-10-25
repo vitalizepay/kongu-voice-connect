@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct24-005",
+    "id": "coi-oct25-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVJZakVDMkx3RTluMVJVd3ZHWUVDc2VvSm4zLW9hSXl6UFlSemFYMHBvTlVkNm9EZkItaWxBX2JkczZnVkRkZXNMYkFpcnNyaERCTXJPdy1PMkY0Vm5LQmpkbFZCQmllUlpXV05GX2tUbzdpMWhnSWFNUGxCM2dHREo4VW9YbVIzaTB0dVR2RVFwX1U?oc=5",
+    "title": "Tamil Nadu School Holiday Declared as Heavy Rain Floods Coimbatore",
+    "title_ta": "",
+    "summary": "Tamil Nadu School Holiday Declared as Heavy Rain Floods Coimbatore",
+    "summary_ta": "",
+    "date": "October 25, 2026"
+  },
+  {
+    "id": "coi-oct24-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNckxKc3ZsM1pUUzlNTF9BWmJyeTNfUVAwU212aHNLWENZNm5lQXpJQjhQZ0JUNk9HaGVEb0p4NWdJaVlHTzlQZW5lMmVoU25vQWlEYlQ1WEY1cmRUYjR4QzM1Z2xqOW5zekRJYXhVeXBKYXZXWlVodmh3SnhORW1nZGdEeHpzQkRZcWhoLVI2bldqNVU2VUNWWFRtZzNRZmF2dUFSVDNwUHA0Q3ViaWt1a3dTVlVPdWJ6VC03LTlIS0ZoYkZmVXZXREFvZ0J1NkdVTTRUWkdLekdROXlWLTcxbjV4UXYtcDUwdVppSkJ3?oc=5",
     "title": "Bus driver dies, house gets washed away as landslides rock Tamil Nadu's Nilgiris and Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "1998 Coimbatore Blasts Convicts Get Parole, BJP Hits Out At Vijay Government",
     "summary_ta": "",
     "date": "October 20, 2026"
-  },
-  {
-    "id": "coi-oct23-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUE54LWR1UWVnczVkb0Z1Nk5QYXZEcHRIbHhVdFRZZUoxSWp4REZtTy0tU3ZCekN2T3RTSGRHTE5vbFYzbjViSndvUmlCU3J6Vnp1bmV0amRfa0x5azVNTUFKUmRuTWJhUEJTcHJYSG5xS09yRUpLZjB6cDdkUzFheTdVZWZnMHRXWERtZHdMcEVrWEVVRUM1bldraTlFdVV3VjlaelpoNjhVYmctcUM5Zl9OT1N2ZElCRThsNmFPdU12RHRRZ1Npc3hLRUJYOFJrT21ZSFRWMWVkUTFG?oc=5",
-    "title": "Tamil Nadu Rains: Oct 23 School Holiday? Orange Alert On Kanyakumari, Coimbatore; Yellow On Chennai,",
-    "title_ta": "",
-    "summary": "Tamil Nadu Rains: Oct 23 School Holiday? Orange Alert On Kanyakumari, Coimbatore; Yellow On Chennai,",
-    "summary_ta": "",
-    "date": "October 23, 2026"
   }
 ]
