@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-oct24-001",
+    "id": "kar-oct24-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRldBbzBXWUlTTk9KYnYzUV9abzNadEhCaGxPTFFSWmZEVDhyMlZfTi1CVldtSWtwUUlOR29ob1ZuVG5lUkRFeG42TWliMVN5Z0M4MXMySF9WeG1qTy1vbzF1M2tKUURUXzBsWC1TMkYwMnVjczJBQ2tiZEJnZjd3RUtjdnRtc19DTzBlVTJ3RFR6eUd5Y0d3T2FDeUw1d1puNE9PZE16NkRDYm50RndEbTgtYmhtY28zbmlNeHEyMkI2TXNSdjRpckJ5czZJVWZzMmpKVFEtRE1WYXJGN2RReFByWEvSAeoBQVVfeXFMTnhlemhIVHlyS2hhbnZsT1AxVEZmOXcwMW5sSlFXUmI3RC1JTXQtbEpwYm1idjczRWIzbUdHUjNGeUpJU1NQRF9LdW0yTHowRW5vTHdGN2RJSENuZjdEMDZHQ3JRVlNsb1BuYlNhOTZ6bHFVLWVDR1ZRSGJ1TmJjc2gzLUlhMjUxY3lUVVRZSkcwUHVlQkNyVEl3S0RmaEtwbFdfeE9BYWhXYVh4d3NiLWRZbHpMa0pTSVpfWThCY3RoWEg1alIzQmlsSF81MzNGdHIyUTJkRzNpX0Q5cWcxTnN2Mm0xS3lMRG5n?oc=5",
+    "title": "‘Jailer 2’ controversy: Film song allegedly played instead of National Anthem at Karur theatre",
+    "title_ta": "",
+    "summary": "‘Jailer 2’ controversy: Film song allegedly played instead of National Anthem at Karur theatre",
+    "summary_ta": "",
+    "date": "October 24, 2026"
+  },
+  {
+    "id": "kar-oct24-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNY2tfV0RYYlJoMDZqalFjUDJhQ01ZOW9UZGVIRHpYQzg2dlVvTU1hNmxpSTZMX1lPOFBTMzh3bDBqai00MWFqZzIyNmZLZ3RFZU9lanJ3VDdpZ1ZYeGNEZG8yc2tqR21uMUN0RnpzN2JVOFU0b0lpbzlZVTFBRmVaZmF0aUJfT19QdXEwOGR5b01aUzdrZERvLWN3dTg2TUFDTzFua1I2R1puSjNxdTN4TzFjQ0FpT3U4XzFDSjlPNThaaXQyQ2JaaDV3eG1JYzNwbEEzX2V3cDdoam9HVGZGMldjalpmZTdNQ1NEVjc4ckM1Wmw0bVdsWnFXMXdTWGJwOVJUaXNpOU5XR2F3V1lKa3Axc0Mta2lFX1BNZkZEdEZwOVFzVlVXTVhIN0hVeVFhVFHSAbcCQVVfeXFMTlVpOTBXemg3X2lhTG9zRnFBelAzRVI2dWJCMkd2bFZJZnZwV0RQYlFYZ2xuSjZkOVRrSTNHLThwS3B5UjZDeWhMN0hMRXBINUluaVg5NEpIQVllUUgtZTBxTVJGWUlOZjVHa3hwZV9TZWE5MnBQOUVTRm91M2p1TV9yaWhUcXZPNTNLYmVjVDVwdXR2OXlieEh3R2ZqN2JDcUE3TGt1RzNTMzA2S3phSUl0ZDhZQk5JWVJ1VHAxeXBreU5NekdZWHRHUjhJN1ZuX3ZicFZpa1kzVWVyS0lXRWhFeWtJSjlGb0dBNmowNE5FVXZhTG1OeS1ObXNjYzktTnB6QkJtQ3hhbkxUdDlwTE0xbnpmaWp4MjNpNno3YXhZd09GT0pvNGxFVXQ1U0V1dWxZbl9Pams?oc=5",
     "title": "Rajinikanth's 'Jailer 2' faces controversy in Tamil Nadu: Film song allegedly replaces National Anth",
@@ -58,29 +70,5 @@
     "summary": "Jailer 2: Karur theatre faces controversy after film song plays instead of National Anthem during fl",
     "summary_ta": "",
     "date": "October 23, 2026"
-  },
-  {
-    "id": "kar-oct19-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRXcwQXNGcDJxbjlGWThnLXdZYVVkeWxLRVRnRzE0TjhNbVI0UEhwSzZlS200dmdQTkl0WGJILWhMWUplSXQ2bVB4R3Q4ZnN1U01ZVmY4c1ltdUhlbmVFcWFBV3lZLWFvbTVGLVp6YWJkSHNxbk5WcTlxbjRBcEMyTEVlUU9jd2xKMm51b2I5ZnFNWWtmSl9qeVpmUnJQYmFZVU1BN2txQ0tWLUE5NDZBSk9VZU10dGV3Sm9McElmd0x3VDNyQXJjN0xQY09DQWt5QjhOVVFXU1dKal9MODh4eC1SQ2c4dw?oc=5",
-    "title": "\"Vijay is slave of BJP\": DMK's Elangovan alleges Tamil Nadu CM fears centre over Karur stampede",
-    "title_ta": "",
-    "summary": "\"Vijay is slave of BJP\": DMK's Elangovan alleges Tamil Nadu CM fears centre over Karur stampede",
-    "summary_ta": "",
-    "date": "October 19, 2026"
-  },
-  {
-    "id": "kar-oct19-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSllwTlczeC1YSUlSRG9zeDdDaGFoX3FrMUZ0dHhBQnlnd2lNSnlaWDNyNTNQb3pQWFItTEJ6NlFIdmFWS292TjVzR2ZlTXJVRGxxaUdoT09SUWVnWDNaRHViQU84YnFZRzM2YlgxWHhOaEFPX3pIX2xfZnI0bk9DSFRwMjJqZEFIamlmRE1FTVdjWlhEazB6NW1Gc3RLX1NY?oc=5",
-    "title": "DMK’s Elangovan alleges Tamil Nadu CM fears BJP over Karur stampede",
-    "title_ta": "",
-    "summary": "DMK’s Elangovan alleges Tamil Nadu CM fears BJP over Karur stampede",
-    "summary_ta": "",
-    "date": "October 19, 2026"
   }
 ]

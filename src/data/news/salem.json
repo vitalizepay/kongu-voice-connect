@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-oct26-001",
+    "id": "sal-oct27-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONzB2RHlVZ2drcjJQOE5lbjQ0d2FnUm9zSjZOZ2kxcFYxYXBhY1RiUzlSVzhpNHloN0pYMGZJUG04QnUyYWNwMHl0bHRIcnhKQVRJUDRXVTc5ZHBXUndVQThtN0tUTDd5WWdlUjdPUjhUdzltdDlrRmdET19sR09Da0h6QlN6N3hCMTJFUDlhSC1nS29oMFF5NGJsT1FNRDJ2TVlkbEctelBWVTQzSmh3TU0yQVdhaDFKRkRWdU53SmYwdGVSYjRzbHdsZ25sU0hwU0HSAd8BQVVfeXFMUEFyMHVpenRVT1VjQUNJZzBjdzBuMkY4UTJpMG83MmFTSXJsWWE2aUxzeUdZOUFJVzJiUTVWYUliWElzUmRIbVVrMnc5ZUc2d3lfVDBmbXN6aS1BRFJkSXRmTlVpc09ia3Joa1NxeEU5SGRRZ0Rrb21FeURFc3ZnMW83OXhyanVETUtCMVRNLXJBS202d0dYQVpsTEY5cHdWOFpaeXlXOFk1QzhGaTFVT0ZkRzU4T2lVUFZUWGk0MU9iRVQxZDBEemJ6YTcwWTVPNGYyODNfSHFETjBjMDlHUQ?oc=5",
+    "title": "Salem raises higher education enrolment to 97.28% through targeted outreach",
+    "title_ta": "",
+    "summary": "Salem raises higher education enrolment to 97.28% through targeted outreach",
+    "summary_ta": "",
+    "date": "October 27, 2026"
+  },
+  {
+    "id": "sal-oct26-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmR4aVNmcXZXY25VY2xpZ3RoWXMwaXRYemQ3S2dqa3E1SjcwU0NfX1pHVXp4eVA1WHYzYXByUG5WTVBIREg3Zl96a3ZDeG5Ja0pWdlltdExMNVdTOEZZWnk2NVV1VldVXzFVeU1sWGFSMGxTZFkyYXlsUnVwUDhPcXZILTVhOEtRdHZJUFF1OWVQeU5xNTBwczNkelFlZ2VrdWtGZE9pUThoY1FjU3I2MW1oTU9fRWhyZnotMmJ6YWhGOUFaWVl3WXFlYTNHNjRwcFpVUlBRVlpqdw?oc=5",
     "title": "Education loan disbursement target fixed at ₹130 crore in Salem for 2026-27",
