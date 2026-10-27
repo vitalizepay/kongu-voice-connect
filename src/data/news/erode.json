@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct23-005",
+    "id": "ero-oct26-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS28wMGV4LURDejBSck00aThuci1TWjlIZTVMQ1VnZnR2ZFUzckUxd254bzZlakQxRXhzdVZ4UGczQWxWTEEwRnhEdExWeWRaQlZxdmJ0V05Pblg0OEt1SmlhS1pFRGcxZlRVbjF3a1REU2xvOWxmcHdkYThuZkhNSFA0UlkzNWFtcC1CSE00YVZiRS1rR1JRSWJWSmM?oc=5",
+    "title": "Erode West MLA inspects tanneries in Suryampalayam at midnight",
+    "title_ta": "",
+    "summary": "Erode West MLA inspects tanneries in Suryampalayam at midnight",
+    "summary_ta": "",
+    "date": "October 26, 2026"
+  },
+  {
+    "id": "ero-oct23-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdUFVTjhjSXVrTmxaa09EY1dwd25YTkkwTkozeHpkbGpPa2VNbmk0bEhZd3ZHLVpoQkhDejROWnl4MXU1bHlhUWVvZUNUeTA2MTFJd1o0R3VUN1V4YjR6LVJQY0Z5VTNHcnJXOWFHREhCclFvbXltZDJrX3BlVndtYWRJRnhmbVpQNTh2NXRzcG9ESVNkQkwwYm4yX3BmMU51dEHSAagBQVVfeXFMT0owOW0xcFlMREhPUTI3c2NYa3RCVDVoZFFGbmhPSXNHZGdJcUY0RFVieTQ1OTVOQ241dUJlMXItRkJ2UG5MZzdHTGtyQmRlTDJDeE9KX0thMHowZjQxZzBuQWFmdTJQT0hTcUJkdEdGcVRDTGMxQ3VYekVMZ1Y0LUxIR1NlcnBsb25XNHJneTg4WkpvWVhIdmtDZ3JqVmtHVkEtVkUwRzl6?oc=5",
     "title": "Heavy rain lashes Erode district",
@@ -60,18 +72,6 @@
     "date": "October 23, 2026"
   },
   {
-    "id": "ero-oct20-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX1B3aTZtbDFfa0hYemtRWUJoRGwxT1FranZfZDBDcEZuLVpfTnkxNjZWT084Z19iemRKMi1FUjQ5SXZzSFhNNFI4VjZTeU5pN3lMQUtPSDJLeUp0XzM2MklOdnlpcktvRWF5azBfUHhkTGxXak5kZFdmcjltR3p6bVJtaGgwdmZDWFNwS0d3cEozcEpkYkRvRHlMcEFQeWVSczBycXVLcFVDVzN2NHdIc2hqdjZCTEJKY1k3dGozdFFTTUlITTF3SmQ0dEx6eTdPZjk1SFdKdG9PWGxjMWY1Nnh4UnlFdTZHUFVpV0pQSjZhU1lYdFM1Y090bjdmTFgzZURqbtIBigJBVV95cUxQblRnU3BfVXVRZUhhR2pqLWhmajNRdU1yWnFNNzFrTGpocDBpbTJ2SkMwNVhramFPYV9Gc09aRDBYcDNJVlQ1V3J0VktUN2RMZjgtZ3VMZ3c3eGtvZWEwbmdsRXBNT2I0YWtNdVlrSkc4b012Zmh3azE0LVlKQzhOSTlNRk14VS05ZWRGV2dHemJpTUJpOWJwVzR0MTg0U3dLcklVMzMtNk5SaW85V09QZ2xNaEVpUkNkLWJud01sQjRHVHBMVHlGRFppcmdINEVIZ2p3R0dlcjNDTlFCbk9MOUpBbE9JVFF1NXcxTWd1MFNkWjJoZ3g4eFMyU0NwSE9wWnRaZHJMQUZ6dw?oc=5",
-    "title": "Nurse goes missing on way home, found murdered days later in Erode; co-worker held for gold chain th",
-    "title_ta": "",
-    "summary": "Nurse goes missing on way home, found murdered days later in Erode; co-worker held for gold chain th",
-    "summary_ta": "",
-    "date": "October 20, 2026"
-  },
-  {
     "id": "ero-oct24-003",
     "category": "News",
     "featured": false,
@@ -118,17 +118,5 @@
     "summary": "Nurse held for killing colleague, stealing her jewels in TN's Erode district",
     "summary_ta": "",
     "date": "October 21, 2026"
-  },
-  {
-    "id": "ero-oct20-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzRrOUwwSXFlMy1DQU1UaHNKaTVyZVhJTkp0UGd6cXYwbW9rTHdaTEJFV3Jwb1I2YmhadHpPcHk1MFlYbUdJT09sZWJYcEg3T1pzRVFxTllVenQ3SXgydVN0aTBsUUxJS1RTYXRtc2hpTjBpeExHZk1HSTFtbEViaFJmdk1xWXQ2TnhQVUtJbXRkWWNOZDFqVkpVWk9MQkZfV1NOQzdDRGJZQdIBsgFBVV95cUxOSW5lRXBZNElxbXNWb210MDV4QmlsVUtjMF9YOVRQdHRScndUVllrUmlQa1RjQXI4dXR4QXF2cHg0WkgyNDlvZHI1bUdDTllVQzFtOExWN0VvTDFua2VSeFUxOFl2MWNnQ2FyRkJVUkF5STRIc2tXQkhBMjl0MzZqXzEweGpxSVdTOWVGbjItNml2bmRndGw2dzJOUXpocmdNUXZ3TUp1d3VIZGpvRXpwNHpB?oc=5",
-    "title": "Tamil Nadu Nurse Kills Woman Colleague, Steals Her Gold Chain",
-    "title_ta": "",
-    "summary": "Tamil Nadu Nurse Kills Woman Colleague, Steals Her Gold Chain",
-    "summary_ta": "",
-    "date": "October 20, 2026"
   }
 ]
