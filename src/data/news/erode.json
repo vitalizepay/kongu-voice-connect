@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-oct26-005",
+    "id": "ero-oct28-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHBOS1Z2cFp4ODVhSTd5aVNBYjJabGQ0eWIzMEpIRzhvaXpvYVRSYUpJZ29pLXM2SEUxaEg5V01QT3YwVXBwM0tPNmxuLVVyWXJtRldHMEVHcHAzbFlndXIwdEFmTDlTU0Y5ZWd4bTFmalRxWUp1WGtWek83ajA0X056UU9OZmxRS2l0N3FBTS1nRk1vRUJKSlZFcDM0dUV0YkM1TEZtbUF2bVMtZGx3SlFKaTFSOWRPUGFsSzd4WmhlZ9IBwgFBVV95cUxPZHBOS1Z2cFp4ODVhSTd5aVNBYjJabGQ0eWIzMEpIRzhvaXpvYVRSYUpJZ29pLXM2SEUxaEg5V01QT3YwVXBwM0tPNmxuLVVyWXJtRldHMEVHcHAzbFlndXIwdEFmTDlTU0Y5ZWd4bTFmalRxWUp1WGtWek83ajA0X056UU9OZmxRS2l0N3FBTS1nRk1vRUJKSlZFcDM0dUV0YkM1TEZtbUF2bVMtZGx3SlFKaTFSOWRPUGFsSzd4WmhlZw?oc=5",
+    "title": "Gram Sabha meetings in Erode district on November 1",
+    "title_ta": "",
+    "summary": "Gram Sabha meetings in Erode district on November 1",
+    "summary_ta": "",
+    "date": "October 28, 2026"
+  },
+  {
+    "id": "ero-oct26-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS28wMGV4LURDejBSck00aThuci1TWjlIZTVMQ1VnZnR2ZFUzckUxd254bzZlakQxRXhzdVZ4UGczQWxWTEEwRnhEdExWeWRaQlZxdmJ0V05Pblg0OEt1SmlhS1pFRGcxZlRVbjF3a1REU2xvOWxmcHdkYThuZkhNSFA0UlkzNWFtcC1CSE00YVZiRS1rR1JRSWJWSmM?oc=5",
     "title": "Erode West MLA inspects tanneries in Suryampalayam at midnight",
@@ -34,18 +46,6 @@
     "summary": "Tamil Nadu rains: Confusion as private schools in Erode declare holiday after students arrive",
     "summary_ta": "",
     "date": "October 24, 2026"
-  },
-  {
-    "id": "ero-oct21-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHJQcTRldmVOWHFNVHR6YUFqZmpIT1hRWl90eVA0UDV1WkVnWFdJcXJIN3lPQ2toRklUOVRHRDY1UUV4azgza080NFJHNUpDa09KT2ZaOG5pMTIyU0FTNXFMX19DNmZ5a2c3S1Bocmx0dVFOcWNLaE5KMWFITXVsVmh5VFhIWTBYWnJEY1RnT1NXYmVHcFJsbC1QNl9qNlgtMElFb25kanlKNzNnQ1JmLXpIaXJVdVhhRnBFUlFteFc4UmNFZGFsOUJIVlNZQ3FLbzZaaHl3c9IB3gFBVV95cUxNdHhVYUU4YUh0dzJXajV5Si1ZUXFxZ3ZTOWpGbC1FdUZIdXVkNzlwVUhmNXVIWEI5dEtIak9VVndsUUpidTl5clAxeEl1YmIxcHRJamJvMmlTWHdkTkU4dl9XMm1GQ0pFSFJ3LWFmdDRFV19ZT2NTWHRxVm1NRXFIcWhKelk1VWh6Zy1NdTVTajdoN0xJSGVxRDJfSWwtaWFub2JvMlFBbzVocjVMZk41UkY4WEtIa2o2Um4xYWtzb2RxczdZNlozMjB5OEhxV0JrWVBYdDd1aERXbl9lMWc?oc=5",
-    "title": "Motorists seek early resumption of road widening work on Erode–Karur road",
-    "title_ta": "",
-    "summary": "Motorists seek early resumption of road widening work on Erode–Karur road",
-    "summary_ta": "",
-    "date": "October 21, 2026"
   },
   {
     "id": "ero-oct25-001",
@@ -106,17 +106,5 @@
     "summary": "Man dies after Erode Collector’s vehicle hits two-wheeler near Gobichettipalayam",
     "summary_ta": "",
     "date": "October 22, 2026"
-  },
-  {
-    "id": "ero-oct21-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHM3YlF4d18yYllIdUtFX0ZFN01KMTFHY0o2Skh3Z2huWUI5QkNUZzF0UzlsUHlXbXlNb2s1dklCcFVJTU1jNXdPc3VLcEo3MmVaMXpRcWRsSVhoYkxBY3ByRHlNR0VScS1LZnFsZG5QR3ZzWVdud2tta2xlTkVVeWx2NWlHNFNCdHFMam5SN2NmTnBvV1FRUktJazBLMncxcnlVYU9OcDZUNkxhMnVqZlBSbjBzdDBqZTJZb3NJSVhFOWZEQjlHSnQwMXV0NTNKZjNn0gHgAUFVX3lxTFBGZkVaWE9NdHpRTjNvWGVhR1BvZFk3bjEtaVRqN1hGR3ZaSjkzenV4aHF6MUZfcUFqYlpuYjJLVnpHYUE0cVJIZnVRRFgya1F4ME9lNlRzMF9IaThaalRGY3ZtNTFCY2haNHZyY1lhNUJsUllpUDZLTnhRQWNxb3RmZEJ4THZ1enhZc2FER1ZoXzl6M245TWNoZUdXbDc4UjlPNkdMclFMMFRtNHFPVVR3bFRNSmh6LTZvZkxVX1lPbXFMMVJ2bGFnVU9QRFNNZWw4YWg4ejBrSFlOOXRTa0U0?oc=5",
-    "title": "Nurse held for killing colleague, stealing her jewels in TN's Erode district",
-    "title_ta": "",
-    "summary": "Nurse held for killing colleague, stealing her jewels in TN's Erode district",
-    "summary_ta": "",
-    "date": "October 21, 2026"
   }
 ]
