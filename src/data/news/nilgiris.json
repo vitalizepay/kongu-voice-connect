@@ -1,8 +1,20 @@
 [
   {
-    "id": "nil-oct24-003",
+    "id": "nil-oct24-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcm9zNVFVWjlCOHFTOXJjMVVHbGNKUl9DeXdjQUJYREVpWkJ1ZmhXdXBYVEdzbXk4a3BNTE5mTE5tcm82YlFiRmdfXy1BXzZxUjAyQl9McWxLX2tZRWthZ2xVMmZ4VVByNTZ4UUZNSkRzeVN1c2FLSXVDWXdZNkkxTE5Nd1Zrc3FNUzIxQlQ1Z1VDTW40a2txcHU4c0lqWHdfNVhpeDZOZ1BzM3ZjalBLSHdhTk9FLXdoeUtwY3ZWN2FYSTdFZUdB?oc=5",
+    "title": "Nilgiris landslides: Kottayam school group among hundreds stranded on Mettupalayam-Ooty road",
+    "title_ta": "",
+    "summary": "Nilgiris landslides: Kottayam school group among hundreds stranded on Mettupalayam-Ooty road",
+    "summary_ta": "",
+    "date": "October 24, 2026"
+  },
+  {
+    "id": "nil-oct24-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaXBQT01hdUpuQ0VxY2t2UGN4ck1OQ2NrWHZoRVM0SFJmdUZOUm4zdnRjdkJQZ2RHSnNGRWdfZXpFVHNocDRLaE92ZXEydDRjT3ZhMjhiaFhFRlpPOUFpc0RxRDJ6dUhUUXR5THRnQXRmaU9vdDNHZWQwUFV1WEFJTVdGQkxOREJQd3dyZzZiZEhlX0RrZTQ0MmM2aldVSGl3azlkdVc0OHg3enNMcE50bTRnOEVvYlVjY1U1dHhEaDllNFQ5czJwXzVuUlQxX0dRQVp3OHBBbHZiY1E4cTN4eWJPbjRHTzJMSGFhV2ktdTlCRjhRdklwVw?oc=5",
     "title": "Tamil Nadu rains: Burliar landslide hits Coonoor–Coimbatore bus; girl killed in Virudhunagar, hill d",
@@ -128,18 +140,6 @@
     "title": "Heavy rains, multiple mudslides bring Nilgiris to knees; bus buried, driver killed",
     "title_ta": "",
     "summary": "Heavy rains, multiple mudslides bring Nilgiris to knees; bus buried, driver killed",
-    "summary_ta": "",
-    "date": "October 24, 2026"
-  },
-  {
-    "id": "nil-oct24-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNckxKc3ZsM1pUUzlNTF9BWmJyeTNfUVAwU212aHNLWENZNm5lQXpJQjhQZ0JUNk9HaGVEb0p4NWdJaVlHTzlQZW5lMmVoU25vQWlEYlQ1WEY1cmRUYjR4QzM1Z2xqOW5zekRJYXhVeXBKYXZXWlVodmh3SnhORW1nZGdEeHpzQkRZcWhoLVI2bldqNVU2VUNWWFRtZzNRZmF2dUFSVDNwUHA0Q3ViaWt1a3dTVlVPdWJ6VC03LTlIS0ZoYkZmVXZXREFvZ0J1NkdVTTRUWkdLekdROXlWLTcxbjV4UXYtcDUwdVppSkJ3?oc=5",
-    "title": "Bus driver dies, house gets washed away as landslides rock Tamil Nadu's Nilgiris and Coimbatore",
-    "title_ta": "",
-    "summary": "Bus driver dies, house gets washed away as landslides rock Tamil Nadu's Nilgiris and Coimbatore",
     "summary_ta": "",
     "date": "October 24, 2026"
   }
