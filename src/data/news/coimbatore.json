@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct29-003",
+    "id": "coi-oct26-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmIwVks1QjhNSlF3QTR3ZTEwYW5LZGJsS1lNVXU3OS1DQm9wdGRvZ003czZpWlpJbmtiZm5odFR5cjdsbDVRaDVfSnJ3SFVnVU1WREs4cW5tU0xEMVU1Q2o5S0k5dW5BR3V5TTdMejNQUG9aTGZNNGFXbTJXMHk1X2xoUkQ3YjNHYUN3cFQ2cE10OWJnVEZSRkpDZllVbnZneC1UTzIzeTBLbWlPNjI2Sjg3b3c3b1ZMb2NyNTN0eW5nYXlBODIyYnR4ZV9QSEh0X1JBb3BlZkhUazDSAeIBQVVfeXFMTktsWllwUlNOUG1ISEIzNUUzdWYzb2JYX2pvXzllUTZ0eTU4dXJlM1l0UUx3cVpGZjA0ZGtfUmhCbGFUNDlkLU9ucThVUC1qcGZCdXdXTFNrYjdaRW5GcHhBdHRzSndKZ3ZlTFZtQkp2cTZjWnI2LUtrRzRZU3NVYWhKUEhvMEtqOG5QNzB3V0tpYjg2c1FpY3pFemRnUlFDNGFVYkdhTWw1N3AtTFdUaG5ncFN2c1dWQ2J5TWpfTmZicUVFMXpkVzVhOHo0dTFMaldfRnYtQjNoMTY0ZHg4TkFnZw?oc=5",
+    "title": "MSMEs seek improvement of electricity infrastructure in Coimbatore district",
+    "title_ta": "",
+    "summary": "MSMEs seek improvement of electricity infrastructure in Coimbatore district",
+    "summary_ta": "",
+    "date": "October 26, 2026"
+  },
+  {
+    "id": "coi-oct29-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbGF2cjV1eDZReXUtNTBhTFd5dVdKUDU2UlM3REo4VDJ6dXVyNlhfOXdjeWpOQ3BiblJDZEdGTmRwQ2hkNUJBcVREdkZieEhVNUQtY0ZldHowdWJWSE8xcTVkVUw4eEMxN3RKTldJUkNxbHJrcW9aLUdPT2xwdFBRWXhWalViampJdl9ObS1EV05YbjZqOFZLajdsQm9IVlFXTUpIMVhWa2g4bFlpUkR3Q3NCLU84MC1Sa3ZoREhLc29jc2ZMVUszVEZTZnF3MFpwbXF1Sk5wUGdDOUZacXE2RDZQVk1JeU1PTVhPNEFOa2JQbVU?oc=5",
     "title": "GSTAT Coimbatore Bench Commences Functioning from Permanent Premises; GST Appeals from Nine Tamil Na",
@@ -130,17 +142,5 @@
     "summary": "Dalit Teen Takes His Own Life In Tamil Nadu After Alleged Caste Taunts Over Beef",
     "summary_ta": "",
     "date": "October 23, 2026"
-  },
-  {
-    "id": "coi-oct26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFpGNGttS1dyYkNNVzNGbnZkNWJ6Q3IyalJOajVveVlNVEIycGtJVU45eFJYUUhHZHRMSDJDYnhWUFBkM2tUb3RyQ1VMdVRFWWlLX1JEUHhVSUdHSXloZk0wN0hKZlBBV29lbUpwbkh0Y3BBM2xaSWRkQnRKWWp2MjVUUzBURnhBbVpRM2FuTW1QbDRXSVZCVV82dmNrNFROX0hTdFBIZ0tCZTBlb09mdDBRTGY2cDVQekZpWWtn0gHEAUFVX3lxTE45SkJZd215TUxaYnhocUtCMURrN0ZxNjBvZXJySEZJeGNvYm9wMzJ6dFp6dDQ2R1NFNVByNm1fRUxBaDJqdFl1Tk1kd1pDLUdfNDFVa2Y3RW81THctb0E4eXdyWl9VNFRLWVR5TWUyazRSaXA4akU3MXQ1WlIyZG1mVG9IZlFrakNkZnJzbThMYmNPZ1owa1IzeGM3UHA5UlNDQ3ZncEZZM04tZVNHdWQ0VnlNeUcteFlDNWpMb3FFQWNBSVo?oc=5",
-    "title": "Heavy rain inundates streets, homes in Coimbatore city",
-    "title_ta": "",
-    "summary": "Heavy rain inundates streets, homes in Coimbatore city",
-    "summary_ta": "",
-    "date": "October 26, 2026"
   }
 ]
