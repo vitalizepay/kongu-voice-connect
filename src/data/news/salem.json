@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-oct27-001",
+    "id": "sal-oct29-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOWJZd2MySEI2cnNoYUpuMHVDb0dhSTFtT05XVjloWUZzSUNCWGw0Q1lidVZmUFIxU2xqYWhFRmZLRDNVOV9IdWp5RmhTdEo5RVo5Tlc5WWM4dWdwMl9BQ0NIOTc0em9JaHBNaUN0dDlNWmdVRjNmb2J5WVUwRnc5ZVMwVGtydjRNR0s5Z2ZqLTNiUDhldFpaNGdzcXl4SWFCNkQ2aTZfYl9NemhqdENIN3RlTm1kYzZfaTFCaGRBSVRfc2h0cElpZWVaQlhfeEZsaHhYUWhHV0FLMWM5d0dQYWc3czBWRWV1Z2fSAe8BQVVfeXFMTmtWbzNpSDZWbklfZ3I4TjFOZGY4RW9GbVV4N0hSdFRsOU92WFRkS0U0V2VrWUgxWlVmaDJLQ2ZjNHdNSGdYVWtwV09TTm4tUkx2VFJ0c3p5RUxfdlM4cGhXQ09QQjBIUFM0bkZEUjZBelh0aWc5N0RXZ0dlb3JDN2VsRGN3TXlxeFZNTWg4a1NHLTc5VmlvX1VwdEliUmwtSXY2WU5oM2lISkNVNVE5NXdhbW9YOVBDU0dhZmotZ3lUZ01qZzZjTFhxNGJfZFhUYjhoalRRUHRmZlV1TUZyYWg5WkFZaXpnNG5FZG1xWHc?oc=5",
+    "title": "Truck owners, drivers seek immediate reopening of govt sand quarries in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Truck owners, drivers seek immediate reopening of govt sand quarries in Tamil Nadu",
+    "summary_ta": "",
+    "date": "October 29, 2026"
+  },
+  {
+    "id": "sal-oct27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONzB2RHlVZ2drcjJQOE5lbjQ0d2FnUm9zSjZOZ2kxcFYxYXBhY1RiUzlSVzhpNHloN0pYMGZJUG04QnUyYWNwMHl0bHRIcnhKQVRJUDRXVTc5ZHBXUndVQThtN0tUTDd5WWdlUjdPUjhUdzltdDlrRmdET19sR09Da0h6QlN6N3hCMTJFUDlhSC1nS29oMFF5NGJsT1FNRDJ2TVlkbEctelBWVTQzSmh3TU0yQVdhaDFKRkRWdU53SmYwdGVSYjRzbHdsZ25sU0hwU0HSAd8BQVVfeXFMUEFyMHVpenRVT1VjQUNJZzBjdzBuMkY4UTJpMG83MmFTSXJsWWE2aUxzeUdZOUFJVzJiUTVWYUliWElzUmRIbVVrMnc5ZUc2d3lfVDBmbXN6aS1BRFJkSXRmTlVpc09ia3Joa1NxeEU5SGRRZ0Rrb21FeURFc3ZnMW83OXhyanVETUtCMVRNLXJBS202d0dYQVpsTEY5cHdWOFpaeXlXOFk1QzhGaTFVT0ZkRzU4T2lVUFZUWGk0MU9iRVQxZDBEemJ6YTcwWTVPNGYyODNfSHFETjBjMDlHUQ?oc=5",
     "title": "Salem raises higher education enrolment to 97.28% through targeted outreach",
@@ -46,29 +58,5 @@
     "summary": "Salem, Thanjavur worst-hit by groundwater exploitation in TN, finds Central survey",
     "summary_ta": "",
     "date": "October 26, 2026"
-  },
-  {
-    "id": "sal-oct22-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONlozdTVQenpYRXdWWmw1bkRHZVVSd0VKRC1LTGR6YW5pYXh4Y0lFN3pPanppZmVQU0RvQXY0ZHh3Q1RtMWRUY3NmUDBJY0tNNVJOa25TZGpmbXRLVnJWUXlZWTBtUEJEQ09VcW9sejd1MGhDLWFSZ1FjTTZvYXhIc2VpSlFTOEJSTXBQLUQ4aURiMGN0LTRsNmZnWXJWX1VZSE16Vk13YXVQd2dBNlRkU29sZjZwcDVtYkx2dzJaYzZuby12cTJqaTlGVklUb0FnUXFDcUVOWHVac2Vpd2JhY1ZFSlZZSU5fcjJuWGJ2WdIB9gFBVV95cUxNTzVjemQzSWpMR0JyVDBDM0lKVndKcVdjcjRyNVN3TnlRakg4VWFZMVZ2UjFHbHNxeTI2ekJHQUo0alBSRlRBM1E1bF9LYl9zM2JKNGlOUGYxN0w3Tmc0SDFOSzdmU1NKYVpiM0FtZnZ0Q1lrMDdNYlh2TzNWQWMyY0Z6TExjemNKVlBNMTJOdWZJSWV0SHRULWozT1M3SXJORVhSZTNfcVRzcEFXTnJzM2hyd2FWTnpSQkZOMC1HRVVyTy1Cb3J0WFJzWVVJTmlFWnA3OUhxd1Q1ZkZCdkVxY19LemV1OGNDTFpJdjhtelY1bjBWaXc?oc=5",
-    "title": "Over 9,200 women SHGs receive ₹798.68 crore in loans in eight months: Salem District Collector",
-    "title_ta": "",
-    "summary": "Over 9,200 women SHGs receive ₹798.68 crore in loans in eight months: Salem District Collector",
-    "summary_ta": "",
-    "date": "October 22, 2026"
-  },
-  {
-    "id": "sal-oct22-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFExbHhUVkc1LTFYU19iQUE2Rjlnd1JwdXZUbkFHUnFPSWlWNXBYZU9fa0k2c2tDT2RNT25rZHQ0VjJpb1RKMmZlc1JGRGdtSEF2RUE4azBHTkNiLThMR2Q5cjRRNHB4WXJ3U2VFbDhqZDgxWXRYbkQtSjJFUEFMbUkxcU8ydnV0ZlJRREFUdlI4WXdkWXZTX1VXTWxkc0o2VlVKWGppNEtibFNvbzJnQmpsby1YUU1Xa0FGWjZZR3NJbG51MVNLdGpOdW5EZTTSAdYBQVVfeXFMTnIwbWFpUUoxeldINC05V0FBUmRwLVZBZTNLV0VrTGNKa3RsZXhhWUlxaDBMVWtYREFmOXVURWdlSVRMckU3RVg4dGZsX0w3MnVlUmtKSjh2aUUzZEJ3U1FGaVJ6Vy15WVFxMGpIRUVnWTF0Wk8wcWx5M0NoY1YwT01zemZLcnFlbUtjcTF0YThGNjNfQ2J2ZmJ3c0tCdXVXYXBucUhVYmItUHZxR0lxb1I2YTVra050b0NGYXAyTEZVYzVDUHhSRnktenJ2XzdZLTlxblJzUQ?oc=5",
-    "title": "Schools closed in five Tamil Nadu districts after overnight rain",
-    "title_ta": "",
-    "summary": "Schools closed in five Tamil Nadu districts after overnight rain",
-    "summary_ta": "",
-    "date": "October 22, 2026"
   }
 ]

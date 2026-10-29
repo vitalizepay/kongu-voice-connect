@@ -1,8 +1,44 @@
 [
   {
-    "id": "coi-oct26-006",
+    "id": "coi-oct28-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdOY0F6aUNScGdjaFNOTVlPQkVtcDY0ZGotUFR4dVhCMVN6SXZiWnJRTjNVYU5fT1FrRzFMX1lmSGJBbEVDakIxQm1MWENZYXpKSlJOdjZCamREY0wtQjllLTY2Ny1jdU1lYnZUV3hYMnF1bEhqbEpDYnVLcHktSWc3YVFTem11c3FYRWtCanA?oc=5",
+    "title": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
+    "title_ta": "",
+    "summary": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
+    "summary_ta": "",
+    "date": "October 28, 2026"
+  },
+  {
+    "id": "coi-oct26-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFpGNGttS1dyYkNNVzNGbnZkNWJ6Q3IyalJOajVveVlNVEIycGtJVU45eFJYUUhHZHRMSDJDYnhWUFBkM2tUb3RyQ1VMdVRFWWlLX1JEUHhVSUdHSXloZk0wN0hKZlBBV29lbUpwbkh0Y3BBM2xaSWRkQnRKWWp2MjVUUzBURnhBbVpRM2FuTW1QbDRXSVZCVV82dmNrNFROX0hTdFBIZ0tCZTBlb09mdDBRTGY2cDVQekZpWWtn0gHEAUFVX3lxTE45SkJZd215TUxaYnhocUtCMURrN0ZxNjBvZXJySEZJeGNvYm9wMzJ6dFp6dDQ2R1NFNVByNm1fRUxBaDJqdFl1Tk1kd1pDLUdfNDFVa2Y3RW81THctb0E4eXdyWl9VNFRLWVR5TWUyazRSaXA4akU3MXQ1WlIyZG1mVG9IZlFrakNkZnJzbThMYmNPZ1owa1IzeGM3UHA5UlNDQ3ZncEZZM04tZVNHdWQ0VnlNeUcteFlDNWpMb3FFQWNBSVo?oc=5",
+    "title": "Heavy rain inundates streets, homes in Coimbatore city",
+    "title_ta": "",
+    "summary": "Heavy rain inundates streets, homes in Coimbatore city",
+    "summary_ta": "",
+    "date": "October 26, 2026"
+  },
+  {
+    "id": "coi-oct23-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZnozT3VHRVE4TmVhVmYtUENjWXR6RDdhMzdoUG1RSlUtdVZjLWpycV90WVFSNmVZZDQyRXNvVzNQN3lVZWY0X01LUGZnU2gxdGlRQTh5b0NzaWtvUlY3T1YwTGpZWURlaC1GVy1HMUt1Vlc1a0dHa2JLcVI0eDNMSEwxeUFjV21CWDlLaVJ0RE93SjQ1NEhPcFd5ZnlUQy1XZEg0cU5UcXN1NUd6OFFKSTlkWWVSUzlGNUlNWGsxM01kMjRTLTZCeHBnLVZ6bDhLNkwtQk9kNGV6cUxxYVQ2UnhZX2YxQlV1cTlmMlprTWhObUNxdWZBamFiTGJtNUZKcnh2cVVUUFNycHIzSEFtMQ?oc=5",
+    "title": "\"CM Vijay is the only bad energy in Tamil Nadu\": NTK leader M Karthika lashes out after walkout from",
+    "title_ta": "",
+    "summary": "\"CM Vijay is the only bad energy in Tamil Nadu\": NTK leader M Karthika lashes out after walkout from",
+    "summary_ta": "",
+    "date": "October 23, 2026"
+  },
+  {
+    "id": "coi-oct26-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmIwVks1QjhNSlF3QTR3ZTEwYW5LZGJsS1lNVXU3OS1DQm9wdGRvZ003czZpWlpJbmtiZm5odFR5cjdsbDVRaDVfSnJ3SFVnVU1WREs4cW5tU0xEMVU1Q2o5S0k5dW5BR3V5TTdMejNQUG9aTGZNNGFXbTJXMHk1X2xoUkQ3YjNHYUN3cFQ2cE10OWJnVEZSRkpDZllVbnZneC1UTzIzeTBLbWlPNjI2Sjg3b3c3b1ZMb2NyNTN0eW5nYXlBODIyYnR4ZV9QSEh0X1JBb3BlZkhUazDSAeIBQVVfeXFMTktsWllwUlNOUG1ISEIzNUUzdWYzb2JYX2pvXzllUTZ0eTU4dXJlM1l0UUx3cVpGZjA0ZGtfUmhCbGFUNDlkLU9ucThVUC1qcGZCdXdXTFNrYjdaRW5GcHhBdHRzSndKZ3ZlTFZtQkp2cTZjWnI2LUtrRzRZU3NVYWhKUEhvMEtqOG5QNzB3V0tpYjg2c1FpY3pFemRnUlFDNGFVYkdhTWw1N3AtTFdUaG5ncFN2c1dWQ2J5TWpfTmZicUVFMXpkVzVhOHo0dTFMaldfRnYtQjNoMTY0ZHg4TkFnZw?oc=5",
     "title": "MSMEs seek improvement of electricity infrastructure in Coimbatore district",
@@ -106,41 +142,5 @@
     "summary": "Heavy rains cause landslides in Tamil Nadu’s Nilgiris and Coimbatore, killing bus driver and washing",
     "summary_ta": "",
     "date": "October 24, 2026"
-  },
-  {
-    "id": "coi-oct26-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTFwQlM1MzZwVnBtMDFQV2IzLWdxbVRrX1ozcjhyVmpYa2g4ZEE0c0hkOS1wRjhhTlhaUkhCYmt6UWtUUTUzRkVIYl9wUDJreF9KNnRLNDBUajM0aUF5Nk9IeDRFbFJUWlJTN2IwdmZRNDFpWVBNNTRXUHY1N0VkZUNQbFhMVnFmbS1GQjlONXZRenlldWtCaWhwcXdFQUtQU3hvVEY4aXhYRnJmX1ZHaXlUNmlFVWIzQ1hfVVR1M1JSMGxzNXQ0OHktaGxDRUVkbXQ00gHaAUFVX3lxTE5HZ2JCdkhaOEZucTVZTDBFdENtTmtjelEybk4yd3g2ZGhaQVRkQWdtLXRxYWdlcGRieGZ6X2FCOTlBbkZ5aU9sZE84XzZPdmc2TmFWVnRUMktORlMxS2JwakFuZUNwZWc2aTNMaHdPWldzSU5JdkpMemhYTHVralhwWnhfRmlsSHdyUzJxV2RjUVdEdXNPbDdtZHl5eW4tbmY0QzlYRTBZWFN0Z2p6bXdZT0RzWlBVazI2dTlzMFVlZEdYS3ktamVxRHVNTEhFMHBjTnk4a1BaZURR?oc=5",
-    "title": "Coimbatore school student death: investigation transferred to CB-CID",
-    "title_ta": "",
-    "summary": "Coimbatore school student death: investigation transferred to CB-CID",
-    "summary_ta": "",
-    "date": "October 26, 2026"
-  },
-  {
-    "id": "coi-oct24-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaXBQT01hdUpuQ0VxY2t2UGN4ck1OQ2NrWHZoRVM0SFJmdUZOUm4zdnRjdkJQZ2RHSnNGRWdfZXpFVHNocDRLaE92ZXEydDRjT3ZhMjhiaFhFRlpPOUFpc0RxRDJ6dUhUUXR5THRnQXRmaU9vdDNHZWQwUFV1WEFJTVdGQkxOREJQd3dyZzZiZEhlX0RrZTQ0MmM2aldVSGl3azlkdVc0OHg3enNMcE50bTRnOEVvYlVjY1U1dHhEaDllNFQ5czJwXzVuUlQxX0dRQVp3OHBBbHZiY1E4cTN4eWJPbjRHTzJMSGFhV2ktdTlCRjhRdklwVw?oc=5",
-    "title": "Tamil Nadu rains: Burliar landslide hits Coonoor–Coimbatore bus; girl killed in Virudhunagar, hill d",
-    "title_ta": "",
-    "summary": "Tamil Nadu rains: Burliar landslide hits Coonoor–Coimbatore bus; girl killed in Virudhunagar, hill d",
-    "summary_ta": "",
-    "date": "October 24, 2026"
-  },
-  {
-    "id": "coi-oct23-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODg4akI3MjFzak5jc1doUm80aHlWUFEzNlRHYlZoWWJZemk5ckVvWUZsVk5HcFhVTTJZbnF6MS15ckF1UFJHMlRFZTJwbTIzdktyUUxuV2swWDY2V2g3WXJ3d1hIMDFxb0Z2Sm05NHBCeXIxeDhIVXFCLThZZFJFUm5GTDBDVFJnejVyUFh0TVBWQ21qR3JsTzlSa0c4YVd0X1RHUUpyRmNxcEFrRGQzNExzdFEyZGM3SUFYVWdzOVdETkd2b0dKY0M4TS04S2Y0NVgtSw?oc=5",
-    "title": "Dalit Teen Takes His Own Life In Tamil Nadu After Alleged Caste Taunts Over Beef",
-    "title_ta": "",
-    "summary": "Dalit Teen Takes His Own Life In Tamil Nadu After Alleged Caste Taunts Over Beef",
-    "summary_ta": "",
-    "date": "October 23, 2026"
   }
 ]
