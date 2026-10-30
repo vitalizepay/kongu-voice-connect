@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-oct30-002",
+    "id": "kar-oct30-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkdyOEtfemJhVkJmZDBrR3ZvVUFnTUtJdnROandGeVVKcFEyWkRQMU5odVhDRkZMSkZqUVdxLTZQNGtzOXEtNVAtV1RZY19OWmdfek9POWpXcTdpOEtrMWtvaXFjUDFoc1pKckVtNGczV3YxSjZaV3NyS2tBWHMwakU0UlFaX2s?oc=5",
+    "title": "Karur Vysya Bank launches 8 new branches across 4 states",
+    "title_ta": "",
+    "summary": "Karur Vysya Bank launches 8 new branches across 4 states",
+    "summary_ta": "",
+    "date": "October 30, 2026"
+  },
+  {
+    "id": "kar-oct30-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUdyalBhVHRBV19uYmgwYmozN2hDa1dNSjdqRTUtVW1YQlpmV3ZNNDRpbnREX2MwN0FpSWRSRDZGS0VOZ1lEVHVYbWM1VUNucGhvZDhVenpJdFJMZkRVZnpmODFmUXBjRXMyVy1QVUcyWTdLWmdhUXJ4TElFMWNXM0l0aTY0Y3c0Vmdtbl9wMXRENjhlSmZZN0xYWTVpN1pwbncza3YtLVB4c05BODhqWlZhQk5hZ2hvNGNxQW1B?oc=5",
     "title": "Karur Vysya Bank expands network to 929 branches with eight new openings",
