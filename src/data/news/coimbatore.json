@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-oct31-001",
+    "id": "coi-oct31-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckc0WG5nNTJvS0plbjlGSjFsRWxsdWU4QWlTUUFYbVZVcFNpMjF0NVh2MXZ5UExPby1WRG42Wm1KMVNjRENmZFFCQk45WnhudUlBQW5JanQyT291MHlSdk1SSGNJTDRFcmhOZ3NmWUF6cndra1YxWUJrRmNnV01RMk1UR1RJUzNJRWZPZ0R6N2p0VjA3QzdRWlAtTTdMNFg0anlYSFBrOWV1bDhPa1A2MmtFSdIBtgFBVV95cUxNRklpVDJDX005N3lYaWlIYnBFUFlpcDEwc05jVWlFLXhsNU5POVg3ak9PZ1FaUjRtSURkSU1TX2xEb2JiOGdGVEQwVm5MV19mMkY5MVJ1SzRMa1RuSW5zUHc0R0hidzJ2RTMtSnBqWC1xRmo5bjR1a2phWUtMRFlKN0FZNE5odzJMNmg5UGtoTVFFSDJlbGhyc1V0UGtLNjhSZjR4ZE9kclM5V2t5U0plREFiVjBIQQ?oc=5",
+    "title": "Coimbatore jailbreak: Undertrial escapes for second time in 24 hrs",
+    "title_ta": "",
+    "summary": "Coimbatore jailbreak: Undertrial escapes for second time in 24 hrs",
+    "summary_ta": "",
+    "date": "October 31, 2026"
+  },
+  {
+    "id": "coi-oct28-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajVBdnZjZXlZM3psLV9fMFNqWkNGREttVHl4emk4MWdpSHRvdXdfQkxTYzZKZ3NVdGZKcFJ0Y1V3ZnJkZXlxdEloa01SZDhKY21aTGNwSG9HTkV0dEp1XzJOb010OEpiT1B4R3dOWU1WYVpHQlJPZUhOaVB5SUlqcmhnaEc2S2MwaDdOTTlrUTZrdWtSYWsyQjg4UGxnUk1pY3VyRnhkMzBjcXZSYklXY0lFX3hxRmRXdnBF0gHAAUFVX3lxTFA4cDNNSHZqNnBrbGNaNTVfX1k1elZlSFJoSDVRUGlFZ1d5cE1HWERPcWloTGFpS2IyaWtKd1FJdnRNblVwcWRMN3NzSDdjbWR4MGF4UjlJb0hmYTY5OFY4RUJQbER1UjlUSTBWOFlGS2NfVzB0LWhRSWx4cXVrMnNRU0YtTE9UQldNclRrems2aW1NTy1ualdWTHlQdE9TVGhTMTE3WDd5X3hGbEV3LVlxRmIxcmREeC1WR2tIZUN6eg?oc=5",
+    "title": "Philately passport launched in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Philately passport launched in Tamil Nadu",
+    "summary_ta": "",
+    "date": "October 28, 2026"
+  },
+  {
+    "id": "coi-oct31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTVd0TGRaWlE0Rm9zMHlvVFlvbDJBNFpXOW9Edms1U0VYdFZxSXpzT2NaeG0tOWliU2tIRlZESkdvWURkeVhuZDRNcXNIS3M2TWlkRGF2UXhBNXJuZF9PT3pYbjBMSll3Rzdpc3l3OTdCZ3dVak5hbkZ0WmZldGV1NzJsQTZqTnZxbTJFeWtOOVI5QklJWVp6STFzcUFZMzNoV0VSdXQ3dE1RVUJMOTdLWVFNSmxST1E4RlR0dWdtTExHNWdOMVhNckhROEl3bFh4WlVHbXRzQ1TSAd8BQVVfeXFMTm40Y3pVLXJzNlV0ZjZrZmIwZ2tQeDVyenAxQ0p6ZHlnRFVsRlBGajA0QTNXRVpCNk1YRENvYlFiZEUxYWNaS1pKZlg3WVJScGdUTjBxZVFMaGNxU2pyMWZXSDdNUW1fcURXMWRTdlhpZDRELTJqbDFoU3FFVmtyZWo3YTRfbmo5TEtfY3ZDX0ZmN1RvTml6UFV6Tm1QU25pbUdnTWliQkNHZ1diUkkyWGRXd0Nqem5TNmFCNzRocHFfN1Rxdk15TVZWMEhRRzVlWjhSdlEwSi1XZDhfclpqVQ?oc=5",
     "title": "Palaniswami slams TVK-led government over convict’s escape in Coimbatore",
@@ -116,30 +140,6 @@
     "title": "Coimbatore school student death: investigation transferred to CB-CID",
     "title_ta": "",
     "summary": "Coimbatore school student death: investigation transferred to CB-CID",
-    "summary_ta": "",
-    "date": "October 26, 2026"
-  },
-  {
-    "id": "coi-oct28-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdOY0F6aUNScGdjaFNOTVlPQkVtcDY0ZGotUFR4dVhCMVN6SXZiWnJRTjNVYU5fT1FrRzFMX1lmSGJBbEVDakIxQm1MWENZYXpKSlJOdjZCamREY0wtQjllLTY2Ny1jdU1lYnZUV3hYMnF1bEhqbEpDYnVLcHktSWc3YVFTem11c3FYRWtCanA?oc=5",
-    "title": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
-    "title_ta": "",
-    "summary": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
-    "summary_ta": "",
-    "date": "October 28, 2026"
-  },
-  {
-    "id": "coi-oct26-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFpGNGttS1dyYkNNVzNGbnZkNWJ6Q3IyalJOajVveVlNVEIycGtJVU45eFJYUUhHZHRMSDJDYnhWUFBkM2tUb3RyQ1VMdVRFWWlLX1JEUHhVSUdHSXloZk0wN0hKZlBBV29lbUpwbkh0Y3BBM2xaSWRkQnRKWWp2MjVUUzBURnhBbVpRM2FuTW1QbDRXSVZCVV82dmNrNFROX0hTdFBIZ0tCZTBlb09mdDBRTGY2cDVQekZpWWtn0gHEAUFVX3lxTE45SkJZd215TUxaYnhocUtCMURrN0ZxNjBvZXJySEZJeGNvYm9wMzJ6dFp6dDQ2R1NFNVByNm1fRUxBaDJqdFl1Tk1kd1pDLUdfNDFVa2Y3RW81THctb0E4eXdyWl9VNFRLWVR5TWUyazRSaXA4akU3MXQ1WlIyZG1mVG9IZlFrakNkZnJzbThMYmNPZ1owa1IzeGM3UHA5UlNDQ3ZncEZZM04tZVNHdWQ0VnlNeUcteFlDNWpMb3FFQWNBSVo?oc=5",
-    "title": "Heavy rain inundates streets, homes in Coimbatore city",
-    "title_ta": "",
-    "summary": "Heavy rain inundates streets, homes in Coimbatore city",
     "summary_ta": "",
     "date": "October 26, 2026"
   }
