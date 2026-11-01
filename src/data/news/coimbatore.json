@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-oct31-001",
+    "id": "coi-nov1-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTNiOUJCelQ3SGZudU42cW9wam52ZkhOTlViSF96MXdjaXZGNTdUTkRDWThCY1oyN3hFZkg5bFVzczhNcjJQeVoxLWFKZ0E1bEVtQzk1NVhxVWJRMGo0WkozNDVTNi0zVk5jUzdtelQxbEtJbWNqZUtjUlNnN3ZVODkxaDJ4c1FaeUJFTklDM1RIRDZSMWFoMG5MOHdSbUQ1cnVHeUVaeEE3bnJwZE5fbXpJeC1vMWxzbmJmSkVicDBHZmtEZm9oWGd0cWRFWUpGUjFIdTRaWVlFS25ySFo5bE1OMFNzVEFUS0hTZEVR0gHzAUFVX3lxTE1MNHZsRGxmVVVGSjFVYTVWNWZiTGduT2FZU0l4TjBFZ3JKS1A3VENucUZmMnZqUnlDRUtreThkSmMyd2NmYTZQRGpUcG8yNlBtQ1JmeTVMQjNMUE1tYVlub181clZGakFmR1g4V3FiWDRMbGp4ckZyUFQyNXZ1VUlwaTBEcVZFTHZYXzhCeXk1SC1yYy1zNXRmVUJaaVZRdTdoWjl3eThfOTYwT2NxZXhnRjlGVFBfajJvbG1lYjU4a2EwVUpRU3FFWUJzVkYzRnFJei1lUExOaHRWbTlOdzZibjFuaUxQX1pCcHFZdjYwUjlCUQ?oc=5",
+    "title": "Watch: Truck carrying timber plunges 100 feet into gorge in Tamil Nadu’s Kotagiri",
+    "title_ta": "",
+    "summary": "Watch: Truck carrying timber plunges 100 feet into gorge in Tamil Nadu’s Kotagiri",
+    "summary_ta": "",
+    "date": "November 1, 2026"
+  },
+  {
+    "id": "coi-oct31-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdOY0F6aUNScGdjaFNOTVlPQkVtcDY0ZGotUFR4dVhCMVN6SXZiWnJRTjNVYU5fT1FrRzFMX1lmSGJBbEVDakIxQm1MWENZYXpKSlJOdjZCamREY0wtQjllLTY2Ny1jdU1lYnZUV3hYMnF1bEhqbEpDYnVLcHktSWc3YVFTem11c3FYRWtCanA?oc=5",
     "title": "TN: Heavy rain forecast for Coimbatore, Nilgiris for three days",
@@ -128,18 +140,6 @@
     "title": "Business News",
     "title_ta": "",
     "summary": "Business News",
-    "summary_ta": "",
-    "date": "October 30, 2026"
-  },
-  {
-    "id": "coi-oct30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMnpqTFFxV3NWc2p5emxWWHlTU1RtT2Z4M3l6MWNNT1ByX25NM3FXY016WGZ2N2Y3T2ZCaHg5d0tOYldJU0hSdGxHQVAzUFFJcFppeUZoeUdOTFR2VkxGR3pMaEJFQUVhbndjLWl4dlk3TnFZS0g0YkdzV3JOMXJ2c2lqU1Njank1cmN1ZzVuNzhSODVMYUxpY2VSZVdYSVJuS01JNm5jOHQ4MnhUVHRZSWY1dTlnU2RUcDFOeHlzOTAxdlV0SFR1WHRqUG05MFZCSDdoTUhmVWVicEtQamhpaVIwVGRvYk9nbmhJ0gHwAUFVX3lxTE5DZ2w1RHFvYVpmT1cwSjVHaE9Kb2QwSmVwMkZrNkZudGt1aldIVmZ1eTVIZEhZY3pBMTJNcDZiQmZRbjlEUTF0T1hlSTdhRzlRdlhXZ3pWSzhjNEpfeUdsUGlSVl9NaEZMU3d4YTZNaWt1Y3JZRU5mbXRuT0pXSE1GdjNSVzN6OHlmN29fNXZycVYzOFpPNXlUT3pSaDlnV3BjRHd5TWtpVHBwZTlmZG9zbFBYMmNlelpTMVRjbmFKeEJhOWZBR1pTc25yeU12MDdoX1R4MHlHekRVdjN2U2YyWnFTaERHZnZESmNNOEh1VA?oc=5",
-    "title": "Tamil Nadu: Schools ordered to remove caste references, strengthen monitoring after Coimbatore stude",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Schools ordered to remove caste references, strengthen monitoring after Coimbatore stude",
     "summary_ta": "",
     "date": "October 30, 2026"
   }
