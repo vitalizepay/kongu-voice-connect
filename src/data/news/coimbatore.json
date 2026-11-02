@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-nov1-001",
+    "id": "coi-nov2-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMW5IWm56bVNjM3ZyRkVkWW1vVW42TVFqTlpOZ0lXdFNYVDQxRjJqTDU4NXBsakJHR1A3QWhLMXVKbHBmUms4SC1NaDNZZnpvajlZQjBYcjlFQlYyQUwydTRsZ1FPMXAzdF9ZNy1WOFdMV0pPU0FYOGROU3V2UTFTamhObUc1RW1QOTd3dWpxejk1WXlPNnRSMG5INkRoNUZjRXM5RnQ2YW9xcGtqRTI4Ny1BVEgtWDduN01XTHppb053QXpLV2tSY3ZOYlhRMjJqdXfSAdgBQVVfeXFMT1pjNXBZNEIxNUN4V2thSFNndFJSUlRjdHlNa2tHS1I1YlpVbTdESDJ3QTd6WW5ENkxQRkcyYkRFX3NxakZOZzcwaEMxVERiYWE5OTh2S3k4eG13YmptdVFqQlhsWDdPYTZzeXhFR2tVSGVSUGRCbGtCRWRmR0VBRjJfcW1Sek5za1lVejlzRDliM2xwdzYwOXlyWVVnYmpCb3ZJTzRQYUJKaThaNEE5TnN1dk5lWnlpbzBGa0NvWEUwa0dCbS1XUE5oR19qRG5RVGlrMXB1SmQy?oc=5",
+    "title": "Vummidi Bangaru Jewellers opens largest showroom in Coimbatore",
+    "title_ta": "",
+    "summary": "Vummidi Bangaru Jewellers opens largest showroom in Coimbatore",
+    "summary_ta": "",
+    "date": "November 2, 2026"
+  },
+  {
+    "id": "coi-nov2-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnlNTFl1YzVyUVIyNnFPNllkZHk4b1VlVVhvOXVRb1JScHZRLWFjdXQyZ3NvSUphMF9TMzEyLWl2aDg0SXZVVTY3a1BMS0ZqLVFkbU1vc3p0U21peW5WZVN0SndDMmNlXzctMUxNdjVTUWhaMk5oQmlfSUFzcUZaWm1QNW4wREdjd2FWNTVsVWlNMEp6THk2R1RyLU1JTTQwSzdCWQ?oc=5",
+    "title": "TAMIL NADU’S OLDEST JEWELLER VBJ UNVEILS LARGEST SHOWROOM IN COIMBATORE",
+    "title_ta": "",
+    "summary": "TAMIL NADU’S OLDEST JEWELLER VBJ UNVEILS LARGEST SHOWROOM IN COIMBATORE",
+    "summary_ta": "",
+    "date": "November 2, 2026"
+  },
+  {
+    "id": "coi-nov1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDEyZzNyZlBkaE01azR2RDNlVlI3dDVfbzBNQVZXZ0pId3l2bEdhM0VhV1UtWVVsc2dEa1REaTdudnVDeTh0LU5EeVBfaXRTWWlTYUZSN2R3VWd1WkpQNTdabHFxNDRRVFVNSWJ4MzZvN3JfU2ppRV9md3FBSEliTFkxRG84V1RucGZLYXlJeTU5Z2VnQnhYM3k5Ny0wTGhrV2pzM1g3dFRnbzFIZ3hvdHBoQ0RuaHNObWhqZDV2Q2s5QXZsLTU3QWRvZ1U1Z9IB1AFBVV95cUxNQWlmQnFDaE5KV3F2bXZiR1FTVG9laWkybUt0V1J6NzNfbzlfSER6RG5yb0JqSXpPeGdwQVFlLXdOMTZGekNFWllEMzVwWDQtZHVKbndCbFBEQ1FFOWM1c2lVNV9hMWlLWFBLeTJ2c0ZYNGVNVHhURlRIQy1WRllxeGMyRjJrNERDZXZOSkI3cUpmMElmNm5oZGtsZWJuOHdlMUZqRDN2VjRQd2dMWW5BQnBVZVBubnBkM1FaMXB3QnV5VnNUMGdPYkZ3OVRkNkp0aHVIUw?oc=5",
     "title": "Police expand search for man escaped from custody in Coimbatore",
@@ -116,30 +140,6 @@
     "title": "Coimbatore Prison Escape Exposes Tamil Nadu’s Security Crisis",
     "title_ta": "",
     "summary": "Coimbatore Prison Escape Exposes Tamil Nadu’s Security Crisis",
-    "summary_ta": "",
-    "date": "October 31, 2026"
-  },
-  {
-    "id": "coi-oct31-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWWZVaVdvb2IxX1A1dUpTcGJoRFlEMml5MXpSX0Q3M3F1Z0xDOXMxTE04Rm5kN0NrcjRaSjQtbXRENzc1TENQMEV4d25HcUlMQkhxSk9fc0ZVaEdIdkhpaHc4YmZDOS15bjJvblEyUHphTnRYaUgwcmo2amM2am5vT2hkTzM3eHpIT2pCY213MXdUTmlYMEpDVlh6ZGRsTGlOWmlnZnpOYWtCVU12Vkg1dWJpcEFwZ20weUI0T1VHR2ZjMWV1RTktWjdYeTR1eUxZa0VGVGlsb0luTHp0R1hTY0xDQ0dOWVFMWTZaRFNR0gHzAUFVX3lxTFA1WGtVVjk0emJOODBBZXZaMm1QUERXYmN0MUZmdHFyWFBvNUZvbjU3QUd3MVphRmNHUjZGT09LV2U1ZnJRVXU5aGNDQzYxUklNSWFGWWROWWd0dWJMSmRkMHlodDJxeThZYU5sLVpVNE5oRW93UjdvMkxZNU9VZnVkbXNhemx1QWlPQWItMzVZZk13cUxvdlhMZ2ZHSUQ0c1ZrLVBvdGJjbExIZ3c2VHNNS0ZxMWN2R1diTmdGLUFVNzdocnJLTURfMkJlVmxRRk5xSG5DS2NKUG5wQktvT0ZZRHlVa3FSVTBydTVhUmFlMXMwNA?oc=5",
-    "title": "Coimbatore escape: Undertrial flees again; Palaniswami calls jailbreaks 'never-ending TV serial'",
-    "title_ta": "",
-    "summary": "Coimbatore escape: Undertrial flees again; Palaniswami calls jailbreaks 'never-ending TV serial'",
-    "summary_ta": "",
-    "date": "October 31, 2026"
-  },
-  {
-    "id": "coi-oct31-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUU2b0xYbzdvd2d0eW9BcnI2OUhZWXlnaVhJWkdPWGJmWUpyZmNTUmluRXl6RXB5VWpDRVFrcWpNMkRCNVl4ZTIzSjdDVXE4R1hCLWlOMWdaM25KeHJoQTJ0Ny1USGtZX1pOeHRSR21pUm1qWTh1RmJENGhyQXdFQ0tmNWNpTnZ4LW1CX0IybVM3SlhHcmdaSEZmM0dTYml6SW9FR0dCRTE1X3J6Mm5V?oc=5",
-    "title": "Days after Theni jail break, prisoner flees from Coimbatore prison complex",
-    "title_ta": "",
-    "summary": "Days after Theni jail break, prisoner flees from Coimbatore prison complex",
     "summary_ta": "",
     "date": "October 31, 2026"
   }
