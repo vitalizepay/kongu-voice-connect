@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-nov3-001",
+    "id": "ero-nov3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0pqRWlsLUhVRW1keVVPdklybE05Y1VEQmVoRUZqSENqRGdNTWlBZmY4LXhrVk9DaGJQVDlWcmZkY0lLVG5sSFlpbzYwWG00cHNtYjVmbmRfdTJiSW9yZmxRM1o1UklyYzVkTWd1alFkU21TRWtTS3N2bWlYSENfdnp4dktnZnJWZnBhZGl2M2tmaXhRSG9WdkxRUUgzODk0cmM5cThfX1ZjNF9ZNVNwekxjQTNXS2VpR0c0cXpXNHlrRVM2V2ctMVc4SWw3M1RiMUtBclZwa9IB0gFBVV95cUxQcXNNVGlNblAxSUJxRFhLZDhyb1JoTlItLXRIdUo1ZTJaOXF3cWNwOElCY2pMc0Vjei1ocWoxOVhMVVdmMWhZcUxZU0RKTmt6aXhrQWFKWTU0eTVNWlhaOWlmUDdvU1pMOTQ2Vk5BX3lzS3VjTkkwQTU4Q19LYXBMRm1WS1VBVGVHVEZITzMwYmhOdmMyNUZTVDVEclRLUE1iVG50TEtmeU5PRXJyLWo4azlLblNhcVRjTnlJQ3VQV29qSGl1VnlYaXN2N1V3NTNjOVE?oc=5",
+    "title": "Bomb threat to Tamil Nadu's Erode schools declared hoax",
+    "title_ta": "",
+    "summary": "Bomb threat to Tamil Nadu's Erode schools declared hoax",
+    "summary_ta": "",
+    "date": "November 3, 2026"
+  },
+  {
+    "id": "ero-nov3-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVl9pN3BjVG52V2xHdnJVcGpYX2dNRjM2MXd5QXotOXZaaldscVdrVHZmT1RST3JpY3NXc2Y1ZWFGdXA2SmpXVnY1Yy1EZkJOc1A4Z1VCR1V6Um1MS1lOaXQ4ejFkbU5lTUhBOGU0VHNGbGVsazBBamlJQ0JVeVdISnFnYXNvamMxejA2VzRhNTlpcmFGNzhDTXJxam52T3VTUnVDQVFwLVpLZHh2UnJYaTN2bl83ZEhZWHZLQzljNXJkaHVkclExX2l3bw?oc=5",
     "title": "Video | Tamil Nadu CM Vijay Arrives In Coimbatore, Heads To Erode To Attend Women's Development Prog",
@@ -70,17 +82,5 @@
     "summary": "Gnanadheepam appointed as Erode Congress vice-president",
     "summary_ta": "",
     "date": "November 2, 2026"
-  },
-  {
-    "id": "ero-oct28-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHBOS1Z2cFp4ODVhSTd5aVNBYjJabGQ0eWIzMEpIRzhvaXpvYVRSYUpJZ29pLXM2SEUxaEg5V01QT3YwVXBwM0tPNmxuLVVyWXJtRldHMEVHcHAzbFlndXIwdEFmTDlTU0Y5ZWd4bTFmalRxWUp1WGtWek83ajA0X056UU9OZmxRS2l0N3FBTS1nRk1vRUJKSlZFcDM0dUV0YkM1TEZtbUF2bVMtZGx3SlFKaTFSOWRPUGFsSzd4WmhlZ9IBwgFBVV95cUxPZHBOS1Z2cFp4ODVhSTd5aVNBYjJabGQ0eWIzMEpIRzhvaXpvYVRSYUpJZ29pLXM2SEUxaEg5V01QT3YwVXBwM0tPNmxuLVVyWXJtRldHMEVHcHAzbFlndXIwdEFmTDlTU0Y5ZWd4bTFmalRxWUp1WGtWek83ajA0X056UU9OZmxRS2l0N3FBTS1nRk1vRUJKSlZFcDM0dUV0YkM1TEZtbUF2bVMtZGx3SlFKaTFSOWRPUGFsSzd4WmhlZw?oc=5",
-    "title": "Gram Sabha meetings in Erode district on November 1",
-    "title_ta": "",
-    "summary": "Gram Sabha meetings in Erode district on November 1",
-    "summary_ta": "",
-    "date": "October 28, 2026"
   }
 ]

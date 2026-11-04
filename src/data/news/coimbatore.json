@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-nov3-005",
+    "id": "coi-nov4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPR21FektqQkVheXU2dEswTVZWdHFDREUyVm4tVUlQWEt3bXh5VkZDVUR6R0s5OHBEM0xuNmhhcE9uekUydGR0VXRXbmpnSFBVZ0pNR1RRSXB3NUxZcnVIZnZkYzkzSUhVX3h3UklVdEExYWNtWnJjWk5xY3MxT0tqUFZjcWVKQTlfOGZUOTRmTXFLSjZFTmlXUjFmd2RHaklKRGVWUXo2TjJ6TmNCMlZLOU5JY0JjbTZDV1A4UllDOEQtMm1YSHY4ZEdJSFNqRVk5M2tnVjdXWDdhUlZaRHFDTGlUdUlndV9vNEZJZVpyVTNsdUp4N0xLWWhCUnRRazNMWVVnY1l5YmpnV256M05QM21WR2hRZw?oc=5",
+    "title": "“Youngsters should make use of libraries, read books, gain knowledge”: MK Stalin visits Periyar Ariv",
+    "title_ta": "",
+    "summary": "“Youngsters should make use of libraries, read books, gain knowledge”: MK Stalin visits Periyar Ariv",
+    "summary_ta": "",
+    "date": "November 4, 2026"
+  },
+  {
+    "id": "coi-nov4-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNHB1NVRiVGx3d1M3OHF4Y05HcGRDUHZEZ1ZEcEd3b04yN2NUam04NnlXZm5PY1BUTnJVNkRGbXgyTDNOYVVieVlDa3VRdkxOU0VFU19xelppZUpTamRvNGkxbllmeHh3NFRZeEc5SnJOS004OGVyTXppNURjWE5zSGtsZjJvVVZKV0E?oc=5",
+    "title": "Tamil Nadu Rain Alert: Heavy Rain in Theni, Coimbatore",
+    "title_ta": "",
+    "summary": "Tamil Nadu Rain Alert: Heavy Rain in Theni, Coimbatore",
+    "summary_ta": "",
+    "date": "November 4, 2026"
+  },
+  {
+    "id": "coi-nov3-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONVdHTk1vWUFNX2tfcUlmbzM2ZXN4MElaNHhuTVZMRGhuMWozWkYwNHRRak94WkpwRlpxMUg3d0ZybHJHSXdtNEctRjF4N1czRFFiM1MwSUZQNlN5S25ob0pKVHV3OEwwcU5qcEhFMWRFOXlCS19FUnh0V0gtcDdXN0IxMnFMZkJCVDZLZG5TLU04VkRvbi1lcTJuV2R6TE1yR1FwUGQzenJIVERKQ3hNT0RMcEctQ2VOSldwMDNqaHczN2RycTdXNzRFN2vSAcwBQVVfeXFMTjVXR05Nb1lBTV9rX3FJZm8zNmVzeDBJWjR4bk1WTERobjFqM1pGMDR0UWpPeFpKcEZacTFIN3dGcmxyR0l3bTRHLUYxeDdXM0RRYjNTMElGUDZTeUtuaG9KSlR1dzhMMHFOanBIRTFkRTl5QktfRVJ4dFdILXA3VzdCMTJxTGZCQlQ2S2RuUy1NOFZEb24tZXEybldkekxNckdRcFBkM3pySFRESkN4TU9ETHBHLUNlTkpXcDAzamh3MzdkcnE3Vzc0RTdr?oc=5",
     "title": "Coimbatore jail escapee arrested in Sathyamangalam forest after drone-assisted search",
@@ -96,18 +120,6 @@
     "date": "October 31, 2026"
   },
   {
-    "id": "coi-oct28-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajVBdnZjZXlZM3psLV9fMFNqWkNGREttVHl4emk4MWdpSHRvdXdfQkxTYzZKZ3NVdGZKcFJ0Y1V3ZnJkZXlxdEloa01SZDhKY21aTGNwSG9HTkV0dEp1XzJOb010OEpiT1B4R3dOWU1WYVpHQlJPZUhOaVB5SUlqcmhnaEc2S2MwaDdOTTlrUTZrdWtSYWsyQjg4UGxnUk1pY3VyRnhkMzBjcXZSYklXY0lFX3hxRmRXdnBF0gHAAUFVX3lxTFA4cDNNSHZqNnBrbGNaNTVfX1k1elZlSFJoSDVRUGlFZ1d5cE1HWERPcWloTGFpS2IyaWtKd1FJdnRNblVwcWRMN3NzSDdjbWR4MGF4UjlJb0hmYTY5OFY4RUJQbER1UjlUSTBWOFlGS2NfVzB0LWhRSWx4cXVrMnNRU0YtTE9UQldNclRrems2aW1NTy1ualdWTHlQdE9TVGhTMTE3WDd5X3hGbEV3LVlxRmIxcmREeC1WR2tIZUN6eg?oc=5",
-    "title": "Philately passport launched in Tamil Nadu",
-    "title_ta": "",
-    "summary": "Philately passport launched in Tamil Nadu",
-    "summary_ta": "",
-    "date": "October 28, 2026"
-  },
-  {
     "id": "coi-oct31-001",
     "category": "News",
     "featured": false,
@@ -128,18 +140,6 @@
     "title": "Undertrial prisoner escapes Coimbatore police custody twice in 24 hours",
     "title_ta": "",
     "summary": "Undertrial prisoner escapes Coimbatore police custody twice in 24 hours",
-    "summary_ta": "",
-    "date": "October 31, 2026"
-  },
-  {
-    "id": "coi-oct31-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFpER1d1SmlsV3BqSmpIVk9QbWk1Wl9GR084WEc3TTRqMGVVVm96bmhhX2N1bHI4Vk4wa2l2bmpocDFEOENidklneUt3U1RKU0J0UGEyWkV2LVNidmlHLWRhSGJQanJ2VHppRE8tZm15MHBGY0l1MEdfSXVnUHNueEhhYVZTdVI3cTB2dDZtTjN5N19oNHpnQjdLQmFsdzM0a01PVGQ2VDBkYmhHbkdTQtIBtwFBVV95cUxOOUg1T1BzZm4yRkZLU1NJWjI2dkFRbUxEd0hCUEI0V21Oc1FOaGxjdllMLWd0dVNPMzZMS21KYkZjdHktcndYNWxoUGlzODhDZl9zX18zRjRwZWM3bVloTUVTQjZEd2U3ZEJmQWpxNld2cHRtXzZvSGFRUmtvUnBlMlI2Y0dNUnZBRmN6TlRISExkbzFZeWY4UE0zcjgyQk5TWWlBTVB4UUpqbWIwT3FDVXlWUHowX2s?oc=5",
-    "title": "After Theni, another jailbreak in Tamil Nadu — this time in Coimbatore",
-    "title_ta": "",
-    "summary": "After Theni, another jailbreak in Tamil Nadu — this time in Coimbatore",
     "summary_ta": "",
     "date": "October 31, 2026"
   }
