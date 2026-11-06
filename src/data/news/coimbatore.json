@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov3-005",
+    "id": "coi-nov3-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNekN1WHFvTjE2UkpZS2FnYUllUUNCM19qMFJDTXRyTEpmdC1xZGE1MWJZLUxldlJacFZiZXkwakgza25mNS13QVZ3UHVSZThnNkJtM0hPbHFMcHlkcEtMbWVseU8yNEJfTkE0Wm5iUmFsRkNOTmdaUkZCRjZPUXA2bVNET3p2OHBOTDhjM0ZDcjFwTzhpaHY2R0dHbzhlcmFQZmQ4Yl8wbFJkWmI4Zk9FNEFZUDlzajZCRDRnLU94WDZGUmxiUXVsaS00OWc4WGhrWlE?oc=5",
+    "title": "Tamil Nadu CM Vijay arrives in Coimbatore, heads to Erode to attend Women's Development Programme",
+    "title_ta": "",
+    "summary": "Tamil Nadu CM Vijay arrives in Coimbatore, heads to Erode to attend Women's Development Programme",
+    "summary_ta": "",
+    "date": "November 3, 2026"
+  },
+  {
+    "id": "coi-nov3-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOU1CZGN6OEpSYmJtZmRnMTRlQ3RXdnVCajVVUjlhV1lLUFNiZE5sbUotWEdnbmJMeGlrOVptOVlhWUxyQU1mYTM1ZDcya0V2cjQwME9hOXc0MzlSQWNucjNmeGRQZWJXN2JMMUxQbV9HQ1FpQzRFX0tKNzRsNGNKdEpBcnVFdngwclhwWTl5cl93bjBBMGhqSzRuMTRQTzUtWTR5eXBDUFllVDN5?oc=5",
     "title": "M.K. Stalin to visit Coimbatore tomorrow for Dravidar Kazhagam felicitation",
@@ -128,18 +140,6 @@
     "title": "Vummidi Bangaru Jewellers opens largest showroom in Coimbatore",
     "title_ta": "",
     "summary": "Vummidi Bangaru Jewellers opens largest showroom in Coimbatore",
-    "summary_ta": "",
-    "date": "November 2, 2026"
-  },
-  {
-    "id": "coi-nov2-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnlNTFl1YzVyUVIyNnFPNllkZHk4b1VlVVhvOXVRb1JScHZRLWFjdXQyZ3NvSUphMF9TMzEyLWl2aDg0SXZVVTY3a1BMS0ZqLVFkbU1vc3p0U21peW5WZVN0SndDMmNlXzctMUxNdjVTUWhaMk5oQmlfSUFzcUZaWm1QNW4wREdjd2FWNTVsVWlNMEp6THk2R1RyLU1JTTQwSzdCWQ?oc=5",
-    "title": "TAMIL NADU’S OLDEST JEWELLER VBJ UNVEILS LARGEST SHOWROOM IN COIMBATORE",
-    "title_ta": "",
-    "summary": "TAMIL NADU’S OLDEST JEWELLER VBJ UNVEILS LARGEST SHOWROOM IN COIMBATORE",
     "summary_ta": "",
     "date": "November 2, 2026"
   }
