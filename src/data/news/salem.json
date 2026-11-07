@@ -1,8 +1,32 @@
 [
   {
-    "id": "sal-nov1-001",
+    "id": "sal-nov7-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXA0M1RMbEpHN0NON2h3YnJpZ2FyS1BYV053VU1FS2gtdUlHU0o4N1FCOEZiaGJFazNteGNJWXFsbjFrdXROOXJkRENtanZwSE9Cb2F6N0Fta3dPeXAteHctZWV1c2tGMkEtdTQ5UF96WEpvMGV0M3NxTzNQb0pWdVFLbE5randxa2l5ZkV6R1hfeGJqN3huNi1JMEtDNFE3RDNGVVdUVHhicE1oMnQ2V1pKTm9MaS1YNFN30gHAAUFVX3lxTFBfQUhWNkpsSjdjbHFOS252eXBhZWc3RGU0M0JTZVhad2JXQll4T0dnRVBqZHlwMkpYM3M5a2U2WDRzTUNyQ25MLWhvdE85T1Z3VHNoNXZzQjYzZlRDOWRYUDlHWXplUk41d2RTb1JaVG5GVmFLXzc0X3QwTldrT1dxV2ZvaFBaV3N0ZUxmRVNBWkFmOFRGb2JPZVpaTHQ0cXphd0NSQllYc2Y1dl9hd0dHdE9Fb2kxY3VDRHNkVE5CSw?oc=5",
+    "title": "Bengaluru Mass Murder: Two Bodies Found In Salem Forest Of Tamil Nadu",
+    "title_ta": "",
+    "summary": "Bengaluru Mass Murder: Two Bodies Found In Salem Forest Of Tamil Nadu",
+    "summary_ta": "",
+    "date": "November 7, 2026"
+  },
+  {
+    "id": "sal-nov7-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUy1BSmdmVUtjSmNxWHd5RTllallHTG42VHNKT1FzTG84VFBKOFJSczZoa0Fqa1dLSVB1bHZHTnBkenRybVRmOVcwemZlcThnWVlUd3g4b0RUSEtaNjdULW5IdXpmS083OEpzY1hjaENqTUcwc2lZZldYa3RIcWpGdFlqS055VzlZSkRmUFlNMVFEVExqMUx3ZFdhUEFOOUJqNlpORjh1YTBWOTl5dkFtNlpNTVdKRlBkSjZjYXMzU0tiLW5rR0tsdThEdktYMUwyaVZ4Si1xbjZDd1A1ZFViZUNfWWo4ZXdjLURoZmF2MVRFY1JQUHRJ0gH8AUFVX3lxTE5MV2ZiNm5iZ0hZbXpISE0ycmR0Sm1lVHVUY0Fia3BuQ3FOWU5JTnZJUkRQUVhOWlZyWnE5cU5PSlAxMk5oMWxzc0pRWnhSYU5IVTVnTVNUQkMzLVhFLXRfWE1PWWdqSV9VUjhPY09FWi1aNFpJYzlvSm1weVY5ODY1RmRJQ1dUY0FQSmZraVpFcGxuWmhscnctY2lRSXh5Q3NQMEtDZkNlbjNYdGgyVzJ1SzF6cjJwcFFycGNsVHJBLXhDSXNIbjBMaWppLVo0QTAwVzBoQjZsbjE3ZUhZSWh3Rmg1X0VYelN5anBmbElYZFpnZC05TFBKbHhsTw?oc=5",
+    "title": "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu'",
+    "title_ta": "",
+    "summary": "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu'",
+    "summary_ta": "",
+    "date": "November 7, 2026"
+  },
+  {
+    "id": "sal-nov1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWhEUVRDSkRIR2cxd0J0ZFJJdXBYdGE1Nm01TkdRNWVZSmo5MjNwMThIWG93ZE1EV0c2YlJ2ZXFqZ1hiN2FWR25lUUtjMUhFSU1mWnY1Y2VRd0NqYXR0T2Mzem9FZ1pLZkFBOFBpR1F0RlpLbUF6VnNlSURtZGZFZzU0QWlJYXVBeG9QMFRfTWtaSFNMb0pCNUlpaHRQMmtwREZTODNGYWdOaHBUc25na3piVGhEZHFuTjFQRHhRMjBOdE1JVmlZWnhOMTBmYzNMZ2fSAdgBQVVfeXFMTjN5SmJpT25tV2p1dF9kMmw0YUdydXJReGJ6UTUzS2RvdFBJZVc3d2pWNFJacHhBN3JKQVNRNUR4Um8zZmdxVkNVYzhJOUN2SU1JSVFHLWVpNG13NGd2ZFlQZEpGZi1BcF9yS1VwVVdNc3dhQVhTSWZTbkluY2xZZ0tsYkNLLV9lcDRBOUNHNmtVQWtUUHVldHIyTk9wQUNOV2RmNWdUNzZFY0xBdndUcFF3c1NEZzl1WjE4b0tFNHA1Rl9hdU9lRFRneTV4RWJMcDJRN1dVaFRh?oc=5",
     "title": "12,169 candidates absent for TNPSC Group II, IIA exams in Salem region",
