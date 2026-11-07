@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-nov5-001",
+    "id": "sal-nov1-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWhEUVRDSkRIR2cxd0J0ZFJJdXBYdGE1Nm01TkdRNWVZSmo5MjNwMThIWG93ZE1EV0c2YlJ2ZXFqZ1hiN2FWR25lUUtjMUhFSU1mWnY1Y2VRd0NqYXR0T2Mzem9FZ1pLZkFBOFBpR1F0RlpLbUF6VnNlSURtZGZFZzU0QWlJYXVBeG9QMFRfTWtaSFNMb0pCNUlpaHRQMmtwREZTODNGYWdOaHBUc25na3piVGhEZHFuTjFQRHhRMjBOdE1JVmlZWnhOMTBmYzNMZ2fSAdgBQVVfeXFMTjN5SmJpT25tV2p1dF9kMmw0YUdydXJReGJ6UTUzS2RvdFBJZVc3d2pWNFJacHhBN3JKQVNRNUR4Um8zZmdxVkNVYzhJOUN2SU1JSVFHLWVpNG13NGd2ZFlQZEpGZi1BcF9yS1VwVVdNc3dhQVhTSWZTbkluY2xZZ0tsYkNLLV9lcDRBOUNHNmtVQWtUUHVldHIyTk9wQUNOV2RmNWdUNzZFY0xBdndUcFF3c1NEZzl1WjE4b0tFNHA1Rl9hdU9lRFRneTV4RWJMcDJRN1dVaFRh?oc=5",
+    "title": "12,169 candidates absent for TNPSC Group II, IIA exams in Salem region",
+    "title_ta": "",
+    "summary": "12,169 candidates absent for TNPSC Group II, IIA exams in Salem region",
+    "summary_ta": "",
+    "date": "November 1, 2026"
+  },
+  {
+    "id": "sal-nov5-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1VVd25VcHRqY05vUGZYbTlKQlpRRkNaaDJoQ19XYk1IZy0xY0U2OUN2SEVFTElScXdGOVBVVG1SV1U0STNjT3cxX2MtaHAwakg4TUQ5MkJ2QTFmMGp3bzhPX0Y1SS13NzdyT1ZjelU1ZGh6amJVMkR2aWx2X2pQSHJhRmVQSVNsQ2hOaDB4d2NQQ1RyaEFMNGFwa3UwMVFuNEdneFhzRHpvaWl5U2VYZzZFUdIBugFBVV95cUxQOTNtaXRiSllHQWRRdzJGeFlzWDlNWlYxR25adV9abnVER001djJ4ejU1anhucHhSLWFIakRZcTc5SEJILXRrM3VDZnhNaloxaE1UYXk0SnZnMFZibW1jNWZFbG1BZU5UZlNIeHRQd2ZiTUZWa212MERpQVNiYlQwWkRqZFc1MHdaWnZYOU5XeHY2MHdQVVVDREpDbnN5Nzkyd1NZbF9HWDJHdUZhX3duSXdTMEVOYzJxY0E?oc=5",
     "title": "Salem district registers 308.20 mm of rainfall",
@@ -34,17 +46,5 @@
     "summary": "No major outbreak of veterinary diseases reported in Tamil Nadu: Animal Husbandry Minister",
     "summary_ta": "",
     "date": "November 4, 2026"
-  },
-  {
-    "id": "sal-oct30-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0JVYklyZGdOd2lHM0M2YVgzeWRFdGMyeG12bFNOWFNTVjkwTDVGVXlFOFFCSkRIN3BzR01mSTJlVUFwaFdia1NRYlN5NDc2bm5RMy03RmxFN0JqMV80M0J0aGRUZHItQnRGSEIza3IwUEE1MkJOcTRLRlB2N1EtbHdsR0cza1FBWC1fMjJUZnBWMlpYT1UtZ08tZGZOanB1YzBpUnF1VHhRV1NZQnF6U28tUC1vek0?oc=5",
-    "title": "The South Indian Bank to open new branch in Attur, Tamil Nadu on October 30, 2026",
-    "title_ta": "",
-    "summary": "The South Indian Bank to open new branch in Attur, Tamil Nadu on October 30, 2026",
-    "summary_ta": "",
-    "date": "October 30, 2026"
   }
 ]
