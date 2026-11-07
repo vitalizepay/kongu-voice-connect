@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-nov7-001",
+    "id": "sal-nov7-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDdJYkhTaGhqQWQwZVA5dWlGTTRnZmROZElKU2hqLTlrVkc4Z3VLdi1YaGQzZ09acm14bVoyZlQ1M040eEVQVXZzMXZ3eUJDTjh6STVuNlY3U0NLaTJjTjV5cF9VYTZRcWhsRnZydUxBZVV6czFfZlRBbU1FZDdUcnJXSHFBOUlPYXdIbnlvLTNRam5PNDhGbnhUd2s0bXNwdTVKMGlNZXdSVk5FZVg4NE0yTmxhNEV4WlhfczZyZDd6ZVozXzk3WUhOX180RmtUcFBRVVRhaTjSAd4BQVVfeXFMTkVvbWpsZXBkZ1BRc3QwMEV6aUxfV3hVS05kX2ZCRkp6TXBadE9MWnV2NEFBWUFyU2JpenUwd0NRQnROYUpneVgtdVdhVjR0cVVkTndiRFJXZHZQbmc1MUI3c2VoVW93Y0ozbDRTQzFEZDUyRE5kTnJxaHlFWU1ub1VBNl9FSEtzUjhvc05jUzJsck5oYm5tRXVYYVpUY3VsSUZRS3FuYU5rNVcwNkRyLW5NS3djdlNLRk9vb1A4RkRuelhDUFBsX01QbWJDZzI2MTFmZDhyUzNta3VSaFd3?oc=5",
+    "title": "Bengaluru Serial Murder Case: Wife, Mother-In-Law’s Bodies Found In Tamil Nadu",
+    "title_ta": "",
+    "summary": "Bengaluru Serial Murder Case: Wife, Mother-In-Law’s Bodies Found In Tamil Nadu",
+    "summary_ta": "",
+    "date": "November 7, 2026"
+  },
+  {
+    "id": "sal-nov7-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXA0M1RMbEpHN0NON2h3YnJpZ2FyS1BYV053VU1FS2gtdUlHU0o4N1FCOEZiaGJFazNteGNJWXFsbjFrdXROOXJkRENtanZwSE9Cb2F6N0Fta3dPeXAteHctZWV1c2tGMkEtdTQ5UF96WEpvMGV0M3NxTzNQb0pWdVFLbE5randxa2l5ZkV6R1hfeGJqN3huNi1JMEtDNFE3RDNGVVdUVHhicE1oMnQ2V1pKTm9MaS1YNFN30gHAAUFVX3lxTFBfQUhWNkpsSjdjbHFOS252eXBhZWc3RGU0M0JTZVhad2JXQll4T0dnRVBqZHlwMkpYM3M5a2U2WDRzTUNyQ25MLWhvdE85T1Z3VHNoNXZzQjYzZlRDOWRYUDlHWXplUk41d2RTb1JaVG5GVmFLXzc0X3QwTldrT1dxV2ZvaFBaV3N0ZUxmRVNBWkFmOFRGb2JPZVpaTHQ0cXphd0NSQllYc2Y1dl9hd0dHdE9Fb2kxY3VDRHNkVE5CSw?oc=5",
     "title": "Bengaluru Mass Murder: Two Bodies Found In Salem Forest Of Tamil Nadu",
