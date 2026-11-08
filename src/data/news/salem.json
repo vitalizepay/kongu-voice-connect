@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-nov7-003",
+    "id": "sal-nov7-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlJIOFJBbGVfY2RRSFZPTjI5ZnJIWWVtYTZSRHBHb204TDVDdUNfaG9tVFhtMEthMlljcmxVcG4wSWJLeGN2TFBVNm9pMHFUVmdQOUViclhoc243bzNXWVJFMERNanNaZmgtX21OempVWVljTzk2N3FkSnkteVRDbUxyLWJORnhBYk5EWkE3NmE1NWV3RXJSeVNGaS0xcmRQcEhBMTJJLVZxRDkwTTRtYUlrLW1HVGxTa05XRzBVMzg2RmxVN3NXa25B?oc=5",
+    "title": "Bengaluru grindstone murders: Two bodies recovered from Salem forest",
+    "title_ta": "",
+    "summary": "Bengaluru grindstone murders: Two bodies recovered from Salem forest",
+    "summary_ta": "",
+    "date": "November 7, 2026"
+  },
+  {
+    "id": "sal-nov7-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDdJYkhTaGhqQWQwZVA5dWlGTTRnZmROZElKU2hqLTlrVkc4Z3VLdi1YaGQzZ09acm14bVoyZlQ1M040eEVQVXZzMXZ3eUJDTjh6STVuNlY3U0NLaTJjTjV5cF9VYTZRcWhsRnZydUxBZVV6czFfZlRBbU1FZDdUcnJXSHFBOUlPYXdIbnlvLTNRam5PNDhGbnhUd2s0bXNwdTVKMGlNZXdSVk5FZVg4NE0yTmxhNEV4WlhfczZyZDd6ZVozXzk3WUhOX180RmtUcFBRVVRhaTjSAd4BQVVfeXFMTkVvbWpsZXBkZ1BRc3QwMEV6aUxfV3hVS05kX2ZCRkp6TXBadE9MWnV2NEFBWUFyU2JpenUwd0NRQnROYUpneVgtdVdhVjR0cVVkTndiRFJXZHZQbmc1MUI3c2VoVW93Y0ozbDRTQzFEZDUyRE5kTnJxaHlFWU1ub1VBNl9FSEtzUjhvc05jUzJsck5oYm5tRXVYYVpUY3VsSUZRS3FuYU5rNVcwNkRyLW5NS3djdlNLRk9vb1A4RkRuelhDUFBsX01QbWJDZzI2MTFmZDhyUzNta3VSaFd3?oc=5",
     "title": "Bengaluru Serial Murder Case: Wife, Mother-In-Law’s Bodies Found In Tamil Nadu",
@@ -34,18 +46,6 @@
     "summary": "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu'",
     "summary_ta": "",
     "date": "November 7, 2026"
-  },
-  {
-    "id": "sal-nov1-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWhEUVRDSkRIR2cxd0J0ZFJJdXBYdGE1Nm01TkdRNWVZSmo5MjNwMThIWG93ZE1EV0c2YlJ2ZXFqZ1hiN2FWR25lUUtjMUhFSU1mWnY1Y2VRd0NqYXR0T2Mzem9FZ1pLZkFBOFBpR1F0RlpLbUF6VnNlSURtZGZFZzU0QWlJYXVBeG9QMFRfTWtaSFNMb0pCNUlpaHRQMmtwREZTODNGYWdOaHBUc25na3piVGhEZHFuTjFQRHhRMjBOdE1JVmlZWnhOMTBmYzNMZ2fSAdgBQVVfeXFMTjN5SmJpT25tV2p1dF9kMmw0YUdydXJReGJ6UTUzS2RvdFBJZVc3d2pWNFJacHhBN3JKQVNRNUR4Um8zZmdxVkNVYzhJOUN2SU1JSVFHLWVpNG13NGd2ZFlQZEpGZi1BcF9yS1VwVVdNc3dhQVhTSWZTbkluY2xZZ0tsYkNLLV9lcDRBOUNHNmtVQWtUUHVldHIyTk9wQUNOV2RmNWdUNzZFY0xBdndUcFF3c1NEZzl1WjE4b0tFNHA1Rl9hdU9lRFRneTV4RWJMcDJRN1dVaFRh?oc=5",
-    "title": "12,169 candidates absent for TNPSC Group II, IIA exams in Salem region",
-    "title_ta": "",
-    "summary": "12,169 candidates absent for TNPSC Group II, IIA exams in Salem region",
-    "summary_ta": "",
-    "date": "November 1, 2026"
   },
   {
     "id": "sal-nov5-001",
