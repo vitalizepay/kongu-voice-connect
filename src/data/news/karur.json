@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-nov5-002",
+    "id": "kar-nov10-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkRsWm1PcVVKSFViVXg2Z0F5QjRxd05lYy1ZWksxcXJETUNDNVZmNmo4SUhaLV9MUkg1YVcxRVZLRW1Wc21zOVpqRHZZTnp5UEl3d3QwUTdXUmRKYVdVZkFvY25mZkNaTlRfU0pYNnJNT3FZQ3pybXNSNTFQMDdSVWk2VUdpVlA3Zll4OFJ4YnNEaVJnUnA2N2NMM0VydnZObE1Wc2VOMmRjWk1nUUdWMC1tbVFobDdOdmJUYXItRUxlM2VjNU1hetIBzgFBVV95cUxPVFhmamgxMTlRQ1IydnVTcldNRjF4R2s4eWhPNUJ6eXY2YkIzd3ZNMU10cFJkMUtBcWw0R3BQUldRSXpfN1psQXZZS3AxMHJIN3h2VXNFRXlCY2RSNGRfTmFYWnhLVnVVYi1iOTA5Q1UzR05jRG1lY1dQSmt1ejJVMEFkR3VELU14M3ktVHlnemp1WXdlNVR0SWVMWHBRaHlpM28tdllIUU95X3dhM0l6bVJVY19wMEgyUnlPWnJ6alFUV3UwUnR0T3BmUXNOdw?oc=5",
+    "title": "Man Gets Life Term for Sexually Assaulting Minor Girl in Karur",
+    "title_ta": "",
+    "summary": "Man Gets Life Term for Sexually Assaulting Minor Girl in Karur",
+    "summary_ta": "",
+    "date": "November 10, 2026"
+  },
+  {
+    "id": "kar-nov5-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNE00dXRuTVpHWnpMa2NLaVJ1Rjg5VnkwUnhKRE15R3FBaG1nVVlrWFZHSlVkcEJpT1M2RW1mdG9jQXluZDRhVjN3RzVZZ1NLWnJnUmVYOGxvdWZOTEt1aElTMkpGZlFGQjdCR3V6YWk3TGtuQTZYZTRtREtqZGdSMUMzOFliT1ZNY2d1RW5GcTNZVmRVeEE?oc=5",
     "title": "Karur stampede jobs row: SC grants TN 4 weeks for reply",
@@ -34,29 +46,5 @@
     "summary": "Karur Stampede Jobs Case: Supreme Court Gives Tamil Nadu Four Weeks",
     "summary_ta": "",
     "date": "November 4, 2026"
-  },
-  {
-    "id": "kar-oct30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkdyOEtfemJhVkJmZDBrR3ZvVUFnTUtJdnROandGeVVKcFEyWkRQMU5odVhDRkZMSkZqUVdxLTZQNGtzOXEtNVAtV1RZY19OWmdfek9POWpXcTdpOEtrMWtvaXFjUDFoc1pKckVtNGczV3YxSjZaV3NyS2tBWHMwakU0UlFaX2s?oc=5",
-    "title": "Karur Vysya Bank launches 8 new branches across 4 states",
-    "title_ta": "",
-    "summary": "Karur Vysya Bank launches 8 new branches across 4 states",
-    "summary_ta": "",
-    "date": "October 30, 2026"
-  },
-  {
-    "id": "kar-oct30-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUdyalBhVHRBV19uYmgwYmozN2hDa1dNSjdqRTUtVW1YQlpmV3ZNNDRpbnREX2MwN0FpSWRSRDZGS0VOZ1lEVHVYbWM1VUNucGhvZDhVenpJdFJMZkRVZnpmODFmUXBjRXMyVy1QVUcyWTdLWmdhUXJ4TElFMWNXM0l0aTY0Y3c0Vmdtbl9wMXRENjhlSmZZN0xYWTVpN1pwbncza3YtLVB4c05BODhqWlZhQk5hZ2hvNGNxQW1B?oc=5",
-    "title": "Karur Vysya Bank expands network to 929 branches with eight new openings",
-    "title_ta": "",
-    "summary": "Karur Vysya Bank expands network to 929 branches with eight new openings",
-    "summary_ta": "",
-    "date": "October 30, 2026"
   }
 ]

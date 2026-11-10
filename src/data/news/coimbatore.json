@@ -1,8 +1,44 @@
 [
   {
-    "id": "coi-nov9-006",
+    "id": "coi-nov7-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTUyQV9BQkxnOVZOdUVmQXFJVW0zaEs1UmUwZVphbWZSVlNydUhSWUZZSkc3RUlMYm5UTDBhZWUxRHhUY0VqVS04ZEUzd0Q2emNPLVdCZDAyZ3dqVl9uNlZFb2xGcFhuZVYtWHV3Snl0THdLUGRwUVpKdmt4eTVFNU4tWXpRcHlaMXpqcjVKYmdGdlFaeWtTZTlFV2dvemRPd2F2UU9pMkFiODdwN0JMX0RTWXFtcEI4bDh2Y0xKR3NsMHVaYi0wbUVIRTREWnM2d2xSV2d6YnVreUVQckZ1bE1DVFZvTnVVUWhV0gHwAUFVX3lxTE5fOENYaUhOR0hRM2NEdEtEd0ktVVlPb3ZYeDdLMk1SeVJWX2JuZTkza0tjRkxyVVExVURpS21fNU5DbmFSeXRHTlhXeFQyT1Z1OUplVy1WeXJSV0llTlB1M1dVb2d3Y1ZpVmo1SEpMZVEtcXFnbm5oTk9HWWlzSms0eFVZdkZ0ZnJGRGRTMU5xdTJ2R2MwZkZEaXkwWlYwV2I0Z3JxVjdQM2lTVnhnZnktU1EwQko3STgycS15NjZVUWNYMzBPWEVUTzF1cW5zdm1DSzBGWVRMcXVSM2ZJVGxPQ0hNcGpCYWhtdHpyMzktWQ?oc=5",
+    "title": "Row erupts in Tamil Nadu over books in ₹300-crore Coimbatore library; TVK, DMK blame each other | In",
+    "title_ta": "",
+    "summary": "Row erupts in Tamil Nadu over books in ₹300-crore Coimbatore library; TVK, DMK blame each other | In",
+    "summary_ta": "",
+    "date": "November 7, 2026"
+  },
+  {
+    "id": "coi-nov10-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDZlYTlkZEU0ck5RM2lFNjBnQVc1MTJDcUR5Ync0RWt4cVVVb1AtOFFYS2o2RGhoUzNtTEpnMVZNVmo5Zzd6S2FqQ3hoSEhWRk9IQThhZHVLOHRWTTR2UFd3S2NvdGh3MzRBWGRySC1Hc3V4MnlGNnM0RHdFeEpsZGZITTYzc25TLWRfR21YUm5lYTQ?oc=5",
+    "title": "Tamil Nadu Library Book Scam Probe Expands After Coimbatore Search",
+    "title_ta": "",
+    "summary": "Tamil Nadu Library Book Scam Probe Expands After Coimbatore Search",
+    "summary_ta": "",
+    "date": "November 10, 2026"
+  },
+  {
+    "id": "coi-nov10-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGIwMWw3R0lWVEt5SXlnc0RJaWgzTkJOZE9BRlIyb1FXMjdzbVlJOVJ5dUx1RkNOdE81QzI1cG9EQlBfZm14S0xDSUgyZjJyYktLTEtSWUg4Zm1GRTd4eUlOdFlkM2dqc21JU3BET3B3YVBLZkhNS1B6WUlMMXJHWXpVZ0tfZ0hWVXNrUVZIb0VhTVNEbUIwN0ZkdXNoNFVCLUJvMEZwcXg4OURuZzJVWmJWVjJGU2xESEhmUVBSaks1by1ZTFHSAcsBQVVfeXFMUFZoOW9yNzJldDg4bWdlSDRpV2tORzVSdTZXOFM4dWJEd09QeDcwTWE1d0UwUDJxbUxUYThDakdUdnNpSUZ5WHVldVMzN3BhZWw1RU1MOG1fX05SYUdKUVdhVS1QdjQ2WHB3LTFPOUpKdjcxYkRnbFJsRTBwbllzWS1DMEszeWJIWkplUzByYUJfZENnbklJdlZpNnFvYjRsWEtnQXlIZllnVzlldGpXeGFLMkhVSVBWTkF4RzR4Wm92MWZGQy1Pa29aRm8?oc=5",
+    "title": "Chennai, Coimbatore to get special trains to Bihar amid Chhath festival rush",
+    "title_ta": "",
+    "summary": "Chennai, Coimbatore to get special trains to Bihar amid Chhath festival rush",
+    "summary_ta": "",
+    "date": "November 10, 2026"
+  },
+  {
+    "id": "coi-nov9-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWgyTXdVSXA2RXhvWnBOZmx3M2pDbFoxakI3YU5hQzk1U0hjc3Vjekp4d28zaGtQVnNKUGpFZ3lLYk5OWGd6TDlQUHlYTkIySDh2NGFkaDFMdHpBUHlVUk9WUkkyY1M2cFpXVmVFNFBERXFfc2R0Q05abDRncWUtLVl2LUNMaGc2aXlkQndJUUY0dGZQQXg0bUJDeWk1V1ZXREpqc2hoQkxGXzUwMHpwZWk3dTBoejB1VmRIQkw1eS1QTloyZzJzamUtdWpLX3dWODRVc3o2OTcweTJYR2RlZW5kb3U2YXUtYTlua3hyZ1RrSldUYk5n0gH8AUFVX3lxTE5CM1cyTmhkUEhjTV9ZMU5ZRDZsYWVneWdsY3dRUTctTDY5TW4tZmZxTEE0WEVfWXYwSktNQXBNNkJuMnY3S2J2eGVMN3VEUG5NUTJma0c3SmRIZ2Nzd1BhOFFpajlvVjU2b2xVNVdOYXc5RGE2ZFVXQTZnTnpHZkZxUnhZTjQtTENZbDBrNkFXWGdVRkI3bVJjMlZzNXVkN0NQX0ZJUC1lZ2dnWWg0cDJkMXhaa0w4MHFUaTlNNWNaOHdOVmxQOGF1SjN3SkVpMWszeVhod1pNNl96cDFwUUNnZ2owLVZlVHZvVmt5WDBCZS1wNkwycXlHOGo2UA?oc=5",
     "title": "3 contract workers drown during maintenance work at Tata industrial unit in Tamil Nadu",
@@ -106,41 +142,5 @@
     "summary": "TN Minister Sampath Kumar inaugurates turf cricket ground in Coimbatore, promises support to resolve",
     "summary_ta": "",
     "date": "November 6, 2026"
-  },
-  {
-    "id": "coi-nov7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNDV0eGF4X0dCWEdLNU5QWWVPMzFYcmFueTd5VG53a3lUanloejQ5d3dHNVFkb2dJUmFUNmVFR2xPMFFXQ1pFajdnbkVUNnotMHp3eVlzb29mekU5Nk04bU4tWEd6c2p0UWtUNDRJMFMyRmltSE5rcS1qeFpsV2lmc196clExNXlVdDEwM1VhSVVRQ2I2ZC1FT2hwU2ptaHBJcWJCcUJyTTZqMTBiRUc5N3NlaHVOZllucW1mS0o0QU9pdGFJeUVIU1g3SU5kbG5lZ29ncXhUMGdJcFZTRUhYd2xoRDNxOUJGNmhxdWh1TmtZV24tanI2VWpoa9IBgAJBVV95cUxOcy1YZE42OFZ2YU92d3dzWWpGcGItLU9Xc3pvak9QUHFrTzczckI1bFpWMnFRSDBpNXljay1KRFdhVm9iOXVIeVRraEJza0tCcENfX1N3dnJQOWIycjgtVUJpVzRfNFctV3VRenZvbEpmcFUyM0FOcllhNExEM1BPOFdPSk9LVkFxMll1ajY4QUpTQXpjNGJsMlpvbVhhX1RnWGZmNXJnQXVCNFJSUHlZRG1uTjc5UzlCcjdmUEtvTkNlZGlWWHk3N3Iza1VlZlJ3R0xQaWdDbUg3RUp3bmFFYTRwbVZ4NEdkdFAzcUE5TU5wMnJtc0hBWW1ET01zcURQ?oc=5",
-    "title": "Periyar Arivulagam books procurement irregularities: Organisations hold protest in Coimbatore",
-    "title_ta": "",
-    "summary": "Periyar Arivulagam books procurement irregularities: Organisations hold protest in Coimbatore",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "coi-nov7-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWVxZGxxanladE5RQXlHMm1td20yU3U1RzFkVko1RnBXQU1lTWlNT0RtdGc5aFBVcUUyMkttc214OW12QzBhT1lYTXJLVGZyNEV3RGdDN0NaTE9pYy1VaTVUcmpxaXNJalVWUU56NGo3TVZQUXFkV2JYMlRaQ1h1NHBfRE9UcDBLZXFNYzFfVUlhT1FyYl9KTjI2ODNIWXZER3JZS0h6T09naXMySzN2U3Jn0gG_AUFVX3lxTE5leE11LXNaVGUzXzFoSHlYSktCTTBDTUkzYlZscUJNck9pa2lBR0t0OWxLeWNLbGh4aXdCX3BqLWZ1WFhPbUFDd2hnRVVZUmg5ZXFSaURzRG1XaU12bTVyQW5RVEJQc1FSa05ZbmJqcHhzcFJpT2J1OW04VGtGT2xJMlZzZkZLYVk5TG9laDBOaWI0MklBeTRjLVhnSHFFU3pRRGdCTmJ0ZkV2UURiQ0VWcm1JQ2UyZGtXMW9sbUNB?oc=5",
-    "title": "AI books in library spark ‘literary scam’ row in TN",
-    "title_ta": "",
-    "summary": "AI books in library spark ‘literary scam’ row in TN",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "coi-nov7-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanFUNG1iTkEtZlJTd2ZzOFdsakdRY0tDVTlaWGZ5OElwREZJN0E2SWpTOXc5R1hfWmFDbWl5bzZVSW45dUxLVmZTY05aeW52dG1Sd0xfT1doYUhaVm1iM0JuWFFmME5sQ2dTVzdYaVBYcEVITWowdk8welRhUUtwVWVMRkw0eEljRU8weUVYUnJUczZNYU12akNUR05hcS01RF9hamVqbjM2Rm54MUhQZnBrZHhjM0JnMUloSzdwajYyd9IByAFBVV95cUxQbndWcGJzRVozUDBsejFaYTRTaHE1MldpR191YUJiN2dXZkhkWGJBaTJ2cGkzQlFsVUNlem53STRLcDdWbnhmNnRhbDBWVUlLczB4U2Z5MU9ScklzdFpoSHdkQmpubThoNW0zV0h2bVpaTU5XS095cDloY3NNbjJPeFQ0YWN2RkppeEhBQWJvSm1pbURhUXRtVV93cHNrekR6U1drcDFjc2Mxei11RlFYMk9UUXZteVNHSk5zVXZiX0M4WXQ1TDhJWg?oc=5",
-    "title": "‘Fake books’ and a novelist’s questions: Inside Tamil Nadu’s ‘library scam’",
-    "title_ta": "",
-    "summary": "‘Fake books’ and a novelist’s questions: Inside Tamil Nadu’s ‘library scam’",
-    "summary_ta": "",
-    "date": "November 7, 2026"
   }
 ]
