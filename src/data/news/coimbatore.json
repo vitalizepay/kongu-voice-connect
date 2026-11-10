@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov10-001",
+    "id": "coi-nov9-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWgyTXdVSXA2RXhvWnBOZmx3M2pDbFoxakI3YU5hQzk1U0hjc3Vjekp4d28zaGtQVnNKUGpFZ3lLYk5OWGd6TDlQUHlYTkIySDh2NGFkaDFMdHpBUHlVUk9WUkkyY1M2cFpXVmVFNFBERXFfc2R0Q05abDRncWUtLVl2LUNMaGc2aXlkQndJUUY0dGZQQXg0bUJDeWk1V1ZXREpqc2hoQkxGXzUwMHpwZWk3dTBoejB1VmRIQkw1eS1QTloyZzJzamUtdWpLX3dWODRVc3o2OTcweTJYR2RlZW5kb3U2YXUtYTlua3hyZ1RrSldUYk5n0gH8AUFVX3lxTE5CM1cyTmhkUEhjTV9ZMU5ZRDZsYWVneWdsY3dRUTctTDY5TW4tZmZxTEE0WEVfWXYwSktNQXBNNkJuMnY3S2J2eGVMN3VEUG5NUTJma0c3SmRIZ2Nzd1BhOFFpajlvVjU2b2xVNVdOYXc5RGE2ZFVXQTZnTnpHZkZxUnhZTjQtTENZbDBrNkFXWGdVRkI3bVJjMlZzNXVkN0NQX0ZJUC1lZ2dnWWg0cDJkMXhaa0w4MHFUaTlNNWNaOHdOVmxQOGF1SjN3SkVpMWszeVhod1pNNl96cDFwUUNnZ2owLVZlVHZvVmt5WDBCZS1wNkwycXlHOGo2UA?oc=5",
+    "title": "3 contract workers drown during maintenance work at Tata industrial unit in Tamil Nadu",
+    "title_ta": "",
+    "summary": "3 contract workers drown during maintenance work at Tata industrial unit in Tamil Nadu",
+    "summary_ta": "",
+    "date": "November 9, 2026"
+  },
+  {
+    "id": "coi-nov10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkdVZVNMWDRCLUxZcHRTcTYtb3kzaEkxZEhPa1dEbTV5V0pVSmlqczhHeEJGa1dFeDkxdW1VOUpuU0tENXZfYUJteW5UN0FvVWFpRU5mT1ljaEJvUjc5VjJ5XzZTNzcwVXlsQ1dCUEpDOTFTZ3pUNjAyemdNc09SU3hXd0RMaUJOT1dqNVV4V0o2dy1XRkpIUFhfcTFHYm5aNXZKTjA0MGxXQW8xSUxZQUFwZWg4anhVMHQ0UjRFS0E3WE9xRm9ybGVxRk9Bb0Y0aTBaVlRpUWV3b3E3dmR3V2V3aDVwRzhXMjBVWFBmWXNSSTBZSF9oWG51QVM5RHFVU2Q2anNVMWxsX2FJaGVoZ0Fn0gGXAkFVX3lxTE9IMnlmWGpXb2ZMeFVUQnJsYWJ0UFEyUWJkSl9BQ2NhSE1Tc051WldGQWd0MUw2VmVIRGhrV21taFdPUUFKai1hMm5WRjhiT1hsVXZTY3drX25nMER2U3ZzYWtNNzltMUZIaU44WE9Dd1lwZkJscEZIQ2R0cXEzVC16VFU1WGl6TGc4anVlUi14Z180MHNKWmNlT0ZJSEUwUTJWb3h6TnZ6Q1RtcUZzMEsxLWw4RDhlZGtOcmVMdjNocmNsSmU5QmRGWk5MaXMtdE9STDNnTHQzNXVseGt3RUNiTU1JMllETHNSOUNkYlFrcENEV3djZU5LeHhPaUhEWjcwZnVya2Uwa3BDckZXZHNpY1BHUVJ2Yw?oc=5",
     "title": "Diwali revellers kill cop, techie in separate Tamil Nadu incidents",
@@ -128,18 +140,6 @@
     "title": "‘Fake books’ and a novelist’s questions: Inside Tamil Nadu’s ‘library scam’",
     "title_ta": "",
     "summary": "‘Fake books’ and a novelist’s questions: Inside Tamil Nadu’s ‘library scam’",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "coi-nov7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTUyQV9BQkxnOVZOdUVmQXFJVW0zaEs1UmUwZVphbWZSVlNydUhSWUZZSkc3RUlMYm5UTDBhZWUxRHhUY0VqVS04ZEUzd0Q2emNPLVdCZDAyZ3dqVl9uNlZFb2xGcFhuZVYtWHV3Snl0THdLUGRwUVpKdmt4eTVFNU4tWXpRcHlaMXpqcjVKYmdGdlFaeWtTZTlFV2dvemRPd2F2UU9pMkFiODdwN0JMX0RTWXFtcEI4bDh2Y0xKR3NsMHVaYi0wbUVIRTREWnM2d2xSV2d6YnVreUVQckZ1bE1DVFZvTnVVUWhV0gHwAUFVX3lxTE5fOENYaUhOR0hRM2NEdEtEd0ktVVlPb3ZYeDdLMk1SeVJWX2JuZTkza0tjRkxyVVExVURpS21fNU5DbmFSeXRHTlhXeFQyT1Z1OUplVy1WeXJSV0llTlB1M1dVb2d3Y1ZpVmo1SEpMZVEtcXFnbm5oTk9HWWlzSms0eFVZdkZ0ZnJGRGRTMU5xdTJ2R2MwZkZEaXkwWlYwV2I0Z3JxVjdQM2lTVnhnZnktU1EwQko3STgycS15NjZVUWNYMzBPWEVUTzF1cW5zdm1DSzBGWVRMcXVSM2ZJVGxPQ0hNcGpCYWhtdHpyMzktWQ?oc=5",
-    "title": "Row erupts in Tamil Nadu over books in ₹300-crore Coimbatore library; TVK, DMK blame each other | In",
-    "title_ta": "",
-    "summary": "Row erupts in Tamil Nadu over books in ₹300-crore Coimbatore library; TVK, DMK blame each other | In",
     "summary_ta": "",
     "date": "November 7, 2026"
   }
