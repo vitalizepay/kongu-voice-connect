@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-nov10-001",
+    "id": "kar-nov11-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTV4VUpFM3laal9Cak9JUlFPNjY3YjhmR1JlM0oydHFPSjhUdEJCWVU4YS1peW5taDExN0xsRVBRbmRZTnJnQnRHRmluSTF0Y29xSHU2aVd2VFVTQUZhbTctWjZXY1ZLdU8yUGNNeUxONGZScjdNRTE3YTBPVGdWYTg1WFFKZzlFTTFFTDZnVzRuWUtzRVRULU4tbHg1SGEyMTltMlVhdzB3cHFTMHA1VVZoUUFTMXZFYVE?oc=5",
+    "title": "Tamil Nadu: Dense fog blanket Karur, visibility affected",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Dense fog blanket Karur, visibility affected",
+    "summary_ta": "",
+    "date": "November 11, 2026"
+  },
+  {
+    "id": "kar-nov10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkRsWm1PcVVKSFViVXg2Z0F5QjRxd05lYy1ZWksxcXJETUNDNVZmNmo4SUhaLV9MUkg1YVcxRVZLRW1Wc21zOVpqRHZZTnp5UEl3d3QwUTdXUmRKYVdVZkFvY25mZkNaTlRfU0pYNnJNT3FZQ3pybXNSNTFQMDdSVWk2VUdpVlA3Zll4OFJ4YnNEaVJnUnA2N2NMM0VydnZObE1Wc2VOMmRjWk1nUUdWMC1tbVFobDdOdmJUYXItRUxlM2VjNU1hetIBzgFBVV95cUxPVFhmamgxMTlRQ1IydnVTcldNRjF4R2s4eWhPNUJ6eXY2YkIzd3ZNMU10cFJkMUtBcWw0R3BQUldRSXpfN1psQXZZS3AxMHJIN3h2VXNFRXlCY2RSNGRfTmFYWnhLVnVVYi1iOTA5Q1UzR05jRG1lY1dQSmt1ejJVMEFkR3VELU14M3ktVHlnemp1WXdlNVR0SWVMWHBRaHlpM28tdllIUU95X3dhM0l6bVJVY19wMEgyUnlPWnJ6alFUV3UwUnR0T3BmUXNOdw?oc=5",
     "title": "Man Gets Life Term for Sexually Assaulting Minor Girl in Karur",
@@ -34,17 +46,5 @@
     "summary": "CM declares open new tenements at Karur",
     "summary_ta": "",
     "date": "November 5, 2026"
-  },
-  {
-    "id": "kar-nov4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkNLSnJtWnBTR20wNmpkMzlsWl9XcUhlZGE4Q3VESmlGSWUxTlYtVmxCVDYwMTBNTnJzM2hZQ3lSOUxQR3JjVF9NQkJZV3Fwdy1BZS1kejlNSmtjMUk4QkQ3VE5KajFHa3h4ZkszV3FYOUxTeERMaVc3U2ZndDliWmxTU09SeUR5SVlCUFIyTmVMNGc?oc=5",
-    "title": "Karur Stampede Jobs Case: Supreme Court Gives Tamil Nadu Four Weeks",
-    "title_ta": "",
-    "summary": "Karur Stampede Jobs Case: Supreme Court Gives Tamil Nadu Four Weeks",
-    "summary_ta": "",
-    "date": "November 4, 2026"
   }
 ]
