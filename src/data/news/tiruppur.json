@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-nov8-001",
+    "id": "tir-nov11-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekFrWW1COTdZbUtBcUEyRDY0YldqVDVJNXZPbE1Mcm1JM05wV1hoeFkwelpOb0k1VUlzZUNDQjRUcU1oemlJRDVqUkZ6X3h1MlJJYmZjcXhDUktYdUFCZlFldkF0d1JNRnJlWldaUkczVXNyM3hGRUUxN0I2UVlqU29EaUIwTFlmWEdscTBvUG1jQjlnc0FEUUxUcTlFVFcxOW5xVlRBazJyT256VkE?oc=5",
+    "title": "Tiruppur Collector inspects Rs 11.66-Crore development projects in Kangeyam",
+    "title_ta": "",
+    "summary": "Tiruppur Collector inspects Rs 11.66-Crore development projects in Kangeyam",
+    "summary_ta": "",
+    "date": "November 11, 2026"
+  },
+  {
+    "id": "tir-nov8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHpmdkJpb1FiRFNLdVBvNmM2TUlaanFNVW5Ock44Y3Z1aXhnQzVnQVYzNHZYLTBFQ3hMX0k0S2R3NURLTFhINm9lRmZuNnNoWTN3NW5HMDcxTDZBelpianB1ZVdqNGQyUURSbzZSOGFpcTNiRkZPdXlTS2FoUGdHRGdmUjVOcEQ4N0NJQU5sejVYUGlHa3d2S2czX2E2Y3R5MzhxdEZjT3lOLU9qZDUtR2U3cnVleXBWSTZDYTJHRVI3Zw?oc=5",
     "title": "Tamil Nadu News | Diwali Rush: Tiruppur Railway Station Packed as Migrant Workers Head Home",
@@ -34,17 +46,5 @@
     "summary": "TN: Water shortage hits PAP tail-end farmers in Tiruppur; illegal diversion suspected",
     "summary_ta": "",
     "date": "November 8, 2026"
-  },
-  {
-    "id": "tir-nov4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWm1QZW5FWUhPX1ZhaDhleTRaSk5MQVNmcDNMYVN5S0hPMFgwZnBsbHhqRUYzeW92THo1Mk9VMTUxeW05UWY1Q0pSNDg0V2R3aEtCTWoxeHpIVUIwbVRCcHd5RU9oRVYtM1d4ajliNGh3bk4wbl9UUFNTSVRJQmZxYjg0Y2J2UW9Tb1ZVelY1cHpTQk9TcGs4TDRaRWJwbXVyMTN2ZE1UY0pveHNIRGd1dVRucUwzRC1ON2c4VkRDUndaeDd4cEI4NUxqeXNHX1VHdmwxM3dCUVlmMFY0aHRMZFk4cDFOWknSAfQBQVVfeXFMTnRVc0hMVnFYUGE1MmhYWjZ6ZG5TRk0xV2FvSFRMX1ZoSk9ZM2J3eHE1eDdMRkNuRTI3djZObFdvb0Nkb1hPU2dEekhNSnhsR0dqdkdqNWVVNjNlaUdVWFRWSHpUb3Z4UDVLcWZYREEyd091TWlWSExqemVHa2gxVzRwTlhhSXNKd2lFTjJuU2NNS2drdFUyNnFpeVdtR19qcDctTWJkSFZLN2xTQV9TSnV2NzBEMEJ3RWFfOEVRUllKRXJZVUdTVkpjcjdkbWdvb2wtN3ZySEkyQ3F4azlNSXEzc0FuV2EtcENuMnEwanhUZGg3Wg?oc=5",
-    "title": "Minister P Mathan Raja urges MSMEs to take precautionary measures to prevent flood damage",
-    "title_ta": "",
-    "summary": "Minister P Mathan Raja urges MSMEs to take precautionary measures to prevent flood damage",
-    "summary_ta": "",
-    "date": "November 4, 2026"
   }
 ]

@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-nov11-001",
+    "id": "kar-nov11-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTlxanpxWWd1UzZYLUhubVBrcmY3QWtGZWN4RDItT2d3WGlVSEtGa0F1M0tqWU9Eb25MWG4zV3ozNnh6c2Y1OVJoelI2RHJ4WmljVDl4aHJSOVdrcjdUX00wUGlHR2RmdXRRRU1iUHRFakRfSUhUcXgtamx0SHI3Nk5TS0hldUNpN2wyTGdydWpSY1N6N1Rv?oc=5",
+    "title": "Dense fog reduces visibility in Karur amid widespread chill",
+    "title_ta": "",
+    "summary": "Dense fog reduces visibility in Karur amid widespread chill",
+    "summary_ta": "",
+    "date": "November 11, 2026"
+  },
+  {
+    "id": "kar-nov11-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTV4VUpFM3laal9Cak9JUlFPNjY3YjhmR1JlM0oydHFPSjhUdEJCWVU4YS1peW5taDExN0xsRVBRbmRZTnJnQnRHRmluSTF0Y29xSHU2aVd2VFVTQUZhbTctWjZXY1ZLdU8yUGNNeUxONGZScjdNRTE3YTBPVGdWYTg1WFFKZzlFTTFFTDZnVzRuWUtzRVRULU4tbHg1SGEyMTltMlVhdzB3cHFTMHA1VVZoUUFTMXZFYVE?oc=5",
     "title": "Tamil Nadu: Dense fog blanket Karur, visibility affected",
