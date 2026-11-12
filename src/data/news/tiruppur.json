@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-nov11-002",
+    "id": "tir-nov12-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkF5Z3c1T3JnTzNoay0wOTJjNzBMbWRJSWx6Wnc2dFFfY293ZlhwZDhxR0dxMVozRzVmWWlwQkpCYTVLU0c1aHRTMHcwZWRtdkRZZGUyMS0zd29IblNSWkNoa0ZSelVTUjVzbnNveUlIT2ptb2NnTEhXa0RWem5kMFRSMm1qMGpUbmFEaHgtYmQ2Rm5NNkVmSXh5eVNoaHBXVHZ5R3ZwYVViLUdxR05vT3NOdzPSAcIBQVVfeXFMTzNZN0pTckQwWnQ5YkdNczJVWXR1Mm94aUliamZsODJaSkhXOU9KOUtNYTBKbkhnSktNYkQweDZXbFNhUllNX1lQQzRYcVJsajlKVWVsZHJtam9sNFFSR1RESGlRc2JoRFlOUzF0SG5xTlBtNU9CRFNheXVfRUVYc0R3RUFnemRNUDFCNzRDWHVLV2JjSWJmZ2lhOEg0c21QaE95Y2RSNmtFd0VzNHJUUWJkSllkbGVHTS1wUDZPZFducnc?oc=5",
+    "title": "TTDC to operate Tiruppur boat house under PPP model",
+    "title_ta": "",
+    "summary": "TTDC to operate Tiruppur boat house under PPP model",
+    "summary_ta": "",
+    "date": "November 12, 2026"
+  },
+  {
+    "id": "tir-nov11-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekFrWW1COTdZbUtBcUEyRDY0YldqVDVJNXZPbE1Mcm1JM05wV1hoeFkwelpOb0k1VUlzZUNDQjRUcU1oemlJRDVqUkZ6X3h1MlJJYmZjcXhDUktYdUFCZlFldkF0d1JNRnJlWldaUkczVXNyM3hGRUUxN0I2UVlqU29EaUIwTFlmWEdscTBvUG1jQjlnc0FEUUxUcTlFVFcxOW5xVlRBazJyT256VkE?oc=5",
     "title": "Tiruppur Collector inspects Rs 11.66-Crore development projects in Kangeyam",
