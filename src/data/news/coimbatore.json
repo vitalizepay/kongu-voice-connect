@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov12-001",
+    "id": "coi-nov13-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGhvZ1VFMUxIenFEZUdtOVlnUkRsZ2RDRnQxTDJiWGZHV1R6MGVqMVE0M3l6akNPSXJlcHZ2WjZhV214NXJFTjNFeUIxdVgzbER0M3I4ZjBVd3Z4TERTVHl3bWk5RGlDMFlLdHhLY2xCNDRpRmR2MG44cVRiZEdkeVZYLWEwQzhkdEQyc3k2bXNfTDdFNWRTeEdnZGtGdUJOMk9GYw?oc=5",
+    "title": "SRM Diagnostics launches regional reference laboratory in Coimbatore",
+    "title_ta": "",
+    "summary": "SRM Diagnostics launches regional reference laboratory in Coimbatore",
+    "summary_ta": "",
+    "date": "November 13, 2026"
+  },
+  {
+    "id": "coi-nov12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbThrNDMwMVo1c3BLS3R1SjFGRUZEa0VxYldWcWNxVC1JbFRua1MyWTFnTFQtb25vdldxbGlwMjlRZXotZGd2Z0s1bTk5Z1A4SGI3dXd6dW12a1BuVk5zRDV6ZU45REJKekhFb280aGhPZVlxRUotdHNITlBYLTV2a09TdmRRVTFOSUszT3E2S2QyX1ZKR2ZhVWdSMEY3dFVfRTA5ejBWOTNXenJoSFVIa0g3ak94TWtCbGZJbFVRYUVocjVfb0NjZzhrTTR6TmhUaUpxZ09TVllaWWZZTUpmdGNnUVNhY1JoNU5tSGNweG9OTknSAfgBQVVfeXFMTWtJd05VQjJVSmYzNEVVYlVmMm1uSjB0Y1U3Q3dvcGRTRWVKMmJfS3NMYjR0akRqcjZ4T3ppMk91QnNGeTQtV3RrT0c2OXl3VXJLUmxGUDlWY1V4ZzVRX3FienE5bnFidXI0bmtLN3VlY1BhdVRMMzd1bzQ2cTRTSkFXcno2UTEyN1dVX2Vsb1c2NzRwbXMyTm9kb3hXWXlpaHRxSnAzZy1RQ1k4b1B2ay1IY085UUxKWlk2S3loVmFLRFRLdk5MYUFWRXpWN0t0cmt4VUstdTRFVHMwV19OTzU0NnVVdjlHTFRBNEZwaHJMZzFxTFROdF8?oc=5",
     "title": "Coimbatore Consumer Cause urges PM Modi to improve rooftop solar net-metering for households",
@@ -130,17 +142,5 @@
     "summary": "Diwali revellers kill cop, techie in separate Tamil Nadu incidents",
     "summary_ta": "",
     "date": "November 10, 2026"
-  },
-  {
-    "id": "coi-nov9-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1RoV3lCUTA2ZzBxNnRxTnU1aGRQNFZtbEhOR1dLN2pJRlNtMHRxVk9JNUltdzJ5d29RNzExSy1vdXBZYkVucmdRWGVvMl80b2x0dW9CVnJ4WDNyX0l2clFXSWpoSlA2OFNUWFI0WmdVanNvYkp4Yk1ZS3FoS3NRU2ZCRnVKMTNYNFlfS3VOdDFOc1JIQ3lEcWxmRk5Id040cl9PNHdXMElob3Vad3JpUTFsVG1iTTd6OEtYS3BoVmJrdkNMTEEyOTJkek9yTXJhZWIxaG95aEJMUdIB3wFBVV95cUxNUk9URmNDZlpiYXhpZDB1UDJSZ1VqQ0ZwX0VvckVrVzJoQkloUXloMEUyVUlLRS1qM2Z2aFlMdnc4WHNBWE9nbnk0aFpKZWJSWlYtU1pJMjNoM3ZmZUJaaUlWcEpIWExPQW5CWmxLM2lYTV9HQkpTVUNJZnVyRXA1V1ZTWlZsZXRPRllNTFl0YUVWZkhITVItbllrSXhka0NNNVZaMWFzQXRwVkNSYjV4dm9SVldWQ1RXdHdzR0ZZaVBKRk1yVlZTMm9DZVlnQ2VQbXlLRFAyS0FHT1BidzR3?oc=5",
-    "title": "Tamil Nadu: Muslim youth detained after vehicle rams Hindu Munnani president’s car in Coimbatore",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Muslim youth detained after vehicle rams Hindu Munnani president’s car in Coimbatore",
-    "summary_ta": "",
-    "date": "November 9, 2026"
   }
 ]
