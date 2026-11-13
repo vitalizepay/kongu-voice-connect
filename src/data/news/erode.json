@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-nov13-004",
+    "id": "ero-nov13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2s5aGFjeUw0NzN2S0NLaTZ5cHFjckNvRHUwbTZ6ZTJ2RjdTMUZqeHctR2tIN1Q1Z2lSSWNEajg0OGlfMS0tWnE5RTdMblQxbFFVUFE2c0RNQ2cyd3lONWtsR1NydUo5NlNIcTdZZEd4c0lTb0JteEVwRmh1Y2liZ2poUlFYazF3UHJ6dm1MT3BrdjgyR0xOWmVVcU9PaXkxNngydVNGUXBnb05pZXFSQndsbnAwWjF1b1VoSnh30gHEAUFVX3lxTE5rNkxZejg1SEdHR3E5S2pLa1F5ZnZvQ3ZhUWcwZzNmT0hDTzUxQ0NSbW01aklTSnVWSHpzc3YydU5qanZZY2ZMLXNRTnBEaTN1bzRuYzg0NWVrWGdIWjNKMHlYd0xPTGVodjJWQzRHWDdNS2RDY2RkUkEwUjcyZzFDcl9zWi1rcGE3TVZGcERDNF9XNkoxSGxGZE1NUnEtdW93bzFJT1ZoZEZHS0pRTkg3WVpucG1oRXZXZVAyelNvaHdxNDM?oc=5",
+    "title": "3.33 lakh cakes distributed to schoolchildren in Erode",
+    "title_ta": "",
+    "summary": "3.33 lakh cakes distributed to schoolchildren in Erode",
+    "summary_ta": "",
+    "date": "November 13, 2026"
+  },
+  {
+    "id": "ero-nov13-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON19jV3E5T3I1b3N5OS1qVXN2Wjd1MXM4RjNkSjVoUlhZSFJ0MTRFVEVUc2dvSGYwX1o2VWc5TWNYSFRTWVJqQWVHd2VacndRUkFJUWI2b2RERmdORXBoSWloVVpxTGQ2YXVldEg1T0ZCNmlidkxiSXRLbVIwelk1Mk9wMFZrekxHd09vNjBvNnFGUHY3aE9GOWFfUG1hOEdScWZV?oc=5",
     "title": "Minister inaugurates projects worth Rs. 3.17 crore in Erode district",
@@ -130,17 +142,5 @@
     "summary": "No crackers, just sweets for Diwali: How a TN village makes room for migratory birds",
     "summary_ta": "",
     "date": "November 8, 2026"
-  },
-  {
-    "id": "ero-nov7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOFhrakVJSTFZVzZxQk5UX1dGZTVIUEdDTzF1ZVNlS1pvN1hKdDZhY1EwR0dOMUVyM1JXRXFYOFowc3hTMHNsbm5WWk5aRENnVXRhNEVOLTZGc25rZnh6RlQxaWhERGhaVndyd3RXSThNc3F2VE5PN1B5V2RYUmRXRDRJT3Q3MkhxUVpHU00zc2YwSjA4blFndXozZnhzTG5zNTJITjBEWDFBa0Z0MUY3bXVtRnNDUXpmbTZlQVpiTWEzcmVoUUwyZGVYX0hDb1gwQVHSAd8BQVVfeXFMUFVhZDlwbEtwY0JEMDZsNE1KZU9va1NpeThuMmJLUG12MlZtS3hfczJJUms1aHNkdjZHLXZ4b2FUMVRDMWxad3F1M1kwdXoyZnBudlZwRklvWk9sS0lTWkpjNmpOTV9tcjBmX2RlMjJqczNQc3g4N2Z0cW85UFU3U1V5allTVENjNUg2RDlIREhCZDVLcl9oWWFpR25BRVZLU011WEFaUVVkZG9TeHc2ZEswRWxIVnp3aGNJUDhhaFV1dUJRZUplRFdOTGR0YUlyMnc3ZE9rMkRjUkl4NGh5UQ?oc=5",
-    "title": "Villagers In TN's Erode Celebrating 20th Cracker-Less Deepavali To Protect Vellode Sanctuary Birds",
-    "title_ta": "",
-    "summary": "Villagers In TN's Erode Celebrating 20th Cracker-Less Deepavali To Protect Vellode Sanctuary Birds",
-    "summary_ta": "",
-    "date": "November 7, 2026"
   }
 ]

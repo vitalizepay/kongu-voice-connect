@@ -1,8 +1,44 @@
 [
   {
-    "id": "coi-nov13-006",
+    "id": "coi-nov13-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3dJMzMtYVluOHNlY0lPbjhjbUY5X2JBWHFvcEp6NkVWV1p6Sk5ud3JzbFZ4UFRpU0Z5QnRwb0tSeFYtekJvTS1VY0ZoZ0RBVk5OOVBqbFVuRTlwWVFSMTBqVGlFWWZ1enh5VkNmTVktcENwRS1qcDlRdHhNQWU5eVF6dUlIUF9zcF96czU0OW5wcXpUWE5nTXpqTlJwNDJVMlJyNldvdzI1MnBETHNlREwwV2RhSGtxVHF2UGZ3ZTRJeVp6Q3B4a3ZoQl9mZXhsMTRDb2l30gHbAUFVX3lxTFBTSzBlejFHVTlTRXRRODh1MGNSNXBxVzVab1FrRGYyOFVaSGJrVnNNQ1ZRR0JLbHQ0Nnd1dER3SlRsNDhuaXFnOVNiWWJsTm9JblN6bVl6S0dVQTg1MjRvVXIzY1phOUcwOE1Sc1JoY2d1bTM4SENZU21sWlJ6TW5GZ1JEUk82WFFwS3kzTzdidml1bDhnUmI2WGwzVHBUSm1acVVHZFhtRm1CR0hLSmZmZzE1bWFjUXlwUXZqU2RaYnNZMDV4d21LMm9KN09RRGJJc0pvNUkzT2hBSQ?oc=5",
+    "title": "CM Vijay is governing Tamil Nadu fearlessly, Sengottaiyan says",
+    "title_ta": "",
+    "summary": "CM Vijay is governing Tamil Nadu fearlessly, Sengottaiyan says",
+    "summary_ta": "",
+    "date": "November 13, 2026"
+  },
+  {
+    "id": "coi-nov11-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5",
+    "title": "Tamil Nadu: India investigates alleged 'AI scam' involving public library books",
+    "title_ta": "",
+    "summary": "Tamil Nadu: India investigates alleged 'AI scam' involving public library books",
+    "summary_ta": "",
+    "date": "November 11, 2026"
+  },
+  {
+    "id": "coi-nov13-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWm8wWXhXeHA4VzRsVktFaHNHdnJHV1ladzd2YjVqLUhHbm1BS0s5U3hGcDVoMkJUNG5xZjZDZUhfbEJiRWhwMTIySVlFbUoxdDVUMk4xdE02LXpOMUNwZmgyMk5DVjRIYkRLb0c5aHV5dmFiUGJHdGRvSjhTY0lRY19WTkRaUzNTd2hqTHVibDR0RFVxbUNpeXZmTHpCQUFBNWstejhFNDNoY2ZHNWlTZXNsM3ZDbFZGMVdfNnpaX01NN3hSM1hNRzItYjBNd2o0U0kzM2FjbkZDYk5HVno4?oc=5",
+    "title": "Just 7 Days to Go! Tamil Nadu Energy Expo 2026 Set to Bring Together 3,000+ Industry Professionals i",
+    "title_ta": "",
+    "summary": "Just 7 Days to Go! Tamil Nadu Energy Expo 2026 Set to Bring Together 3,000+ Industry Professionals i",
+    "summary_ta": "",
+    "date": "November 13, 2026"
+  },
+  {
+    "id": "coi-nov13-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGhvZ1VFMUxIenFEZUdtOVlnUkRsZ2RDRnQxTDJiWGZHV1R6MGVqMVE0M3l6akNPSXJlcHZ2WjZhV214NXJFTjNFeUIxdVgzbER0M3I4ZjBVd3Z4TERTVHl3bWk5RGlDMFlLdHhLY2xCNDRpRmR2MG44cVRiZEdkeVZYLWEwQzhkdEQyc3k2bXNfTDdFNWRTeEdnZGtGdUJOMk9GYw?oc=5",
     "title": "SRM Diagnostics launches regional reference laboratory in Coimbatore",
@@ -104,42 +140,6 @@
     "title": "Tamil Nadu Library Book Scam Probe Expands After Coimbatore Search",
     "title_ta": "",
     "summary": "Tamil Nadu Library Book Scam Probe Expands After Coimbatore Search",
-    "summary_ta": "",
-    "date": "November 10, 2026"
-  },
-  {
-    "id": "coi-nov10-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGIwMWw3R0lWVEt5SXlnc0RJaWgzTkJOZE9BRlIyb1FXMjdzbVlJOVJ5dUx1RkNOdE81QzI1cG9EQlBfZm14S0xDSUgyZjJyYktLTEtSWUg4Zm1GRTd4eUlOdFlkM2dqc21JU3BET3B3YVBLZkhNS1B6WUlMMXJHWXpVZ0tfZ0hWVXNrUVZIb0VhTVNEbUIwN0ZkdXNoNFVCLUJvMEZwcXg4OURuZzJVWmJWVjJGU2xESEhmUVBSaks1by1ZTFHSAcsBQVVfeXFMUFZoOW9yNzJldDg4bWdlSDRpV2tORzVSdTZXOFM4dWJEd09QeDcwTWE1d0UwUDJxbUxUYThDakdUdnNpSUZ5WHVldVMzN3BhZWw1RU1MOG1fX05SYUdKUVdhVS1QdjQ2WHB3LTFPOUpKdjcxYkRnbFJsRTBwbllzWS1DMEszeWJIWkplUzByYUJfZENnbklJdlZpNnFvYjRsWEtnQXlIZllnVzlldGpXeGFLMkhVSVBWTkF4RzR4Wm92MWZGQy1Pa29aRm8?oc=5",
-    "title": "Chennai, Coimbatore to get special trains to Bihar amid Chhath festival rush",
-    "title_ta": "",
-    "summary": "Chennai, Coimbatore to get special trains to Bihar amid Chhath festival rush",
-    "summary_ta": "",
-    "date": "November 10, 2026"
-  },
-  {
-    "id": "coi-nov9-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWgyTXdVSXA2RXhvWnBOZmx3M2pDbFoxakI3YU5hQzk1U0hjc3Vjekp4d28zaGtQVnNKUGpFZ3lLYk5OWGd6TDlQUHlYTkIySDh2NGFkaDFMdHpBUHlVUk9WUkkyY1M2cFpXVmVFNFBERXFfc2R0Q05abDRncWUtLVl2LUNMaGc2aXlkQndJUUY0dGZQQXg0bUJDeWk1V1ZXREpqc2hoQkxGXzUwMHpwZWk3dTBoejB1VmRIQkw1eS1QTloyZzJzamUtdWpLX3dWODRVc3o2OTcweTJYR2RlZW5kb3U2YXUtYTlua3hyZ1RrSldUYk5n0gH8AUFVX3lxTE5CM1cyTmhkUEhjTV9ZMU5ZRDZsYWVneWdsY3dRUTctTDY5TW4tZmZxTEE0WEVfWXYwSktNQXBNNkJuMnY3S2J2eGVMN3VEUG5NUTJma0c3SmRIZ2Nzd1BhOFFpajlvVjU2b2xVNVdOYXc5RGE2ZFVXQTZnTnpHZkZxUnhZTjQtTENZbDBrNkFXWGdVRkI3bVJjMlZzNXVkN0NQX0ZJUC1lZ2dnWWg0cDJkMXhaa0w4MHFUaTlNNWNaOHdOVmxQOGF1SjN3SkVpMWszeVhod1pNNl96cDFwUUNnZ2owLVZlVHZvVmt5WDBCZS1wNkwycXlHOGo2UA?oc=5",
-    "title": "3 contract workers drown during maintenance work at Tata industrial unit in Tamil Nadu",
-    "title_ta": "",
-    "summary": "3 contract workers drown during maintenance work at Tata industrial unit in Tamil Nadu",
-    "summary_ta": "",
-    "date": "November 9, 2026"
-  },
-  {
-    "id": "coi-nov10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSkdVZVNMWDRCLUxZcHRTcTYtb3kzaEkxZEhPa1dEbTV5V0pVSmlqczhHeEJGa1dFeDkxdW1VOUpuU0tENXZfYUJteW5UN0FvVWFpRU5mT1ljaEJvUjc5VjJ5XzZTNzcwVXlsQ1dCUEpDOTFTZ3pUNjAyemdNc09SU3hXd0RMaUJOT1dqNVV4V0o2dy1XRkpIUFhfcTFHYm5aNXZKTjA0MGxXQW8xSUxZQUFwZWg4anhVMHQ0UjRFS0E3WE9xRm9ybGVxRk9Bb0Y0aTBaVlRpUWV3b3E3dmR3V2V3aDVwRzhXMjBVWFBmWXNSSTBZSF9oWG51QVM5RHFVU2Q2anNVMWxsX2FJaGVoZ0Fn0gGXAkFVX3lxTE9IMnlmWGpXb2ZMeFVUQnJsYWJ0UFEyUWJkSl9BQ2NhSE1Tc051WldGQWd0MUw2VmVIRGhrV21taFdPUUFKai1hMm5WRjhiT1hsVXZTY3drX25nMER2U3ZzYWtNNzltMUZIaU44WE9Dd1lwZkJscEZIQ2R0cXEzVC16VFU1WGl6TGc4anVlUi14Z180MHNKWmNlT0ZJSEUwUTJWb3h6TnZ6Q1RtcUZzMEsxLWw4RDhlZGtOcmVMdjNocmNsSmU5QmRGWk5MaXMtdE9STDNnTHQzNXVseGt3RUNiTU1JMllETHNSOUNkYlFrcENEV3djZU5LeHhPaUhEWjcwZnVya2Uwa3BDckZXZHNpY1BHUVJ2Yw?oc=5",
-    "title": "Diwali revellers kill cop, techie in separate Tamil Nadu incidents",
-    "title_ta": "",
-    "summary": "Diwali revellers kill cop, techie in separate Tamil Nadu incidents",
     "summary_ta": "",
     "date": "November 10, 2026"
   }
