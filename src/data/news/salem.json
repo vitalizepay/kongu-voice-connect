@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-nov12-001",
+    "id": "sal-nov14-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkZwX2VBSER6MnJjRXIzUGdXbWFyZjRfNk9qYnUwaFhGa0RPNjl4XzJManYxWDF6VEVMMmlqQk13V1d0cnFhdTh2V015WTBOTlFWSFdnS0NLTW1qYnNMclZOb1Y5VTB4R3dqeXIyWnZ3ZkU1TW4yY0oxZ29CREl2UVduWjNHT0xRMlVoSUNwb0Y1dVJhbGNmS3hxWE1GUG8yRGZONGw2QkE5dWxTZWRheDhOWEh3VUZpLTNESC1kTndJZXY0akxOcmRQaWY5X1BCQlEwVzJHUFVLLTlRXzN3SWtwTG9vcXh3bmhnclV5S1cxT21DeGF1TUVlbnRFT2JHVTJpadIBiwJBVV95cUxQS21Td0k5aGVFOW5neXVxd0dIVHY4SFRBMVJtMjdjUURQUWZjZXZjOWR1M21XOGkxUGJqVXZkS3JtRGZPRlBMLXVHa053STIxZ3pjam8ycF8xbjg3dXNjX1gyQzlxZl8wTWIwdmdaUFB4UWYyNHlCY2VaZXFiSGR6Skh3RVliZmNYc3BneUFSbWIyeExac05ha3ZRaC10OE54RmtEanoxMHFnN2hqUnNRS2s4OGhadFZLR3JZWVRZbjZqQnlYa0RuMThjZGF1VVlrdC1KeDR4U1A1SFE2Z0QwTjI2YUdxMnUyZXpNRFNYZEZjRWdSQWY5enZDR3NPUzZyalFRY3J0WVZkUVU?oc=5",
+    "title": "In first 133 days of TVK-led govt. in Tamil Nadu, 125 criminal cases registered in Salem and 123 in ",
+    "title_ta": "",
+    "summary": "In first 133 days of TVK-led govt. in Tamil Nadu, 125 criminal cases registered in Salem and 123 in ",
+    "summary_ta": "",
+    "date": "November 14, 2026"
+  },
+  {
+    "id": "sal-nov12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamlBeWJYX3lBd2swSmpnZHFtUU13TERjcjZ6Wml4WkFLZ1BVSzUyWk9JTTZZQ2JMVXM3eWh2WUJNbzFvVEplbjhBMjFZR0tjUGNwV0tabmZBR25yVTRWMlRScHo1Q2JfVy10NWF1RHlRdVdId1hwN0ItRnZjUFNnanZBSV9OUk12LUI1SDJvWW95SFZJVmtONVl6VFpqSlhjVUlkZzNKdEVBb2g1V2RoNExSUzQwdEVYN1E2eHhRbmJ4S3FvdnFtSGVFT2NaM0RnTlHSAdgBQVVfeXFMT1pobkc3aHNQTWIzOW5xV2t6YVZjMXFfX2ZXVnFmdUJYbkNYZGhDVzVMOGIxcVVlaVBWTW5yMTRZSHRsN1ZnT3FCb2wzaGtKZGVUQlhUc1cxVVVyVUpFeDlFS0ZxOHpGQjhINlpPQllhYzlJanpwY2NyTzAtZi11NlpSakxWVEhnYlBQVXkxTTU5MW9BMFAwOUJmTUI0Q09QaHhMRklaOFczR0RxaUc1TjM4M2VaS3FPUUw0a0w5UlhPMUNWaTVQckZQLWdkODNES283Z1VzTkVh?oc=5",
     "title": "Over 12,000 families receive special grocery, vegetables kits in Salem",
@@ -22,65 +34,5 @@
     "summary": "New bus stand at Sankari in Salem becomes functional after 17 years",
     "summary_ta": "",
     "date": "November 9, 2026"
-  },
-  {
-    "id": "sal-nov7-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNallGY1czTkU5dW11VXYxVFNnRnAtZU5iNkFtVEk1SXMwWTRWM1lnMXk0ZnJuTHViTjhKVGxfelM1cVlaZTFwNWprbXNoYjNiUkliZFd1RHNNeE1hNlh2a0NBXzRfX0J6WGN2WWJRUHdLZlctcHJqUEdhUjlWQmlwMzNtamlmM0pUanF2dkh5SExwbFFYUlhFcWNMN0VGMFJGbGhUaHo2TjhhTkJBWDdNYWRKQmwwYUthTUNDSnNHbzbSAccBQVVfeXFMTnYtTnJQNk1hRzJ2MjYwUHVYMlRCMDBVcGtvLWxkcWZ5V0NjZW8wOFJyQmxfeW5ucGR0UTRqSjRyQW56NlJuN2ZCQUV1bWxJQkItUngzaVYycTlLV09NOGMtSkxwNVBGTjVqdEFWdW9wblpEci1jYWJPSzZ3OFJJcUUzY1IteVQzeERCaW5zUVZmUFJqbWFTRGlKQXJYVkdtX1E2and1YWNUaXRLbHNoczhjdGJ4M0ZXX3BTdF84THVsYWxxNVVYNA?oc=5",
-    "title": "Bengaluru mass murder: Wife, mother-in-law’s bodies recovered in Tamil Nadu forest",
-    "title_ta": "",
-    "summary": "Bengaluru mass murder: Wife, mother-in-law’s bodies recovered in Tamil Nadu forest",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "sal-nov7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlJIOFJBbGVfY2RRSFZPTjI5ZnJIWWVtYTZSRHBHb204TDVDdUNfaG9tVFhtMEthMlljcmxVcG4wSWJLeGN2TFBVNm9pMHFUVmdQOUViclhoc243bzNXWVJFMERNanNaZmgtX21OempVWVljTzk2N3FkSnkteVRDbUxyLWJORnhBYk5EWkE3NmE1NWV3RXJSeVNGaS0xcmRQcEhBMTJJLVZxRDkwTTRtYUlrLW1HVGxTa05XRzBVMzg2RmxVN3NXa25B?oc=5",
-    "title": "Bengaluru grindstone murders: Two bodies recovered from Salem forest",
-    "title_ta": "",
-    "summary": "Bengaluru grindstone murders: Two bodies recovered from Salem forest",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "sal-nov7-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDdJYkhTaGhqQWQwZVA5dWlGTTRnZmROZElKU2hqLTlrVkc4Z3VLdi1YaGQzZ09acm14bVoyZlQ1M040eEVQVXZzMXZ3eUJDTjh6STVuNlY3U0NLaTJjTjV5cF9VYTZRcWhsRnZydUxBZVV6czFfZlRBbU1FZDdUcnJXSHFBOUlPYXdIbnlvLTNRam5PNDhGbnhUd2s0bXNwdTVKMGlNZXdSVk5FZVg4NE0yTmxhNEV4WlhfczZyZDd6ZVozXzk3WUhOX180RmtUcFBRVVRhaTjSAd4BQVVfeXFMTkVvbWpsZXBkZ1BRc3QwMEV6aUxfV3hVS05kX2ZCRkp6TXBadE9MWnV2NEFBWUFyU2JpenUwd0NRQnROYUpneVgtdVdhVjR0cVVkTndiRFJXZHZQbmc1MUI3c2VoVW93Y0ozbDRTQzFEZDUyRE5kTnJxaHlFWU1ub1VBNl9FSEtzUjhvc05jUzJsck5oYm5tRXVYYVpUY3VsSUZRS3FuYU5rNVcwNkRyLW5NS3djdlNLRk9vb1A4RkRuelhDUFBsX01QbWJDZzI2MTFmZDhyUzNta3VSaFd3?oc=5",
-    "title": "Bengaluru Serial Murder Case: Wife, Mother-In-Law’s Bodies Found In Tamil Nadu",
-    "title_ta": "",
-    "summary": "Bengaluru Serial Murder Case: Wife, Mother-In-Law’s Bodies Found In Tamil Nadu",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "sal-nov7-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXA0M1RMbEpHN0NON2h3YnJpZ2FyS1BYV053VU1FS2gtdUlHU0o4N1FCOEZiaGJFazNteGNJWXFsbjFrdXROOXJkRENtanZwSE9Cb2F6N0Fta3dPeXAteHctZWV1c2tGMkEtdTQ5UF96WEpvMGV0M3NxTzNQb0pWdVFLbE5randxa2l5ZkV6R1hfeGJqN3huNi1JMEtDNFE3RDNGVVdUVHhicE1oMnQ2V1pKTm9MaS1YNFN30gHAAUFVX3lxTFBfQUhWNkpsSjdjbHFOS252eXBhZWc3RGU0M0JTZVhad2JXQll4T0dnRVBqZHlwMkpYM3M5a2U2WDRzTUNyQ25MLWhvdE85T1Z3VHNoNXZzQjYzZlRDOWRYUDlHWXplUk41d2RTb1JaVG5GVmFLXzc0X3QwTldrT1dxV2ZvaFBaV3N0ZUxmRVNBWkFmOFRGb2JPZVpaTHQ0cXphd0NSQllYc2Y1dl9hd0dHdE9Fb2kxY3VDRHNkVE5CSw?oc=5",
-    "title": "Bengaluru Mass Murder: Two Bodies Found In Salem Forest Of Tamil Nadu",
-    "title_ta": "",
-    "summary": "Bengaluru Mass Murder: Two Bodies Found In Salem Forest Of Tamil Nadu",
-    "summary_ta": "",
-    "date": "November 7, 2026"
-  },
-  {
-    "id": "sal-nov7-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUy1BSmdmVUtjSmNxWHd5RTllallHTG42VHNKT1FzTG84VFBKOFJSczZoa0Fqa1dLSVB1bHZHTnBkenRybVRmOVcwemZlcThnWVlUd3g4b0RUSEtaNjdULW5IdXpmS083OEpzY1hjaENqTUcwc2lZZldYa3RIcWpGdFlqS055VzlZSkRmUFlNMVFEVExqMUx3ZFdhUEFOOUJqNlpORjh1YTBWOTl5dkFtNlpNTVdKRlBkSjZjYXMzU0tiLW5rR0tsdThEdktYMUwyaVZ4Si1xbjZDd1A1ZFViZUNfWWo4ZXdjLURoZmF2MVRFY1JQUHRJ0gH8AUFVX3lxTE5MV2ZiNm5iZ0hZbXpISE0ycmR0Sm1lVHVUY0Fia3BuQ3FOWU5JTnZJUkRQUVhOWlZyWnE5cU5PSlAxMk5oMWxzc0pRWnhSYU5IVTVnTVNUQkMzLVhFLXRfWE1PWWdqSV9VUjhPY09FWi1aNFpJYzlvSm1weVY5ODY1RmRJQ1dUY0FQSmZraVpFcGxuWmhscnctY2lRSXh5Q3NQMEtDZkNlbjNYdGgyVzJ1SzF6cjJwcFFycGNsVHJBLXhDSXNIbjBMaWppLVo0QTAwVzBoQjZsbjE3ZUhZSWh3Rmg1X0VYelN5anBmbElYZFpnZC05TFBKbHhsTw?oc=5",
-    "title": "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu'",
-    "title_ta": "",
-    "summary": "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu'",
-    "summary_ta": "",
-    "date": "November 7, 2026"
   }
 ]
