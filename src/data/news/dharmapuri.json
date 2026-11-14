@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-nov13-002",
+    "id": "dha-nov13-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSktaQTJZV01TaGdQNTF6aVJKbF9kNmV0ZFpoYVRvdVM4VzdGLU9ZQXdLVldmYnNSY2ppeGlhMklMbWNMbmxPa1g2TFJzTi1mc3NoVmNGMElFTEozZGtuOTBsUlphczRJeUJncWhNY1h1M3F6SkpkRkZZTzA2SVRFTmpxSXNDSlNhTW00RkZ5RmpkZTdWSWttQ0NyczRfS2Z1RFdROWN0ODM1WGRmY21yMEZLcDRLaTJ0LTJ0WkFJLWkweTYtRFHSAcsBQVVfeXFMT056SWNuVURITkxLZE84Q21zcEZrbjU3MzBiSjZ3cmhmLW9nMHMwczdNbFRBQ0dUWHNHcW5CWjBMREtuU0hvZmJ2Qk9NcTNLN3pCYk9HX1JFaUJmMFk1OEJOb1gxbmVUTjNUdWFqYzZ0U0RROExLdDRmSThyZzBTcm5XTGUtTVdieG5nWFRxOF8tMnRKY3o5RTNyMGpXRkhXMTBGY255Y19QWWFrX3pOa2tURlJPVmJLWFhsVUROckp6UWJLX0RJcG5ZWVU?oc=5",
+    "title": "WEG Picks TN's Dharmapuri Over AP's Kuppam for Rs 2K Crore Investment",
+    "title_ta": "",
+    "summary": "WEG Picks TN's Dharmapuri Over AP's Kuppam for Rs 2K Crore Investment",
+    "summary_ta": "",
+    "date": "November 13, 2026"
+  },
+  {
+    "id": "dha-nov13-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW40MFQ0cXFwY1lrWjRjR0FlbkpwMU1oNFhPc3hRcFVxYXJhY0RvVnhvYUZlVXVzby1YTUZodFdqN1N0ZFJmY2JfdFpFMVVFdUpjUDNCTmQ0Vjd0UWRKOTFLSnpCOENkdlgyN18tZGxwV0lHMlFhcEVPY091aTJBckxTeVBFRDdVdEl2Si03ejdxZXhlZW9PV0pCMHlCd25iTkVEYXdrVm5yTzFuR0lCd1pPTVJlRUtaSG92LTE3d1E0Mi1a?oc=5",
     "title": "WEG to Invest Rs 2,000 Crore in Dharmapuri, Tamil Nadu; Project to Generate 3,000 Jobs",
