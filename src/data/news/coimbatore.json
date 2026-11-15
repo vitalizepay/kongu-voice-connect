@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov14-005",
+    "id": "coi-nov15-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObl9rOVQ0WHlQemtTUjhwSVFnWFhlVFE1OHpTQjF0aFh6eUxCdF9KVlQ3UFQ1OG5uRmVmS1huaUpQbGVDU0tWN0hhY0NzOFh2dXJDX3NzUFJkVXJ6NFBZc2pJSnNBbmlrMVJQenRpY05jZzVmME91UnBCYkN4UEF5MjBhbHlGS1p3NHVsS0gxNDFoU01wdFV0VTg1OW1NNU5fakdZb1R2R293QnNCdDhFU1BTckN3cy1seWVKZFpueDVxT1F4TVpEX25VRQ?oc=5",
+    "title": "TVK Functionary Probe Intensifies in Tamil Nadu",
+    "title_ta": "",
+    "summary": "TVK Functionary Probe Intensifies in Tamil Nadu",
+    "summary_ta": "",
+    "date": "November 15, 2026"
+  },
+  {
+    "id": "coi-nov14-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPei1MRW1jZ1VRYmFwOXY0U09uUndLb3JVWllNUTZKMUZ2MGFmNjRaWkRPWWIxaFI1TjM1Nk5UQ1ZfbXN1SWxyN3Bvclc4cG5OcVZUMnBCb1RYYll5dGtzQkptbjlabF9vbnRkS2JoLWRhMDBXRDk4YWdPQXQ1UHBSTHJkcmNvMlhzbF9QQVhOR2VMUmNpTHFrR1ktdDNoV21Xd0F5TkY5M0lBbl9ETzJDT1NwdjVyQ3hMcERIOA?oc=5",
     "title": "Coimbatore Rail Connectivity to Expand with MP’s Proposed Train Service Extensions",
@@ -130,17 +142,5 @@
     "summary": "Prison department petrol bunk in Coimbatore reopens",
     "summary_ta": "",
     "date": "November 12, 2026"
-  },
-  {
-    "id": "coi-nov11-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd3lxR2hYTjBmLW9UUXFyWkRyWGRCSDlpQjE0ekowVWZOem13a2s3NUlXWERzbXlrS3AzZmhCeGVMTXVnbUlnT05xVWU1SjBZQllsaENGVEwxT2gyQm1EbEh1REJZdDRaU3p2czNqdHVUS1RkNlFOQ1NZcmJxQXVUV2NaQ2FkLWlaeWxuTA?oc=5",
-    "title": "Tamil Nadu Library Scam: AI Book Purchases Under DVAC Scanner",
-    "title_ta": "",
-    "summary": "Tamil Nadu Library Scam: AI Book Purchases Under DVAC Scanner",
-    "summary_ta": "",
-    "date": "November 11, 2026"
   }
 ]
