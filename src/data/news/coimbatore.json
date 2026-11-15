@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov15-001",
+    "id": "coi-nov15-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVJGUE9GTHMycUQ0Q2RuXzNFeGI3XzJDYUxyVUdDZW5jNElCZHIyNllDZXlJOGY4X3V6eURWSnZxMi1ja1JjWUdHcTk0OGw4THByaUZxWGNmMkowejV3aDN1bzRwZmtNc2pvQTY2V0Q3WEFjaHBZX0w5Nm41TWNZdEFSaFdQU094X0I5VWRHUGkybUlPRVIyeURmSHc1bHNOMXh3TGZJcGNKNGw0by1PdHJQaFVSX2hQSlRMYzZlbWU4ZG9nVVHSAcsBQVVfeXFMUGJtS21aVXhMY0FNVGVkTEJUejgzb1E0WHVDaV84NngweTBsWjBWbVhkbWpJNkxsMHJTVThPZ21IdlA0VmNwQkktQ2lJbVBVZWNWMENQSWhxUXdud2s1V1RmTldDUllnMmp0TXpYNVZ6QjlMOEdVanVheC1aalVxbzZtX0U4dlp2bU01Wnp5dHJxemgzdjBVcmFsSWFBM1B3aVc4NTNKWjk1SXliZHdTMXBfekxHV0MxMnVmY2Jpd011ZGJTSVRKRXB4UG8?oc=5",
+    "title": "Man arrested with leopard claws in Sathyamangalam",
+    "title_ta": "",
+    "summary": "Man arrested with leopard claws in Sathyamangalam",
+    "summary_ta": "",
+    "date": "November 15, 2026"
+  },
+  {
+    "id": "coi-nov15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnAtQ256MnhFWDF0Sm5DMkxvR1doWVlxR2lvaF9DV1FSOG5uaU9Ic2hDS2FEWDJUd2xnbG9POU9zNEViRmQ5dkxCSXlKNWtPb3F4ZU9qakRCWG5zc0ZHSG1FTWk0RGc0S2NJYnBUZUlXVjdqckpYa2dQVER1Q1hmcnBuY2VSSFRQYjZ1YlVYZlRnSksyYnUtcjJWMjNKLUZad0tUQ3F2X3Y4LTNTR2Nfd2NnZmZDTm5xaHNSdGIyX0tnS2JHUzVRV0FESnpTYTV0c3R3Q3hac2IzOXh6Z3FpUjk4TnFZTGpjaDhrUUNiUlJiZTNnckF0SVM0OFJRZi1XUGlV0gGKAkFVX3lxTE1CT0I4clQzcklNbzljcjN4bHV5SUtxMEZvQ3NBbkVfam5zZzRSRXE0YVBWdnBFRTFjZ2lxSTR6U0JuUDdmOWxIcWVsSWp3Q0FVVmRzMFV5aDFpMDhZU2N4SmhwN2tJa1JENmxpXy1uQzY2N1hNdjZTLWM0SWd2WnlUalRSOVQyTHhmMEV3bkxCQWh4WVg1d2pBcVd4dUNfQklSMW5COWNVMGNBb0htcjdsSzI1T1FISTdnTDlScFp4UkV5THRQOVhzcTFoYzUtRnlfeWRtZV83N2phYXdJZUp0eDQyRUlqUjdZby0tbzJ4b0dFalBRS1dNU2FDSUZ1NEVrZUFBemZyQjNB?oc=5",
     "title": "Librarians and official suspended in connection with book purchase for Periyar Aruvulagam in Coimbat",
@@ -130,17 +142,5 @@
     "summary": "SRM Diagnostics launches regional reference laboratory in Coimbatore",
     "summary_ta": "",
     "date": "November 13, 2026"
-  },
-  {
-    "id": "coi-nov12-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbThrNDMwMVo1c3BLS3R1SjFGRUZEa0VxYldWcWNxVC1JbFRua1MyWTFnTFQtb25vdldxbGlwMjlRZXotZGd2Z0s1bTk5Z1A4SGI3dXd6dW12a1BuVk5zRDV6ZU45REJKekhFb280aGhPZVlxRUotdHNITlBYLTV2a09TdmRRVTFOSUszT3E2S2QyX1ZKR2ZhVWdSMEY3dFVfRTA5ejBWOTNXenJoSFVIa0g3ak94TWtCbGZJbFVRYUVocjVfb0NjZzhrTTR6TmhUaUpxZ09TVllaWWZZTUpmdGNnUVNhY1JoNU5tSGNweG9OTknSAfgBQVVfeXFMTWtJd05VQjJVSmYzNEVVYlVmMm1uSjB0Y1U3Q3dvcGRTRWVKMmJfS3NMYjR0akRqcjZ4T3ppMk91QnNGeTQtV3RrT0c2OXl3VXJLUmxGUDlWY1V4ZzVRX3FienE5bnFidXI0bmtLN3VlY1BhdVRMMzd1bzQ2cTRTSkFXcno2UTEyN1dVX2Vsb1c2NzRwbXMyTm9kb3hXWXlpaHRxSnAzZy1RQ1k4b1B2ay1IY085UUxKWlk2S3loVmFLRFRLdk5MYUFWRXpWN0t0cmt4VUstdTRFVHMwV19OTzU0NnVVdjlHTFRBNEZwaHJMZzFxTFROdF8?oc=5",
-    "title": "Coimbatore Consumer Cause urges PM Modi to improve rooftop solar net-metering for households",
-    "title_ta": "",
-    "summary": "Coimbatore Consumer Cause urges PM Modi to improve rooftop solar net-metering for households",
-    "summary_ta": "",
-    "date": "November 12, 2026"
   }
 ]
