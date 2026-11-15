@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-nov15-005",
+    "id": "coi-nov15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnAtQ256MnhFWDF0Sm5DMkxvR1doWVlxR2lvaF9DV1FSOG5uaU9Ic2hDS2FEWDJUd2xnbG9POU9zNEViRmQ5dkxCSXlKNWtPb3F4ZU9qakRCWG5zc0ZHSG1FTWk0RGc0S2NJYnBUZUlXVjdqckpYa2dQVER1Q1hmcnBuY2VSSFRQYjZ1YlVYZlRnSksyYnUtcjJWMjNKLUZad0tUQ3F2X3Y4LTNTR2Nfd2NnZmZDTm5xaHNSdGIyX0tnS2JHUzVRV0FESnpTYTV0c3R3Q3hac2IzOXh6Z3FpUjk4TnFZTGpjaDhrUUNiUlJiZTNnckF0SVM0OFJRZi1XUGlV0gGKAkFVX3lxTE1CT0I4clQzcklNbzljcjN4bHV5SUtxMEZvQ3NBbkVfam5zZzRSRXE0YVBWdnBFRTFjZ2lxSTR6U0JuUDdmOWxIcWVsSWp3Q0FVVmRzMFV5aDFpMDhZU2N4SmhwN2tJa1JENmxpXy1uQzY2N1hNdjZTLWM0SWd2WnlUalRSOVQyTHhmMEV3bkxCQWh4WVg1d2pBcVd4dUNfQklSMW5COWNVMGNBb0htcjdsSzI1T1FISTdnTDlScFp4UkV5THRQOVhzcTFoYzUtRnlfeWRtZV83N2phYXdJZUp0eDQyRUlqUjdZby0tbzJ4b0dFalBRS1dNU2FDSUZ1NEVrZUFBemZyQjNB?oc=5",
+    "title": "Librarians and official suspended in connection with book purchase for Periyar Aruvulagam in Coimbat",
+    "title_ta": "",
+    "summary": "Librarians and official suspended in connection with book purchase for Periyar Aruvulagam in Coimbat",
+    "summary_ta": "",
+    "date": "November 15, 2026"
+  },
+  {
+    "id": "coi-nov15-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObl9rOVQ0WHlQemtTUjhwSVFnWFhlVFE1OHpTQjF0aFh6eUxCdF9KVlQ3UFQ1OG5uRmVmS1huaUpQbGVDU0tWN0hhY0NzOFh2dXJDX3NzUFJkVXJ6NFBZc2pJSnNBbmlrMVJQenRpY05jZzVmME91UnBCYkN4UEF5MjBhbHlGS1p3NHVsS0gxNDFoU01wdFV0VTg1OW1NNU5fakdZb1R2R293QnNCdDhFU1BTckN3cy1seWVKZFpueDVxT1F4TVpEX25VRQ?oc=5",
+    "title": "Tamil Nadu Police Intensify Probe Into Sexual Harassment Allegations Against TVK Functionary",
+    "title_ta": "",
+    "summary": "Tamil Nadu Police Intensify Probe Into Sexual Harassment Allegations Against TVK Functionary",
+    "summary_ta": "",
+    "date": "November 15, 2026"
+  },
+  {
+    "id": "coi-nov15-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObl9rOVQ0WHlQemtTUjhwSVFnWFhlVFE1OHpTQjF0aFh6eUxCdF9KVlQ3UFQ1OG5uRmVmS1huaUpQbGVDU0tWN0hhY0NzOFh2dXJDX3NzUFJkVXJ6NFBZc2pJSnNBbmlrMVJQenRpY05jZzVmME91UnBCYkN4UEF5MjBhbHlGS1p3NHVsS0gxNDFoU01wdFV0VTg1OW1NNU5fakdZb1R2R293QnNCdDhFU1BTckN3cy1seWVKZFpueDVxT1F4TVpEX25VRQ?oc=5",
     "title": "TVK Functionary Probe Intensifies in Tamil Nadu",
@@ -116,30 +140,6 @@
     "title": "Coimbatore Consumer Cause urges PM Modi to improve rooftop solar net-metering for households",
     "title_ta": "",
     "summary": "Coimbatore Consumer Cause urges PM Modi to improve rooftop solar net-metering for households",
-    "summary_ta": "",
-    "date": "November 12, 2026"
-  },
-  {
-    "id": "coi-nov11-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGE2M1E0X0wxYWVoOHF1eXdnQ25mUE5HOGh0NGc3T0hsbWJnLVg1NU43VjNiMWdrVVU0MFliRV9HZEczQkFEZ3cwd1Q0NWMxRFdPOGRYY2dESE52MUVjN1kxclRXbDBxT3liT2V6WWNzNVNoZFh4cEY4REhmTHdoRjNuN3NJMjc0LVEyUUprTVZtTV9yaUkwbWRmWW5ucXlJZDNabUg3N05PTmwzelZyMEtOMXRtTC1vVzdwdm1TcFZkOHEtcGdSVzQwVC1JUdIB1AFBVV95cUxPLWhER2J1NldOWGFqVXIzRzdfLU45Uml0MGNCRld1blM3T2Y4eDA1TFRFa09JamVyZkN0dExFRzRvajBqODFIVF91VEpSR28tVkVCaXdsZXBaYlAxMlkxOERHa1Q5U2dMdWI3SVIxOWJRTDZJa0dZa3ZaMmVlazhhSllhcURjcFVtbFNJV2FFMHZOUjFRc1VFemRxdWlUTGVnNVNOS3dSLUhSNExabGJmYWhQR2xEREx0MXJLbDBsZkdkeFNhVVdETjl2VDVJSVZ0YmY0Ug?oc=5",
-    "title": "Books without authors, authors without books: Inside Tamil Nadu’s alleged library scam",
-    "title_ta": "",
-    "summary": "Books without authors, authors without books: Inside Tamil Nadu’s alleged library scam",
-    "summary_ta": "",
-    "date": "November 11, 2026"
-  },
-  {
-    "id": "coi-nov12-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZm1aNHVXZ3hYa01fdnNPeE9JTFJSU09zNDZ2MkVVclRXTlhFUWY4d1BRVzZhVTc5M3NCdTR0SHA4ZWN4Q0JDM08tdHQ5UkdIOFZsVnNhdE5MamVjLVBhWlVieDFheEZ4ZE9YQ2FQOF9UV1FaTzM4R0lVaHFGVnB0N1JEZjFJNnR3SlRqQlZn?oc=5",
-    "title": "Prison department petrol bunk in Coimbatore reopens",
-    "title_ta": "",
-    "summary": "Prison department petrol bunk in Coimbatore reopens",
     "summary_ta": "",
     "date": "November 12, 2026"
   }

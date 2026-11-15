@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-nov12-001",
+    "id": "tir-nov15-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGt6TU9KZUlMRXVkT2ZBRGxyaUpsLUo1VzZwZWotVHZ5Vjk1aHBXdllmRFd2RFpEZVNodUVzeXFyaUZKOE1yMGJnMWJvOWsxckJDd0F3M3l6djdtTC1PYl9WcUdqZUJOVXJPZEtySjRMZVVycEJfZzE4X0w4Wnk3TGdrMU0yQUZGTnpHWndhLWZNZEt4RUE1RWJOTVZoTWp4dFhMS2hPb1VLMjg1TDlraFVwRdIBuAFBVV95cUxOY3lBSXRqbnhTbjNhbVB1WTZ6NmNZTllicE1oelRLQ1pHRHJDMUFqM2hBcC1PVUxlT0VqcmF3cWszWW0xSjdSUC1rT0Y4aVZuZDBTX0pkZzc3NFdjT0lLdHl4RVZfQjVaR2dZakY2MjduNTJhcGM1LXBCNmFpeWZiS0RrQWUzR3ZMRG1sYW9RZzBveVJGeHJ5ejR0Vl9IWmNIRHRzS0Y1YVBvRGNOeENqQm1RTEpmbjRN?oc=5",
+    "title": "Kerala MDMA case takes police to Tamil Nadu: Two Nigerians, Nagaland woman arrested",
+    "title_ta": "",
+    "summary": "Kerala MDMA case takes police to Tamil Nadu: Two Nigerians, Nagaland woman arrested",
+    "summary_ta": "",
+    "date": "November 15, 2026"
+  },
+  {
+    "id": "tir-nov12-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkF5Z3c1T3JnTzNoay0wOTJjNzBMbWRJSWx6Wnc2dFFfY293ZlhwZDhxR0dxMVozRzVmWWlwQkpCYTVLU0c1aHRTMHcwZWRtdkRZZGUyMS0zd29IblNSWkNoa0ZSelVTUjVzbnNveUlIT2ptb2NnTEhXa0RWem5kMFRSMm1qMGpUbmFEaHgtYmQ2Rm5NNkVmSXh5eVNoaHBXVHZ5R3ZwYVViLUdxR05vT3NOdzPSAcIBQVVfeXFMTzNZN0pTckQwWnQ5YkdNczJVWXR1Mm94aUliamZsODJaSkhXOU9KOUtNYTBKbkhnSktNYkQweDZXbFNhUllNX1lQQzRYcVJsajlKVWVsZHJtam9sNFFSR1RESGlRc2JoRFlOUzF0SG5xTlBtNU9CRFNheXVfRUVYc0R3RUFnemRNUDFCNzRDWHVLV2JjSWJmZ2lhOEg0c21QaE95Y2RSNmtFd0VzNHJUUWJkSllkbGVHTS1wUDZPZFducnc?oc=5",
     "title": "TTDC to operate Tiruppur boat house under PPP model",
@@ -22,41 +34,5 @@
     "summary": "Tiruppur Collector inspects Rs 11.66-Crore development projects in Kangeyam",
     "summary_ta": "",
     "date": "November 11, 2026"
-  },
-  {
-    "id": "tir-nov8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHpmdkJpb1FiRFNLdVBvNmM2TUlaanFNVW5Ock44Y3Z1aXhnQzVnQVYzNHZYLTBFQ3hMX0k0S2R3NURLTFhINm9lRmZuNnNoWTN3NW5HMDcxTDZBelpianB1ZVdqNGQyUURSbzZSOGFpcTNiRkZPdXlTS2FoUGdHRGdmUjVOcEQ4N0NJQU5sejVYUGlHa3d2S2czX2E2Y3R5MzhxdEZjT3lOLU9qZDUtR2U3cnVleXBWSTZDYTJHRVI3Zw?oc=5",
-    "title": "Tamil Nadu News | Diwali Rush: Tiruppur Railway Station Packed as Migrant Workers Head Home",
-    "title_ta": "",
-    "summary": "Tamil Nadu News | Diwali Rush: Tiruppur Railway Station Packed as Migrant Workers Head Home",
-    "summary_ta": "",
-    "date": "November 8, 2026"
-  },
-  {
-    "id": "tir-nov8-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRVNZZ2FoSTdaSWlxeEhaRzZVVjQtTW5XSGdPTllONUd6dWFDQW94ekk5aVpsMExoM2NDSzVQOXYySVJnOC1QbXo2SkM3Ylg1OVVUUWdhYlBfeWlqMWU0YVZ2dDhsMVRPdjNqUThhRXhMOGM4d3BIS05pc2tzak9ieDBfbHo5ejN6UXFlbkNtUU1raHJ3V3V0S2dBYXctUnFvWFgyYWlrR1YtRkNIbFFyVVhfaXZ2bDBlbW5aSDVJUTZodXI5MXBxX0pPODZiaXJFajZ0X3k4U0hPQkZSZmk2bWxBUVdSMGpiTXgwRFh6QXlBYVRxVHVfUWxKZlYwUnBZUjE3MEhjMWdYODRaNlJjYVlhSlnSAZsCQVVfeXFMUEJnRjJEakl0N2VaVFFWeU9FbGU4YTFraFdvMTZlX0dFWGtieF9ndVJDRzR0alFmbEgtVjRFX1RqQnRnSFVnR2ZpNmZLOUZ5eFFRVDdXQ1dzTlJieF9nbkF1SU5OMDY2UERtUWJLWDVsZTd4V2FZcndqaEIwTTVaWk5ENEQyeG5nQWpfUFRMUW4yck80SVdtWExzeHUzbmhqaWo0elMxT1g4aFAtQ01zd2Q3blVOOW1HeDMtZ2RULTktZjI3ckZrbEtTWkhkQmdISVl5elBHdm1vTjFxLVJjS2lnTVR0ckRNSHNmMWZoYm4wTU1rLVBwX1RLSG1WMnZiLXB3bFI4VlYtbUpROGhZcGRyWWpBRmdCa2hBcw?oc=5",
-    "title": "Diwali-Chhath Rush: Sea Of Migrant Passengers Pack Tamil Nadu's Tiruppur Station As They Head Home; ",
-    "title_ta": "",
-    "summary": "Diwali-Chhath Rush: Sea Of Migrant Passengers Pack Tamil Nadu's Tiruppur Station As They Head Home; ",
-    "summary_ta": "",
-    "date": "November 8, 2026"
-  },
-  {
-    "id": "tir-nov8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3ZHQkhmOXNlZGlJNjRhTjdyM0hKODgwWFlFRE5Wa0NFM25tRkVlQVpCOFpBY0NmMWo4NUFCQnlVcXJwRU5wY2RBdThkWjlGMDhlNGZualJpTXBMZlAyYWVVcFYxSlRQSHktLWprMmFneUVMd0Y1THdXcXN3YlU5V2FINjBIZTV2dVJQb0pCTEVpZlFod1otOENEUmk0bDJkQ2VoYWNuMmdidFdfamplbUVOeWFSOExj?oc=5",
-    "title": "TN: Water shortage hits PAP tail-end farmers in Tiruppur; illegal diversion suspected",
-    "title_ta": "",
-    "summary": "TN: Water shortage hits PAP tail-end farmers in Tiruppur; illegal diversion suspected",
-    "summary_ta": "",
-    "date": "November 8, 2026"
   }
 ]
