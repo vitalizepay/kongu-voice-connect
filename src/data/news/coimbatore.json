@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-nov15-001",
+    "id": "coi-nov16-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnRXdzBUZVA0N183cTVvTFpId0VuTGlNRnRNV0gtTzBiQTJzb2Nwc1Utbk5kQnlOVzRyMWVCWlMzLTVnNlFHdDVmZFN6WG1lOWdQSDJ0X0RUVm1ial9yRzFTSk4zODhtN21CQVJVcE1EbjVJT1E3MmJUeEdsQ2FkT0FEcEx4YVRRSzRTc0g0XzZwR3lHeVVSdFBPeTY5eU5iNTJwRno1S0Q3eGxfVmtDS21yWGtrQTTSAb4BQVVfeXFMTTY1dTVYMjVOR2FVbjh2d3ZIT3BFSUNFa3dReHVSN20xVkpxRU1lSVhvYTc1WWVYYW5NMWs4WTJ4Z3YzM1d6Q2tzQ081R1Vlajd6c1ZlYUFUVy05RVFIVVJqMFFPcUNEUnZNSVJkOVJCS0xLYzhNVm1PbVRMd3dnOE0zMG9vSVltcHRRX3VxaVl3TUlXR0FnQ0dHV2JES3FVaEpfbXdYVzJGZjVEMkd2dHRPM21BT3RveTFINi1UZw?oc=5",
+    "title": "DVAC searches Periyar Arivulagam in Coimbatore",
+    "title_ta": "",
+    "summary": "DVAC searches Periyar Arivulagam in Coimbatore",
+    "summary_ta": "",
+    "date": "November 16, 2026"
+  },
+  {
+    "id": "coi-nov16-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGl3Tko1NGFyUmMwZVJtOWJzVVo3YXVmTXVBUDhZSHVGMHYtelg1NWxmeXhvaU5SMlYzZjA3RVVwQkJrbEFvdlV3WXhsbTRUdVU5WWxIWVVna0piWGNXTjl2YWRfNENvQVpLeHVkLVgwdmRWVDFlM2xqbk5PZFBISnp1U2JjejNTc2JtR1BybndLYUJMUG1kME5fRDNpLWxVeGdCMlJRSHMxTUs2TjJONklCXzM3NkZJbUhWODBSYUlhUExfaURRQjR3U2ZEbFVaUlVv0gHYAUFVX3lxTE5DNV90T2JOLWMtX2w0OXNOVzBJc0FDT2Q2Sy00dDU0MzgxdmhkdFY5bllic1lUS1pDdmZlUnpCVVRZZ1l3SEpHbnYzM1VuQXM4NmhDMDdNd01FeHZZTm1BYW05Q2tHS2d5VE1nZmNJMkp0Vmtkb1dsalVTRzBEWjFsOGhQWnRJdk8tWW55VEwtT28ydWNJSGhMeUI4NnJmWjJuTDRvaE1wcnFHczdoSDAxZXI3bldOeWhtNUtsS016QnFXcGxHYmJaQlRaLUNPRGd4NThtMUN6Ng?oc=5",
+    "title": "DVAC raids Periyar Arivulagam in Coimbatore for second time",
+    "title_ta": "",
+    "summary": "DVAC raids Periyar Arivulagam in Coimbatore for second time",
+    "summary_ta": "",
+    "date": "November 16, 2026"
+  },
+  {
+    "id": "coi-nov15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWtqUzl6UUJ1TjU1LXlyMVVHMkFYVjZrODRKV2NTWEo4VmsxS2R4S3JhWFRiZXNfdVpROS0teFdqcnkydV9mc21zVVhrRXU3RzRZazIwLUFhbHRCV2xzNGE4anZzMWdfS1lsS3BQd3ZWU2p1ZTVvUDJfNlNyejRabkhEXzU5Y0t4WklkUVNqb0FHUm94Qk9Na2RBN29fZHdCRUMxR3lKdWs?oc=5",
     "title": "Tamil Nadu Suspends Four Librarians, Accounts Officer Over Coimbatore Book Purchase Row",
@@ -116,30 +140,6 @@
     "title": "CM Vijay is governing Tamil Nadu fearlessly, Sengottaiyan says",
     "title_ta": "",
     "summary": "CM Vijay is governing Tamil Nadu fearlessly, Sengottaiyan says",
-    "summary_ta": "",
-    "date": "November 13, 2026"
-  },
-  {
-    "id": "coi-nov11-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5",
-    "title": "Tamil Nadu: India investigates alleged 'AI scam' involving public library books",
-    "title_ta": "",
-    "summary": "Tamil Nadu: India investigates alleged 'AI scam' involving public library books",
-    "summary_ta": "",
-    "date": "November 11, 2026"
-  },
-  {
-    "id": "coi-nov13-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWm8wWXhXeHA4VzRsVktFaHNHdnJHV1ladzd2YjVqLUhHbm1BS0s5U3hGcDVoMkJUNG5xZjZDZUhfbEJiRWhwMTIySVlFbUoxdDVUMk4xdE02LXpOMUNwZmgyMk5DVjRIYkRLb0c5aHV5dmFiUGJHdGRvSjhTY0lRY19WTkRaUzNTd2hqTHVibDR0RFVxbUNpeXZmTHpCQUFBNWstejhFNDNoY2ZHNWlTZXNsM3ZDbFZGMVdfNnpaX01NN3hSM1hNRzItYjBNd2o0U0kzM2FjbkZDYk5HVno4?oc=5",
-    "title": "Just 7 Days to Go! Tamil Nadu Energy Expo 2026 Set to Bring Together 3,000+ Industry Professionals i",
-    "title_ta": "",
-    "summary": "Just 7 Days to Go! Tamil Nadu Energy Expo 2026 Set to Bring Together 3,000+ Industry Professionals i",
     "summary_ta": "",
     "date": "November 13, 2026"
   }

@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-nov15-001",
+    "id": "ero-nov16-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVkwWGtMTHhsVkpfUlpUMGF0SHJHTzQzbktNY3hhMm1ySVpFNlBJYW1Mb1QxU3BEUzVwSDVheEVNUHZRSWtCdl9uTGJIYnlxbGg5bWdXd1JmR2EteTgtSU01UW11UzdETm1MOGdmczFyUmROSlJxTXVpMl9DX1MxQUNtNjFQem5RWHpF?oc=5",
+    "title": "Fishermen seek old age pension from welfare board",
+    "title_ta": "",
+    "summary": "Fishermen seek old age pension from welfare board",
+    "summary_ta": "",
+    "date": "November 16, 2026"
+  },
+  {
+    "id": "ero-nov15-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSldVUjVOanBpYmVjbnpsR290SUF3NlBIMTJ2ckNPNVAyOEVGcUlTRHJ6ZkJ3ckJjaTlvZHJFOTFwS05QTGRWXzFhMTFrVDF2ZktyTFNVMVA0WjkyVjVUZDMxVXZ0Wko2dks1aEJYRUJTaEVuTnNCWkRYYk5oT1FOdE10Ukk1dGxNSWszbUJxM0w2SjYyVWR6VkJ4NFV3TFlJc1ZHWEFscU9SYlpkZ2xXVjN5TmQtM3hwOThqWkJLSdIBxAFBVV95cUxONDJtYlhKbUpzZVdhUVh3UXN6ekhzNWRvZEdlNVVVblllX09QN2VaUVVMb1YtOW5LV19YTmw0ZlM2bUNXODlVbjZiYXZxcm5ON1p5YWs3X0Z5a3hsbWk2OW1xek45TXdWLVpSR3oxanU2TDYxMEpiamNpbHRjT1FRbmpFSWRKa3EyaUZCMEZONlVhRHFjSkpkRmxzT3pKMlQ4cFB3RW1FeHRIX1phX2w2NVdGN3VqdmNzUFNpNFBGbjV1VDI4?oc=5",
     "title": "Sick Woman Reunited With Family After 15 Years in Erode",
@@ -94,29 +106,5 @@
     "summary": "Shoppers beat sunrise for textile deals in Erode",
     "summary_ta": "",
     "date": "November 10, 2026"
-  },
-  {
-    "id": "ero-nov9-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVkdycllEM0tfdzNjLVNlcVhzWlhOQmxPWEhJZXpzVkM4YktKS1NNZm5Ja0xMejJmUXVRSnNHVXpUTnpSSUJSSkFTb1BSenNyNElteW1KeHdQeExlRFJGYzhCTl9lZkpYTzFoRms2TkRFcVdKbHVwSEJGWFdabTM2dmFBcldQazJsbTV4MlF5WnBRWlRkeXNoTnhxN1ZCZVZkUU5zRGZ4YUh4eUdOUHh3MzZVZTdPLV9KUEdGYjFOU1h1bUpEY3lWRTl4RDN0M0hIMXdzRGdlRjBVcEN5ZnfSAeMBQVVfeXFMTklOaVlxejlkMVYyajVEN1hQVHdhNWdNMjJNWTdqTlJsMDlLSy0tSklFRjJZSHZ0TUZPTk5uUkFsTTdPaG1Rdk9xdU5pMUZHTDJCS2EwSHU3azN3RkkwMGhCSjlnaF9FT3BFeUdKcXgyWXRFSFdDMVJ6NlZhZ3doYmpOQWJwbnhDV00zYlk1ZlJoLWV3U2tsUkkwTVJfLWI0UUM4elFhcElqNUgwOHkzYmlTbFhVTzMwcWtnNkZ6Sy1oWnkwSWdvbFZzOE50ZlhHa2tGTWQ0aWp2Mkk2MmtGQmZTTUU?oc=5",
-    "title": "Firecrackers worth ₹1 lakh gutted in fire at temporary shop in Erode",
-    "title_ta": "",
-    "summary": "Firecrackers worth ₹1 lakh gutted in fire at temporary shop in Erode",
-    "summary_ta": "",
-    "date": "November 9, 2026"
-  },
-  {
-    "id": "ero-nov9-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2ZZakJxX2xhaWZPM09rTkI1bDFVQjhlVnNMenM1aXpPYVpydWtDUGRocEJHaGdhR182ejJsNXE1aGZRcUNwY0o0QlhienlmZ3F3S2ZCOXE1bS1td3hJSEtWVWdUS2ViakZJa3EtNlg0eXhNelpWd2hacmN3NVZJejU4UUxTQy1sVDl0LW1FUHRObVN5VjJZekVLUlplLTFNeFB5VkZvYmxjc0VNc2ZFalpfVmlLODdS0gHGAUFVX3lxTFB1RnlZTGZkV055X2tidExUeVU5a3AwaEdyc0dXZFUwU01ITjUxQ0ZERjVMcUJ6TkVfNUpGT200MWFvMWdrUFlZNloyVUtXNHdwQ01FVmliQXRpcWlhajdTRTh3VkVUbVhJR1MxblpDcUtOZGl3S3dkSmw1M1FrVmFDT0hEYTlxREdtamJESFlSSDhyLWtQVGgyaml5aFVaeVQzZVN3c0poMXY0YnJUTXhfS0d6a2c4MnZqNzVBU3JNVjhKRGZfZw?oc=5",
-    "title": "Inflow into TN's Bhavanisagar dam rises to 6,029 cusecs, bringing relief to farmers",
-    "title_ta": "",
-    "summary": "Inflow into TN's Bhavanisagar dam rises to 6,029 cusecs, bringing relief to farmers",
-    "summary_ta": "",
-    "date": "November 9, 2026"
   }
 ]

@@ -1,8 +1,44 @@
 [
   {
-    "id": "dha-nov13-005",
+    "id": "dha-nov16-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlFxaC1VX3lGTjJSWElDX2xKMUk5VlVwN3g1ZlA4N0JObUp1cGlDck1UdVFCUGVzSkozUEFBOWZZaVQybnZhVF9Kb0N0TVRCN0RrTjJVTmhYakNab3dXOUExM29Qc0QxR1MyNlN3aVV4NUZjblBkZlQxX3E1QW9kN3VfcDdrZGFvWHFNWUhRSm11RkVHRl9TbzJYYUpTWDQxY3Znd2sydXhxWnpiaXY4NTZ6NHZBNGxlSzJsTElySVVEWEw5ZnJtN1RRYUMtVHhBZ2FHSlQ2UW5JQdIB4AFBVV95cUxQTnNQNWNVTGp4WnN5R2ZWZHpjTXZXQ3NPeWxjOXBKeW93aFEyeXp4aC1FeDJCWmlLNlVsSGdzZ3ZfVHFadlhuektZcFI3aUVSdnRPRlpyTE5TM0VEaHVjWmJ3blc2TkVqeTFGSWhDeFRiQURGcFNmaDhBRkg1Y0NSUWJnc3l6Z2c0VERJMUM1Y1VRQUFDTi1HQm5WY2tRNU5tTXBJbWZ2dWJCaTlCcFdXSF84S2FaY0RsbmJqbnJzYzFjN25GN1o4WnI3WUVNemtaU09oQ1F3Z1VxUXQxMDV4YQ?oc=5",
+    "title": "Madurai Tanishq showroom gold heist: Prime accused arrested in Dharmapuri",
+    "title_ta": "",
+    "summary": "Madurai Tanishq showroom gold heist: Prime accused arrested in Dharmapuri",
+    "summary_ta": "",
+    "date": "November 16, 2026"
+  },
+  {
+    "id": "dha-nov16-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2FncC1nWkRzbFFEa1licnRaa21UaXc1Vmp2bjI0ZlFOc0l0QTkxUFFPUHVMQldZc1hkeC1ZY0gyemgtU3Y2STJma0hINEdDOHo3LW0wemwyQXJPNDd4UG9YRmZORU5QdFgxVGhtUlFkeTB4eEVSZGhHWWY2b1F5cHZMS0tnMnVTYWZ4dXAxcWF3TUZlQVNDU0VvaW83ckRYVU1MNEpHaktoOGJrZ1JGb2NKdmxzZldjb1hfRW4yTTZiSXYwVVdCdlUzRGNYQy1lLWfSAdcBQVVfeXFMUFZkcnpxbTN5MklfYUhXNmh3dnhSTzdSS1BQWnBPY2xBUE1NQ09saGwzTTlFRkhiNDVrNFR6QnVwUkxaeFVMUHpvY19yTnhST2pIdFFMNlpZaWRNZXRHRVNScmt2VFFjOHBtdHUwc0VYbmw1blAxak5PNFVKZXJjMkVIdjZFUGhtM0lGdjcteXY2VmZudnJ0YTRyWWdXNG5iWHBBWHJodlpuRjYyZXNHQl9ic285UGFBVl9VTnpOeTc2dDl5NHR6M2F6b05SeU9rQXFFX3FOaXc?oc=5",
+    "title": "Prime Accused in Madurai Tanishq Jewellery Heist Nabbed in Dharmapuri",
+    "title_ta": "",
+    "summary": "Prime Accused in Madurai Tanishq Jewellery Heist Nabbed in Dharmapuri",
+    "summary_ta": "",
+    "date": "November 16, 2026"
+  },
+  {
+    "id": "dha-nov16-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzJWOUVUbG5YOFU4N3JDUWxjQlA3MlQ5dVdpV3dodGRoY1NjZk5XNEFsUWhpUjBkVk8wU0dnWkNLc0RTa2trOFY4WFI3cFpVZDRZVjR4S2FrTnBjdmhJckZ3NFFQNUpsWXJMTTVVZm10RjFVOUJsQmhBMWlFTnRnZXJZb1EzVGdJVjVoM3B2NXlmOTFtanJ2YlJjUWs4dTk5eGl3?oc=5",
+    "title": "WEG commits ₹2,000 crore to Tamil Nadu, plans 3,000 jobs",
+    "title_ta": "",
+    "summary": "WEG commits ₹2,000 crore to Tamil Nadu, plans 3,000 jobs",
+    "summary_ta": "",
+    "date": "November 16, 2026"
+  },
+  {
+    "id": "dha-nov13-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSktaQTJZV01TaGdQNTF6aVJKbF9kNmV0ZFpoYVRvdVM4VzdGLU9ZQXdLVldmYnNSY2ppeGlhMklMbWNMbmxPa1g2TFJzTi1mc3NoVmNGMElFTEozZGtuOTBsUlphczRJeUJncWhNY1h1M3F6SkpkRkZZTzA2SVRFTmpxSXNDSlNhTW00RkZ5RmpkZTdWSWttQ0NyczRfS2Z1RFdROWN0ODM1WGRmY21yMEZLcDRLaTJ0LTJ0WkFJLWkweTYtRFHSAcsBQVVfeXFMT056SWNuVURITkxLZE84Q21zcEZrbjU3MzBiSjZ3cmhmLW9nMHMwczdNbFRBQ0dUWHNHcW5CWjBMREtuU0hvZmJ2Qk9NcTNLN3pCYk9HX1JFaUJmMFk1OEJOb1gxbmVUTjNUdWFqYzZ0U0RROExLdDRmSThyZzBTcm5XTGUtTVdieG5nWFRxOF8tMnRKY3o5RTNyMGpXRkhXMTBGY255Y19QWWFrX3pOa2tURlJPVmJLWFhsVUROckp6UWJLX0RJcG5ZWVU?oc=5",
     "title": "WEG Picks TN's Dharmapuri Over AP's Kuppam for Rs 2K Crore Investment",
