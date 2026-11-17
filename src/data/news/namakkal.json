@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-nov17-002",
+    "id": "nam-nov17-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1gwSWluTXA1S29xeklVM3JDWDdOQU5MTjM2TE4tQ0ZvdGY3dWkyakRhZTRHOTdsZEZ6LVotVGY0X0tVNHk3T2JqRGZxZTgwc1d6VVJyM3pPbENuRUVHMWhMb0VrUVZyUEQ1Ymo3VVZGME1OR1R5dDQwLXdIQ25qbEt3empSZnZnWVpvLXBpMGlBLVprSmZWakF2anpMc2tROGc5T3VxVndyY1doWnJVekJIazN5azFjOWNmcXBuMEZZeExSeENrQ0N3X1ZzaU9mWVgzTlNXT2ZBMzNLZW5Z0gHmAUFVX3lxTE01QjRqZS1lcmtHNWh5c3ZwWTM5ekY3ZnBiTmttUDY5ckFsQ2tJNXphWUdSc214WEN6TlZ1T1NqVVVjWGVjN3pWWHhuVm5pRG1ZeWV2OXNmdXEzN3hpRjdfb0pKUjkwaU0tRm9UMS1FdlQzNGRjdGpuV0FlN2MwQjFXOTdpNklOVGtvNUpJaU80emdMdmdyTm1SeG1vUEVVRlR0aUU4SGZtZERSVF9OZ3JCV0Y1clZvakF2elhpamFtZUd0NVBFREVqVW1GNmhaay1UdkVuQ1ZLVTc5S3ZhNmpmeHNmYmdB?oc=5",
+    "title": "Namakkal district administration gears up for 30th foundation day celebrations",
+    "title_ta": "",
+    "summary": "Namakkal district administration gears up for 30th foundation day celebrations",
+    "summary_ta": "",
+    "date": "November 17, 2026"
+  },
+  {
+    "id": "nam-nov17-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90eTNRUW5wRTZldjh1QW5fa2NaWG9wYl90Y25JM0w1QVplNHFXX0MtcjBReEQ2bXlWWDltQ2Q5NVM3dVlsZEVOaU9YMDlnT243QkJnc2xFWGVja0dhQWhBaldUVkM?oc=5",
     "title": "Bird flu scare hits Namakkal egg exports, prices fall below production cost",
