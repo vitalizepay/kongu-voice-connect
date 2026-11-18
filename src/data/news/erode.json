@@ -1,8 +1,32 @@
 [
   {
-    "id": "ero-nov16-003",
+    "id": "ero-nov18-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVlRBZjQ0bmxUTHM1VHJ4NUFwTk1WVnFjYlJyYmJfU25PTkM3QlRKU2dfekQ5SmNfa01jbFcxUktiSS1RNi1TTUViSlByajdwM0Q4aWxrWFJ1VEJsZ0NvNFpPS3I4bU1pc1ZKUk5HcW5HY0RtSFFrSk53N3Jqd3NyRlYtUGpJTVFfbkdvTXNwRTRVS2UyUzYwSlNMcjZwZ2NUTkViU0hvQjJlbTdKaWVQeHM1R3lENkd4UDB4bGQwbVlVSHNxem96dy1ZSS1iQWZPS2N3V0FZNXZnQzBXRUFrcNIB5wFBVV95cUxNQ3dyUWZSZ1BMMTFuMmJ3Q085eDhWSzRsZXM2VzhsU0k5Z1JfbUp6Rm1ZcXQzeHFwaV9ZcGtNQjAzYUVBWUZqQ1JZSVRqMTNhLWY1eTRUTV8zdG1Jb3JYdGJxTlhObUlRRHE4OHN3RTRMaTdfQktWV0NqOTJMMEVpSVdkaDdGbS05RGFiOEVjdWRxUVBYQXZSVThwSjVHdFVYd2xtcElPRWNvcTUwYnhGMzRNemxRMzA3QVBZVTRYQklaZG41T3h4VW8xb2tyY0tPZVVDbkZiRG1uS21fb25XcmxldnB5U3M?oc=5",
+    "title": "100-bed critical care block opened at Erode Government Medical College Hospital",
+    "title_ta": "",
+    "summary": "100-bed critical care block opened at Erode Government Medical College Hospital",
+    "summary_ta": "",
+    "date": "November 18, 2026"
+  },
+  {
+    "id": "ero-nov12-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHFuTGVycEZxMGpSLTdhdlFhYjNFNWc2V0M3UUNKQVl3T1lEOHNCNm1RQ2EyUWhNYWpyX2Njc3FYeFdTcWN4V3VvZG5nRnp2Vm9nbjgxa095czJJM0dzUXJvN3FkUDZsZDFNZ3liNkpsZENnMk4wNEJGMWpXa2Q2QnYyeU9LeC0wdlVCaGl1S3pVdw?oc=5",
+    "title": "DCPU Erode Support Person Recruitment 2026 – Apply Offline",
+    "title_ta": "",
+    "summary": "DCPU Erode Support Person Recruitment 2026 – Apply Offline",
+    "summary_ta": "",
+    "date": "November 12, 2026"
+  },
+  {
+    "id": "ero-nov16-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVkwWGtMTHhsVkpfUlpUMGF0SHJHTzQzbktNY3hhMm1ySVpFNlBJYW1Mb1QxU3BEUzVwSDVheEVNUHZRSWtCdl9uTGJIYnlxbGg5bWdXd1JmR2EteTgtSU01UW11UzdETm1MOGdmczFyUmROSlJxTXVpMl9DX1MxQUNtNjFQem5RWHpF?oc=5",
     "title": "Fishermen seek old age pension from welfare board",
@@ -46,65 +70,5 @@
     "summary": "Minister inaugurates projects worth Rs. 3.17 crore in Erode district",
     "summary_ta": "",
     "date": "November 13, 2026"
-  },
-  {
-    "id": "ero-nov10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbjQtc2pCcDVQUEp4NGZ1SU8zdjBCU1BOWmlROXNNODFpeUtkWlpNcjJjX2FaTURFcThNNFd4bXh6ckxKVnhoeW9xZF9URkJHM3FwRlp4U2VZZ0x1V0VZcUhnVEtkUUVGY1VFVF9MMUVWdGJSU1J5S3gtWDRkUXdPSC0wcjZMekFFRUtmLWJYX0ttRUdoVE8xLWxqU0N1b203dUtrZ1ZjbWJ2UzVYSWxxLTFZaXFtRFZRajlzSkdncGx5ejlkLV82TlNoWjJReVhSZmNTaEtldU5qVFdDLUVnS0lIQUw2M2VOSFJkQ0l0Y1BZNFhhQWR2WXY5MGV2U0RtZHUtM0ZGc3UzSEUzQk5Uc9IBlwJBVV95cUxNclpFeEpESlo4RmZocTNxUUFHZEh1R0d5Mjl6ZGZjajNwekdra2tMX1BFWnpWR2xUSVZIX01wVUc2MVlhZ3UxYUlrNmNhU2xZSnhFVm9ILU9wVENVbXNVOTRQOE5aMGNHM3BwQlY0Rmd3MDcxT0tlUHlGWUF2WEVzWE5IQ2xDWDRCZk9jMTYtcUxqMVBlS25DTkd2elktR3RfdlJHMmkzbURVQ0NRTmFXcUdESWJTZUdwYXFoOXd0SWt3MzdsYlZSNG9rREJ6Uk9LT1Zub1lydVJHZU9hck9VUGRmbk03WFpHM0FvSEZEbGJwaHNPQzFCbldZeU05LXZYTU11bHB5MW9uOXhqRlFUU1Q1VVBhWmc?oc=5",
-    "title": "Which 10 Tamil Nadu Villages Celebrate a Cracker Free Diwali? Inside Erode’s 21 Year Tradition Prote",
-    "title_ta": "",
-    "summary": "Which 10 Tamil Nadu Villages Celebrate a Cracker Free Diwali? Inside Erode’s 21 Year Tradition Prote",
-    "summary_ta": "",
-    "date": "November 10, 2026"
-  },
-  {
-    "id": "ero-nov11-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0d4NVktbzBISEg1V1RXbWV3ZGY1V3lidERpSnBoejhXQl9zdWlhTjhPMHVuaU9ycXhzNkVJbEh6Y3AyMl9ackQ3eEs5ZE9URnpUeHFsVjNVUVdKdG5rVlBrWXJxRnhBdFNYWE01RUhYUm13NFJzVUxGNjdaa0NOcno1SFp0UFkzNkE?oc=5",
-    "title": "Assembly committee to visit Erode on November 26",
-    "title_ta": "",
-    "summary": "Assembly committee to visit Erode on November 26",
-    "summary_ta": "",
-    "date": "November 11, 2026"
-  },
-  {
-    "id": "ero-nov10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUm51OTI0cGZ2YVluQmU4cEs3Uk1CMkxiWnUzd0Y3YnRPODI1bkNmR05qeWdfS3k5eGFrZW1BTTE5alg1enI3Z1hQZGk4RzZHWElKbFdqMHZnSkc2cjVfVDhaWTRKUm5yT2MxbTJ3R2lBZ3lZbEZHVTViWjVOYTBUazZtTlQ2a0Y5c3NuLWYybWVsY010eEx2T2doamFLeFJlX05nTWhjdHJZNmhkSVFKTmVVZ0I5T2ZVamR5TWo2Z0hFWjDSAcMBQVVfeXFMTVJudTkyNHBmdmFZbkJlOHBLN1JNQjJMYlp1M3dGN2J0TzgyNW5DZkdOanlnX0t5OXhha2VtQU0xOWpYNXpyN2dYUGRpOEc2R1hJSmxXajB2Z0pHNnI1X1Q4Wlk0SlJuck9jMW0yd0dpQWd5WWxGR1U1Ylo1TmEwVGs2bU5UNmtGOXNzbi1mMm1lbGNNdHhMdk9naGphS3hSZV9OZ01oY3RyWTZoZElRSk5lVWdCOU9mVWpkeU1qNmdIRVow?oc=5",
-    "title": "Crowds Throng Erode Stores at Midnight for 50% Discount",
-    "title_ta": "",
-    "summary": "Crowds Throng Erode Stores at Midnight for 50% Discount",
-    "summary_ta": "",
-    "date": "November 10, 2026"
-  },
-  {
-    "id": "ero-nov10-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORWRjYjg2NG84emZsVjFSMFZZeHB3RDR4S3l1bk43NVU1Q2RUNk15TGxDWF9jOEhZbmVkUERQRmNpTXlJOUxMc1lXYmNZUW9kSXFoZkwya1B1Yjg1cnl3RV84VEptTHNQVlpFV3Z3MjNYQkxHeklZdUtHWkZ6OGNGQ1NiMk1raHdJRnhCdmg0UmlTRVJSclBia0VjMmdHTkRVaXJEZWkwU1RGSmtMeUd3TXRjcFJGU1VveDdRaE92VE5kd293SmhJdnJKNW9GN3FUZG5GN09fOEQzdFUxeU5LOTlNUzNOdzBKaFZtWDhfWEdGZzdSc2huNnF0ZFQxRHl3OUJKSDZLVWJycUFBX2FDZzkyc04tN3drdXUzdlEtcEFuRU5pTkNORzN3X1RCVGVOM0RvNk9TdlVoRmUxeU9KemtjZVhkaVItNjdiNTl0MFpzaXVEUE1ENkN4Q0oxRDNSZmZ1eHF30gHrAkFVX3lxTFBGRmlrUG5XTXluc3BGbjhNbXIwXy1jeG05NF9xYWxmMzZWTXZKNVNXR0pyMmVmTTFNenlFMXBkX3lENjVBQ3pIN29Zd3pnMjJOOEt3VllKZlozSUFJR2RkeDVJbjFqZWx6SlRIXzFEWUpKT01jOXVRbm1GMk1reVdBcVZneUdZTnZRb3hMMlI4OGtxRTg2Yk1tRFVLMElCNjFUZnNmbnNvWGU3YVNUdm5ld1cyWFVaUV9reU5tUW5Nc1dkQ0VPcW9mQ3ZUVDl1bW9GZjlLXzBjS0dkeTh3OVlpTV9pcXg4MC1CUVI2R00wUGZIaW5lOEhEdXpGckRISDBXS0E4SVV5Q19lWlBvUEU2U0dlTDl0ZndVamN5R0hkTmFvanVZMzdIU1RyRllQeVV1RURDdFFCZnJkd0pvc01QbHZsSkZLYUhmVFZROEE2aFNfc3NJYUdNWU5PeUNQUHctb1FjcEJXN0JrSQ?oc=5",
-    "title": "More than 10 Tamil Nadu villages have celebrated a cracker-free Diwali for 21 years to protect birds",
-    "title_ta": "",
-    "summary": "More than 10 Tamil Nadu villages have celebrated a cracker-free Diwali for 21 years to protect birds",
-    "summary_ta": "",
-    "date": "November 10, 2026"
-  },
-  {
-    "id": "ero-nov10-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVm1Yb0FxaDUxd0NQR3djc1o0Vl9SeHdKd0Q4WnVMeG5WYXplaDI5N19jWWdFWVRMbGRMblZLZ3VMMUxZcFEtd2s0TUVvWUF5NUNzYTVtVl9LVGZzS3NIUzZlTjkzNUhvOWNaMEJvR0V0eFlkREhIbl91SUl3bXV6TE5yZlJGZG11OXJGZUxmeDBxNWRLMUhkamd1RklDdlpvTmZXdml0d2ZnREgwSW9OatIBvgFBVV95cUxNam12RUNQNWM4OTRVS2dtek55bFVjS1hEalhIckItUEhObHB3OUdqTXUza0NQNFF1anVxUUVzV0lhRnFCTHktMDgxZ2lyY0JPaTlFYnpfV0xYcldTQ2RGTEt0aTBjbzgxcGE4ZVBUSWRHX1NxQnEtZVc2WjBoT0RyczVDWEtZNjRJb3F1NEptTXFGME5pdDl2TEF5RmpmS1N4U0hqRjFUeVNVLXZ3T2h5YXNhS01VOEZUdVRMUjd3?oc=5",
-    "title": "Shoppers beat sunrise for textile deals in Erode",
-    "title_ta": "",
-    "summary": "Shoppers beat sunrise for textile deals in Erode",
-    "summary_ta": "",
-    "date": "November 10, 2026"
   }
 ]

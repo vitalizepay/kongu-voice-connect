@@ -1,8 +1,20 @@
 [
   {
-    "id": "kar-nov17-001",
+    "id": "kar-nov18-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQllyV1YzWGdFOElZTlZFR3dmTmxpVVRnVHpVcUdsaWctUUZWZ3hEaW42Z3E4ZHdmY1o5SWd1TnJDQ1RlTnpBSWxGVDRlSkE4RW9jdUMwYk1CeUxBdlUzdllxc09GZzMzNWx6Q2xQcER1Z2NhdkJDLXhBUXNmYWNxS1EwOG1vd1RsOTRucmtueGNHRVp3UXlKeWp3QVVUZXPSAawBQVVfeXFMUG9iQW1ZZVJrNjB3LVZUWTdmOUdLcXBqaFRQQWxFalRURElLVVQ5RGNfRjJiYi1NdkotX19sWVRfUDF0R3hFME9qSHNJUDY1c0duenNFM25nNExlUURaTGpyRlZtQU1tWVFBRVM4bThlNWwzdjZQdlQzcHFydkh3MExTclhPcW1YWlpmUlpIY2tRMkZ0a0pXcTFaUmN3bXRHM1RDZk03X3EzTWo4TA?oc=5",
+    "title": "Tamil Nadu: 5 of family found dead in irrigation well in Karur",
+    "title_ta": "",
+    "summary": "Tamil Nadu: 5 of family found dead in irrigation well in Karur",
+    "summary_ta": "",
+    "date": "November 18, 2026"
+  },
+  {
+    "id": "kar-nov17-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMjBnMkJEa2RrcGVqTmpGSmwwN2FlTzdONlhkMElXbE9CWVpGNjFUbkxJV3hOTEkxTF9xczB1WVRvblRvMUFiWVBZeV81QXhKUHBuOUVXWW5tNDBYQ2NMTjZwX2laNjB1REF5bmdJNTVWSzBvdFl0WXFWLWQ5N0tsRndYcTFmU3ZDay1YMGotWHJ6Uk1XM1pkclJ6WWhTSlgxLUZ1bTRoTlJnYlR5Y1dIbzNuT1Z0dXBIYm9vd0ZwRS03TnUxWDZ1WVAtNG1VMjg?oc=5",
     "title": "Karur Vysya Bank (NSE:KARURVYSYA) Announces New Branch Openings in Maharashtra and Gujarat",
@@ -10,29 +22,5 @@
     "summary": "Karur Vysya Bank (NSE:KARURVYSYA) Announces New Branch Openings in Maharashtra and Gujarat",
     "summary_ta": "",
     "date": "November 17, 2026"
-  },
-  {
-    "id": "kar-nov11-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTlxanpxWWd1UzZYLUhubVBrcmY3QWtGZWN4RDItT2d3WGlVSEtGa0F1M0tqWU9Eb25MWG4zV3ozNnh6c2Y1OVJoelI2RHJ4WmljVDl4aHJSOVdrcjdUX00wUGlHR2RmdXRRRU1iUHRFakRfSUhUcXgtamx0SHI3Nk5TS0hldUNpN2wyTGdydWpSY1N6N1Rv?oc=5",
-    "title": "Dense fog reduces visibility in Karur amid widespread chill",
-    "title_ta": "",
-    "summary": "Dense fog reduces visibility in Karur amid widespread chill",
-    "summary_ta": "",
-    "date": "November 11, 2026"
-  },
-  {
-    "id": "kar-nov11-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTV4VUpFM3laal9Cak9JUlFPNjY3YjhmR1JlM0oydHFPSjhUdEJCWVU4YS1peW5taDExN0xsRVBRbmRZTnJnQnRHRmluSTF0Y29xSHU2aVd2VFVTQUZhbTctWjZXY1ZLdU8yUGNNeUxONGZScjdNRTE3YTBPVGdWYTg1WFFKZzlFTTFFTDZnVzRuWUtzRVRULU4tbHg1SGEyMTltMlVhdzB3cHFTMHA1VVZoUUFTMXZFYVE?oc=5",
-    "title": "Tamil Nadu: Dense fog blanket Karur, visibility affected",
-    "title_ta": "",
-    "summary": "Tamil Nadu: Dense fog blanket Karur, visibility affected",
-    "summary_ta": "",
-    "date": "November 11, 2026"
   }
 ]
