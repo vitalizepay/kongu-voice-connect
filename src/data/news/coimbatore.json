@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov18-001",
+    "id": "coi-nov18-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb2pRQVR6Z01jaDVwUjBuWWwydHZMX3dPWTROZjk4dzFWWTdlOHVxN0V0QnJ1RnhTSUdLZ0RvdXh6QlkydFc2dXBtQ2Z4aU1xZDJrZEtHeUFlWHVGdkxPTFVQLTRqTE1UTWxaS1RjNnI3X3Racnl4YkR1R1ZONTkxcG16MGJPQ0ZxTVU2V01feDhtbjdKTnBCeGszOHdWVnRXVnRSZk9kNTVoTnRkYXhxVkVieklkaXZ5eno4blVXQXNySWtaTks2bFNFVlJBR2tRUm5qVDE2LUwyUkgteDctQnJXTlRxVWE2dnZFbzVFVTl3ZnpVdFppV3ZHWVlhYkZZeTdV0gGIAkFVX3lxTE01SU9qUXhHbEhVMmt6dk54ZC01VVRfbkNhVnhMYjZOWlJSTndoeTNnOFNCUGhfRzB4YzdIXzVKTnNuS0pYcjk4eVRJTnBHbUY2RjFQSGtsbmpkV1ZJeDNVTmtDTTJlZUhNeFNnUnJyOEFDZ1BfeGJXYzFjc3ZudGtHc1Fpc3hUT2ZMNjN2SVZZR3BkbGNqb3FZM29MT29zZXNTUXdxU0ZldGNnZjYzdzBLdUY2ekc1ZTAtd1k1LThCVDJXbTd1bDQ2SDBlcmR4R2RuMTExZV83YzRaZUVLMTBRc2J5QlVfdTNJemlzZENndW42UlhreUlZamlmMzZBVnZkZmVHQzVlaw?oc=5",
+    "title": "HSPCB orders closure of Godrej Properties' Gurugram project; Tamil Nadu RERA penalises Coimbatore pr",
+    "title_ta": "",
+    "summary": "HSPCB orders closure of Godrej Properties' Gurugram project; Tamil Nadu RERA penalises Coimbatore pr",
+    "summary_ta": "",
+    "date": "November 18, 2026"
+  },
+  {
+    "id": "coi-nov18-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkRJdWp5NkRxV3UtMlNVazgwc21aWU9COE9WaFZIN2JiT0F4YXJ4X1Q2NnVwNUpOTmFobVZFOS1VTzI5NjFsenlxVzgzR2Rxa0lUQTRaTllVRDV2SFE0ZU0zSFdETUJXU2d2dXZNWmpxUnFMMjh1bTY1U016enNGcXM0ZFNpRFpNN1c1R1hhRGo3R3p2Q0FNNi1YRE9WWkRyS3BUX0FiWVNFclo0RGlicVE2MEVRYUxQaWYzcGo3VzZ2Rzg4dTZvaDFUaHhDNDDSAdQBQVVfeXFMT25rZ1RDcTZlMkgwODdUbHN3aVpuMHU0ank2OTFEeUMtcTNiUGhxMDZ3d0d1NlVacjlTZlpDOEhZdnhPbFdHWmg2YUw2cUtSYklfRGZCbWg4S0lIVGI3VTFwVkZwbmM5dUt4akhKU211Q3NOOUlRR2o3ZUpJMjVYZDJHczh3MnhiRlhaVWhqQUpjVG1hRi1VT3lhMFhmM3NtcjBJV3ZMZG5reHY4ZHVjVHI4UDdEcmp4NWM1MVloM0pacmRFMm4ta0ZrdjI0SGhIZDBmWTY?oc=5",
     "title": "TVK leader accused of bribery, indecent behaviour with woman expelled from party",
@@ -130,17 +142,5 @@
     "summary": "TVK Functionary Probe Intensifies in Tamil Nadu",
     "summary_ta": "",
     "date": "November 15, 2026"
-  },
-  {
-    "id": "coi-nov14-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPei1MRW1jZ1VRYmFwOXY0U09uUndLb3JVWllNUTZKMUZ2MGFmNjRaWkRPWWIxaFI1TjM1Nk5UQ1ZfbXN1SWxyN3Bvclc4cG5OcVZUMnBCb1RYYll5dGtzQkptbjlabF9vbnRkS2JoLWRhMDBXRDk4YWdPQXQ1UHBSTHJkcmNvMlhzbF9QQVhOR2VMUmNpTHFrR1ktdDNoV21Xd0F5TkY5M0lBbl9ETzJDT1NwdjVyQ3hMcERIOA?oc=5",
-    "title": "Coimbatore Rail Connectivity to Expand with MP’s Proposed Train Service Extensions",
-    "title_ta": "",
-    "summary": "Coimbatore Rail Connectivity to Expand with MP’s Proposed Train Service Extensions",
-    "summary_ta": "",
-    "date": "November 14, 2026"
   }
 ]
