@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-nov19-001",
+    "id": "coi-nov20-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjZXNm9ZLXBFVVBMQ2kwbjU0OFFRZFdTbmlheF9FOENfTTJmb05XVE9FUExjMXIwWG5IWU9qSDVrSm9Wcld0UFhHV0g0VDhIcHY0N2NuV1o0VXJvX09neHN6QXlEU21hREN0Q2JyTk83TlVGM2R6cmFMOExvME1ERUppc3dWd0tiSUlRRXVtODdXYlV4THo1c3h6ek5acHhOMHE2ZWRYZEs1YVc0c2c5cTEySHpKRlNyR2J6NzlpcXFEbmFqb2llVEZ2dHFrXzU1Uk1oeNIB2wFBVV95cUxOV2VCS3pSWGJ6a3RaLTFLVjRrenNSelczVHZVQ1R5a3E3T0l2LVdIaTNUUDRSU3VYRTM0UFJJbnpuSmhPVGg4WktsdTd2NzNHREdITWhpcWxwSDAyOWw0eFpGMlZJR01CZlNvVlJ0ZGtUT3o2dkZGT2M4eTdselRuWS14YzRKQ3Q4WEczOFJzLXMtMGIxZ2s3QVIzMjlpMmt3c2NTdHlkXzFMTGxZR0RZYUM3emJSTlRYOE9XMElRdDZGUTc1dUhqUXUxT1N5dmJMNDFGZGFGdXRTUjQ?oc=5",
+    "title": "Tamil Nadu Government allocates ₹18 crore to plug leaks at Siruvani dam",
+    "title_ta": "",
+    "summary": "Tamil Nadu Government allocates ₹18 crore to plug leaks at Siruvani dam",
+    "summary_ta": "",
+    "date": "November 20, 2026"
+  },
+  {
+    "id": "coi-nov20-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3E5b1VEZGVRckNyNzNyUXVIZFlfN3FfcTVNOXBxT3pfNnRvUnFJSTJ3RVhjVDdtT2lqd21IVEo1cTNtQm05Q25lUmwyWThJNXpKWnQ0ODF5bExDZ3RMUHZFSVdvSFRQUVhGcTZGTEg5T1NaQi1CaWhWazhTd0wtZTlxSG1JbUdkQ3hmSWtTZk9tNEUwTEVKNHljSmhhdFRxMXZxTnZ5eVRleU1nTURQcmZodHQ4VWFpWU96ZWR6d9IBxAFBVV95cUxOQ3lNYTNJaklGZzdwTjhuaEdrRnY4VVBvaHEzZUVqZkNDRzRUdDNkOEtxbzJyZ2E4OFB4NXdMUHhRYlZ6Z2JmSmtzRlNkdElNTlpvLXF0MzB4aF9CMWF1OUM3LVRiOTFNTlprdGJtNlFCeVdnMHdSNjUtQ3pqQTl3MldIZTRxQnhWdUVPN2l3VEVRZzZwQ0FsRWRSQzd4TUwwN0Q0V25wc1UySUw3WW5iWGVLTE1MR1RrVEFzYjluUVpFR0th?oc=5",
+    "title": "Ooty-Coimbatore NH Awaits Experts' Nod To Resume Traffic",
+    "title_ta": "",
+    "summary": "Ooty-Coimbatore NH Awaits Experts' Nod To Resume Traffic",
+    "summary_ta": "",
+    "date": "November 20, 2026"
+  },
+  {
+    "id": "coi-nov19-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMk5YY25sNVItUDRaSk5tMGdJdWYtVzg1b1Y3Sjd3aUgtek1reEZyZ2RUQlNuc2JvV2hLZWxBbXFINE90dEI2OGNfa3d4TUVIUElTWnBlVHhScjZaUEZzMF9RM193Y1VSY2xtLWQwZjlpOFlOU09vOTczTXhzM1hqOFJUSWRZc19ValdMMnltQ210Mk9Xa21BQ01PaFN3UEI0T3J5Nzk0RzlOeFI0U0tVUk1JdmtvbVk?oc=5",
     "title": "Micro units in Coimbatore hit because of freezing of accounts by Commercial Taxes Department",
@@ -46,18 +70,6 @@
     "summary": "TVK leader accused of bribery, indecent behaviour with woman expelled from party",
     "summary_ta": "",
     "date": "November 18, 2026"
-  },
-  {
-    "id": "coi-nov13-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3dJMzMtYVluOHNlY0lPbjhjbUY5X2JBWHFvcEp6NkVWV1p6Sk5ud3JzbFZ4UFRpU0Z5QnRwb0tSeFYtekJvTS1VY0ZoZ0RBVk5OOVBqbFVuRTlwWVFSMTBqVGlFWWZ1enh5VkNmTVktcENwRS1qcDlRdHhNQWU5eVF6dUlIUF9zcF96czU0OW5wcXpUWE5nTXpqTlJwNDJVMlJyNldvdzI1MnBETHNlREwwV2RhSGtxVHF2UGZ3ZTRJeVp6Q3B4a3ZoQl9mZXhsMTRDb2l30gHbAUFVX3lxTFBTSzBlejFHVTlTRXRRODh1MGNSNXBxVzVab1FrRGYyOFVaSGJrVnNNQ1ZRR0JLbHQ0Nnd1dER3SlRsNDhuaXFnOVNiWWJsTm9JblN6bVl6S0dVQTg1MjRvVXIzY1phOUcwOE1Sc1JoY2d1bTM4SENZU21sWlJ6TW5GZ1JEUk82WFFwS3kzTzdidml1bDhnUmI2WGwzVHBUSm1acVVHZFhtRm1CR0hLSmZmZzE1bWFjUXlwUXZqU2RaYnNZMDV4d21LMm9KN09RRGJJc0pvNUkzT2hBSQ?oc=5",
-    "title": "CM Vijay is governing Tamil Nadu fearlessly, Sengottaiyan says",
-    "title_ta": "",
-    "summary": "CM Vijay is governing Tamil Nadu fearlessly, Sengottaiyan says",
-    "summary_ta": "",
-    "date": "November 13, 2026"
   },
   {
     "id": "coi-nov17-001",
@@ -128,18 +140,6 @@
     "title": "Man arrested with leopard claws in Sathyamangalam",
     "title_ta": "",
     "summary": "Man arrested with leopard claws in Sathyamangalam",
-    "summary_ta": "",
-    "date": "November 15, 2026"
-  },
-  {
-    "id": "coi-nov15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnAtQ256MnhFWDF0Sm5DMkxvR1doWVlxR2lvaF9DV1FSOG5uaU9Ic2hDS2FEWDJUd2xnbG9POU9zNEViRmQ5dkxCSXlKNWtPb3F4ZU9qakRCWG5zc0ZHSG1FTWk0RGc0S2NJYnBUZUlXVjdqckpYa2dQVER1Q1hmcnBuY2VSSFRQYjZ1YlVYZlRnSksyYnUtcjJWMjNKLUZad0tUQ3F2X3Y4LTNTR2Nfd2NnZmZDTm5xaHNSdGIyX0tnS2JHUzVRV0FESnpTYTV0c3R3Q3hac2IzOXh6Z3FpUjk4TnFZTGpjaDhrUUNiUlJiZTNnckF0SVM0OFJRZi1XUGlV0gGKAkFVX3lxTE1CT0I4clQzcklNbzljcjN4bHV5SUtxMEZvQ3NBbkVfam5zZzRSRXE0YVBWdnBFRTFjZ2lxSTR6U0JuUDdmOWxIcWVsSWp3Q0FVVmRzMFV5aDFpMDhZU2N4SmhwN2tJa1JENmxpXy1uQzY2N1hNdjZTLWM0SWd2WnlUalRSOVQyTHhmMEV3bkxCQWh4WVg1d2pBcVd4dUNfQklSMW5COWNVMGNBb0htcjdsSzI1T1FISTdnTDlScFp4UkV5THRQOVhzcTFoYzUtRnlfeWRtZV83N2phYXdJZUp0eDQyRUlqUjdZby0tbzJ4b0dFalBRS1dNU2FDSUZ1NEVrZUFBemZyQjNB?oc=5",
-    "title": "Librarians and official suspended in connection with book purchase for Periyar Aruvulagam in Coimbat",
-    "title_ta": "",
-    "summary": "Librarians and official suspended in connection with book purchase for Periyar Aruvulagam in Coimbat",
     "summary_ta": "",
     "date": "November 15, 2026"
   }
