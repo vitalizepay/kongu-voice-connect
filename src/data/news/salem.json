@@ -1,8 +1,32 @@
 [
   {
-    "id": "sal-nov17-003",
+    "id": "sal-nov21-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcVQ0LXJQZV9fMjJEcUh3Q29QTUpibUZmNmQzUWR6RUtYTnpOeUdjWHdtVlJEZEFYLTFQaUN5eDNBRXNnOE5vVVVmYU9xNVhodXAxSGVnLURuTmlIbExrMlpFQ1JKTWY0V3BIZXBvYlZicXNUOXBYYVBuTG1NQkY0cjUxNHpuZ2w2LUJFTHhYcEpvSEM3QmE0Qml5cWU5dC1MLTZKVFlhQlN2NzBaaWFEZGRvTFVKREloVkZWZVByS1VPQ3JxeEFzVkI5U3RfeHNmcGxjbjNkMnJWNFdtSmo0VlRnN1NlWTR5NHUwc9IB8gFBVV95cUxQRXVnWThmekN3cURRa3dUT3M1MHJlaUJnT09ORmpuZG1kMTFYVUNnQ0U3a0U3d3E1ckFmUzIzeWZSZkY5TW9wSi1tSGxIdnlXeHpEQ3BIZVNrWmVwMi1Fc2FTMC1fejZ5Z1I1UXgxTHBjVnd0cWxuVEo1R2ZCVWhtdHJzbTYtaXNGTlh0c0o4cFNTLTIxWjlaWFR2N21OOFhodWlUQ3Vub0VwcVY1VEJKVUIzVl80ajBVMXoxMW9BZ3RsWUFVWGFuN0NPWmJRWmpObjdOdFNEaV9Hc0tPWE16M0F5VFBmMTZrV3h5LXlGZTZRZw?oc=5",
+    "title": "One killed, 4 injured after car plunges 300 feet into gorge near Tamil Nadu's Yercaud",
+    "title_ta": "",
+    "summary": "One killed, 4 injured after car plunges 300 feet into gorge near Tamil Nadu's Yercaud",
+    "summary_ta": "",
+    "date": "November 21, 2026"
+  },
+  {
+    "id": "sal-nov21-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajU4RHpKWTJ1UTJ0Z21rM3ZCWVF3Q3JkRVE0LVhZRVVlMzZUNjVOYmZxOEhCZ0toLXNKWjR0VlBOdkR5ZFNxVWhUOVRzWVVWYXlZdFRGMU1vQ3p5OWFQOFpQLUlRWlFHbGdjMEtlVE1waDl0T3BjNW9iakEwNHgwOE1FSFNjWkRQLUpZNzZEdDhIcXEwcERtMlhzU1VhSHpjTEtEQzFCdlFIaHJj?oc=5",
+    "title": "Yercaud Car Accident: One Dead, Four Injured in Tamil Nadu Gorge Fall",
+    "title_ta": "",
+    "summary": "Yercaud Car Accident: One Dead, Four Injured in Tamil Nadu Gorge Fall",
+    "summary_ta": "",
+    "date": "November 21, 2026"
+  },
+  {
+    "id": "sal-nov17-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGdjOHhrQkxVZ2xaQUN0SDI1cjU0TlpQT0lneVc0VlB1d25RRmNseVl0N1RBYVNuZ2NxendNSnJkRHJ6MW5KWXFjUmJSNkxaTEJqUmFKdy15WHJPcEoxdTFkQ1lqNVI3SWZIMVJSZEZqd0c3OGRTalctSlBsekNNREVVd1A?oc=5",
     "title": "Power Shutdown in Tamil Nadu Today (18 November 2026)",
@@ -22,17 +46,5 @@
     "summary": "Kolathur police issue clarification after viral ‘Bavaria Gang’ statement creates flutter",
     "summary_ta": "",
     "date": "November 16, 2026"
-  },
-  {
-    "id": "sal-nov14-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkZwX2VBSER6MnJjRXIzUGdXbWFyZjRfNk9qYnUwaFhGa0RPNjl4XzJManYxWDF6VEVMMmlqQk13V1d0cnFhdTh2V015WTBOTlFWSFdnS0NLTW1qYnNMclZOb1Y5VTB4R3dqeXIyWnZ3ZkU1TW4yY0oxZ29CREl2UVduWjNHT0xRMlVoSUNwb0Y1dVJhbGNmS3hxWE1GUG8yRGZONGw2QkE5dWxTZWRheDhOWEh3VUZpLTNESC1kTndJZXY0akxOcmRQaWY5X1BCQlEwVzJHUFVLLTlRXzN3SWtwTG9vcXh3bmhnclV5S1cxT21DeGF1TUVlbnRFT2JHVTJpadIBiwJBVV95cUxQS21Td0k5aGVFOW5neXVxd0dIVHY4SFRBMVJtMjdjUURQUWZjZXZjOWR1M21XOGkxUGJqVXZkS3JtRGZPRlBMLXVHa053STIxZ3pjam8ycF8xbjg3dXNjX1gyQzlxZl8wTWIwdmdaUFB4UWYyNHlCY2VaZXFiSGR6Skh3RVliZmNYc3BneUFSbWIyeExac05ha3ZRaC10OE54RmtEanoxMHFnN2hqUnNRS2s4OGhadFZLR3JZWVRZbjZqQnlYa0RuMThjZGF1VVlrdC1KeDR4U1A1SFE2Z0QwTjI2YUdxMnUyZXpNRFNYZEZjRWdSQWY5enZDR3NPUzZyalFRY3J0WVZkUVU?oc=5",
-    "title": "In first 133 days of TVK-led govt. in Tamil Nadu, 125 criminal cases registered in Salem and 123 in ",
-    "title_ta": "",
-    "summary": "In first 133 days of TVK-led govt. in Tamil Nadu, 125 criminal cases registered in Salem and 123 in ",
-    "summary_ta": "",
-    "date": "November 14, 2026"
   }
 ]

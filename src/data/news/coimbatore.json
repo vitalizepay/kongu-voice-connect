@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov20-001",
+    "id": "coi-nov21-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjBmX1poTnhDakJhV0RFOUx2MWNEVHU1SzlBWWM1T2pzYXBOYVl2Nm5wa1FBV0V5R2k0WkpQc0wtY1RUU1c3Rm81VEY1aVcyNjhZQWozVmtvbjc0a1Q5OXg0UVR4cHdGX0NxSi1ZYVA4WE1HWDlnX1hNVF9hUFhUNXdxdTJGMHUzbkoyQlpvOTl2dWZXdkdnQ1daQzRVTWpSNFhna2N1NV9UVnUtN2F6STltSmpKM3g5UTZxZHJrRFczVnMxNHB4QjlHM0xGVUR4TGFB0gHgAUFVX3lxTE8zY1l5enp1SEtLMEMtT2p5YnhPQnhvdjduYzRUdGtTMFhHeEc4TnlMeTNxYkhIOFk3Y2FKVi1QeUxDbmZyd0JKSVl0TENoNnV6RkRuWHZmR2xDRFdESElEdW0zc1lIQTFjTWNVQTd4TEhOU0ZIMXdrZXJTQWdPNzNDc2h2Mk5QYnBrZG8xNVJ2RmM3QmpMRUxyZldNQnZHQkVrdGFuajJIQzFMbkQ3UVdURTluWHV4MWJ4WlVBdWczZzdYX2hqb0xFY1ZoLUZ5Wmd2U0VabXVRZE8yNzdWaGp2?oc=5",
+    "title": "TN govt invites bids for 10-year highway master plan, Chennai-Coimbatore-Thoothukudi expressway stud",
+    "title_ta": "",
+    "summary": "TN govt invites bids for 10-year highway master plan, Chennai-Coimbatore-Thoothukudi expressway stud",
+    "summary_ta": "",
+    "date": "November 21, 2026"
+  },
+  {
+    "id": "coi-nov20-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjZXNm9ZLXBFVVBMQ2kwbjU0OFFRZFdTbmlheF9FOENfTTJmb05XVE9FUExjMXIwWG5IWU9qSDVrSm9Wcld0UFhHV0g0VDhIcHY0N2NuV1o0VXJvX09neHN6QXlEU21hREN0Q2JyTk83TlVGM2R6cmFMOExvME1ERUppc3dWd0tiSUlRRXVtODdXYlV4THo1c3h6ek5acHhOMHE2ZWRYZEs1YVc0c2c5cTEySHpKRlNyR2J6NzlpcXFEbmFqb2llVEZ2dHFrXzU1Uk1oeNIB2wFBVV95cUxOV2VCS3pSWGJ6a3RaLTFLVjRrenNSelczVHZVQ1R5a3E3T0l2LVdIaTNUUDRSU3VYRTM0UFJJbnpuSmhPVGg4WktsdTd2NzNHREdITWhpcWxwSDAyOWw0eFpGMlZJR01CZlNvVlJ0ZGtUT3o2dkZGT2M4eTdselRuWS14YzRKQ3Q4WEczOFJzLXMtMGIxZ2s3QVIzMjlpMmt3c2NTdHlkXzFMTGxZR0RZYUM3emJSTlRYOE9XMElRdDZGUTc1dUhqUXUxT1N5dmJMNDFGZGFGdXRTUjQ?oc=5",
     "title": "Tamil Nadu Government allocates ₹18 crore to plug leaks at Siruvani dam",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu Suspends Four Librarians, Accounts Officer Over Coimbatore Book Purchase Row",
     "title_ta": "",
     "summary": "Tamil Nadu Suspends Four Librarians, Accounts Officer Over Coimbatore Book Purchase Row",
-    "summary_ta": "",
-    "date": "November 15, 2026"
-  },
-  {
-    "id": "coi-nov15-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVJGUE9GTHMycUQ0Q2RuXzNFeGI3XzJDYUxyVUdDZW5jNElCZHIyNllDZXlJOGY4X3V6eURWSnZxMi1ja1JjWUdHcTk0OGw4THByaUZxWGNmMkowejV3aDN1bzRwZmtNc2pvQTY2V0Q3WEFjaHBZX0w5Nm41TWNZdEFSaFdQU094X0I5VWRHUGkybUlPRVIyeURmSHc1bHNOMXh3TGZJcGNKNGw0by1PdHJQaFVSX2hQSlRMYzZlbWU4ZG9nVVHSAcsBQVVfeXFMUGJtS21aVXhMY0FNVGVkTEJUejgzb1E0WHVDaV84NngweTBsWjBWbVhkbWpJNkxsMHJTVThPZ21IdlA0VmNwQkktQ2lJbVBVZWNWMENQSWhxUXdud2s1V1RmTldDUllnMmp0TXpYNVZ6QjlMOEdVanVheC1aalVxbzZtX0U4dlp2bU01Wnp5dHJxemgzdjBVcmFsSWFBM1B3aVc4NTNKWjk1SXliZHdTMXBfekxHV0MxMnVmY2Jpd011ZGJTSVRKRXB4UG8?oc=5",
-    "title": "Man arrested with leopard claws in Sathyamangalam",
-    "title_ta": "",
-    "summary": "Man arrested with leopard claws in Sathyamangalam",
     "summary_ta": "",
     "date": "November 15, 2026"
   }
