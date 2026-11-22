@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov21-006",
+    "id": "coi-nov21-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVcwOEYzdnowcXZ3UUNlTVdWYWRHSTRwbnpSUkF2SVYxSFpwV0JvNXFHRWhBVVRieGVnRXVDQXlTeWhLdXJNUkMyTXdFdFk1b3Y2cHBOazY3RE5PSWhUbEFpVlVPeTJUQnVhbkc3UlZ0dFpvYllpX3dvOVg2Ym8yNTcwUmRCV0VlNFVWSGlkT2tqbnRVa3FkUHpqbzRoeTJBMHJGZEVIREFHX0hIWjB3Z3hMcE9CMHZIVWZSek5fZklYT2lBdmcteGpVTmMyMnM?oc=5",
+    "title": "Tamil Nadu: EPS slams TVK govt over Cauvery water row, Kallakurichi incident",
+    "title_ta": "",
+    "summary": "Tamil Nadu: EPS slams TVK govt over Cauvery water row, Kallakurichi incident",
+    "summary_ta": "",
+    "date": "November 21, 2026"
+  },
+  {
+    "id": "coi-nov21-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjBmX1poTnhDakJhV0RFOUx2MWNEVHU1SzlBWWM1T2pzYXBOYVl2Nm5wa1FBV0V5R2k0WkpQc0wtY1RUU1c3Rm81VEY1aVcyNjhZQWozVmtvbjc0a1Q5OXg0UVR4cHdGX0NxSi1ZYVA4WE1HWDlnX1hNVF9hUFhUNXdxdTJGMHUzbkoyQlpvOTl2dWZXdkdnQ1daQzRVTWpSNFhna2N1NV9UVnUtN2F6STltSmpKM3g5UTZxZHJrRFczVnMxNHB4QjlHM0xGVUR4TGFB0gHgAUFVX3lxTE8zY1l5enp1SEtLMEMtT2p5YnhPQnhvdjduYzRUdGtTMFhHeEc4TnlMeTNxYkhIOFk3Y2FKVi1QeUxDbmZyd0JKSVl0TENoNnV6RkRuWHZmR2xDRFdESElEdW0zc1lIQTFjTWNVQTd4TEhOU0ZIMXdrZXJTQWdPNzNDc2h2Mk5QYnBrZG8xNVJ2RmM3QmpMRUxyZldNQnZHQkVrdGFuajJIQzFMbkQ3UVdURTluWHV4MWJ4WlVBdWczZzdYX2hqb0xFY1ZoLUZ5Wmd2U0VabXVRZE8yNzdWaGp2?oc=5",
     "title": "TN govt invites bids for 10-year highway master plan, Chennai-Coimbatore-Thoothukudi expressway stud",
@@ -96,18 +108,6 @@
     "date": "November 17, 2026"
   },
   {
-    "id": "coi-nov15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnAtQ256MnhFWDF0Sm5DMkxvR1doWVlxR2lvaF9DV1FSOG5uaU9Ic2hDS2FEWDJUd2xnbG9POU9zNEViRmQ5dkxCSXlKNWtPb3F4ZU9qakRCWG5zc0ZHSG1FTWk0RGc0S2NJYnBUZUlXVjdqckpYa2dQVER1Q1hmcnBuY2VSSFRQYjZ1YlVYZlRnSksyYnUtcjJWMjNKLUZad0tUQ3F2X3Y4LTNTR2Nfd2NnZmZDTm5xaHNSdGIyX0tnS2JHUzVRV0FESnpTYTV0c3R3Q3hac2IzOXh6Z3FpUjk4TnFZTGpjaDhrUUNiUlJiZTNnckF0SVM0OFJRZi1XUGlV0gGKAkFVX3lxTE1CT0I4clQzcklNbzljcjN4bHV5SUtxMEZvQ3NBbkVfam5zZzRSRXE0YVBWdnBFRTFjZ2lxSTR6U0JuUDdmOWxIcWVsSWp3Q0FVVmRzMFV5aDFpMDhZU2N4SmhwN2tJa1JENmxpXy1uQzY2N1hNdjZTLWM0SWd2WnlUalRSOVQyTHhmMEV3bkxCQWh4WVg1d2pBcVd4dUNfQklSMW5COWNVMGNBb0htcjdsSzI1T1FISTdnTDlScFp4UkV5THRQOVhzcTFoYzUtRnlfeWRtZV83N2phYXdJZUp0eDQyRUlqUjdZby0tbzJ4b0dFalBRS1dNU2FDSUZ1NEVrZUFBemZyQjNB?oc=5",
-    "title": "Librarians, official suspended over book purchase for Periyar Aruvulagam in Coimbatore",
-    "title_ta": "",
-    "summary": "Librarians, official suspended over book purchase for Periyar Aruvulagam in Coimbatore",
-    "summary_ta": "",
-    "date": "November 15, 2026"
-  },
-  {
     "id": "coi-nov16-001",
     "category": "News",
     "featured": false,
@@ -130,17 +130,5 @@
     "summary": "DVAC raids Periyar Arivulagam in Coimbatore for second time",
     "summary_ta": "",
     "date": "November 16, 2026"
-  },
-  {
-    "id": "coi-nov15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWtqUzl6UUJ1TjU1LXlyMVVHMkFYVjZrODRKV2NTWEo4VmsxS2R4S3JhWFRiZXNfdVpROS0teFdqcnkydV9mc21zVVhrRXU3RzRZazIwLUFhbHRCV2xzNGE4anZzMWdfS1lsS3BQd3ZWU2p1ZTVvUDJfNlNyejRabkhEXzU5Y0t4WklkUVNqb0FHUm94Qk9Na2RBN29fZHdCRUMxR3lKdWs?oc=5",
-    "title": "Tamil Nadu Suspends Four Librarians, Accounts Officer Over Coimbatore Book Purchase Row",
-    "title_ta": "",
-    "summary": "Tamil Nadu Suspends Four Librarians, Accounts Officer Over Coimbatore Book Purchase Row",
-    "summary_ta": "",
-    "date": "November 15, 2026"
   }
 ]
