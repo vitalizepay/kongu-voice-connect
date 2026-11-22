@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov21-001",
+    "id": "coi-nov20-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTFhaEtIakRIc1V6SWxoNVZZcUlnZTNwaWcwS25HaW1yTEI3N1E3RllSQkRSSmJKeG5XMVRGaWIwN2ItaUt1TjdQT0dwbkpqYlNrdXAyYm1NVXdhOTB3UnV4bVI5SUZDQ2tnMlQ2akY3bm0xcXlIWTVPcXNqNlM5eGFnelFLbm1WVFI0OXFfb1ZtTmlW?oc=5",
+    "title": "Dhanush fans celebrate O.M’s 6 a.m. premiere in Coimbatore",
+    "title_ta": "",
+    "summary": "Dhanush fans celebrate O.M’s 6 a.m. premiere in Coimbatore",
+    "summary_ta": "",
+    "date": "November 20, 2026"
+  },
+  {
+    "id": "coi-nov21-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVcwOEYzdnowcXZ3UUNlTVdWYWRHSTRwbnpSUkF2SVYxSFpwV0JvNXFHRWhBVVRieGVnRXVDQXlTeWhLdXJNUkMyTXdFdFk1b3Y2cHBOazY3RE5PSWhUbEFpVlVPeTJUQnVhbkc3UlZ0dFpvYllpX3dvOVg2Ym8yNTcwUmRCV0VlNFVWSGlkT2tqbnRVa3FkUHpqbzRoeTJBMHJGZEVIREFHX0hIWjB3Z3hMcE9CMHZIVWZSek5fZklYT2lBdmcteGpVTmMyMnM?oc=5",
     "title": "Tamil Nadu: EPS slams TVK govt over Cauvery water row, Kallakurichi incident",
