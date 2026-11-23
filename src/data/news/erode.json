@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-nov20-001",
+    "id": "ero-nov23-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmFnaEdfMFM3aXNpWndpRk1OUllYbWRVa0lHN29OLUdlTk15QjEwVzBLakhWM0tMVUJtMTJXaDV2Q2hPNzQyYlpyWG1yOGlDeWZCVWhYOVVSY0ZEZUpRM2dURHpGS0xlZ1BwMm5CbWFVS2pSZkpHRFNmQ2otbC10bDNEVlR0Sm5RcmNvdkh2U0EzNXZ5RGc4T1Z2NmxLODcyYjcwMFRjM0pKS2JKdXc?oc=5",
+    "title": "Erode district gears up for Karthigai Deepam; demand for earthen lamps rises",
+    "title_ta": "",
+    "summary": "Erode district gears up for Karthigai Deepam; demand for earthen lamps rises",
+    "summary_ta": "",
+    "date": "November 23, 2026"
+  },
+  {
+    "id": "ero-nov20-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdlp0QkdGc3NDSFZ6NVpmVzJrSXUwX09XZjk0U3RtcnpEMDBjc3VMODZ0SFA3bkZoSjdNSkxLQUExT19mZW54OVg5X0RLUmFoN09mSFZZNjBwRnpHTzRrSVFVd0dZVVBpSThyOTFjZjA3SEFxSDdZWXRTdGxlaXFtLVlHOGE4dlNiRDU2cHNwRGtuNE1ZcjNPYVZ0OFZRVnRZMTJuNzhqc3ZDUXlTS0Q4cjJacVhvOUxqYkFmajFaVDJTSDhsc3fSAcwBQVVfeXFMUEhQcGQ2WEFHcklzcFN6b0hmVzZCYmJKZTZVV2RsaWpPLWx2cUoyX2dUM19vOHBpLVRBajdEQThDY3Q4MGQ5Z3h1elV3aXBzNXg4TW9MRG83UkNkX1owa0hhc0VXaVIyTTVtM01JdjBQeUY4bXo4S094UnE2U1VtelY2RzhRLTNkMlVYZUowTUJRQlVDWjlYelF6VUVINzJYeldWdVJDNkM3Q3lWYi1USXh6dmpfNkkxcU5RdkFSNkUyWFJKN3BzTVRNTjBn?oc=5",
     "title": "Pregnant woman dies of suspected dengue in Erode district",
@@ -46,29 +58,5 @@
     "summary": "100-bed critical care block opened at Erode Government Medical College Hospital",
     "summary_ta": "",
     "date": "November 18, 2026"
-  },
-  {
-    "id": "ero-nov16-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVkwWGtMTHhsVkpfUlpUMGF0SHJHTzQzbktNY3hhMm1ySVpFNlBJYW1Mb1QxU3BEUzVwSDVheEVNUHZRSWtCdl9uTGJIYnlxbGg5bWdXd1JmR2EteTgtSU01UW11UzdETm1MOGdmczFyUmROSlJxTXVpMl9DX1MxQUNtNjFQem5RWHpF?oc=5",
-    "title": "Fishermen seek old age pension from welfare board",
-    "title_ta": "",
-    "summary": "Fishermen seek old age pension from welfare board",
-    "summary_ta": "",
-    "date": "November 16, 2026"
-  },
-  {
-    "id": "ero-nov15-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSldVUjVOanBpYmVjbnpsR290SUF3NlBIMTJ2ckNPNVAyOEVGcUlTRHJ6ZkJ3ckJjaTlvZHJFOTFwS05QTGRWXzFhMTFrVDF2ZktyTFNVMVA0WjkyVjVUZDMxVXZ0Wko2dks1aEJYRUJTaEVuTnNCWkRYYk5oT1FOdE10Ukk1dGxNSWszbUJxM0w2SjYyVWR6VkJ4NFV3TFlJc1ZHWEFscU9SYlpkZ2xXVjN5TmQtM3hwOThqWkJLSdIBxAFBVV95cUxONDJtYlhKbUpzZVdhUVh3UXN6ekhzNWRvZEdlNVVVblllX09QN2VaUVVMb1YtOW5LV19YTmw0ZlM2bUNXODlVbjZiYXZxcm5ON1p5YWs3X0Z5a3hsbWk2OW1xek45TXdWLVpSR3oxanU2TDYxMEpiamNpbHRjT1FRbmpFSWRKa3EyaUZCMEZONlVhRHFjSkpkRmxzT3pKMlQ4cFB3RW1FeHRIX1phX2w2NVdGN3VqdmNzUFNpNFBGbjV1VDI4?oc=5",
-    "title": "Sick Woman Reunited With Family After 15 Years in Erode",
-    "title_ta": "",
-    "summary": "Sick Woman Reunited With Family After 15 Years in Erode",
-    "summary_ta": "",
-    "date": "November 15, 2026"
   }
 ]

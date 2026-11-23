@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-nov21-001",
+    "id": "sal-nov22-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQm1weVk4Z3NpOFN5YUpPOG5zX2ZQQlNOUU5sNnVqMUl4aFBXd0V0MnlaSk9BQXRYS0xtX1U1ZVRGMXNkMUdhaVNnb0JPcDJJZ2I3OUNqZC1ZYWhXUFBkSVMtSDhGcTR2M3dERkRHemk0b3VsVS1LcnlxUlYyQ2lMaDVYc3I?oc=5",
+    "title": "Power Shutdown in Tamil Nadu Today (23 November 2026)",
+    "title_ta": "",
+    "summary": "Power Shutdown in Tamil Nadu Today (23 November 2026)",
+    "summary_ta": "",
+    "date": "November 22, 2026"
+  },
+  {
+    "id": "sal-nov21-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzBPX2JVeFlleEVQVXN2NGdvRnVxMjZjX2JzemlvNGFHZ2tra05ma0d6akllRFd2Sl9WUk9qWjljNzZSQk5XcG5McTdNbEl1Y2lvem9LcmJLQks0SmdNdkxwcDl2N3NYUm9lUVZIa092aTQtbEsteXVQRkwwNXJ6endtRXBaMm9jRkdtSG9RbWpjaFI1NXZ3ejBJbVg2N2ZzMWE1TWNzd2dsX2hkYTlPMVF4Y0VQM1ZDbzJHNV9qcUVGSGo5djEyVXFwODlhNWwyVk9Nc1VmU0VyYUR5bGs4N2N30gHoAUFVX3lxTE1zamVEZUZKdVVWWFZiWTYxSmk0bmFMdUs5MmUwQlpsRjVQLWRrRC1SVmc1THYwdFZ4UzJ4aUQ4cjBBOFB3VXlhc0w5elJSSTFNbXZDQVZYR1M1S3FjNDJzNHJRVF9JczhGdmNNdTIzb0I3Q0NOMmk1V0sxdFJaSFIyWV8tcU1hMV90MXNPZGg5TEwzU3VNV0I4dm11RkdVMHFnbU5jcmpHUDUwLUVmSzVpOFV4Z1QyRHF6ZDdQNjdDdWZsYXVPVlBTUFh2RWJSanp6QjdYb0todTN0eHV3Zk90RmVZVDhsSzY?oc=5",
     "title": "Consultative meeting on special summary revision of electoral roll held in Salem",
@@ -10,18 +22,6 @@
     "summary": "Consultative meeting on special summary revision of electoral roll held in Salem",
     "summary_ta": "",
     "date": "November 21, 2026"
-  },
-  {
-    "id": "sal-nov16-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeXRVOE1OUjNrbzdLazIzakZ1dFlqOEVreTcwbTN1YjQ1bVNqdW5QbG1rMUNuamJwOVZzTWdHWmRDSmpMTHNPd3lpdGxEaDBpdTJxdGJ6SjdFLTBkdGt2dDBtcmpnUDdZUE9uQnRONUtTdURMeVo2U2Rma1RkWWtHWUtkV0lVaVpXTlU1UzRLUElfUHJUM2c2OThaYlJpTUNlcmhRajNmOWJtX0M2QXFtaGFNb3VtR1E5MndfZkdrb2ZXZ0xMZXYyREx0OTI2c25y0gHWAUFVX3lxTE5wd3dPT3ZucFN6dk93MnB5VWpUWU5YT01lVkJ3Q3FNMTFkNWpmR0Jzc2MtTGNJN2xlVHRDczc0YjhHUG9RQVBzci1fV3VNRy1pNXM0bndmNEpfb3VGYjVDemZiUUZjOGtYaDk2N2RZTnN2NU5mZHVicl9XZU5uZHBwU3dNV2RpTFlLblEwekl5X20yZGJBZ2lsRFJFcnAyRlhKU2lnT1dtdXo0alZWc2RqSi1hR2gyb0ZaWGhuNFdfSTRfaFI0ek5Dc3FlUFBleG9UX3pUcEE?oc=5",
-    "title": "Govt school teacher arrested under POCSO Act in Salem district",
-    "title_ta": "",
-    "summary": "Govt school teacher arrested under POCSO Act in Salem district",
-    "summary_ta": "",
-    "date": "November 16, 2026"
   },
   {
     "id": "sal-nov21-006",
@@ -70,17 +70,5 @@
     "summary": "Power Shutdown in Tamil Nadu Today (18 November 2026)",
     "summary_ta": "",
     "date": "November 17, 2026"
-  },
-  {
-    "id": "sal-nov16-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcUlaLTZYN3EwcmdrMlhCYzZRY0pFTDlzZ2JDVGpOUWs1a1hReUZFWndVa2Z0alh3dWNsWXZFY1lpOUZYS1lqMFIyQUdnZVBwOHJqenpJQi1JVzlzOThkMVR6M3V3cjNZNWE2YXZrV1YtT3NuMTducXU2YWhSbmdvLTdNenJQV1J5aGx3VWk1ZU9QM2o0WkFOOEctNzVVNi1SQWo2cXJNbEw2UVUxM1U1WlB4YTNCUjhQSmtwYkQ0Y2JvaXBBOGdxTF91MlQ0OXAyTzR3RURGMENfbXNiTi00Z3JGTEVkcXhQQ3fSAfABQVVfeXFMTVRVNDYxeFVTY0Vqc0VRMTVkN1lsOWM2ZG55Q3pySnh4WFljU1Z1aVZ6cVBfWkhrd2JBa184ZWR5V0Z5QTJra1hBTkt1WE1TYkpONjJTMzVtSFVBYUF2WVBsMHhQdUhGNzY5T254VDdHQnV1NlFYbFVNYkFwNkp4cTU1YmVSMTdEVmFBM1BNcUNtUDNoUkhQT3Z3RFZsb3JIZ0kwcWhYbEl5UWxyVzRCSFE1TVl2bENZVi1QVFhxYkNnY0ZkX0t6NjF0bl9pczZZSTVCb0F1ZWNZT2lpZk56ZDhlY3RUTHhhNjctNlFVMjdX?oc=5",
-    "title": "Kolathur police issue clarification after viral ‘Bavaria Gang’ statement creates flutter",
-    "title_ta": "",
-    "summary": "Kolathur police issue clarification after viral ‘Bavaria Gang’ statement creates flutter",
-    "summary_ta": "",
-    "date": "November 16, 2026"
   }
 ]
