@@ -1,8 +1,20 @@
 [
   {
-    "id": "nam-nov22-001",
+    "id": "nam-nov22-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZFdFVkhHbC1YOVBHWWFnVWFnVGNwYThteGExaHlRTTJYN0xFa3BLSlA2a3dHcEN4RUhySnNPcVlQRGNCZUNlRVJEVF9NVGQ3NGYxN0lqUVpWWHpicGVVcU9OQlNwb1dLYVlfUFJUQ05XclRDME55OG9R?oc=5",
+    "title": "Namakkal Egg Price Rises by 5 Paise to 525 Paise",
+    "title_ta": "",
+    "summary": "Namakkal Egg Price Rises by 5 Paise to 525 Paise",
+    "summary_ta": "",
+    "date": "November 22, 2026"
+  },
+  {
+    "id": "nam-nov22-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV196UnlYOVBDaHJPeXlobHFlLXN6S3FVaVAzRDJrdy1hMlNLOWJoUGJFcl9SZmVydHQ5ejBkQk9WRGdMUGdmc2JiNVo4LVNFbEpSTFA5ZWhNc3Uzd1huNWdpQWNibHd6WHJFQ1pWRmJCN3hXc2djQktqUkh2NjNkS0ZJWGVkZ3FKUG9PR0lxRV9RdGtQTDA2UDBKOV9TN0ktV2pmRm95c25Qd1F2djdOQjhwQlYzTWZCdFMxTXFyc19aM1FmRkpJT1BLREJITjNfMW1kT1lDTjUxWkpfZ1hvT21feUVFQdIB6wFBVV95cUxQSXAwZk9uNWhvakoxa2xjWkNhTnBnaWpRcWN4S2lDNHhhdHNvTHZfNUdITGQ2Sk5uVzRPQ1hRLV9zQTBMUndFcnpaTHpqVU43dkVPeElvZjBXY2lCVHE5d0N3c0Z0SXBNUE9YNFFBMFNLMWtTWlEtZFFIc1FEei0wc3ZuM01hMldma3ZaMXNJbXV3cFpfQjJFVnpDNTZydDV3ZmN3ZXlnZ0pHb2wyZVhfZ3djaGliUDRNdXBiWEVIdm9GNjVFVjA0aEdjNVVkZE12ZlJNdXZWbzg0UWc4TUdLRGoyLUtYTzJXek9N?oc=5",
     "title": "After bird flu concerns impact egg exports from Namakkal, TN poultry farmers seek special export zon",
@@ -10,53 +22,5 @@
     "summary": "After bird flu concerns impact egg exports from Namakkal, TN poultry farmers seek special export zon",
     "summary_ta": "",
     "date": "November 22, 2026"
-  },
-  {
-    "id": "nam-nov17-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1gwSWluTXA1S29xeklVM3JDWDdOQU5MTjM2TE4tQ0ZvdGY3dWkyakRhZTRHOTdsZEZ6LVotVGY0X0tVNHk3T2JqRGZxZTgwc1d6VVJyM3pPbENuRUVHMWhMb0VrUVZyUEQ1Ymo3VVZGME1OR1R5dDQwLXdIQ25qbEt3empSZnZnWVpvLXBpMGlBLVprSmZWakF2anpMc2tROGc5T3VxVndyY1doWnJVekJIazN5azFjOWNmcXBuMEZZeExSeENrQ0N3X1ZzaU9mWVgzTlNXT2ZBMzNLZW5Z0gHmAUFVX3lxTE01QjRqZS1lcmtHNWh5c3ZwWTM5ekY3ZnBiTmttUDY5ckFsQ2tJNXphWUdSc214WEN6TlZ1T1NqVVVjWGVjN3pWWHhuVm5pRG1ZeWV2OXNmdXEzN3hpRjdfb0pKUjkwaU0tRm9UMS1FdlQzNGRjdGpuV0FlN2MwQjFXOTdpNklOVGtvNUpJaU80emdMdmdyTm1SeG1vUEVVRlR0aUU4SGZtZERSVF9OZ3JCV0Y1clZvakF2elhpamFtZUd0NVBFREVqVW1GNmhaay1UdkVuQ1ZLVTc5S3ZhNmpmeHNmYmdB?oc=5",
-    "title": "Namakkal district administration gears up for 30th foundation day celebrations",
-    "title_ta": "",
-    "summary": "Namakkal district administration gears up for 30th foundation day celebrations",
-    "summary_ta": "",
-    "date": "November 17, 2026"
-  },
-  {
-    "id": "nam-nov17-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90eTNRUW5wRTZldjh1QW5fa2NaWG9wYl90Y25JM0w1QVplNHFXX0MtcjBReEQ2bXlWWDltQ2Q5NVM3dVlsZEVOaU9YMDlnT243QkJnc2xFWGVja0dhQWhBaldUVkM?oc=5",
-    "title": "Bird flu scare hits Namakkal egg exports, prices fall below production cost",
-    "title_ta": "",
-    "summary": "Bird flu scare hits Namakkal egg exports, prices fall below production cost",
-    "summary_ta": "",
-    "date": "November 17, 2026"
-  },
-  {
-    "id": "nam-nov17-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdG1SeDN1XzJCc1pVWTJTOFV2bmpRd25KNGNwc0piX0lub05FRWg2VGxDdkdlQ0hTSklQeWJiNnBwNEJUd0FmdVFwM3ZBNXF2Sk5tSWhoQmVrdExhdzFBYnEwN0FpaGkxM1Y0WG1FYWpicE9nVEM1anFBcnJXakZVcjhtd1pGMHBlYXF2N2FOZ3QyYlJ4QVpyNHJBQnh1NGt6SFZsX2ltSUJsb1o4MllJUXZ0aUtCeVBkNkZhMEtET2k5YzBsQlpPOVBn?oc=5",
-    "title": "Bird flu scare hits Namakkal egg exports, pushes prices below production cost",
-    "title_ta": "",
-    "summary": "Bird flu scare hits Namakkal egg exports, pushes prices below production cost",
-    "summary_ta": "",
-    "date": "November 17, 2026"
-  },
-  {
-    "id": "nam-nov17-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1FuSFYxZndGQktObzdQUVlNZmNVOF9BRWoyVmF5bmtTbkpsa3h5cGtBVkVCeTUtYV9mR1ZjWWVSdmxBcTRoa01aY1pMY2VKektyY2YtMV9jczN2aHNhOVpnalFIMTkxQ2JPZFZ5SnlNTXkyYkFmTWZwWXJpTEJXdzVRRXBZT1oyWmtoLWE4Uk92cVBGVFdNdWJKNm5oUnQ1S1cxQnU0aU5YS1N0?oc=5",
-    "title": "Bird flu outbreak in Cuddalore triggers 50% drop in Namakkal egg exports",
-    "title_ta": "",
-    "summary": "Bird flu outbreak in Cuddalore triggers 50% drop in Namakkal egg exports",
-    "summary_ta": "",
-    "date": "November 17, 2026"
   }
 ]

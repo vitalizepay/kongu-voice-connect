@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-nov22-005",
+    "id": "sal-nov24-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1NDbDY5UG9mN3BTRlBPX2ktZVRPYlJoTklxWklRZllRMXREWnE3azVKS3pGMmp2ai1qamR4TzFyQklIMFZnaFNVay02YWY3X1pXWHFCb3VIZ1BsWGtKdGIwYzcwVm1BRkQtaGx2SEN2ZzhtcE9Vb3VPT2JBVFJfYTE2TGw5RkNPVXk2anljaFVGNWVZU3Fpd0ZISjB0QnNTWjRMdHR2ZUM0MWpaYXliNS13Zk1WNTAzUUxTSl82MUxNNUdsa3hKbVBIT29hY3hmczIw0gHgAUFVX3lxTE1sSHgyQlRtOVZMWlE2c1NuRDBGeTZGWVhmRnNmY2FfU2RDSkFnbElaZF9rZVBfZUFIQTk5akMyT2pleExjMGU3YUdxUFZuNW9YcVY2Z1lOaFJDNlJuQlVxdm5aY3lFMzdMa0oxTU9nWklTQlloTmxsNnFGTDhQT3VRYnVhSXhmdjljcTdVMGtFYTdvUzZ4ZVBleW9KN0ZuNUx6VC1NblFfWGJuQkVUc3k5eFc4WVFsVlM2Wk5CYWE0MEJEdGhKaFNKaTlHOFBkeFFIM2NrTDNjT1Z5NW5GWjBC?oc=5",
+    "title": "Thalaivasal vegetable market thrives on trade but lacks basic facilities",
+    "title_ta": "",
+    "summary": "Thalaivasal vegetable market thrives on trade but lacks basic facilities",
+    "summary_ta": "",
+    "date": "November 24, 2026"
+  },
+  {
+    "id": "sal-nov22-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQm1weVk4Z3NpOFN5YUpPOG5zX2ZQQlNOUU5sNnVqMUl4aFBXd0V0MnlaSk9BQXRYS0xtX1U1ZVRGMXNkMUdhaVNnb0JPcDJJZ2I3OUNqZC1ZYWhXUFBkSVMtSDhGcTR2M3dERkRHemk0b3VsVS1LcnlxUlYyQ2lMaDVYc3I?oc=5",
     "title": "Power Shutdown in Tamil Nadu Today (23 November 2026)",
@@ -58,17 +70,5 @@
     "summary": "Yercaud Car Accident: One Dead, Four Injured in Tamil Nadu Gorge Fall",
     "summary_ta": "",
     "date": "November 21, 2026"
-  },
-  {
-    "id": "sal-nov17-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGdjOHhrQkxVZ2xaQUN0SDI1cjU0TlpQT0lneVc0VlB1d25RRmNseVl0N1RBYVNuZ2NxendNSnJkRHJ6MW5KWXFjUmJSNkxaTEJqUmFKdy15WHJPcEoxdTFkQ1lqNVI3SWZIMVJSZEZqd0c3OGRTalctSlBsekNNREVVd1A?oc=5",
-    "title": "Power Shutdown in Tamil Nadu Today (18 November 2026)",
-    "title_ta": "",
-    "summary": "Power Shutdown in Tamil Nadu Today (18 November 2026)",
-    "summary_ta": "",
-    "date": "November 17, 2026"
   }
 ]
