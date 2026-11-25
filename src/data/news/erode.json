@@ -1,8 +1,20 @@
 [
   {
-    "id": "ero-nov24-001",
+    "id": "ero-nov25-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0VZQVA3dVNVZnBVbmhDLUdPSURscDVKM2ZqLVlYWXJMSHBVS0ZrSGUydlc3b0hlaWJ6YmtSX21uVUJldkxWdzg3cU5SMjRBdmtWUFVva2xVT1RaTEtWWkVuRW0zVTUyenZVZVZjOWxZSktwLXc0WHhhdlRhNnBhSTVVTE9DWS1IUnNlcVh1Tkw3VnpNblpDTDV4RWZGQk1aOGdHOXZXRUN3ZUZBRExMRlM2a9IBugFBVV95cUxPeUhzZG1WbWdfTHJxbVVDeDdrOWd4TV9QN2NHemx4QURMNW56ajVhYUhLZG1vdHpmSUlHUURuLW9EZDZvTy1FRFV2Z1N4eXNMMEdSNTBnOFVyUU5zWHlDVnY0VEVlMTgtbFFTaGdTcENzTnM0ZVpxV1huNnc4ZHltX2hhenVEMVhXVUE4LWNrRmc1X3ZPY0RDWFNkZTBZTF9ZXzF3cmpKX3lOX0E2OVlhUkpLU1RJSktSbkE?oc=5",
+    "title": "Two-day philatelic exhibition begins in Erode",
+    "title_ta": "",
+    "summary": "Two-day philatelic exhibition begins in Erode",
+    "summary_ta": "",
+    "date": "November 25, 2026"
+  },
+  {
+    "id": "ero-nov24-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMHE0My0wWlpPbHY3YkZfVHoyTFBVT215Y0o1bTFjV01ObnI4Smd5blloTXAtVjJfOUY0MExjYy1ZMFFrQ2hYZzFDcVZsVkNlc2s3MUFqMS11c2s2Y3l5RHFQVjFmNFZfUkZPdjFNdTdCV214eVJ2UGhCVENwNnBLcDRyVFo4R2NKSldwQ0N0LXFiSzQwWi1IeUQ5bXE4dmpfMEFqb2N1dlc0NllVWmNscWFKNGc5ZmcxbGZvSVctQ3ZwX1ozQ3ozWHZHT0pRblNGX1RudElOVVpPcDFvNFJRX25vamw1TnFoSFRrUGlHOG1BN2NsQjFBbXhtSHNDcDN20gGGAkFVX3lxTE4xQmxVV2l6ZUJWbG1XT1FPUkpxcTdNcUlmakhuQTIxTVdvMWsxWHZUM3NjWE1LSy1ob1QyR3FiTHNPUVpjZlJKSnFFWXhQUHVLTnNJM3dGU1JXUUUwLXZZMURocmNfem1ucDg4a1NNNkx0VXBlbXh3VHZueUl0NVZzWnpWTjkxM2o4dHZ1eTF3dkRNZmVMZm9uUmJaU0tyampJbFdaSEFJV2RxRjktTVIydHNzbTlYT3U2UF9FckltTGFmOVhYSjh0eEluRDBxcVgwMjU4cGdIN3pEMmxmTmd2TWVNaGlxNVNVc1ZEbFdyeUJ0YmpkaC1SN3NHemVWTjB2WXpLZEE?oc=5",
     "title": "Man held for damaging two Karunanidhi statues, glass panels of DMK library and office in Erode",
@@ -46,17 +58,5 @@
     "summary": "Pregnant woman dies of suspected dengue in Erode district",
     "summary_ta": "",
     "date": "November 20, 2026"
-  },
-  {
-    "id": "ero-nov18-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVlRBZjQ0bmxUTHM1VHJ4NUFwTk1WVnFjYlJyYmJfU25PTkM3QlRKU2dfekQ5SmNfa01jbFcxUktiSS1RNi1TTUViSlByajdwM0Q4aWxrWFJ1VEJsZ0NvNFpPS3I4bU1pc1ZKUk5HcW5HY0RtSFFrSk53N3Jqd3NyRlYtUGpJTVFfbkdvTXNwRTRVS2UyUzYwSlNMcjZwZ2NUTkViU0hvQjJlbTdKaWVQeHM1R3lENkd4UDB4bGQwbVlVSHNxem96dy1ZSS1iQWZPS2N3V0FZNXZnQzBXRUFrcNIB5wFBVV95cUxNQ3dyUWZSZ1BMMTFuMmJ3Q085eDhWSzRsZXM2VzhsU0k5Z1JfbUp6Rm1ZcXQzeHFwaV9ZcGtNQjAzYUVBWUZqQ1JZSVRqMTNhLWY1eTRUTV8zdG1Jb3JYdGJxTlhObUlRRHE4OHN3RTRMaTdfQktWV0NqOTJMMEVpSVdkaDdGbS05RGFiOEVjdWRxUVBYQXZSVThwSjVHdFVYd2xtcElPRWNvcTUwYnhGMzRNemxRMzA3QVBZVTRYQklaZG41T3h4VW8xb2tyY0tPZVVDbkZiRG1uS21fb25XcmxldnB5U3M?oc=5",
-    "title": "100-bed critical care block opened at Erode Government Medical College Hospital",
-    "title_ta": "",
-    "summary": "100-bed critical care block opened at Erode Government Medical College Hospital",
-    "summary_ta": "",
-    "date": "November 18, 2026"
   }
 ]

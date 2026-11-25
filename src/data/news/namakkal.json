@@ -1,8 +1,32 @@
 [
   {
-    "id": "nam-nov22-002",
+    "id": "nam-nov25-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVhWQkJJc3h5NXpWemlDdEVxOGNQS3YwblB1YUQ1WTktT2p2bElGUEVsLXpOd0VZSWRiV29jN01fZzI1a25TbklhNzZuaGdWRnlsR0ZpYVRqZU9ISlc1RTJ5dTlBcjA1bUtkeEtoVFl6Y1pIQXBIelNUYUFZUE5jZVNOQ1hwV0c2S1dKYl9hUGJ5blJpUVZfVi1nZVgyRFVHMkoya253RjRYdnJpeUZF0gG8AUFVX3lxTE45TjQ2U2lfaENpTU9JYXBVb0w2ZDNXMzkzRUdFQ1RXb1dHMlJPMTFaTnA0cjFWd2VMVTBRY0VmMkRnT2czRHhPX2J4N3pWUHVvUkZleTlTYjFkSW1la1NvLVc4T3dKMTFwZGNIQS1hcGlDV2c2MERPSzlyZHl2ZVo3RjZabTVMM2hiUnEtMGc4LUtUc0x1SDlwcVd3RFJWendkZEVUbnM1N3ZPeGEteEdSU0lTalh0N0lmcjdv?oc=5",
+    "title": "Egg and chicken prices drop sharply in Namakkal",
+    "title_ta": "",
+    "summary": "Egg and chicken prices drop sharply in Namakkal",
+    "summary_ta": "",
+    "date": "November 25, 2026"
+  },
+  {
+    "id": "nam-nov25-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNjRvTHc5MU9FZjVuMkE1VFpHRmVuc1BPM2twYWQ4OUFMNjMzTDY4MDl6UnBJZVRzb0hqRjRCemdjcU96V21TQUZPNXRIeV9kMm9tYmxjd1lFTHYwQU9GSjM0ZGcxMFRyZ1JodXVCYXFka1Q3WXFETl9vb1FZZWNrVWFSRndSQnUzRXVyMllybHp1RGZwMDFaOE81UHBYUTd3T0FKREJtamZqeTVwNkFtOUJZVUdqWDJRSXpYNHRmQmlaQlNoLTA1RkFUQUNickpHX3lXZno0RVJOVXZiZzVpLVZvVFNYVXRHbVJjNi1GWUjSAfYBQVVfeXFMTnBQX291eVIyV1hNV1NNRFNSRGFadGhkWGRlbkhKNnpTYk9adjZQX0hRQnZyNXRHcDRPX2huX2hfenJDcUJFcndUWmljcm9NWmhiRmZDbWJfRC1vRjhoa1JlZHo3RUJlUXpucnJVWlVUc1p5NDVwVktoNFE1Z19zOHJqS3VhUmZRazVCdUFLMWluaFRqVDIwWlplNmVhdGNINW5RQXFKOFEzdWtMNTBFVmtTTEpNdWJDREs1VGtCcU1IcVRGREx2TWQ0U1hWaXBRNzhlNDVKTmw4R1p2Q1BZNlVubHZLbjl3TnVjbURWVkNOUlV6Zmt3?oc=5",
+    "title": "Egg prices crash up to 20% in India as Tamil Nadu bird flu outbreak disrupts exports; poultry farmer",
+    "title_ta": "",
+    "summary": "Egg prices crash up to 20% in India as Tamil Nadu bird flu outbreak disrupts exports; poultry farmer",
+    "summary_ta": "",
+    "date": "November 25, 2026"
+  },
+  {
+    "id": "nam-nov22-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZFdFVkhHbC1YOVBHWWFnVWFnVGNwYThteGExaHlRTTJYN0xFa3BLSlA2a3dHcEN4RUhySnNPcVlQRGNCZUNlRVJEVF9NVGQ3NGYxN0lqUVpWWHpicGVVcU9OQlNwb1dLYVlfUFJUQ05XclRDME55OG9R?oc=5",
     "title": "Namakkal Egg Price Rises by 5 Paise to 525 Paise",
