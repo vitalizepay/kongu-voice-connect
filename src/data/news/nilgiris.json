@@ -1,8 +1,20 @@
 [
   {
-    "id": "nil-nov21-001",
+    "id": "nil-nov18-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2R4ZVI2U0VSWDBnbXJiV0s1Qkl3UWpGZmYzN2xGRlhtNmdJVGhfb0QxdFVtY1dSTUJOT2x2TFRYTUVaeGxaSTg2MUNsUkFhZVJ3dGRmMXdKeGtRYm9CNEw4SkNiSy11dXVfRUJDOWk1VlJEQUZXenBLVjd6UmQwTjMtbGRfSUVXeTRqcWxyXzZvZmQ0?oc=5",
+    "title": "Nilgiris Sees First Ground Frost of Season, Ooty Temperature Drops",
+    "title_ta": "",
+    "summary": "Nilgiris Sees First Ground Frost of Season, Ooty Temperature Drops",
+    "summary_ta": "",
+    "date": "November 18, 2026"
+  },
+  {
+    "id": "nil-nov21-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOU9ITzdpVzBVdmZmcWppZ2NuTXlrT01INDJRYl9aNWgwMFJsbHhLUC0wQzhfaURiMUNiRElCTDVLTFA4WjdaTzYwR3Zjbm1ONENlWDZRRk1lSEc1ckd6S2VFN3lXeUlQMTlBOGk4QjRWNnI0RUttb1pnaGkxLXoybnF4bkVPdURzZi1iYm92LWphWVFoYnFjeU9sOVk0NEFOOFMwMExkdlpOZlNzWVlyM0ctblJYNGZlUFBQeDFqTlZlRV830gHKAUFVX3lxTE44REh0U05QcDdFYmFTTDZYbHA3d0xuVGQ2VV9mWXA2aHMtd0trM3lOQW1VZzFWdkRCZ0dnYXpmNFRacFZtdWFucG16RHhDelk5M2NVMFpaRUFMcFJMRU1WV21XNFBSelBEZGNONlluUG1ubUpCLXFKbEJsc1hzdjlSTVZYTUZWbVdMakhhaWJTQkhxbTA1c2V4NkNpTzlYanNTNEppN2RHaTNLZXNUTEJ5U0ZaanZINkIyR3dNQ3k3NFc1X2NoQzJVbXc?oc=5",
     "title": "Cold Wave Grips Nilgiris: Mercury Drops to 4.4 Degree in Ooty",
@@ -46,53 +58,5 @@
     "summary": "Ooty Turns White as Nilgiris Records First Ground Frost on Nov 18: How Have Frost Dates Shifted?",
     "summary_ta": "",
     "date": "November 19, 2026"
-  },
-  {
-    "id": "nil-nov18-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamd6WWI5TjY4bHFpLVFwTzFRYk5LQy1JS0RfUEIya09MRU8xam54MmNHMXhPZm9UNFIzYWV5RFBEQWlXaEpSeGJYUlBOWF84UWJ2V0RjQXdJUk9nckNIVVZ4dmdxa3d5dzVZbGhKdHBCb1NiY2hURjBkMlBrUHhhdTFqUDgtS2ozTjB4WmwtSTVaQ1NvR20wWFpkdmlpTldCZHc?oc=5",
-    "title": "Severe frost hits Ooty, minimum temperature drops to 5.9 degrees Celsius",
-    "title_ta": "",
-    "summary": "Severe frost hits Ooty, minimum temperature drops to 5.9 degrees Celsius",
-    "summary_ta": "",
-    "date": "November 18, 2026"
-  },
-  {
-    "id": "nil-nov18-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxPd2twVjhUdVN0NVNtNWRUT3YtME5hbTBlZFgteHJxUmRSUDNla3ZPLXpiejR3Y1BCVVpGOXNuUXFGd2czWFZsZ0g3Vm5yLUp6WG1nZGtsTnBUNlVhY2tfRzJEa1hMX21qMzBKa3VYUWJsUFRVenllVldCX2VUdWs2eGt3bm5MdFVCc25MbHBXTVpLQWlUQ1BtVWk1M0daTEQ2SE5NY0R4N3FCZEdNSDU4cldib3VfTTFoVDloLVMxU1E2c0RBQzVLeFpzVDM3YWR1cnNLbmlHaWRaM09ZLVRCaDB4Y09ia1pJZlBZWjh5NzI1TGx3TGpRR1dJSzFTVVVFbXRQSDE4VEhxY3ZWN2ZlWFhfUEhVT0ZJX045MWN3RjlOekhLSS1yb2VrbXFpTEEtcGNmb1h5bmg2X05hdGNrWmFsSkNtN25HNlNfaUVWbFRoUHV2Z2tHUHhiek9kdl81RjJDdnRKUmE5TE41NzdGU1V0dE5yWXNFUC1uREZEVkF5RE94OUFWREViX1U4Ry1YM0hqa1ZSTTN3SWNJTG1ibTduN0tpeGFMM2F3c2ZsOG9ral8wQ3g1aDZ3NXhtN2k1NzhEdmxEQnNwMzVoSW03bEFjZ01pTUVhZ2ZFTmpTMHE2cGxIbWI2X3JHUkhWb0JmY25DVll2aUJlalpUYzNZemFkS29FcXhGQ0dsbkVsd3p6RFh6OTFXbXZ3VUVqUnpQS3BVTG1UNGlHam9U?oc=5",
-    "title": "সচরাচর বছরের এই সময়ে এমনটা দেখা যায় না #Nilgiri #Ooty #Taminadu #wintermood [Nilgiri Hills, Ooty w",
-    "title_ta": "",
-    "summary": "সচরাচর বছরের এই সময়ে এমনটা দেখা যায় না #Nilgiri #Ooty #Taminadu #wintermood [Nilgiri Hills, Ooty w",
-    "summary_ta": "",
-    "date": "November 18, 2026"
-  },
-  {
-    "id": "nil-nov18-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVZuOFFFZUVIdnAwZjNHbm5ibjk3TlZBcU52RXNkZndmdVE4Z3p1T05maUtuU3J4SGtLcExaWTU1MG10TTRxTTRReC1YZUVKaXRXYnBoOW52ZGFEaGRzN3p1ZGMxeE1kTDN1Q3h0X3ZWTTNIUjVaSEEyaVZHOEZ1MVJCS2IyMXpJc2N0cUdqd1hsOWJwZ1pMNXFlcHdHNmJOcldNMkluWGt2emRKc0NnZGRSRk9lNGRUZUdoLUhyTXJlUHBwRWtV0gHMAUFVX3lxTE5LMmR1VjAwZndrdWhnSU1TelRVTWNQcndwTFJiaWNrdEFyLU1mVUJmVkp4eTVUYUVxX3FEYUE2cWVibXNsMHRQVS1zTC13RkZVallRcEVHRFdtdkg4YXU3VW9VdXRWM0RpaThfSm9KV09FNTlKYmdMRUVpOWh4S1hMcFNHb1dDRXhpTVBFZ3hKRWpBRHBEWFhYUkVubnhaLWRmYVRsLTByamRXMjU2MDE4TS1RMDl3TEd2SHlxTkpWdnpGcC1vdzh2NWljZA?oc=5",
-    "title": "Early Arrival Of Frost In Ooty Brings Intense Cold To Nilgiris Region",
-    "title_ta": "",
-    "summary": "Early Arrival Of Frost In Ooty Brings Intense Cold To Nilgiris Region",
-    "summary_ta": "",
-    "date": "November 18, 2026"
-  },
-  {
-    "id": "nil-nov17-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdUlKZ2t6Vkt4NVdiamU4eHVDRUpxdEJyWk1leDNPU2R1dHhYajhYOHlOMWRpQVpVc1k5MlJQWHQxRW1tbkxHb1NaQTFEVEU3b0JhbEVRUUNLcWVGSkhkOHduMDUycmFzSFpFMXRZRlMwTXNKVHl1TFB4Q1RYV1RnbGVVam80NGZweFpaaWRuMDFPejVmMkdFUEk2SmVfbWw4VWlvM1I5M2J5SjFmOVBSd2JvNkZMSVhhYUtmbEIyYXJzVWJ5NGdEeFlrVGFQUkYxOV9VTVFrV2ZkZzVKbWl5eUxoUknSAeoBQVVfeXFMT1Qzd3MzY1BuRHktNW1xN21mQW9WVHI5dDJ2ZmxXY0VnRW5mZHBNOHBpaVE3TkVTZnd6MnVXakFtYzRPTmZXcVJPZkR3NElIMTg2aEtibEZuNHBGNmd6VXBmbkpiX3ZCeGZxR3kwQTBISFUyVERGTjZDX1hrb0UxUEFpbXBRVjZKRk9oMkE5LVFBNE5jTjhTa3BFRkxBZXdEVVBYb2VZZzRjSGNaRU9sWjBNQ1M1UzJqaE1mZDBHS1dvZmdkMUh5d1l4S1FyOFNtZzMxS3Jmakc5Nk5TT1hDd3dhX2h2b1lxRk9n?oc=5",
-    "title": "No Gold, Just Buffaloes: Tamil Nadu Toda Tribe's Unusual Tradition Of Marriage Gifts",
-    "title_ta": "",
-    "summary": "No Gold, Just Buffaloes: Tamil Nadu Toda Tribe's Unusual Tradition Of Marriage Gifts",
-    "summary_ta": "",
-    "date": "November 17, 2026"
   }
 ]
