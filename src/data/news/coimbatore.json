@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-nov26-005",
+    "id": "coi-nov27-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUmRrQ3ZDOFVvS1FsaXBZLWp1RVlNWUUxZTJ0U2pyX3hqMlpDOFkzUDBPRXpEcU5ld1NsM01XdEZDcVEyN3BFUmJaZHBySWZKLWMwelpaZU1yQktKRTQ5UXo4ZnJNQ2EzUTZLVVU4eWtMakR3Y3hPVVB3WmhBRnpTQW9TYkIzYVFaMXFjUlFXbHd4WklodDN1RXE1ajJoenE4T3pwOXlkQnk1NFdyVUUzbDFDMUtZOGVJcjBxZHY0dWpjQQ?oc=5",
+    "title": "Coimbatore Corporation and CREDAI launch year-long mental wellness programme for employees",
+    "title_ta": "",
+    "summary": "Coimbatore Corporation and CREDAI launch year-long mental wellness programme for employees",
+    "summary_ta": "",
+    "date": "November 27, 2026"
+  },
+  {
+    "id": "coi-nov26-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcEVFUTZhMGQzeEx4RWZ3aW9FUFFtNVprZm44bGNRckkyV3hzUjgtbWNQZFZrTjNBLVBIbExpR2ZRUVg0MDR4YzlVSHlyb1pnaFB5UU5HQlNjaDZKY0pRTmJyZUdUYnFid2NjOUp4NlpXNnhkMXJtbFcxcEhheUltZGxJTEg3MUdTT18yNG96b0JET19LaWsyUDJQWmp6dkhIdGNLZzh2elBGWF9GVnhRbHA3Tk9aTlhhblNyZi15WjJRMFlvNzlhWXl6VVdfNnNWYnlOd1REbWFtYXVhWktR?oc=5",
     "title": "BJP’s Vanathi seeks vigilance probe into alleged Rs 2300 crore loss at Coimbatore corporation",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu Power Cut On November 25: Check District-Wise Shutdown Areas In Coimbatore, Salem, Trichy",
     "summary_ta": "",
     "date": "November 24, 2026"
-  },
-  {
-    "id": "coi-nov23-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWnlqZ0FYYkNmZDVHX0xyQTdIUmlIbTdadTE5SGtRM3JjeXpaUm1mUjhTQi02V2gwYUxhOGdKOTFPWm0yOGFSemN0V1BxUmtNZkFmM0I3WnJPSVR0OG1ldXh1TXdlNVpjdWNQalFUMUxPaXU3NHdyZHBZREt2cGZOc3lwUldUTTZGb2xvVHpmSkdSMTNfQnVycTVmT29HS2lTVVBRMUx5X2lJclBuTUtoVDh3aWFBdDJZaVIxbUhwVXdOTFdRNGdZRHM2czdFZFNrN3ZWVTdVQXFVUFJyZXp5R0ZiQnVDOHl0Rmt4bnF6WUhjODVBbTNMQzVKVXJYdGw5b2NLQXVmRmtfTXVLWTBj0gGWAkFVX3lxTFBDWEIzSW5KYk9FbFhSaTU2TjhLZGpuZUZQZFFINGYtZm1KdXpweEw5S3JkdEJNbVdpUzc4aFNPYVFfRWVNZ0ZzZ0tLeHotWkVCWGtObG5WNUl3SEdza3NwZ0M0SXBGV3VLU2dEcnM5R204X21tNmx2d1dPMVBjbkw5cjZMOTBJSkIyOWMtT0wwNjh2ZVhNRkZqZS01ZndpY25paEZUczc0ZVEwTms2aTMxRThEY21mYnpMd2p4QjRNaDRCQVpaZUt0c1BxZGtESmVXWVFpeG1TeWdDVzlHOW95NWp5TnpfeGlLcVhYOW5tcVdMVXRqY1dhUmhyanBJUkdyVlNBMnBkcTVWWExWSkhpcWUzaXpn?oc=5",
-    "title": "Animal Husbandry Department steps up vigil at border checkposts in Coimbatore in view of bird flu ca",
-    "title_ta": "",
-    "summary": "Animal Husbandry Department steps up vigil at border checkposts in Coimbatore in view of bird flu ca",
-    "summary_ta": "",
-    "date": "November 23, 2026"
   }
 ]
